@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://nakamura196.github.io/morison/iiif/item/11107/manifest.json",
+    "@id": "https://nakamura196.github.io/morison/iiif/11107/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東洋文庫 / Toyo Bunko",
     "label": "Identification of the old Orissan port of Chitratala, the 'Che-li-ta-lo' of Hiuen Tsiang.Wadell, L[aurence] A[ustine].",
@@ -65,19 +65,19 @@
     "seeAlso": "https://nakamura196.github.io/morison/api/items/11107.json",
     "sequences": [
         {
-            "@id": "https://nakamura196.github.io/morison/iiif/item/11107/sequence/normal",
+            "@id": "https://nakamura196.github.io/morison/iiif/11107/sequence/normal",
             "@type": "sc:Sequence",
             "canvases": [
                 {
-                    "@id": "https://nakamura196.github.io/morison/iiif/item/11107/canvas/p1",
+                    "@id": "https://nakamura196.github.io/morison/iiif/11107/canvas/p1",
                     "@type": "sc:Canvas",
                     "height": 1,
                     "images": [
                         {
-                            "@id": "https://nakamura196.github.io/morison/iiif/item/11107/annotation/p0001-image",
+                            "@id": "https://nakamura196.github.io/morison/iiif/11107/annotation/p0001-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://nakamura196.github.io/morison/iiif/item/11107/canvas/p1",
+                            "on": "https://nakamura196.github.io/morison/iiif/11107/canvas/p1",
                             "resource": {
                                 "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0587_001.jpg",
                                 "@type": "dctypes:Image",
@@ -94,15 +94,15 @@
                     "width": 1
                 },
                 {
-                    "@id": "https://nakamura196.github.io/morison/iiif/item/11107/canvas/p2",
+                    "@id": "https://nakamura196.github.io/morison/iiif/11107/canvas/p2",
                     "@type": "sc:Canvas",
                     "height": 1,
                     "images": [
                         {
-                            "@id": "https://nakamura196.github.io/morison/iiif/item/11107/annotation/p0002-image",
+                            "@id": "https://nakamura196.github.io/morison/iiif/11107/annotation/p0002-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://nakamura196.github.io/morison/iiif/item/11107/canvas/p2",
+                            "on": "https://nakamura196.github.io/morison/iiif/11107/canvas/p2",
                             "resource": {
                                 "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0587_002.jpg",
                                 "@type": "dctypes:Image",
@@ -119,15 +119,15 @@
                     "width": 1
                 },
                 {
-                    "@id": "https://nakamura196.github.io/morison/iiif/item/11107/canvas/p3",
+                    "@id": "https://nakamura196.github.io/morison/iiif/11107/canvas/p3",
                     "@type": "sc:Canvas",
                     "height": 1,
                     "images": [
                         {
-                            "@id": "https://nakamura196.github.io/morison/iiif/item/11107/annotation/p0003-image",
+                            "@id": "https://nakamura196.github.io/morison/iiif/11107/annotation/p0003-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://nakamura196.github.io/morison/iiif/item/11107/canvas/p3",
+                            "on": "https://nakamura196.github.io/morison/iiif/11107/canvas/p3",
                             "resource": {
                                 "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0587_003.jpg",
                                 "@type": "dctypes:Image",
@@ -144,15 +144,15 @@
                     "width": 1
                 },
                 {
-                    "@id": "https://nakamura196.github.io/morison/iiif/item/11107/canvas/p4",
+                    "@id": "https://nakamura196.github.io/morison/iiif/11107/canvas/p4",
                     "@type": "sc:Canvas",
                     "height": 1,
                     "images": [
                         {
-                            "@id": "https://nakamura196.github.io/morison/iiif/item/11107/annotation/p0004-image",
+                            "@id": "https://nakamura196.github.io/morison/iiif/11107/annotation/p0004-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://nakamura196.github.io/morison/iiif/item/11107/canvas/p4",
+                            "on": "https://nakamura196.github.io/morison/iiif/11107/canvas/p4",
                             "resource": {
                                 "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0587_004.jpg",
                                 "@type": "dctypes:Image",
@@ -169,15 +169,15 @@
                     "width": 1
                 },
                 {
-                    "@id": "https://nakamura196.github.io/morison/iiif/item/11107/canvas/p5",
+                    "@id": "https://nakamura196.github.io/morison/iiif/11107/canvas/p5",
                     "@type": "sc:Canvas",
                     "height": 1,
                     "images": [
                         {
-                            "@id": "https://nakamura196.github.io/morison/iiif/item/11107/annotation/p0005-image",
+                            "@id": "https://nakamura196.github.io/morison/iiif/11107/annotation/p0005-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://nakamura196.github.io/morison/iiif/item/11107/canvas/p5",
+                            "on": "https://nakamura196.github.io/morison/iiif/11107/canvas/p5",
                             "resource": {
                                 "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0587_005.jpg",
                                 "@type": "dctypes:Image",

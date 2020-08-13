@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://nakamura196.github.io/morison/iiif/item/12771/manifest.json",
+    "@id": "https://nakamura196.github.io/morison/iiif/12771/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東洋文庫 / Toyo Bunko",
     "label": "The Archbishop of Canterbury on the opium traffic.Society for the Supression of the Opium Trade.",
@@ -110,19 +110,19 @@
     "seeAlso": "https://nakamura196.github.io/morison/api/items/12771.json",
     "sequences": [
         {
-            "@id": "https://nakamura196.github.io/morison/iiif/item/12771/sequence/normal",
+            "@id": "https://nakamura196.github.io/morison/iiif/12771/sequence/normal",
             "@type": "sc:Sequence",
             "canvases": [
                 {
-                    "@id": "https://nakamura196.github.io/morison/iiif/item/12771/canvas/p1",
+                    "@id": "https://nakamura196.github.io/morison/iiif/12771/canvas/p1",
                     "@type": "sc:Canvas",
                     "height": 1,
                     "images": [
                         {
-                            "@id": "https://nakamura196.github.io/morison/iiif/item/12771/annotation/p0001-image",
+                            "@id": "https://nakamura196.github.io/morison/iiif/12771/annotation/p0001-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://nakamura196.github.io/morison/iiif/item/12771/canvas/p1",
+                            "on": "https://nakamura196.github.io/morison/iiif/12771/canvas/p1",
                             "resource": {
                                 "@id": "http://124.33.215.236/morisonp2015/III-14/P-III-a-1620_001.jpg",
                                 "@type": "dctypes:Image",
@@ -139,15 +139,15 @@
                     "width": 1
                 },
                 {
-                    "@id": "https://nakamura196.github.io/morison/iiif/item/12771/canvas/p2",
+                    "@id": "https://nakamura196.github.io/morison/iiif/12771/canvas/p2",
                     "@type": "sc:Canvas",
                     "height": 1,
                     "images": [
                         {
-                            "@id": "https://nakamura196.github.io/morison/iiif/item/12771/annotation/p0002-image",
+                            "@id": "https://nakamura196.github.io/morison/iiif/12771/annotation/p0002-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://nakamura196.github.io/morison/iiif/item/12771/canvas/p2",
+                            "on": "https://nakamura196.github.io/morison/iiif/12771/canvas/p2",
                             "resource": {
                                 "@id": "http://124.33.215.236/morisonp2015/III-14/P-III-a-1620_002.jpg",
                                 "@type": "dctypes:Image",

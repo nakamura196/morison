@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://nakamura196.github.io/morison/iiif/item/12547/manifest.json",
+    "@id": "https://nakamura196.github.io/morison/iiif/12547/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東洋文庫 / Toyo Bunko",
     "label": "Leaflet, dated 16th January, 1906, circulating a Letter of Sir C. J. Dudgeon, Chairman, to Members of the Shanghai Branch.China Association. Shanghai Branch.",
@@ -90,19 +90,19 @@
     "seeAlso": "https://nakamura196.github.io/morison/api/items/12547.json",
     "sequences": [
         {
-            "@id": "https://nakamura196.github.io/morison/iiif/item/12547/sequence/normal",
+            "@id": "https://nakamura196.github.io/morison/iiif/12547/sequence/normal",
             "@type": "sc:Sequence",
             "canvases": [
                 {
-                    "@id": "https://nakamura196.github.io/morison/iiif/item/12547/canvas/p1",
+                    "@id": "https://nakamura196.github.io/morison/iiif/12547/canvas/p1",
                     "@type": "sc:Canvas",
                     "height": 1,
                     "images": [
                         {
-                            "@id": "https://nakamura196.github.io/morison/iiif/item/12547/annotation/p0001-image",
+                            "@id": "https://nakamura196.github.io/morison/iiif/12547/annotation/p0001-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://nakamura196.github.io/morison/iiif/item/12547/canvas/p1",
+                            "on": "https://nakamura196.github.io/morison/iiif/12547/canvas/p1",
                             "resource": {
                                 "@id": "http://124.33.215.236/morisonp2015/III-14/P-III-a-3415_001.jpg",
                                 "@type": "dctypes:Image",
@@ -119,15 +119,15 @@
                     "width": 1
                 },
                 {
-                    "@id": "https://nakamura196.github.io/morison/iiif/item/12547/canvas/p2",
+                    "@id": "https://nakamura196.github.io/morison/iiif/12547/canvas/p2",
                     "@type": "sc:Canvas",
                     "height": 1,
                     "images": [
                         {
-                            "@id": "https://nakamura196.github.io/morison/iiif/item/12547/annotation/p0002-image",
+                            "@id": "https://nakamura196.github.io/morison/iiif/12547/annotation/p0002-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://nakamura196.github.io/morison/iiif/item/12547/canvas/p2",
+                            "on": "https://nakamura196.github.io/morison/iiif/12547/canvas/p2",
                             "resource": {
                                 "@id": "http://124.33.215.236/morisonp2015/III-14/P-III-a-3415_002.jpg",
                                 "@type": "dctypes:Image",

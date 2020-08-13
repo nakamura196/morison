@@ -26,7 +26,7 @@ collection_uri = prefix + "/iiif/collection.json"
 
 output_path = "../docs/iiif/top.json"
 
-manifest_uri_prefix = prefix + "/iiif/item"
+manifest_uri_prefix = prefix + "/iiif"
 
 collection = dict()
 collection["@context"] = "http://iiif.io/api/presentation/2/context.json"

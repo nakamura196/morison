@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://nakamura196.github.io/morison/iiif/item/13181/manifest.json",
+    "@id": "https://nakamura196.github.io/morison/iiif/13181/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東洋文庫 / Toyo Bunko",
     "label": "Incubation artificielle des canards en Chine. (Extract from the Narrative of the Expedition of an American Squadron to the China Seas and Japan performed in the years 1852, 1853, 1854 by Commodore M. C. Perry.)Perry, Comm. M. C.",
@@ -100,19 +100,19 @@
     "seeAlso": "https://nakamura196.github.io/morison/api/items/13181.json",
     "sequences": [
         {
-            "@id": "https://nakamura196.github.io/morison/iiif/item/13181/sequence/normal",
+            "@id": "https://nakamura196.github.io/morison/iiif/13181/sequence/normal",
             "@type": "sc:Sequence",
             "canvases": [
                 {
-                    "@id": "https://nakamura196.github.io/morison/iiif/item/13181/canvas/p1",
+                    "@id": "https://nakamura196.github.io/morison/iiif/13181/canvas/p1",
                     "@type": "sc:Canvas",
                     "height": 1,
                     "images": [
                         {
-                            "@id": "https://nakamura196.github.io/morison/iiif/item/13181/annotation/p0001-image",
+                            "@id": "https://nakamura196.github.io/morison/iiif/13181/annotation/p0001-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://nakamura196.github.io/morison/iiif/item/13181/canvas/p1",
+                            "on": "https://nakamura196.github.io/morison/iiif/13181/canvas/p1",
                             "resource": {
                                 "@id": "http://124.33.215.236/morisonp2015/openimage/P-III-b-1044_001.jpg",
                                 "@type": "dctypes:Image",
@@ -129,15 +129,15 @@
                     "width": 1
                 },
                 {
-                    "@id": "https://nakamura196.github.io/morison/iiif/item/13181/canvas/p2",
+                    "@id": "https://nakamura196.github.io/morison/iiif/13181/canvas/p2",
                     "@type": "sc:Canvas",
                     "height": 1,
                     "images": [
                         {
-                            "@id": "https://nakamura196.github.io/morison/iiif/item/13181/annotation/p0002-image",
+                            "@id": "https://nakamura196.github.io/morison/iiif/13181/annotation/p0002-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://nakamura196.github.io/morison/iiif/item/13181/canvas/p2",
+                            "on": "https://nakamura196.github.io/morison/iiif/13181/canvas/p2",
                             "resource": {
                                 "@id": "http://124.33.215.236/morisonp2015/openimage/P-III-b-1044_002.jpg",
                                 "@type": "dctypes:Image",
@@ -154,15 +154,15 @@
                     "width": 1
                 },
                 {
-                    "@id": "https://nakamura196.github.io/morison/iiif/item/13181/canvas/p3",
+                    "@id": "https://nakamura196.github.io/morison/iiif/13181/canvas/p3",
                     "@type": "sc:Canvas",
                     "height": 1,
                     "images": [
                         {
-                            "@id": "https://nakamura196.github.io/morison/iiif/item/13181/annotation/p0003-image",
+                            "@id": "https://nakamura196.github.io/morison/iiif/13181/annotation/p0003-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://nakamura196.github.io/morison/iiif/item/13181/canvas/p3",
+                            "on": "https://nakamura196.github.io/morison/iiif/13181/canvas/p3",
                             "resource": {
                                 "@id": "http://124.33.215.236/morisonp2015/openimage/P-III-b-1044_003.jpg",
                                 "@type": "dctypes:Image",

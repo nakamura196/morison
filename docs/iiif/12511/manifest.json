@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://nakamura196.github.io/morison/iiif/item/12511/manifest.json",
+    "@id": "https://nakamura196.github.io/morison/iiif/12511/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東洋文庫 / Toyo Bunko",
     "label": "A description of the Chinese lottery known as Hua-hoey.Kynnersley, C. W. Sneyd.",
@@ -65,19 +65,19 @@
     "seeAlso": "https://nakamura196.github.io/morison/api/items/12511.json",
     "sequences": [
         {
-            "@id": "https://nakamura196.github.io/morison/iiif/item/12511/sequence/normal",
+            "@id": "https://nakamura196.github.io/morison/iiif/12511/sequence/normal",
             "@type": "sc:Sequence",
             "canvases": [
                 {
-                    "@id": "https://nakamura196.github.io/morison/iiif/item/12511/canvas/p1",
+                    "@id": "https://nakamura196.github.io/morison/iiif/12511/canvas/p1",
                     "@type": "sc:Canvas",
                     "height": 1,
                     "images": [
                         {
-                            "@id": "https://nakamura196.github.io/morison/iiif/item/12511/annotation/p0001-image",
+                            "@id": "https://nakamura196.github.io/morison/iiif/12511/annotation/p0001-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://nakamura196.github.io/morison/iiif/item/12511/canvas/p1",
+                            "on": "https://nakamura196.github.io/morison/iiif/12511/canvas/p1",
                             "resource": {
                                 "@id": "http://124.33.215.236/morisonp2015/III-14/P-III-b-0507_001.jpg",
                                 "@type": "dctypes:Image",
@@ -94,15 +94,15 @@
                     "width": 1
                 },
                 {
-                    "@id": "https://nakamura196.github.io/morison/iiif/item/12511/canvas/p2",
+                    "@id": "https://nakamura196.github.io/morison/iiif/12511/canvas/p2",
                     "@type": "sc:Canvas",
                     "height": 1,
                     "images": [
                         {
-                            "@id": "https://nakamura196.github.io/morison/iiif/item/12511/annotation/p0002-image",
+                            "@id": "https://nakamura196.github.io/morison/iiif/12511/annotation/p0002-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://nakamura196.github.io/morison/iiif/item/12511/canvas/p2",
+                            "on": "https://nakamura196.github.io/morison/iiif/12511/canvas/p2",
                             "resource": {
                                 "@id": "http://124.33.215.236/morisonp2015/III-14/P-III-b-0507_002.jpg",
                                 "@type": "dctypes:Image",
@@ -119,15 +119,15 @@
                     "width": 1
                 },
                 {
-                    "@id": "https://nakamura196.github.io/morison/iiif/item/12511/canvas/p3",
+                    "@id": "https://nakamura196.github.io/morison/iiif/12511/canvas/p3",
                     "@type": "sc:Canvas",
                     "height": 1,
                     "images": [
                         {
-                            "@id": "https://nakamura196.github.io/morison/iiif/item/12511/annotation/p0003-image",
+                            "@id": "https://nakamura196.github.io/morison/iiif/12511/annotation/p0003-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://nakamura196.github.io/morison/iiif/item/12511/canvas/p3",
+                            "on": "https://nakamura196.github.io/morison/iiif/12511/canvas/p3",
                             "resource": {
                                 "@id": "http://124.33.215.236/morisonp2015/III-14/P-III-b-0507_003.jpg",
                                 "@type": "dctypes:Image",
@@ -144,15 +144,15 @@
                     "width": 1
                 },
                 {
-                    "@id": "https://nakamura196.github.io/morison/iiif/item/12511/canvas/p4",
+                    "@id": "https://nakamura196.github.io/morison/iiif/12511/canvas/p4",
                     "@type": "sc:Canvas",
                     "height": 1,
                     "images": [
                         {
-                            "@id": "https://nakamura196.github.io/morison/iiif/item/12511/annotation/p0004-image",
+                            "@id": "https://nakamura196.github.io/morison/iiif/12511/annotation/p0004-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://nakamura196.github.io/morison/iiif/item/12511/canvas/p4",
+                            "on": "https://nakamura196.github.io/morison/iiif/12511/canvas/p4",
                             "resource": {
                                 "@id": "http://124.33.215.236/morisonp2015/III-14/P-III-b-0507_004.jpg",
                                 "@type": "dctypes:Image",
@@ -169,15 +169,15 @@
                     "width": 1
                 },
                 {
-                    "@id": "https://nakamura196.github.io/morison/iiif/item/12511/canvas/p5",
+                    "@id": "https://nakamura196.github.io/morison/iiif/12511/canvas/p5",
                     "@type": "sc:Canvas",
                     "height": 1,
                     "images": [
                         {
-                            "@id": "https://nakamura196.github.io/morison/iiif/item/12511/annotation/p0005-image",
+                            "@id": "https://nakamura196.github.io/morison/iiif/12511/annotation/p0005-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://nakamura196.github.io/morison/iiif/item/12511/canvas/p5",
+                            "on": "https://nakamura196.github.io/morison/iiif/12511/canvas/p5",
                             "resource": {
                                 "@id": "http://124.33.215.236/morisonp2015/III-14/P-III-b-0507_005.jpg",
                                 "@type": "dctypes:Image",
@@ -194,15 +194,15 @@
                     "width": 1
                 },
                 {
-                    "@id": "https://nakamura196.github.io/morison/iiif/item/12511/canvas/p6",
+                    "@id": "https://nakamura196.github.io/morison/iiif/12511/canvas/p6",
                     "@type": "sc:Canvas",
                     "height": 1,
                     "images": [
                         {
-                            "@id": "https://nakamura196.github.io/morison/iiif/item/12511/annotation/p0006-image",
+                            "@id": "https://nakamura196.github.io/morison/iiif/12511/annotation/p0006-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://nakamura196.github.io/morison/iiif/item/12511/canvas/p6",
+                            "on": "https://nakamura196.github.io/morison/iiif/12511/canvas/p6",
                             "resource": {
                                 "@id": "http://124.33.215.236/morisonp2015/III-14/P-III-b-0507_006.jpg",
                                 "@type": "dctypes:Image",
@@ -219,15 +219,15 @@
                     "width": 1
                 },
                 {
-                    "@id": "https://nakamura196.github.io/morison/iiif/item/12511/canvas/p7",
+                    "@id": "https://nakamura196.github.io/morison/iiif/12511/canvas/p7",
                     "@type": "sc:Canvas",
                     "height": 1,
                     "images": [
                         {
-                            "@id": "https://nakamura196.github.io/morison/iiif/item/12511/annotation/p0007-image",
+                            "@id": "https://nakamura196.github.io/morison/iiif/12511/annotation/p0007-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://nakamura196.github.io/morison/iiif/item/12511/canvas/p7",
+                            "on": "https://nakamura196.github.io/morison/iiif/12511/canvas/p7",
                             "resource": {
                                 "@id": "http://124.33.215.236/morisonp2015/III-14/P-III-b-0507_007.jpg",
                                 "@type": "dctypes:Image",
@@ -244,15 +244,15 @@
                     "width": 1
                 },
                 {
-                    "@id": "https://nakamura196.github.io/morison/iiif/item/12511/canvas/p8",
+                    "@id": "https://nakamura196.github.io/morison/iiif/12511/canvas/p8",
                     "@type": "sc:Canvas",
                     "height": 1,
                     "images": [
                         {
-                            "@id": "https://nakamura196.github.io/morison/iiif/item/12511/annotation/p0008-image",
+                            "@id": "https://nakamura196.github.io/morison/iiif/12511/annotation/p0008-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://nakamura196.github.io/morison/iiif/item/12511/canvas/p8",
+                            "on": "https://nakamura196.github.io/morison/iiif/12511/canvas/p8",
                             "resource": {
                                 "@id": "http://124.33.215.236/morisonp2015/III-14/P-III-b-0507_008.jpg",
                                 "@type": "dctypes:Image",
@@ -269,15 +269,15 @@
                     "width": 1
                 },
                 {
-                    "@id": "https://nakamura196.github.io/morison/iiif/item/12511/canvas/p9",
+                    "@id": "https://nakamura196.github.io/morison/iiif/12511/canvas/p9",
                     "@type": "sc:Canvas",
                     "height": 1,
                     "images": [
                         {
-                            "@id": "https://nakamura196.github.io/morison/iiif/item/12511/annotation/p0009-image",
+                            "@id": "https://nakamura196.github.io/morison/iiif/12511/annotation/p0009-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://nakamura196.github.io/morison/iiif/item/12511/canvas/p9",
+                            "on": "https://nakamura196.github.io/morison/iiif/12511/canvas/p9",
                             "resource": {
                                 "@id": "http://124.33.215.236/morisonp2015/III-14/P-III-b-0507_009.jpg",
                                 "@type": "dctypes:Image",
@@ -294,15 +294,15 @@
                     "width": 1
                 },
                 {
-                    "@id": "https://nakamura196.github.io/morison/iiif/item/12511/canvas/p10",
+                    "@id": "https://nakamura196.github.io/morison/iiif/12511/canvas/p10",
                     "@type": "sc:Canvas",
                     "height": 1,
                     "images": [
                         {
-                            "@id": "https://nakamura196.github.io/morison/iiif/item/12511/annotation/p0010-image",
+                            "@id": "https://nakamura196.github.io/morison/iiif/12511/annotation/p0010-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://nakamura196.github.io/morison/iiif/item/12511/canvas/p10",
+                            "on": "https://nakamura196.github.io/morison/iiif/12511/canvas/p10",
                             "resource": {
                                 "@id": "http://124.33.215.236/morisonp2015/III-14/P-III-b-0507_010.jpg",
                                 "@type": "dctypes:Image",
@@ -319,15 +319,15 @@
                     "width": 1
                 },
                 {
-                    "@id": "https://nakamura196.github.io/morison/iiif/item/12511/canvas/p11",
+                    "@id": "https://nakamura196.github.io/morison/iiif/12511/canvas/p11",
                     "@type": "sc:Canvas",
                     "height": 1,
                     "images": [
                         {
-                            "@id": "https://nakamura196.github.io/morison/iiif/item/12511/annotation/p0011-image",
+                            "@id": "https://nakamura196.github.io/morison/iiif/12511/annotation/p0011-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://nakamura196.github.io/morison/iiif/item/12511/canvas/p11",
+                            "on": "https://nakamura196.github.io/morison/iiif/12511/canvas/p11",
                             "resource": {
                                 "@id": "http://124.33.215.236/morisonp2015/III-14/P-III-b-0507_011.jpg",
                                 "@type": "dctypes:Image",
@@ -344,15 +344,15 @@
                     "width": 1
                 },
                 {
-                    "@id": "https://nakamura196.github.io/morison/iiif/item/12511/canvas/p12",
+                    "@id": "https://nakamura196.github.io/morison/iiif/12511/canvas/p12",
                     "@type": "sc:Canvas",
                     "height": 1,
                     "images": [
                         {
-                            "@id": "https://nakamura196.github.io/morison/iiif/item/12511/annotation/p0012-image",
+                            "@id": "https://nakamura196.github.io/morison/iiif/12511/annotation/p0012-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://nakamura196.github.io/morison/iiif/item/12511/canvas/p12",
+                            "on": "https://nakamura196.github.io/morison/iiif/12511/canvas/p12",
                             "resource": {
                                 "@id": "http://124.33.215.236/morisonp2015/III-14/P-III-b-0507_012.jpg",
                                 "@type": "dctypes:Image",
@@ -369,15 +369,15 @@
                     "width": 1
                 },
                 {
-                    "@id": "https://nakamura196.github.io/morison/iiif/item/12511/canvas/p13",
+                    "@id": "https://nakamura196.github.io/morison/iiif/12511/canvas/p13",
                     "@type": "sc:Canvas",
                     "height": 1,
                     "images": [
                         {
-                            "@id": "https://nakamura196.github.io/morison/iiif/item/12511/annotation/p0013-image",
+                            "@id": "https://nakamura196.github.io/morison/iiif/12511/annotation/p0013-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://nakamura196.github.io/morison/iiif/item/12511/canvas/p13",
+                            "on": "https://nakamura196.github.io/morison/iiif/12511/canvas/p13",
                             "resource": {
                                 "@id": "http://124.33.215.236/morisonp2015/III-14/P-III-b-0507_013.jpg",
                                 "@type": "dctypes:Image",
@@ -394,15 +394,15 @@
                     "width": 1
                 },
                 {
-                    "@id": "https://nakamura196.github.io/morison/iiif/item/12511/canvas/p14",
+                    "@id": "https://nakamura196.github.io/morison/iiif/12511/canvas/p14",
                     "@type": "sc:Canvas",
                     "height": 1,
                     "images": [
                         {
-                            "@id": "https://nakamura196.github.io/morison/iiif/item/12511/annotation/p0014-image",
+                            "@id": "https://nakamura196.github.io/morison/iiif/12511/annotation/p0014-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://nakamura196.github.io/morison/iiif/item/12511/canvas/p14",
+                            "on": "https://nakamura196.github.io/morison/iiif/12511/canvas/p14",
                             "resource": {
                                 "@id": "http://124.33.215.236/morisonp2015/III-14/P-III-b-0507_014.jpg",
                                 "@type": "dctypes:Image",
@@ -419,15 +419,15 @@
                     "width": 1
                 },
                 {
-                    "@id": "https://nakamura196.github.io/morison/iiif/item/12511/canvas/p15",
+                    "@id": "https://nakamura196.github.io/morison/iiif/12511/canvas/p15",
                     "@type": "sc:Canvas",
                     "height": 1,
                     "images": [
                         {
-                            "@id": "https://nakamura196.github.io/morison/iiif/item/12511/annotation/p0015-image",
+                            "@id": "https://nakamura196.github.io/morison/iiif/12511/annotation/p0015-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://nakamura196.github.io/morison/iiif/item/12511/canvas/p15",
+                            "on": "https://nakamura196.github.io/morison/iiif/12511/canvas/p15",
                             "resource": {
                                 "@id": "http://124.33.215.236/morisonp2015/III-14/P-III-b-0507_015.jpg",
                                 "@type": "dctypes:Image",
@@ -444,15 +444,15 @@
                     "width": 1
                 },
                 {
-                    "@id": "https://nakamura196.github.io/morison/iiif/item/12511/canvas/p16",
+                    "@id": "https://nakamura196.github.io/morison/iiif/12511/canvas/p16",
                     "@type": "sc:Canvas",
                     "height": 1,
                     "images": [
                         {
-                            "@id": "https://nakamura196.github.io/morison/iiif/item/12511/annotation/p0016-image",
+                            "@id": "https://nakamura196.github.io/morison/iiif/12511/annotation/p0016-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://nakamura196.github.io/morison/iiif/item/12511/canvas/p16",
+                            "on": "https://nakamura196.github.io/morison/iiif/12511/canvas/p16",
                             "resource": {
                                 "@id": "http://124.33.215.236/morisonp2015/III-14/P-III-b-0507_016.jpg",
                                 "@type": "dctypes:Image",
@@ -469,15 +469,15 @@
                     "width": 1
                 },
                 {
-                    "@id": "https://nakamura196.github.io/morison/iiif/item/12511/canvas/p17",
+                    "@id": "https://nakamura196.github.io/morison/iiif/12511/canvas/p17",
                     "@type": "sc:Canvas",
                     "height": 1,
                     "images": [
                         {
-                            "@id": "https://nakamura196.github.io/morison/iiif/item/12511/annotation/p0017-image",
+                            "@id": "https://nakamura196.github.io/morison/iiif/12511/annotation/p0017-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://nakamura196.github.io/morison/iiif/item/12511/canvas/p17",
+                            "on": "https://nakamura196.github.io/morison/iiif/12511/canvas/p17",
                             "resource": {
                                 "@id": "http://124.33.215.236/morisonp2015/III-14/P-III-b-0507_017.jpg",
                                 "@type": "dctypes:Image",
@@ -494,15 +494,15 @@
                     "width": 1
                 },
                 {
-                    "@id": "https://nakamura196.github.io/morison/iiif/item/12511/canvas/p18",
+                    "@id": "https://nakamura196.github.io/morison/iiif/12511/canvas/p18",
                     "@type": "sc:Canvas",
                     "height": 1,
                     "images": [
                         {
-                            "@id": "https://nakamura196.github.io/morison/iiif/item/12511/annotation/p0018-image",
+                            "@id": "https://nakamura196.github.io/morison/iiif/12511/annotation/p0018-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://nakamura196.github.io/morison/iiif/item/12511/canvas/p18",
+                            "on": "https://nakamura196.github.io/morison/iiif/12511/canvas/p18",
                             "resource": {
                                 "@id": "http://124.33.215.236/morisonp2015/III-14/P-III-b-0507_018.jpg",
                                 "@type": "dctypes:Image",
@@ -519,15 +519,15 @@
                     "width": 1
                 },
                 {
-                    "@id": "https://nakamura196.github.io/morison/iiif/item/12511/canvas/p19",
+                    "@id": "https://nakamura196.github.io/morison/iiif/12511/canvas/p19",
                     "@type": "sc:Canvas",
                     "height": 1,
                     "images": [
                         {
-                            "@id": "https://nakamura196.github.io/morison/iiif/item/12511/annotation/p0019-image",
+                            "@id": "https://nakamura196.github.io/morison/iiif/12511/annotation/p0019-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://nakamura196.github.io/morison/iiif/item/12511/canvas/p19",
+                            "on": "https://nakamura196.github.io/morison/iiif/12511/canvas/p19",
                             "resource": {
                                 "@id": "http://124.33.215.236/morisonp2015/III-14/P-III-b-0507_019.jpg",
                                 "@type": "dctypes:Image",
@@ -544,15 +544,15 @@
                     "width": 1
                 },
                 {
-                    "@id": "https://nakamura196.github.io/morison/iiif/item/12511/canvas/p20",
+                    "@id": "https://nakamura196.github.io/morison/iiif/12511/canvas/p20",
                     "@type": "sc:Canvas",
                     "height": 1,
                     "images": [
                         {
-                            "@id": "https://nakamura196.github.io/morison/iiif/item/12511/annotation/p0020-image",
+                            "@id": "https://nakamura196.github.io/morison/iiif/12511/annotation/p0020-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://nakamura196.github.io/morison/iiif/item/12511/canvas/p20",
+                            "on": "https://nakamura196.github.io/morison/iiif/12511/canvas/p20",
                             "resource": {
                                 "@id": "http://124.33.215.236/morisonp2015/III-14/P-III-b-0507_020.jpg",
                                 "@type": "dctypes:Image",
@@ -569,15 +569,15 @@
                     "width": 1
                 },
                 {
-                    "@id": "https://nakamura196.github.io/morison/iiif/item/12511/canvas/p21",
+                    "@id": "https://nakamura196.github.io/morison/iiif/12511/canvas/p21",
                     "@type": "sc:Canvas",
                     "height": 1,
                     "images": [
                         {
-                            "@id": "https://nakamura196.github.io/morison/iiif/item/12511/annotation/p0021-image",
+                            "@id": "https://nakamura196.github.io/morison/iiif/12511/annotation/p0021-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://nakamura196.github.io/morison/iiif/item/12511/canvas/p21",
+                            "on": "https://nakamura196.github.io/morison/iiif/12511/canvas/p21",
                             "resource": {
                                 "@id": "http://124.33.215.236/morisonp2015/III-14/P-III-b-0507_021.jpg",
                                 "@type": "dctypes:Image",
@@ -594,15 +594,15 @@
                     "width": 1
                 },
                 {
-                    "@id": "https://nakamura196.github.io/morison/iiif/item/12511/canvas/p22",
+                    "@id": "https://nakamura196.github.io/morison/iiif/12511/canvas/p22",
                     "@type": "sc:Canvas",
                     "height": 1,
                     "images": [
                         {
-                            "@id": "https://nakamura196.github.io/morison/iiif/item/12511/annotation/p0022-image",
+                            "@id": "https://nakamura196.github.io/morison/iiif/12511/annotation/p0022-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://nakamura196.github.io/morison/iiif/item/12511/canvas/p22",
+                            "on": "https://nakamura196.github.io/morison/iiif/12511/canvas/p22",
                             "resource": {
                                 "@id": "http://124.33.215.236/morisonp2015/III-14/P-III-b-0507_022.jpg",
                                 "@type": "dctypes:Image",
@@ -619,15 +619,15 @@
                     "width": 1
                 },
                 {
-                    "@id": "https://nakamura196.github.io/morison/iiif/item/12511/canvas/p23",
+                    "@id": "https://nakamura196.github.io/morison/iiif/12511/canvas/p23",
                     "@type": "sc:Canvas",
                     "height": 1,
                     "images": [
                         {
-                            "@id": "https://nakamura196.github.io/morison/iiif/item/12511/annotation/p0023-image",
+                            "@id": "https://nakamura196.github.io/morison/iiif/12511/annotation/p0023-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://nakamura196.github.io/morison/iiif/item/12511/canvas/p23",
+                            "on": "https://nakamura196.github.io/morison/iiif/12511/canvas/p23",
                             "resource": {
                                 "@id": "http://124.33.215.236/morisonp2015/III-14/P-III-b-0507_023.jpg",
                                 "@type": "dctypes:Image",
@@ -644,15 +644,15 @@
                     "width": 1
                 },
                 {
-                    "@id": "https://nakamura196.github.io/morison/iiif/item/12511/canvas/p24",
+                    "@id": "https://nakamura196.github.io/morison/iiif/12511/canvas/p24",
                     "@type": "sc:Canvas",
                     "height": 1,
                     "images": [
                         {
-                            "@id": "https://nakamura196.github.io/morison/iiif/item/12511/annotation/p0024-image",
+                            "@id": "https://nakamura196.github.io/morison/iiif/12511/annotation/p0024-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://nakamura196.github.io/morison/iiif/item/12511/canvas/p24",
+                            "on": "https://nakamura196.github.io/morison/iiif/12511/canvas/p24",
                             "resource": {
                                 "@id": "http://124.33.215.236/morisonp2015/III-14/P-III-b-0507_024.jpg",
                                 "@type": "dctypes:Image",
@@ -669,15 +669,15 @@
                     "width": 1
                 },
                 {
-                    "@id": "https://nakamura196.github.io/morison/iiif/item/12511/canvas/p25",
+                    "@id": "https://nakamura196.github.io/morison/iiif/12511/canvas/p25",
                     "@type": "sc:Canvas",
                     "height": 1,
                     "images": [
                         {
-                            "@id": "https://nakamura196.github.io/morison/iiif/item/12511/annotation/p0025-image",
+                            "@id": "https://nakamura196.github.io/morison/iiif/12511/annotation/p0025-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://nakamura196.github.io/morison/iiif/item/12511/canvas/p25",
+                            "on": "https://nakamura196.github.io/morison/iiif/12511/canvas/p25",
                             "resource": {
                                 "@id": "http://124.33.215.236/morisonp2015/III-14/P-III-b-0507_025.jpg",
                                 "@type": "dctypes:Image",
@@ -694,15 +694,15 @@
                     "width": 1
                 },
                 {
-                    "@id": "https://nakamura196.github.io/morison/iiif/item/12511/canvas/p26",
+                    "@id": "https://nakamura196.github.io/morison/iiif/12511/canvas/p26",
                     "@type": "sc:Canvas",
                     "height": 1,
                     "images": [
                         {
-                            "@id": "https://nakamura196.github.io/morison/iiif/item/12511/annotation/p0026-image",
+                            "@id": "https://nakamura196.github.io/morison/iiif/12511/annotation/p0026-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://nakamura196.github.io/morison/iiif/item/12511/canvas/p26",
+                            "on": "https://nakamura196.github.io/morison/iiif/12511/canvas/p26",
                             "resource": {
                                 "@id": "http://124.33.215.236/morisonp2015/III-14/P-III-b-0507_026.jpg",
                                 "@type": "dctypes:Image",

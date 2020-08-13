@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://nakamura196.github.io/morison/iiif/item/12716/manifest.json",
+    "@id": "https://nakamura196.github.io/morison/iiif/12716/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東洋文庫 / Toyo Bunko",
     "label": "Troclamation.Lyne, William.",
@@ -95,19 +95,19 @@
     "seeAlso": "https://nakamura196.github.io/morison/api/items/12716.json",
     "sequences": [
         {
-            "@id": "https://nakamura196.github.io/morison/iiif/item/12716/sequence/normal",
+            "@id": "https://nakamura196.github.io/morison/iiif/12716/sequence/normal",
             "@type": "sc:Sequence",
             "canvases": [
                 {
-                    "@id": "https://nakamura196.github.io/morison/iiif/item/12716/canvas/p1",
+                    "@id": "https://nakamura196.github.io/morison/iiif/12716/canvas/p1",
                     "@type": "sc:Canvas",
                     "height": 1,
                     "images": [
                         {
-                            "@id": "https://nakamura196.github.io/morison/iiif/item/12716/annotation/p0001-image",
+                            "@id": "https://nakamura196.github.io/morison/iiif/12716/annotation/p0001-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://nakamura196.github.io/morison/iiif/item/12716/canvas/p1",
+                            "on": "https://nakamura196.github.io/morison/iiif/12716/canvas/p1",
                             "resource": {
                                 "@id": "http://124.33.215.236/morisonp2015/III-14/P-III-c-465_001.jpg",
                                 "@type": "dctypes:Image",
