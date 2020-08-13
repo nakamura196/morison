@@ -1,0 +1,245 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12997",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1711",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "720d2fb2-d339-4f78-bd04-0acf6dddecb9",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4258.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Beijing",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Rules for the government and administration of prisons. Order No. 284 issued by the Ministry of Justice, dated 1st Dec., 1913.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "24 p. ; 23 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Peking.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=17&tg3=C&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "17. Law",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "C. Criminal Law; Prison",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Rules for the government and administration of prisons. Order No. 284 issued by the Ministry of Justice, dated 1st Dec., 1913.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:11+00:00"
+    },
+    "o:id": 12997,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46797",
+            "o:id": 46797
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46798",
+            "o:id": 46798
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46799",
+            "o:id": 46799
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46800",
+            "o:id": 46800
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46801",
+            "o:id": 46801
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46802",
+            "o:id": 46802
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46803",
+            "o:id": 46803
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46804",
+            "o:id": 46804
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46805",
+            "o:id": 46805
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46806",
+            "o:id": 46806
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46807",
+            "o:id": 46807
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46808",
+            "o:id": 46808
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46809",
+            "o:id": 46809
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46810",
+            "o:id": 46810
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46811",
+            "o:id": 46811
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:46:47+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Rules for the government and administration of prisons. Order No. 284 issued by the Ministry of Justice, dated 1st Dec., 1913.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

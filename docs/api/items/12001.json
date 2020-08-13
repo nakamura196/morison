@@ -1,0 +1,293 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12001",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-692",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "3797d676-beab-4180-9621-09e7fe2b5927",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3262.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "On the Russian & Japanese war. Critical, satirical, candid.Adams, Phelps.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "47 p. ; 19 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Adams, Phelps.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Londoon, 1904.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=H&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "H. Russo-Japanese War, 1904-05",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "On the Russian & Japanese war. Critical, satirical, candid.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:05+00:00"
+    },
+    "o:id": 12001,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33023",
+            "o:id": 33023
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33024",
+            "o:id": 33024
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33025",
+            "o:id": 33025
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33026",
+            "o:id": 33026
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33027",
+            "o:id": 33027
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33028",
+            "o:id": 33028
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33029",
+            "o:id": 33029
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33030",
+            "o:id": 33030
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33031",
+            "o:id": 33031
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33032",
+            "o:id": 33032
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33033",
+            "o:id": 33033
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33034",
+            "o:id": 33034
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33035",
+            "o:id": 33035
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33036",
+            "o:id": 33036
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33037",
+            "o:id": 33037
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33038",
+            "o:id": 33038
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33039",
+            "o:id": 33039
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33040",
+            "o:id": 33040
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33041",
+            "o:id": 33041
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33042",
+            "o:id": 33042
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33043",
+            "o:id": 33043
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33044",
+            "o:id": 33044
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33045",
+            "o:id": 33045
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33046",
+            "o:id": 33046
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33047",
+            "o:id": 33047
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33048",
+            "o:id": 33048
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33049",
+            "o:id": 33049
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:45:41+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "On the Russian & Japanese war. Critical, satirical, candid.Adams, Phelps.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

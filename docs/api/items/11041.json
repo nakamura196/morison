@@ -1,0 +1,269 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11041",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-0076",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "9f130296-f36f-46f9-8906-87d689d6c1a2",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2302.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Le Si-kiang ou fleuve de l'ouest, étude géographique et économique.Imbault-Huart, Camille Clément.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=D&tg4=b&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "D. Mountains & Rivers; Lakes & Canals",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "b. Rivers, Canals, & Lakes",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:59+00:00"
+    },
+    "o:id": 11041,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18694",
+            "o:id": 18694
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18695",
+            "o:id": 18695
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18696",
+            "o:id": 18696
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18697",
+            "o:id": 18697
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18698",
+            "o:id": 18698
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18699",
+            "o:id": 18699
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18700",
+            "o:id": 18700
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18701",
+            "o:id": 18701
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18702",
+            "o:id": 18702
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18703",
+            "o:id": 18703
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18704",
+            "o:id": 18704
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18705",
+            "o:id": 18705
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18706",
+            "o:id": 18706
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18707",
+            "o:id": 18707
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18708",
+            "o:id": 18708
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18709",
+            "o:id": 18709
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18710",
+            "o:id": 18710
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18711",
+            "o:id": 18711
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18712",
+            "o:id": 18712
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18713",
+            "o:id": 18713
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18714",
+            "o:id": 18714
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18715",
+            "o:id": 18715
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18716",
+            "o:id": 18716
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18717",
+            "o:id": 18717
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18718",
+            "o:id": 18718
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18719",
+            "o:id": 18719
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18720",
+            "o:id": 18720
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18721",
+            "o:id": 18721
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18722",
+            "o:id": 18722
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18723",
+            "o:id": 18723
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T02:10:55+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Le Si-kiang ou fleuve de l'ouest, étude géographique et économique.Imbault-Huart, Camille Clément.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

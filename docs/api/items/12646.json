@@ -1,0 +1,285 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12646",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1629",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1840",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "0a9d4bb6-68ae-4f25-8cb2-7af217209190",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3907.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Chinese affairs: Review based upon:-1) Iniquities of the opium trade with China. By A. S. Thelwall. -2) The opium crisis. By an American Merchant (King). -3) The rupture with China, and its causes. By a Resident in China. -4) The opium question. By S. Warren. -5) Brief observations respecting the pending disputes with the Chinese ... -6) Some pros and cons of the opium question. -7) The opium question as between nation and nation. By a Barrister-at-law. -8) Is the war with China a just one? By H. Hamilton Lindsay. -9) The Chinese Vindicated. By Capt. Th. H. Bullock. -10) Correspondence relating to China. 1840. 11) Additional correspondence relating to China.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "pp. 536-581 ; 21 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "1840",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=14&tg3=W2&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "14. Customs & Manners",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "W2. Opium",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Chinese affairs: Review based upon:-1) Iniquities of the opium trade with China. By A. S. Thelwall. -2) The opium crisis. By an American Merchant (King). -3) The rupture with China, and its causes. By a Resident in China. -4) The opium question. By S. Warren. -5) Brief observations respecting the pending disputes with the Chinese ... -6) Some pros and cons of the opium question. -7) The opium question as between nation and nation. By a Barrister-at-law. -8) Is the war with China a just one? By H. Hamilton Lindsay. -9) The Chinese Vindicated. By Capt. Th. H. Bullock. -10) Correspondence relating to China. 1840. 11) Additional correspondence relating to China.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:09+00:00"
+    },
+    "o:id": 12646,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42227",
+            "o:id": 42227
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42228",
+            "o:id": 42228
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42229",
+            "o:id": 42229
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42230",
+            "o:id": 42230
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42231",
+            "o:id": 42231
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42232",
+            "o:id": 42232
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42233",
+            "o:id": 42233
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42234",
+            "o:id": 42234
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42235",
+            "o:id": 42235
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42236",
+            "o:id": 42236
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42237",
+            "o:id": 42237
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42238",
+            "o:id": 42238
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42239",
+            "o:id": 42239
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42240",
+            "o:id": 42240
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42241",
+            "o:id": 42241
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42242",
+            "o:id": 42242
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42243",
+            "o:id": 42243
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42244",
+            "o:id": 42244
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42245",
+            "o:id": 42245
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42246",
+            "o:id": 42246
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42247",
+            "o:id": 42247
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42248",
+            "o:id": 42248
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42249",
+            "o:id": 42249
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42250",
+            "o:id": 42250
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42251",
+            "o:id": 42251
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:49:22+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Chinese affairs: Review based upon:-1) Iniquities of the opium trade with China. By A. S. Thelwall. -2) The opium crisis. By an American Merchant (King). -3) The rupture with China, and its causes. By a Resident in China. -4) The opium question. By S. Warren. -5) Brief observations respecting the pending disputes with the Chinese ... -6) Some pros and cons of the opium question. -7) The opium question as between nation and nation. By a Barrister-at-law. -8) Is the war with China a just one? By H. Hamilton Lindsay. -9) The Chinese Vindicated. By Capt. Th. H. Bullock. -10) Correspondence relating to China. 1840. 11) Additional correspondence relating to China.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

@@ -1,0 +1,379 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11925",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-650",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1901",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "934cd63c-e159-4f31-b509-386d9dcbc347",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3186.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Toronto",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The Boxer rising and missionary massacres in central and south Shansi, North China. With an account of a missionary band's escape to the coast.Dreyer, F. C. H.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "80 p. ; 17 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Dreyer, F. C. H.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Toronto, Ont., [1901?].",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=G&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "G. The Boxer rising, 1900-01",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "The Boxer rising and missionary massacres in central and south Shansi, North China. With an account of a missionary band\\'s escape to the coast.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:04+00:00"
+    },
+    "o:id": 11925,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31902",
+            "o:id": 31902
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31903",
+            "o:id": 31903
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31904",
+            "o:id": 31904
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31905",
+            "o:id": 31905
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31906",
+            "o:id": 31906
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31907",
+            "o:id": 31907
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31908",
+            "o:id": 31908
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31909",
+            "o:id": 31909
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31910",
+            "o:id": 31910
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31911",
+            "o:id": 31911
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31912",
+            "o:id": 31912
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31913",
+            "o:id": 31913
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31914",
+            "o:id": 31914
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31915",
+            "o:id": 31915
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31916",
+            "o:id": 31916
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31917",
+            "o:id": 31917
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31918",
+            "o:id": 31918
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31919",
+            "o:id": 31919
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31920",
+            "o:id": 31920
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31921",
+            "o:id": 31921
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31922",
+            "o:id": 31922
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31923",
+            "o:id": 31923
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31924",
+            "o:id": 31924
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31925",
+            "o:id": 31925
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31926",
+            "o:id": 31926
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31927",
+            "o:id": 31927
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31928",
+            "o:id": 31928
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31929",
+            "o:id": 31929
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31930",
+            "o:id": 31930
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31931",
+            "o:id": 31931
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31932",
+            "o:id": 31932
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31933",
+            "o:id": 31933
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31934",
+            "o:id": 31934
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31935",
+            "o:id": 31935
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31936",
+            "o:id": 31936
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31937",
+            "o:id": 31937
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31938",
+            "o:id": 31938
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31939",
+            "o:id": 31939
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31940",
+            "o:id": 31940
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31941",
+            "o:id": 31941
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31942",
+            "o:id": 31942
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31943",
+            "o:id": 31943
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31944",
+            "o:id": 31944
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31945",
+            "o:id": 31945
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:42:04+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "The Boxer rising and missionary massacres in central and south Shansi, North China. With an account of a missionary band's escape to the coast.Dreyer, F. C. H.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

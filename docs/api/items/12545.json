@@ -1,0 +1,277 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12545",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-3207",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "69e86d22-77a7-4df2-9ecc-0741cdf56df8",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3806.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Chineesche Vereenigingen.Borel, Henri.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "41 p. ; 23 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Borel, Henri.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "\\'s-Gravenhage, 1913.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=14&tg3=S&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "14. Customs & Manners",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "S. Association & Club",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Chineesche Vereenigingen.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:09+00:00"
+    },
+    "o:id": 12545,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41059",
+            "o:id": 41059
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41060",
+            "o:id": 41060
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41061",
+            "o:id": 41061
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41062",
+            "o:id": 41062
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41063",
+            "o:id": 41063
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41064",
+            "o:id": 41064
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41065",
+            "o:id": 41065
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41066",
+            "o:id": 41066
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41067",
+            "o:id": 41067
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41068",
+            "o:id": 41068
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41069",
+            "o:id": 41069
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41070",
+            "o:id": 41070
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41071",
+            "o:id": 41071
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41072",
+            "o:id": 41072
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41073",
+            "o:id": 41073
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41074",
+            "o:id": 41074
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41075",
+            "o:id": 41075
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41076",
+            "o:id": 41076
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41077",
+            "o:id": 41077
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41078",
+            "o:id": 41078
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41079",
+            "o:id": 41079
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41080",
+            "o:id": 41080
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41081",
+            "o:id": 41081
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T14:05:19+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Chineesche Vereenigingen.Borel, Henri.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

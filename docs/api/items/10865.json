@@ -1,0 +1,293 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/10865",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-0197",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "c436b82c-fd2f-4ccb-8244-ef39e70e5737",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2126.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Guide for tourists to Peking and its environs.[Mayers, William Frederick].",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=C&tg4=a&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "C. Local topography & Travels",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "a. North China",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:58+00:00"
+    },
+    "o:id": 10865,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15653",
+            "o:id": 15653
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15654",
+            "o:id": 15654
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15655",
+            "o:id": 15655
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15656",
+            "o:id": 15656
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15657",
+            "o:id": 15657
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15658",
+            "o:id": 15658
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15659",
+            "o:id": 15659
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15660",
+            "o:id": 15660
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15661",
+            "o:id": 15661
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15662",
+            "o:id": 15662
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15663",
+            "o:id": 15663
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15664",
+            "o:id": 15664
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15665",
+            "o:id": 15665
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15666",
+            "o:id": 15666
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15667",
+            "o:id": 15667
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15668",
+            "o:id": 15668
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15669",
+            "o:id": 15669
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15670",
+            "o:id": 15670
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15671",
+            "o:id": 15671
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15672",
+            "o:id": 15672
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15673",
+            "o:id": 15673
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15674",
+            "o:id": 15674
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15675",
+            "o:id": 15675
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15676",
+            "o:id": 15676
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15677",
+            "o:id": 15677
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15678",
+            "o:id": 15678
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15679",
+            "o:id": 15679
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15680",
+            "o:id": 15680
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15681",
+            "o:id": 15681
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15682",
+            "o:id": 15682
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15683",
+            "o:id": 15683
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15684",
+            "o:id": 15684
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15685",
+            "o:id": 15685
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15686",
+            "o:id": 15686
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15687",
+            "o:id": 15687
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15688",
+            "o:id": 15688
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T03:31:51+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Guide for tourists to Peking and its environs.[Mayers, William Frederick].",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

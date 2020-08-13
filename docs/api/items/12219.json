@@ -1,0 +1,271 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12219",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-2664",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "0ee74f07-a6c9-4ae2-b55b-c6fae0808977",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3480.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Rotterdam",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Verloren, maar Gevonden. Een bladzijde uit de geschiedenis der zending in China.Henzel, J.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "32 p. ; 19 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Henzel, J.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Rotterdam, 1915.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=10&tg3=E&tg4=a&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "10. Religion",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "E. Christianity",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "a. General works",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Verloren, maar Gevonden. Een bladzijde uit de geschiedenis der zending in China.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:06+00:00"
+    },
+    "o:id": 12219,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36149",
+            "o:id": 36149
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36150",
+            "o:id": 36150
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36151",
+            "o:id": 36151
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36152",
+            "o:id": 36152
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36153",
+            "o:id": 36153
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36154",
+            "o:id": 36154
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36155",
+            "o:id": 36155
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36156",
+            "o:id": 36156
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36157",
+            "o:id": 36157
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36158",
+            "o:id": 36158
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36159",
+            "o:id": 36159
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36160",
+            "o:id": 36160
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36161",
+            "o:id": 36161
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36162",
+            "o:id": 36162
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36163",
+            "o:id": 36163
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36164",
+            "o:id": 36164
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36165",
+            "o:id": 36165
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:45:13+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Verloren, maar Gevonden. Een bladzijde uit de geschiedenis der zending in China.Henzel, J.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

@@ -1,0 +1,326 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13626",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-c-373",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "13c0a21e-6725-41de-8dcb-f19c30e22757",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4887.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Tokio",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Report to the Shanghai General Chamber of Commerce on the water approaches, to Shanghai.Rijke, John de.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "53 p. ; 28 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Rijke, John de.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Tokio, 1898.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=21&tg3=D&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "21. Communication",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "D. Inland Navigation; Canals & Creeks; River Conservancy; &c.",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Report to the Shanghai General Chamber of Commerce on the water approaches, to Shanghai.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:16+00:00"
+    },
+    "o:id": 13626,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55846",
+            "o:id": 55846
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55847",
+            "o:id": 55847
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55848",
+            "o:id": 55848
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55849",
+            "o:id": 55849
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55850",
+            "o:id": 55850
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55851",
+            "o:id": 55851
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55852",
+            "o:id": 55852
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55853",
+            "o:id": 55853
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55854",
+            "o:id": 55854
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55855",
+            "o:id": 55855
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55856",
+            "o:id": 55856
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55857",
+            "o:id": 55857
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55858",
+            "o:id": 55858
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55859",
+            "o:id": 55859
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55860",
+            "o:id": 55860
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55861",
+            "o:id": 55861
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55862",
+            "o:id": 55862
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55863",
+            "o:id": 55863
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55864",
+            "o:id": 55864
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55865",
+            "o:id": 55865
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55866",
+            "o:id": 55866
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55867",
+            "o:id": 55867
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55868",
+            "o:id": 55868
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55869",
+            "o:id": 55869
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55870",
+            "o:id": 55870
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55871",
+            "o:id": 55871
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55872",
+            "o:id": 55872
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55873",
+            "o:id": 55873
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55874",
+            "o:id": 55874
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55875",
+            "o:id": 55875
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55876",
+            "o:id": 55876
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55877",
+            "o:id": 55877
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55878",
+            "o:id": 55878
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:37:46+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Report to the Shanghai General Chamber of Commerce on the water approaches, to Shanghai.Rijke, John de.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

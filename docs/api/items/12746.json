@@ -1,0 +1,305 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12746",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1557",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1854",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "e1984665-3084-4e47-954a-75a8a868964a",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4007.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The opium trade in the East. England's shame.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "25 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "1854",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=14&tg3=W2&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "14. Customs & Manners",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "W2. Opium",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "The opium trade in the East. England\\'s shame.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:10+00:00"
+    },
+    "o:id": 12746,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43381",
+            "o:id": 43381
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43382",
+            "o:id": 43382
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43383",
+            "o:id": 43383
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43384",
+            "o:id": 43384
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43385",
+            "o:id": 43385
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43386",
+            "o:id": 43386
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43387",
+            "o:id": 43387
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43388",
+            "o:id": 43388
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43389",
+            "o:id": 43389
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43390",
+            "o:id": 43390
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43391",
+            "o:id": 43391
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43392",
+            "o:id": 43392
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43393",
+            "o:id": 43393
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43394",
+            "o:id": 43394
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43395",
+            "o:id": 43395
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47751",
+            "o:id": 47751
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47752",
+            "o:id": 47752
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47753",
+            "o:id": 47753
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47754",
+            "o:id": 47754
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47755",
+            "o:id": 47755
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47756",
+            "o:id": 47756
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47757",
+            "o:id": 47757
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47758",
+            "o:id": 47758
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47759",
+            "o:id": 47759
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47760",
+            "o:id": 47760
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47761",
+            "o:id": 47761
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47762",
+            "o:id": 47762
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47763",
+            "o:id": 47763
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47764",
+            "o:id": 47764
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47765",
+            "o:id": 47765
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:32:32+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "The opium trade in the East. England's shame.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

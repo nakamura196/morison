@@ -1,0 +1,403 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11312",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-b-76",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1900",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "58c22254-87ed-4d36-bb71-2574b9fbead0",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2573.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/London",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Gordon's campaign in China.Gordon, Lieut. -Col. Charles George.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "2 v. ; 25 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Gordon, Lieut. -Col. Charles George.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "London, 1900.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=D&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "D. Modern history",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Gordon\\'s campaign in China.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:00+00:00"
+    },
+    "o:id": 11312,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22944",
+            "o:id": 22944
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22945",
+            "o:id": 22945
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22946",
+            "o:id": 22946
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22947",
+            "o:id": 22947
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22948",
+            "o:id": 22948
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22949",
+            "o:id": 22949
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22950",
+            "o:id": 22950
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22951",
+            "o:id": 22951
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22952",
+            "o:id": 22952
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22953",
+            "o:id": 22953
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22954",
+            "o:id": 22954
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22955",
+            "o:id": 22955
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22956",
+            "o:id": 22956
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22957",
+            "o:id": 22957
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22958",
+            "o:id": 22958
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22959",
+            "o:id": 22959
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22960",
+            "o:id": 22960
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22961",
+            "o:id": 22961
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22962",
+            "o:id": 22962
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22963",
+            "o:id": 22963
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22964",
+            "o:id": 22964
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22965",
+            "o:id": 22965
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22966",
+            "o:id": 22966
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22967",
+            "o:id": 22967
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22968",
+            "o:id": 22968
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26993",
+            "o:id": 26993
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26994",
+            "o:id": 26994
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26995",
+            "o:id": 26995
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26996",
+            "o:id": 26996
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26997",
+            "o:id": 26997
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26998",
+            "o:id": 26998
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26999",
+            "o:id": 26999
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27000",
+            "o:id": 27000
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27001",
+            "o:id": 27001
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27002",
+            "o:id": 27002
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27003",
+            "o:id": 27003
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27004",
+            "o:id": 27004
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27005",
+            "o:id": 27005
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27006",
+            "o:id": 27006
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27007",
+            "o:id": 27007
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27008",
+            "o:id": 27008
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27009",
+            "o:id": 27009
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27010",
+            "o:id": 27010
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27011",
+            "o:id": 27011
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27012",
+            "o:id": 27012
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27013",
+            "o:id": 27013
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27014",
+            "o:id": 27014
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27015",
+            "o:id": 27015
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27016",
+            "o:id": 27016
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27017",
+            "o:id": 27017
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T14:32:30+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Gordon's campaign in China.Gordon, Lieut. -Col. Charles George.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

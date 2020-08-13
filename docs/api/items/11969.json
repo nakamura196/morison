@@ -1,0 +1,402 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11969",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-b-1000",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1902",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "137e1fca-a9e0-40e3-bb25-bf77532217ee",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3230.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Conférence sur la Chine, faite à Fontenay-le-Comte, à M. M. les officiers du 137e régiment d'infanterie, le 15 février, 1902. (Le Chapitre II a été traité en conférence par le lieutenant Strauss). Fortenay-le-Comte.Prouteaux, capit.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "83 p. ; 25 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Prouteaux, capit.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "1902",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=G&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "G. The Boxer rising, 1900-01",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Conférence sur la Chine, faite à Fontenay-le-Comte, à M. M. les officiers du 137e régiment d\\'infanterie, le 15 février, 1902. (Le Chapitre II a été traité en conférence par le lieutenant Strauss). Fortenay-le-Comte.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:05+00:00"
+    },
+    "o:id": 11969,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32582",
+            "o:id": 32582
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32583",
+            "o:id": 32583
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32584",
+            "o:id": 32584
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32585",
+            "o:id": 32585
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32586",
+            "o:id": 32586
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32587",
+            "o:id": 32587
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32588",
+            "o:id": 32588
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32589",
+            "o:id": 32589
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32590",
+            "o:id": 32590
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32591",
+            "o:id": 32591
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32592",
+            "o:id": 32592
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32593",
+            "o:id": 32593
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32594",
+            "o:id": 32594
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32595",
+            "o:id": 32595
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32596",
+            "o:id": 32596
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32597",
+            "o:id": 32597
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32598",
+            "o:id": 32598
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32599",
+            "o:id": 32599
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32600",
+            "o:id": 32600
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32601",
+            "o:id": 32601
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32602",
+            "o:id": 32602
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32603",
+            "o:id": 32603
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32604",
+            "o:id": 32604
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32605",
+            "o:id": 32605
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32606",
+            "o:id": 32606
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32607",
+            "o:id": 32607
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32608",
+            "o:id": 32608
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32609",
+            "o:id": 32609
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32610",
+            "o:id": 32610
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32611",
+            "o:id": 32611
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32612",
+            "o:id": 32612
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32613",
+            "o:id": 32613
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32614",
+            "o:id": 32614
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32615",
+            "o:id": 32615
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32616",
+            "o:id": 32616
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32617",
+            "o:id": 32617
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32618",
+            "o:id": 32618
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32619",
+            "o:id": 32619
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32620",
+            "o:id": 32620
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32621",
+            "o:id": 32621
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32622",
+            "o:id": 32622
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32623",
+            "o:id": 32623
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32624",
+            "o:id": 32624
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32625",
+            "o:id": 32625
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32626",
+            "o:id": 32626
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32627",
+            "o:id": 32627
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32628",
+            "o:id": 32628
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32629",
+            "o:id": 32629
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32630",
+            "o:id": 32630
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32631",
+            "o:id": 32631
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32632",
+            "o:id": 32632
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32633",
+            "o:id": 32633
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:48:04+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Conférence sur la Chine, faite à Fontenay-le-Comte, à M. M. les officiers du 137e régiment d'infanterie, le 15 février, 1902. (Le Chapitre II a été traité en conférence par le lieutenant Strauss). Fortenay-le-Comte.Prouteaux, capit.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

@@ -1,0 +1,254 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12751",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-2268",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "0608efaf-60bd-4a01-87a3-149c41ae4cf5",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4012.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/London",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Our opium trade with China. 12. thousand.Ormerod, W. E.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "18 p. ; 19 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Ormerod, W. E.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "London.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=14&tg3=W2&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "14. Customs & Manners",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "W2. Opium",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Our opium trade with China. 12. thousand.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:10+00:00"
+    },
+    "o:id": 12751,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43472",
+            "o:id": 43472
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43473",
+            "o:id": 43473
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43474",
+            "o:id": 43474
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43475",
+            "o:id": 43475
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43476",
+            "o:id": 43476
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43477",
+            "o:id": 43477
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43478",
+            "o:id": 43478
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43479",
+            "o:id": 43479
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43480",
+            "o:id": 43480
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43481",
+            "o:id": 43481
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43482",
+            "o:id": 43482
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43483",
+            "o:id": 43483
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43484",
+            "o:id": 43484
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43485",
+            "o:id": 43485
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43486",
+            "o:id": 43486
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:32:25+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Our opium trade with China. 12. thousand.Ormerod, W. E.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

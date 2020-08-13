@@ -1,0 +1,200 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/morison/iiif/item/13489/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東洋文庫 / Toyo Bunko",
+    "label": "Chinese carriers, terrestrial travelling for celestials.Smart, Harry C.",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "metadata": [
+        {
+            "label": "Call Number",
+            "term": "dcndl:callNumber",
+            "value": "P-III-a-2144"
+        },
+        {
+            "label": "Identifier",
+            "term": "dcterms:identifier",
+            "value": "604a7311-2f62-4dc3-a122-9d8507f5e1da"
+        },
+        {
+            "label": "Is Part Of",
+            "term": "dcterms:isPartOf",
+            "value": "http://124.33.215.236/morisonp2015/morisonpocr4750.php"
+        },
+        {
+            "label": "Publisher",
+            "term": "dcterms:publisher",
+            "value": "モリソンパンフレット画像データベース"
+        },
+        {
+            "label": "Rights",
+            "term": "dcterms:rights",
+            "value": "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+            "label": "Title",
+            "term": "dcterms:title",
+            "value": "Chinese carriers, terrestrial travelling for celestials.Smart, Harry C."
+        },
+        {
+            "label": "形態的記述",
+            "term": "ex:format",
+            "value": "Smart, Harry C."
+        },
+        {
+            "label": "heading1",
+            "term": "ex:heading1",
+            "value": "（記録なし）"
+        },
+        {
+            "label": "所蔵",
+            "term": "ex:holding",
+            "value": "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+            "label": "出版事項",
+            "term": "ex:publication",
+            "value": "pp. 235-238 ; 24 cm."
+        },
+        {
+            "label": "引用元",
+            "term": "ex:references",
+            "value": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=21&tg3=A&tg4=&tg5="
+        },
+        {
+            "label": "分類1",
+            "term": "ex:tag1",
+            "value": "III. CHINA"
+        },
+        {
+            "label": "分類2",
+            "term": "ex:tag2",
+            "value": "21. Communication"
+        },
+        {
+            "label": "分類3",
+            "term": "ex:tag3",
+            "value": "A. General"
+        },
+        {
+            "label": "タイトル責任表示",
+            "term": "ex:title",
+            "value": "Chinese carriers, terrestrial travelling for celestials."
+        },
+        {
+            "label": "attributionLabel",
+            "term": "sc:attributionLabel",
+            "value": "東洋文庫 / Toyo Bunko"
+        }
+    ],
+    "seeAlso": "https://nakamura196.github.io/morison/api/items/13489.json",
+    "sequences": [
+        {
+            "@id": "https://nakamura196.github.io/morison/iiif/item/13489/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/13489/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/13489/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/13489/canvas/p1",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/openimage_fc/P-III-a-2144_001.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/openimage_fc/P-III-a-2144_001.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/13489/canvas/p2",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/13489/annotation/p0002-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/13489/canvas/p2",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/openimage_fc/P-III-a-2144_002.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[2]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/openimage_fc/P-III-a-2144_002.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/13489/canvas/p3",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/13489/annotation/p0003-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/13489/canvas/p3",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/openimage_fc/P-III-a-2144_003.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[3]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/openimage_fc/P-III-a-2144_003.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/13489/canvas/p4",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/13489/annotation/p0004-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/13489/canvas/p4",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/openimage_fc/P-III-a-2144_004.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[4]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/openimage_fc/P-III-a-2144_004.jpg"
+                    },
+                    "width": 1
+                }
+            ]
+        }
+    ],
+    "thumbnail": "http://124.33.215.236/morisonp2015/openimage_fc/P-III-a-2144_001.jpg"
+}

@@ -1,0 +1,269 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/10870",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-b-0006",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "0849b8a4-cfce-40bd-bb6e-386da6861214",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2131.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Notice descriptive et statistique du Tché-li (Takou-Pékin-Chan-hai-kovan).",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=C&tg4=a&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "C. Local topography & Travels",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "a. North China",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:58+00:00"
+    },
+    "o:id": 10870,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15791",
+            "o:id": 15791
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15792",
+            "o:id": 15792
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15793",
+            "o:id": 15793
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15794",
+            "o:id": 15794
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15795",
+            "o:id": 15795
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15796",
+            "o:id": 15796
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15797",
+            "o:id": 15797
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15798",
+            "o:id": 15798
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15799",
+            "o:id": 15799
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15800",
+            "o:id": 15800
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15801",
+            "o:id": 15801
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15802",
+            "o:id": 15802
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15803",
+            "o:id": 15803
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15804",
+            "o:id": 15804
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15805",
+            "o:id": 15805
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15806",
+            "o:id": 15806
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15807",
+            "o:id": 15807
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15808",
+            "o:id": 15808
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15809",
+            "o:id": 15809
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15810",
+            "o:id": 15810
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15811",
+            "o:id": 15811
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15812",
+            "o:id": 15812
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15813",
+            "o:id": 15813
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15814",
+            "o:id": 15814
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15815",
+            "o:id": 15815
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15816",
+            "o:id": 15816
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15817",
+            "o:id": 15817
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15818",
+            "o:id": 15818
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15819",
+            "o:id": 15819
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15820",
+            "o:id": 15820
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T01:32:57+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Notice descriptive et statistique du Tché-li (Takou-Pékin-Chan-hai-kovan).",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

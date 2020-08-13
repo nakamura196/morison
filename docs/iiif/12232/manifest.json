@@ -1,0 +1,485 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/morison/iiif/item/12232/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東洋文庫 / Toyo Bunko",
+    "label": "Catalogue des livres imprimés à Ho-kien-fou. Juillet 1915.Mission Catholique du Tcheu-li, Sudest.",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "metadata": [
+        {
+            "label": "Call Number",
+            "term": "dcndl:callNumber",
+            "value": "P-III-a-2474"
+        },
+        {
+            "label": "Date",
+            "term": "dcterms:date",
+            "value": "1915"
+        },
+        {
+            "label": "Identifier",
+            "term": "dcterms:identifier",
+            "value": "5056a4c3-ebde-44e4-b2b0-1d356a1742c4"
+        },
+        {
+            "label": "Is Part Of",
+            "term": "dcterms:isPartOf",
+            "value": "http://124.33.215.236/morisonp2015/morisonpocr3493.php"
+        },
+        {
+            "label": "Publisher",
+            "term": "dcterms:publisher",
+            "value": "モリソンパンフレット画像データベース"
+        },
+        {
+            "label": "Rights",
+            "term": "dcterms:rights",
+            "value": "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+            "label": "Title",
+            "term": "dcterms:title",
+            "value": "Catalogue des livres imprimés à Ho-kien-fou. Juillet 1915.Mission Catholique du Tcheu-li, Sudest."
+        },
+        {
+            "label": "形態的記述",
+            "term": "ex:format",
+            "value": "23 p. ; 16 cm."
+        },
+        {
+            "label": "heading1",
+            "term": "ex:heading1",
+            "value": "Mission Catholique du Tcheu-li, Sudest."
+        },
+        {
+            "label": "所蔵",
+            "term": "ex:holding",
+            "value": "（記録なし）"
+        },
+        {
+            "label": "出版事項",
+            "term": "ex:publication",
+            "value": "1915"
+        },
+        {
+            "label": "引用元",
+            "term": "ex:references",
+            "value": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=10&tg3=E&tg4=a&tg5="
+        },
+        {
+            "label": "分類1",
+            "term": "ex:tag1",
+            "value": "III. CHINA"
+        },
+        {
+            "label": "分類2",
+            "term": "ex:tag2",
+            "value": "10. Religion"
+        },
+        {
+            "label": "分類3",
+            "term": "ex:tag3",
+            "value": "E. Christianity"
+        },
+        {
+            "label": "分類4",
+            "term": "ex:tag4",
+            "value": "a. General works"
+        },
+        {
+            "label": "タイトル責任表示",
+            "term": "ex:title",
+            "value": "Catalogue des livres imprimés à Ho-kien-fou. Juillet 1915."
+        },
+        {
+            "label": "attributionLabel",
+            "term": "sc:attributionLabel",
+            "value": "東洋文庫 / Toyo Bunko"
+        }
+    ],
+    "seeAlso": "https://nakamura196.github.io/morison/api/items/12232.json",
+    "sequences": [
+        {
+            "@id": "https://nakamura196.github.io/morison/iiif/item/12232/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/12232/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/12232/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/12232/canvas/p1",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/10ReligionAEc/P-III-a-2474_001.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/10ReligionAEc/P-III-a-2474_001.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/12232/canvas/p2",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/12232/annotation/p0002-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/12232/canvas/p2",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/10ReligionAEc/P-III-a-2474_002.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[2]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/10ReligionAEc/P-III-a-2474_002.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/12232/canvas/p3",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/12232/annotation/p0003-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/12232/canvas/p3",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/10ReligionAEc/P-III-a-2474_003.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[3]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/10ReligionAEc/P-III-a-2474_003.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/12232/canvas/p4",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/12232/annotation/p0004-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/12232/canvas/p4",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/10ReligionAEc/P-III-a-2474_004.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[4]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/10ReligionAEc/P-III-a-2474_004.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/12232/canvas/p5",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/12232/annotation/p0005-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/12232/canvas/p5",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/10ReligionAEc/P-III-a-2474_005.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[5]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/10ReligionAEc/P-III-a-2474_005.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/12232/canvas/p6",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/12232/annotation/p0006-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/12232/canvas/p6",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/10ReligionAEc/P-III-a-2474_006.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[6]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/10ReligionAEc/P-III-a-2474_006.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/12232/canvas/p7",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/12232/annotation/p0007-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/12232/canvas/p7",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/10ReligionAEc/P-III-a-2474_007.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[7]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/10ReligionAEc/P-III-a-2474_007.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/12232/canvas/p8",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/12232/annotation/p0008-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/12232/canvas/p8",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/10ReligionAEc/P-III-a-2474_008.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[8]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/10ReligionAEc/P-III-a-2474_008.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/12232/canvas/p9",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/12232/annotation/p0009-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/12232/canvas/p9",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/10ReligionAEc/P-III-a-2474_009.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[9]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/10ReligionAEc/P-III-a-2474_009.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/12232/canvas/p10",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/12232/annotation/p0010-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/12232/canvas/p10",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/10ReligionAEc/P-III-a-2474_010.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[10]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/10ReligionAEc/P-III-a-2474_010.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/12232/canvas/p11",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/12232/annotation/p0011-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/12232/canvas/p11",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/10ReligionAEc/P-III-a-2474_011.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[11]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/10ReligionAEc/P-III-a-2474_011.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/12232/canvas/p12",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/12232/annotation/p0012-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/12232/canvas/p12",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/10ReligionAEc/P-III-a-2474_012.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[12]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/10ReligionAEc/P-III-a-2474_012.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/12232/canvas/p13",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/12232/annotation/p0013-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/12232/canvas/p13",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/10ReligionAEc/P-III-a-2474_013.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[13]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/10ReligionAEc/P-III-a-2474_013.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/12232/canvas/p14",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/12232/annotation/p0014-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/12232/canvas/p14",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/10ReligionAEc/P-III-a-2474_014.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[14]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/10ReligionAEc/P-III-a-2474_014.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/12232/canvas/p15",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/12232/annotation/p0015-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/12232/canvas/p15",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/10ReligionAEc/P-III-a-2474_015.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[15]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/10ReligionAEc/P-III-a-2474_015.jpg"
+                    },
+                    "width": 1
+                }
+            ]
+        }
+    ],
+    "thumbnail": "http://124.33.215.236/morisonp2015/10ReligionAEc/P-III-a-2474_001.jpg"
+}

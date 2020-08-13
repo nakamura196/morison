@@ -1,0 +1,265 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/10927",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-0242",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "b720b3bf-4622-4d06-904f-25c3e7a650fe",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2188.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Guide to Shanghai issued by the Astor House.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=C&tg4=b&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "C. Local topography & Travels",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "b. Central China",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:58+00:00"
+    },
+    "o:id": 10927,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16777",
+            "o:id": 16777
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16778",
+            "o:id": 16778
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16779",
+            "o:id": 16779
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16780",
+            "o:id": 16780
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16781",
+            "o:id": 16781
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16782",
+            "o:id": 16782
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16783",
+            "o:id": 16783
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16784",
+            "o:id": 16784
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16785",
+            "o:id": 16785
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16786",
+            "o:id": 16786
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16787",
+            "o:id": 16787
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16788",
+            "o:id": 16788
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16789",
+            "o:id": 16789
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16790",
+            "o:id": 16790
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16791",
+            "o:id": 16791
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16792",
+            "o:id": 16792
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16793",
+            "o:id": 16793
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16794",
+            "o:id": 16794
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16795",
+            "o:id": 16795
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16796",
+            "o:id": 16796
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16797",
+            "o:id": 16797
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16798",
+            "o:id": 16798
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16799",
+            "o:id": 16799
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16800",
+            "o:id": 16800
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16801",
+            "o:id": 16801
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16802",
+            "o:id": 16802
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16803",
+            "o:id": 16803
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16804",
+            "o:id": 16804
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16805",
+            "o:id": 16805
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T03:41:49+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Guide to Shanghai issued by the Astor House.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

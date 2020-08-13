@@ -1,0 +1,359 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13369",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-c-221",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "3d77d562-4892-427d-8d7b-0f7387ffb318",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4630.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Lyon",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Rapport géneral sur l'origine, les travaux et les conclusions de la Mission Lyonnaise d'Exploration commerciale en Chine.Brenier, Henri.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "67 p. ; 27 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Brenier, Henri.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Lyon, 1897.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=20&tg3=H&tg4=c&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "20. Economy and Industry",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "H. Commerce",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "c. Foreign trade",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Rapport géneral sur l\\'origine, les travaux et les conclusions de la Mission Lyonnaise d\\'Exploration commerciale en Chine.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:14+00:00"
+    },
+    "o:id": 13369,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52180",
+            "o:id": 52180
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52181",
+            "o:id": 52181
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52182",
+            "o:id": 52182
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52183",
+            "o:id": 52183
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52184",
+            "o:id": 52184
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52185",
+            "o:id": 52185
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52186",
+            "o:id": 52186
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52187",
+            "o:id": 52187
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52188",
+            "o:id": 52188
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52189",
+            "o:id": 52189
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52190",
+            "o:id": 52190
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52191",
+            "o:id": 52191
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52192",
+            "o:id": 52192
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52193",
+            "o:id": 52193
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52194",
+            "o:id": 52194
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52195",
+            "o:id": 52195
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52196",
+            "o:id": 52196
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52197",
+            "o:id": 52197
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52198",
+            "o:id": 52198
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52199",
+            "o:id": 52199
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52200",
+            "o:id": 52200
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52201",
+            "o:id": 52201
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52202",
+            "o:id": 52202
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52203",
+            "o:id": 52203
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52204",
+            "o:id": 52204
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52205",
+            "o:id": 52205
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52206",
+            "o:id": 52206
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52207",
+            "o:id": 52207
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52208",
+            "o:id": 52208
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52209",
+            "o:id": 52209
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52210",
+            "o:id": 52210
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52211",
+            "o:id": 52211
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52212",
+            "o:id": 52212
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52213",
+            "o:id": 52213
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52214",
+            "o:id": 52214
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52215",
+            "o:id": 52215
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52216",
+            "o:id": 52216
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52217",
+            "o:id": 52217
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52218",
+            "o:id": 52218
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T14:18:53+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Rapport géneral sur l'origine, les travaux et les conclusions de la Mission Lyonnaise d'Exploration commerciale en Chine.Brenier, Henri.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

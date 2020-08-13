@@ -1,0 +1,290 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12119",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1204",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "7bc06505-15ec-4c76-b701-64d55544d7bb",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3380.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        },
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3380.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Westminster",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Chinese religion: Confucianism, Taoism, & Buddhism.Hughes, M. H.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "30 p. ; 16 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Hughes, M. H.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Westminster, 1914.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=10&tg3=A&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "10. Religion",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "A. General",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Chinese religion: Confucianism, Taoism, & Buddhism.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "ex:version": [
+        {
+            "@value": "3. ed.",
+            "is_public": true,
+            "property_id": 308,
+            "property_label": "版",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:06+00:00"
+    },
+    "o:id": 12119,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34679",
+            "o:id": 34679
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34680",
+            "o:id": 34680
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34681",
+            "o:id": 34681
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34682",
+            "o:id": 34682
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34683",
+            "o:id": 34683
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34684",
+            "o:id": 34684
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34685",
+            "o:id": 34685
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34686",
+            "o:id": 34686
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34687",
+            "o:id": 34687
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34688",
+            "o:id": 34688
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34689",
+            "o:id": 34689
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34690",
+            "o:id": 34690
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34691",
+            "o:id": 34691
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34692",
+            "o:id": 34692
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34693",
+            "o:id": 34693
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34694",
+            "o:id": 34694
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34695",
+            "o:id": 34695
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34696",
+            "o:id": 34696
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34697",
+            "o:id": 34697
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34698",
+            "o:id": 34698
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T14:11:13+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Chinese religion: Confucianism, Taoism, & Buddhism.Hughes, M. H.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

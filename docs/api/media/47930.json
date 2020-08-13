@@ -1,0 +1,42 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/media/47930",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T23:08:00+00:00"
+    },
+    "o:filename": "13069/P-III-a-1734_012.jpg",
+    "o:id": 47930,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/items/13069",
+        "o:id": 13069
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T23:08:00+00:00"
+    },
+    "o:original_url": "http://localhost:8882/d_omekas/toyo/files/original/13069/P-III-a-1734_012.jpg",
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "0626b42e896ab736b7d9cf2679a83553fc632bfd0a5c79e67a61e906227f3da1",
+    "o:size": null,
+    "o:source": "http://124.33.215.236/morisonp2015/17Law/P-III-a-1734_012.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "http://localhost:8882/d_omekas/toyo/files/large/13069/P-III-a-1734_012.jpg",
+        "medium": "http://localhost:8882/d_omekas/toyo/files/medium/13069/P-III-a-1734_012.jpg",
+        "square": "http://localhost:8882/d_omekas/toyo/files/square/13069/P-III-a-1734_012.jpg"
+    },
+    "o:title": null
+}

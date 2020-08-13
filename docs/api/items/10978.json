@@ -1,0 +1,369 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/10978",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-0284",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "5b5d90a2-433e-49ed-8217-b099502ec11b",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2239.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Register of names to the maps of the province of Canton.Loercher, F. G.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=C&tg4=c&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "C. Local topography & Travels",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "c. South China",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:58+00:00"
+    },
+    "o:id": 10978,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17630",
+            "o:id": 17630
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17631",
+            "o:id": 17631
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17632",
+            "o:id": 17632
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17633",
+            "o:id": 17633
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17634",
+            "o:id": 17634
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17635",
+            "o:id": 17635
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17636",
+            "o:id": 17636
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17637",
+            "o:id": 17637
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17638",
+            "o:id": 17638
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17639",
+            "o:id": 17639
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17640",
+            "o:id": 17640
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17641",
+            "o:id": 17641
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17642",
+            "o:id": 17642
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17643",
+            "o:id": 17643
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17644",
+            "o:id": 17644
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17645",
+            "o:id": 17645
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17646",
+            "o:id": 17646
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17647",
+            "o:id": 17647
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17648",
+            "o:id": 17648
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17649",
+            "o:id": 17649
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17650",
+            "o:id": 17650
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17651",
+            "o:id": 17651
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17652",
+            "o:id": 17652
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17653",
+            "o:id": 17653
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17654",
+            "o:id": 17654
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17655",
+            "o:id": 17655
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17656",
+            "o:id": 17656
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17657",
+            "o:id": 17657
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17658",
+            "o:id": 17658
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17659",
+            "o:id": 17659
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17660",
+            "o:id": 17660
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17661",
+            "o:id": 17661
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17662",
+            "o:id": 17662
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17663",
+            "o:id": 17663
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17664",
+            "o:id": 17664
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17665",
+            "o:id": 17665
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17666",
+            "o:id": 17666
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17667",
+            "o:id": 17667
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17668",
+            "o:id": 17668
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17669",
+            "o:id": 17669
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17670",
+            "o:id": 17670
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17671",
+            "o:id": 17671
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17672",
+            "o:id": 17672
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17673",
+            "o:id": 17673
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17674",
+            "o:id": 17674
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17675",
+            "o:id": 17675
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17676",
+            "o:id": 17676
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17677",
+            "o:id": 17677
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17678",
+            "o:id": 17678
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17679",
+            "o:id": 17679
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17680",
+            "o:id": 17680
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17681",
+            "o:id": 17681
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17682",
+            "o:id": 17682
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17683",
+            "o:id": 17683
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17684",
+            "o:id": 17684
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T00:56:05+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Register of names to the maps of the province of Canton.Loercher, F. G.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

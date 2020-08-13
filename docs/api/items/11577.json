@@ -1,0 +1,351 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11577",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-857",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1884",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "eefa6fab-9c5a-40c0-9061-b1bb6a08e7c0",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2838.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Narrative of the British wars with China from 1840 to 1860. Selection from a military report on North East, Central and South China submitted to the Quarter-Master General in India.Bell, Maj. Mark.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "pp. 19-72 ; 22 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Bell, Maj. Mark.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "1884",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=F&tg4=e&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "F. Foreign relations",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "e. Great-Britain",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Narrative of the British wars with China from 1840 to 1860. Selection from a military report on North East, Central and South China submitted to the Quarter-Master General in India.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:02+00:00"
+    },
+    "o:id": 11577,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26522",
+            "o:id": 26522
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26523",
+            "o:id": 26523
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26524",
+            "o:id": 26524
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26525",
+            "o:id": 26525
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26526",
+            "o:id": 26526
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26527",
+            "o:id": 26527
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26528",
+            "o:id": 26528
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26529",
+            "o:id": 26529
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26530",
+            "o:id": 26530
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26531",
+            "o:id": 26531
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26532",
+            "o:id": 26532
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26533",
+            "o:id": 26533
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26534",
+            "o:id": 26534
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26535",
+            "o:id": 26535
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26536",
+            "o:id": 26536
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26537",
+            "o:id": 26537
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26538",
+            "o:id": 26538
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26539",
+            "o:id": 26539
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26540",
+            "o:id": 26540
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26541",
+            "o:id": 26541
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26542",
+            "o:id": 26542
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26543",
+            "o:id": 26543
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26544",
+            "o:id": 26544
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26545",
+            "o:id": 26545
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26546",
+            "o:id": 26546
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26547",
+            "o:id": 26547
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26548",
+            "o:id": 26548
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26549",
+            "o:id": 26549
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26550",
+            "o:id": 26550
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26551",
+            "o:id": 26551
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26552",
+            "o:id": 26552
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26553",
+            "o:id": 26553
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26554",
+            "o:id": 26554
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26555",
+            "o:id": 26555
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26556",
+            "o:id": 26556
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26557",
+            "o:id": 26557
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26558",
+            "o:id": 26558
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:32:45+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Narrative of the British wars with China from 1840 to 1860. Selection from a military report on North East, Central and South China submitted to the Quarter-Master General in India.Bell, Maj. Mark.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

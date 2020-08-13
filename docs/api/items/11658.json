@@ -1,0 +1,311 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11658",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1118",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "619b0569-e468-4318-8bcf-7fbab58f35aa",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2919.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/London",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The bombardment of Canton. Six letters addressed to the editor of the \"Daily news\", by a twelve years' resident in China.[Scarth, John].",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "50 p. ; 21 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "[Scarth, John].",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "London, 1857.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=F&tg4=e&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "F. Foreign relations",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "e. Great-Britain",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "The bombardment of Canton. Six letters addressed to the editor of the \"Daily news\", by a twelve years\\' resident in China.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:03+00:00"
+    },
+    "o:id": 11658,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27923",
+            "o:id": 27923
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27924",
+            "o:id": 27924
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27925",
+            "o:id": 27925
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27926",
+            "o:id": 27926
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27927",
+            "o:id": 27927
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27928",
+            "o:id": 27928
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27929",
+            "o:id": 27929
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27930",
+            "o:id": 27930
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27931",
+            "o:id": 27931
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27932",
+            "o:id": 27932
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27933",
+            "o:id": 27933
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27934",
+            "o:id": 27934
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27935",
+            "o:id": 27935
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27936",
+            "o:id": 27936
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27937",
+            "o:id": 27937
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27938",
+            "o:id": 27938
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27939",
+            "o:id": 27939
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27940",
+            "o:id": 27940
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27941",
+            "o:id": 27941
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27942",
+            "o:id": 27942
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27943",
+            "o:id": 27943
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27944",
+            "o:id": 27944
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27945",
+            "o:id": 27945
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27946",
+            "o:id": 27946
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27947",
+            "o:id": 27947
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27948",
+            "o:id": 27948
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27949",
+            "o:id": 27949
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:59:02+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "The bombardment of Canton. Six letters addressed to the editor of the \"Daily news\", by a twelve years' resident in China.[Scarth, John].",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

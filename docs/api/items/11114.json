@@ -1,0 +1,306 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11114",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-576",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "81debcbf-b069-4e36-bdac-491063ba04b6",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2375.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Hong_Kong",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Five thousand years of John Chinaman.Ball, J[ames] Dyer.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "v, 33 p. ; 21 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Ball, J[ames] Dyer.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Hongkong, 1906.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=A&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "A. General history; Collected essays",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Five thousand years of John Chinaman.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:59+00:00"
+    },
+    "o:id": 11114,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19923",
+            "o:id": 19923
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19924",
+            "o:id": 19924
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19925",
+            "o:id": 19925
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19926",
+            "o:id": 19926
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19927",
+            "o:id": 19927
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19928",
+            "o:id": 19928
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19929",
+            "o:id": 19929
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19930",
+            "o:id": 19930
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19931",
+            "o:id": 19931
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19932",
+            "o:id": 19932
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19933",
+            "o:id": 19933
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19934",
+            "o:id": 19934
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19935",
+            "o:id": 19935
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19936",
+            "o:id": 19936
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19937",
+            "o:id": 19937
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19938",
+            "o:id": 19938
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19939",
+            "o:id": 19939
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19940",
+            "o:id": 19940
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19941",
+            "o:id": 19941
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19942",
+            "o:id": 19942
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19943",
+            "o:id": 19943
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19944",
+            "o:id": 19944
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19945",
+            "o:id": 19945
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19946",
+            "o:id": 19946
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19947",
+            "o:id": 19947
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19948",
+            "o:id": 19948
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19949",
+            "o:id": 19949
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19950",
+            "o:id": 19950
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T14:04:57+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Five thousand years of John Chinaman.Ball, J[ames] Dyer.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

@@ -1,0 +1,201 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/10872",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-0163",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "fd097369-6332-4381-ba41-5bd24c9f4792",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2133.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The province of Shantung : its trade, population and future prospects.O'S[ullivan], M[ortimer].",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=C&tg4=a&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "C. Local topography & Travels",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "a. North China",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:58+00:00"
+    },
+    "o:id": 10872,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15848",
+            "o:id": 15848
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15849",
+            "o:id": 15849
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15850",
+            "o:id": 15850
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15851",
+            "o:id": 15851
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15852",
+            "o:id": 15852
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15853",
+            "o:id": 15853
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15854",
+            "o:id": 15854
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15855",
+            "o:id": 15855
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15856",
+            "o:id": 15856
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15857",
+            "o:id": 15857
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15858",
+            "o:id": 15858
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15859",
+            "o:id": 15859
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15860",
+            "o:id": 15860
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T02:51:43+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "The province of Shantung : its trade, population and future prospects.O'S[ullivan], M[ortimer].",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

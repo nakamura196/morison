@@ -1,0 +1,302 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13300",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1957",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "ca677ca3-ac1e-4b8d-8229-2a8e88ac6715",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4561.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "end",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The Kaiping coal mine, North China. A report of Kwong Yung Kwang. Rev. & presented by J. M. Silliman.Kwang Sun-mou.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:description": [
+        {
+            "@value": "Sillman, J. M., rev.",
+            "is_public": true,
+            "property_id": 309,
+            "property_label": "内容注記",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "Kwang Sun-mou.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:heading2": [
+        {
+            "@value": "Sillman, J. M., rev.",
+            "is_public": true,
+            "property_id": 310,
+            "property_label": "heading2",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "pp. 95-108 ; 24 cm.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=20&tg3=G&tg4=i&tg5=i4",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "20. Economy and Industry",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "G. Industry",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "i. Mining industry",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:tag5": [
+        {
+            "@value": "i4. Coal",
+            "is_public": true,
+            "property_id": 297,
+            "property_label": "分類5",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "The Kaiping coal mine, North China. A report of Kwong Yung Kwang. Rev. & presented by J. M. Silliman.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:13+00:00"
+    },
+    "o:id": 13300,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51265",
+            "o:id": 51265
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51266",
+            "o:id": 51266
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51267",
+            "o:id": 51267
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51268",
+            "o:id": 51268
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51269",
+            "o:id": 51269
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51270",
+            "o:id": 51270
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51271",
+            "o:id": 51271
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51272",
+            "o:id": 51272
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51273",
+            "o:id": 51273
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51299",
+            "o:id": 51299
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51300",
+            "o:id": 51300
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51301",
+            "o:id": 51301
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51302",
+            "o:id": 51302
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51303",
+            "o:id": 51303
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51304",
+            "o:id": 51304
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51305",
+            "o:id": 51305
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51306",
+            "o:id": 51306
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51307",
+            "o:id": 51307
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:39:25+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "The Kaiping coal mine, North China. A report of Kwong Yung Kwang. Rev. & presented by J. M. Silliman.Kwang Sun-mou.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

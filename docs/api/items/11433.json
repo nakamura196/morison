@@ -1,0 +1,317 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11433",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-738",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "85846dd0-8bef-42ff-b0f5-afe587574a0a",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2694.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Pekin",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "La Révolution chinoise. Septembre 1911 - février 1912.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "58 p. ; 20 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Pékin, 1912.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=E&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "E. Recent history",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "La Révolution chinoise. Septembre 1911 - février 1912.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:01+00:00"
+    },
+    "o:id": 11433,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24526",
+            "o:id": 24526
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24527",
+            "o:id": 24527
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24528",
+            "o:id": 24528
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24529",
+            "o:id": 24529
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24530",
+            "o:id": 24530
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24531",
+            "o:id": 24531
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24532",
+            "o:id": 24532
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24533",
+            "o:id": 24533
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24534",
+            "o:id": 24534
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24535",
+            "o:id": 24535
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24536",
+            "o:id": 24536
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24537",
+            "o:id": 24537
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24538",
+            "o:id": 24538
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24539",
+            "o:id": 24539
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24540",
+            "o:id": 24540
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24541",
+            "o:id": 24541
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24542",
+            "o:id": 24542
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24543",
+            "o:id": 24543
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24544",
+            "o:id": 24544
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24545",
+            "o:id": 24545
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24546",
+            "o:id": 24546
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24547",
+            "o:id": 24547
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24548",
+            "o:id": 24548
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24549",
+            "o:id": 24549
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24550",
+            "o:id": 24550
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24551",
+            "o:id": 24551
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24552",
+            "o:id": 24552
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24553",
+            "o:id": 24553
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24554",
+            "o:id": 24554
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24555",
+            "o:id": 24555
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24556",
+            "o:id": 24556
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24557",
+            "o:id": 24557
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24558",
+            "o:id": 24558
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:58:05+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "La Révolution chinoise. Septembre 1911 - février 1912.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

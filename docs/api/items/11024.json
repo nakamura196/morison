@@ -1,0 +1,437 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11024",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-b-0023",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "15da370f-f69c-465f-8045-f7d36b359dc2",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2285.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Histoire des Princes du Yun-nan et leurs relations avec la Chine d'arès des documents historiques chinois, traduits pour la première fois.Rocher, Emile.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=C&tg4=d&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "C. Local topography & Travels",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "d. West China",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:59+00:00"
+    },
+    "o:id": 11024,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18315",
+            "o:id": 18315
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18316",
+            "o:id": 18316
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18317",
+            "o:id": 18317
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18318",
+            "o:id": 18318
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18319",
+            "o:id": 18319
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18320",
+            "o:id": 18320
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18321",
+            "o:id": 18321
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18322",
+            "o:id": 18322
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18323",
+            "o:id": 18323
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18324",
+            "o:id": 18324
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18325",
+            "o:id": 18325
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18326",
+            "o:id": 18326
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18327",
+            "o:id": 18327
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18328",
+            "o:id": 18328
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18329",
+            "o:id": 18329
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18330",
+            "o:id": 18330
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18331",
+            "o:id": 18331
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18332",
+            "o:id": 18332
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18333",
+            "o:id": 18333
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18334",
+            "o:id": 18334
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18335",
+            "o:id": 18335
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18336",
+            "o:id": 18336
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18337",
+            "o:id": 18337
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18338",
+            "o:id": 18338
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18339",
+            "o:id": 18339
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18340",
+            "o:id": 18340
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18341",
+            "o:id": 18341
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18342",
+            "o:id": 18342
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18343",
+            "o:id": 18343
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18344",
+            "o:id": 18344
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18345",
+            "o:id": 18345
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18346",
+            "o:id": 18346
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18347",
+            "o:id": 18347
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18348",
+            "o:id": 18348
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18349",
+            "o:id": 18349
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18350",
+            "o:id": 18350
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18351",
+            "o:id": 18351
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18352",
+            "o:id": 18352
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18353",
+            "o:id": 18353
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18354",
+            "o:id": 18354
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18355",
+            "o:id": 18355
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18356",
+            "o:id": 18356
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18357",
+            "o:id": 18357
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18358",
+            "o:id": 18358
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18359",
+            "o:id": 18359
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18360",
+            "o:id": 18360
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18361",
+            "o:id": 18361
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18362",
+            "o:id": 18362
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18363",
+            "o:id": 18363
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18364",
+            "o:id": 18364
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18365",
+            "o:id": 18365
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18366",
+            "o:id": 18366
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18367",
+            "o:id": 18367
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18368",
+            "o:id": 18368
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18369",
+            "o:id": 18369
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18370",
+            "o:id": 18370
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18371",
+            "o:id": 18371
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18372",
+            "o:id": 18372
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18373",
+            "o:id": 18373
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18374",
+            "o:id": 18374
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18375",
+            "o:id": 18375
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18376",
+            "o:id": 18376
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18377",
+            "o:id": 18377
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18378",
+            "o:id": 18378
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18379",
+            "o:id": 18379
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18380",
+            "o:id": 18380
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18381",
+            "o:id": 18381
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18382",
+            "o:id": 18382
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18383",
+            "o:id": 18383
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18384",
+            "o:id": 18384
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18385",
+            "o:id": 18385
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18386",
+            "o:id": 18386
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T01:13:56+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Histoire des Princes du Yun-nan et leurs relations avec la Chine d'arès des documents historiques chinois, traduits pour la première fois.Rocher, Emile.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

@@ -1,0 +1,341 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/10821",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-0136",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "871ca9ce-c212-4087-8fd7-86d836f82c5d",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2082.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Notes for tourists in the north of China.Dennys, N. B.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=C&tg4=a&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "C. Local topography & Travels",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "a. North China",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:57+00:00"
+    },
+    "o:id": 10821,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14863",
+            "o:id": 14863
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14864",
+            "o:id": 14864
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14865",
+            "o:id": 14865
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14866",
+            "o:id": 14866
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14867",
+            "o:id": 14867
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14868",
+            "o:id": 14868
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14869",
+            "o:id": 14869
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14870",
+            "o:id": 14870
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14871",
+            "o:id": 14871
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14872",
+            "o:id": 14872
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14873",
+            "o:id": 14873
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14874",
+            "o:id": 14874
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14875",
+            "o:id": 14875
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14876",
+            "o:id": 14876
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14877",
+            "o:id": 14877
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14878",
+            "o:id": 14878
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14879",
+            "o:id": 14879
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14880",
+            "o:id": 14880
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14881",
+            "o:id": 14881
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14882",
+            "o:id": 14882
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14883",
+            "o:id": 14883
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14884",
+            "o:id": 14884
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14885",
+            "o:id": 14885
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14886",
+            "o:id": 14886
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14887",
+            "o:id": 14887
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14888",
+            "o:id": 14888
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14889",
+            "o:id": 14889
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14890",
+            "o:id": 14890
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14891",
+            "o:id": 14891
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14892",
+            "o:id": 14892
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14893",
+            "o:id": 14893
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14894",
+            "o:id": 14894
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14895",
+            "o:id": 14895
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14896",
+            "o:id": 14896
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14897",
+            "o:id": 14897
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14898",
+            "o:id": 14898
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14899",
+            "o:id": 14899
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14900",
+            "o:id": 14900
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14901",
+            "o:id": 14901
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14902",
+            "o:id": 14902
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14903",
+            "o:id": 14903
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14904",
+            "o:id": 14904
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14905",
+            "o:id": 14905
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14906",
+            "o:id": 14906
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14907",
+            "o:id": 14907
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14908",
+            "o:id": 14908
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14909",
+            "o:id": 14909
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14910",
+            "o:id": 14910
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T03:42:55+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Notes for tourists in the north of China.Dennys, N. B.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

@@ -1,0 +1,261 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11212",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-2541",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "050c6b83-0cdd-4a18-bc2c-ba9555f2610e",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2473.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "China and the War. Review based on: -1. Narrative of the Earl of Elgin's mission to China and Japan.By L. Oliphant. London, 1859. -2. The Chinese and their rebellions. By T. T. Meadows. London, 1856. -3. Translations of Chinese papers, &c. By T. Wade. -4. China: a general description of that empire and its Inhabitants. By Sir J. F. Davis.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "pp. 85-118 ; 21 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "pp. 85-118 ; 21 cm.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=D&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "D. Modern history",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "China and the War. Review based on: -1. Narrative of the Earl of Elgin\\'s mission to China and Japan.By L. Oliphant. London, 1859. -2. The Chinese and their rebellions. By T. T. Meadows. London, 1856. -3. Translations of Chinese papers, &c. By T. Wade. -4. China: a general description of that empire and its Inhabitants. By Sir J. F. Davis.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:00+00:00"
+    },
+    "o:id": 11212,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21617",
+            "o:id": 21617
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21618",
+            "o:id": 21618
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21619",
+            "o:id": 21619
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21620",
+            "o:id": 21620
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21621",
+            "o:id": 21621
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21622",
+            "o:id": 21622
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21623",
+            "o:id": 21623
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21624",
+            "o:id": 21624
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21625",
+            "o:id": 21625
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21626",
+            "o:id": 21626
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21627",
+            "o:id": 21627
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21628",
+            "o:id": 21628
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21629",
+            "o:id": 21629
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21630",
+            "o:id": 21630
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21631",
+            "o:id": 21631
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21632",
+            "o:id": 21632
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21633",
+            "o:id": 21633
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21634",
+            "o:id": 21634
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21635",
+            "o:id": 21635
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:32:14+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "China and the War. Review based on: -1. Narrative of the Earl of Elgin's mission to China and Japan.By L. Oliphant. London, 1859. -2. The Chinese and their rebellions. By T. T. Meadows. London, 1856. -3. Translations of Chinese papers, &c. By T. Wade. -4. China: a general description of that empire and its Inhabitants. By Sir J. F. Davis.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

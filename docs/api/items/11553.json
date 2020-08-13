@@ -1,0 +1,390 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11553",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-c-136",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "3ce71806-67cc-4c2e-ba50-b182e2ab9abe",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2814.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Shanghai",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Treaties, etc., Great Britain, France, America, Russia, the Netherlands and Portugal with China and Japan.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "93 p. ; 30 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Shanghai, 1861.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=F&tg4=a&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "F. Foreign relations",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "a. General history of foreign relations with China",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Treaties, etc., Great Britain, France, America, Russia, the Netherlands and Portugal with China and Japan.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:02+00:00"
+    },
+    "o:id": 11553,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26182",
+            "o:id": 26182
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26183",
+            "o:id": 26183
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26184",
+            "o:id": 26184
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26185",
+            "o:id": 26185
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26186",
+            "o:id": 26186
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26187",
+            "o:id": 26187
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26188",
+            "o:id": 26188
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26189",
+            "o:id": 26189
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26190",
+            "o:id": 26190
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26191",
+            "o:id": 26191
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26192",
+            "o:id": 26192
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26193",
+            "o:id": 26193
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26194",
+            "o:id": 26194
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26195",
+            "o:id": 26195
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26196",
+            "o:id": 26196
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26197",
+            "o:id": 26197
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26198",
+            "o:id": 26198
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26199",
+            "o:id": 26199
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26200",
+            "o:id": 26200
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26201",
+            "o:id": 26201
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26202",
+            "o:id": 26202
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26203",
+            "o:id": 26203
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26204",
+            "o:id": 26204
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26205",
+            "o:id": 26205
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26206",
+            "o:id": 26206
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26207",
+            "o:id": 26207
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26208",
+            "o:id": 26208
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26209",
+            "o:id": 26209
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26210",
+            "o:id": 26210
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26211",
+            "o:id": 26211
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26212",
+            "o:id": 26212
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26213",
+            "o:id": 26213
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26214",
+            "o:id": 26214
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26215",
+            "o:id": 26215
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26216",
+            "o:id": 26216
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26217",
+            "o:id": 26217
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26218",
+            "o:id": 26218
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26219",
+            "o:id": 26219
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26220",
+            "o:id": 26220
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26221",
+            "o:id": 26221
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26222",
+            "o:id": 26222
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26223",
+            "o:id": 26223
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26224",
+            "o:id": 26224
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26225",
+            "o:id": 26225
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26226",
+            "o:id": 26226
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26227",
+            "o:id": 26227
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26228",
+            "o:id": 26228
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26229",
+            "o:id": 26229
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26230",
+            "o:id": 26230
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:40:52+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Treaties, etc., Great Britain, France, America, Russia, the Netherlands and Portugal with China and Japan.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

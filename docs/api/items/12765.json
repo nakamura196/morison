@@ -1,0 +1,418 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12765",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1700",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "a4e9d2a6-1f58-452c-bdf3-8a465974b9e0",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4026.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/London",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Minute of dissent presented by Mr. Henry J. Wilson. With his notes, memorandum on the attitude of the authorities in India, and protest against treatment of native commissioners, etc.Royal Commission on Opium.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "48 p. ; 22 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Royal Commission on Opium.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "London, 1895.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=14&tg3=W2&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "14. Customs & Manners",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "W2. Opium",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Minute of dissent presented by Mr. Henry J. Wilson. With his notes, memorandum on the attitude of the authorities in India, and protest against treatment of native commissioners, etc.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:10+00:00"
+    },
+    "o:id": 12765,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43635",
+            "o:id": 43635
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43636",
+            "o:id": 43636
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43637",
+            "o:id": 43637
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43638",
+            "o:id": 43638
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43639",
+            "o:id": 43639
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43640",
+            "o:id": 43640
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43641",
+            "o:id": 43641
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43642",
+            "o:id": 43642
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43643",
+            "o:id": 43643
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43644",
+            "o:id": 43644
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43645",
+            "o:id": 43645
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43646",
+            "o:id": 43646
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43647",
+            "o:id": 43647
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43648",
+            "o:id": 43648
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43649",
+            "o:id": 43649
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43650",
+            "o:id": 43650
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43651",
+            "o:id": 43651
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43652",
+            "o:id": 43652
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43653",
+            "o:id": 43653
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43654",
+            "o:id": 43654
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43655",
+            "o:id": 43655
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43656",
+            "o:id": 43656
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43657",
+            "o:id": 43657
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43658",
+            "o:id": 43658
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43659",
+            "o:id": 43659
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43660",
+            "o:id": 43660
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43661",
+            "o:id": 43661
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43662",
+            "o:id": 43662
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44017",
+            "o:id": 44017
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44018",
+            "o:id": 44018
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44019",
+            "o:id": 44019
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44020",
+            "o:id": 44020
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44021",
+            "o:id": 44021
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44022",
+            "o:id": 44022
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44023",
+            "o:id": 44023
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44024",
+            "o:id": 44024
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44025",
+            "o:id": 44025
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44026",
+            "o:id": 44026
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44027",
+            "o:id": 44027
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44028",
+            "o:id": 44028
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44029",
+            "o:id": 44029
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44030",
+            "o:id": 44030
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44031",
+            "o:id": 44031
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44032",
+            "o:id": 44032
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44033",
+            "o:id": 44033
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44034",
+            "o:id": 44034
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44035",
+            "o:id": 44035
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44036",
+            "o:id": 44036
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44037",
+            "o:id": 44037
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44038",
+            "o:id": 44038
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44039",
+            "o:id": 44039
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44040",
+            "o:id": 44040
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44041",
+            "o:id": 44041
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44042",
+            "o:id": 44042
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44043",
+            "o:id": 44043
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44044",
+            "o:id": 44044
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:49:13+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Minute of dissent presented by Mr. Henry J. Wilson. With his notes, memorandum on the attitude of the authorities in India, and protest against treatment of native commissioners, etc.Royal Commission on Opium.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

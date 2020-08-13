@@ -1,0 +1,375 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12926",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-2345",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1876",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "8055d968-3322-481a-bf57-1688d6104ae9",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4187.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Shanghai",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The treaty illegality of the transit dues and lekin taxes actually levied by the Chinese Government ...Fergusson, Thomas.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "82 p. ; 22 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Fergusson, Thomas.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Shanghai, 1876.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=16&tg3=F&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "16. Finance",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "F. Likin",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "The treaty illegality of the transit dues and lekin taxes actually levied by the Chinese Government ...",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:11+00:00"
+    },
+    "o:id": 12926,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45423",
+            "o:id": 45423
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45424",
+            "o:id": 45424
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45425",
+            "o:id": 45425
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45426",
+            "o:id": 45426
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45427",
+            "o:id": 45427
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45428",
+            "o:id": 45428
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45429",
+            "o:id": 45429
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45430",
+            "o:id": 45430
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45431",
+            "o:id": 45431
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45432",
+            "o:id": 45432
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45433",
+            "o:id": 45433
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45434",
+            "o:id": 45434
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45435",
+            "o:id": 45435
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45436",
+            "o:id": 45436
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45437",
+            "o:id": 45437
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45438",
+            "o:id": 45438
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45439",
+            "o:id": 45439
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45440",
+            "o:id": 45440
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45441",
+            "o:id": 45441
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45442",
+            "o:id": 45442
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45443",
+            "o:id": 45443
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45444",
+            "o:id": 45444
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45445",
+            "o:id": 45445
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45446",
+            "o:id": 45446
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45447",
+            "o:id": 45447
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45448",
+            "o:id": 45448
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45449",
+            "o:id": 45449
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45450",
+            "o:id": 45450
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45451",
+            "o:id": 45451
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45452",
+            "o:id": 45452
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45453",
+            "o:id": 45453
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45454",
+            "o:id": 45454
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45455",
+            "o:id": 45455
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45456",
+            "o:id": 45456
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45457",
+            "o:id": 45457
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45458",
+            "o:id": 45458
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45459",
+            "o:id": 45459
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45460",
+            "o:id": 45460
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45461",
+            "o:id": 45461
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45462",
+            "o:id": 45462
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45463",
+            "o:id": 45463
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45464",
+            "o:id": 45464
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45465",
+            "o:id": 45465
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T14:32:48+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "The treaty illegality of the transit dues and lekin taxes actually levied by the Chinese Government ...Fergusson, Thomas.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

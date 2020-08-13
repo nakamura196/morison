@@ -1,0 +1,402 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/10804",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-2789",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "d3ed7c3c-2a5c-4259-8ad7-1f5db7aa7853",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2065.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Berlin",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Bilder aus Ost-Asien. 1. Teil: China. Mit 8 Abbildungen.Wertheimer, Fritz.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "92 p. ; 20 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Wertheimer, Fritz.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Berlin.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=B&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "B. Travels through China",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Bilder aus Ost-Asien. 1. Teil: China. Mit 8 Abbildungen.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:57+00:00"
+    },
+    "o:id": 10804,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14464",
+            "o:id": 14464
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14465",
+            "o:id": 14465
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14466",
+            "o:id": 14466
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14467",
+            "o:id": 14467
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14468",
+            "o:id": 14468
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14469",
+            "o:id": 14469
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14470",
+            "o:id": 14470
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14471",
+            "o:id": 14471
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14472",
+            "o:id": 14472
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14473",
+            "o:id": 14473
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14474",
+            "o:id": 14474
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14475",
+            "o:id": 14475
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14476",
+            "o:id": 14476
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14477",
+            "o:id": 14477
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14478",
+            "o:id": 14478
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14479",
+            "o:id": 14479
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14480",
+            "o:id": 14480
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14481",
+            "o:id": 14481
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14482",
+            "o:id": 14482
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14483",
+            "o:id": 14483
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14484",
+            "o:id": 14484
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14485",
+            "o:id": 14485
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14486",
+            "o:id": 14486
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14487",
+            "o:id": 14487
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14488",
+            "o:id": 14488
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14489",
+            "o:id": 14489
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14490",
+            "o:id": 14490
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14491",
+            "o:id": 14491
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14492",
+            "o:id": 14492
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14493",
+            "o:id": 14493
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14494",
+            "o:id": 14494
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14495",
+            "o:id": 14495
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14496",
+            "o:id": 14496
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14497",
+            "o:id": 14497
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14498",
+            "o:id": 14498
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14499",
+            "o:id": 14499
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14500",
+            "o:id": 14500
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14501",
+            "o:id": 14501
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14502",
+            "o:id": 14502
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14503",
+            "o:id": 14503
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14504",
+            "o:id": 14504
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14505",
+            "o:id": 14505
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14506",
+            "o:id": 14506
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14507",
+            "o:id": 14507
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14508",
+            "o:id": 14508
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14509",
+            "o:id": 14509
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14510",
+            "o:id": 14510
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14511",
+            "o:id": 14511
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14512",
+            "o:id": 14512
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14513",
+            "o:id": 14513
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14514",
+            "o:id": 14514
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14515",
+            "o:id": 14515
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:40:51+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Bilder aus Ost-Asien. 1. Teil: China. Mit 8 Abbildungen.Wertheimer, Fritz.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

@@ -1,0 +1,363 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12241",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-2777",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "b214a2cd-5561-4d25-bb7a-6c97a9b56522",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3502.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/London",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Christian enterprise amongst the Chinese.Sadler, Rev. J.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "75 p. ; 19 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Sadler, Rev. J.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "London.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=10&tg3=E&tg4=a&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "10. Religion",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "E. Christianity",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "a. General works",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Christian enterprise amongst the Chinese.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:07+00:00"
+    },
+    "o:id": 12241,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36525",
+            "o:id": 36525
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36526",
+            "o:id": 36526
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36527",
+            "o:id": 36527
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36528",
+            "o:id": 36528
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36529",
+            "o:id": 36529
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36530",
+            "o:id": 36530
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36531",
+            "o:id": 36531
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36532",
+            "o:id": 36532
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36533",
+            "o:id": 36533
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36534",
+            "o:id": 36534
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36535",
+            "o:id": 36535
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36536",
+            "o:id": 36536
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36537",
+            "o:id": 36537
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36538",
+            "o:id": 36538
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36539",
+            "o:id": 36539
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36540",
+            "o:id": 36540
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36541",
+            "o:id": 36541
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36542",
+            "o:id": 36542
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36543",
+            "o:id": 36543
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36544",
+            "o:id": 36544
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36545",
+            "o:id": 36545
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36546",
+            "o:id": 36546
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36547",
+            "o:id": 36547
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36548",
+            "o:id": 36548
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36549",
+            "o:id": 36549
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36550",
+            "o:id": 36550
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36551",
+            "o:id": 36551
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36552",
+            "o:id": 36552
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36553",
+            "o:id": 36553
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36554",
+            "o:id": 36554
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36555",
+            "o:id": 36555
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36556",
+            "o:id": 36556
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36557",
+            "o:id": 36557
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36558",
+            "o:id": 36558
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36559",
+            "o:id": 36559
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36560",
+            "o:id": 36560
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36561",
+            "o:id": 36561
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36562",
+            "o:id": 36562
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36563",
+            "o:id": 36563
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36564",
+            "o:id": 36564
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T14:43:30+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Christian enterprise amongst the Chinese.Sadler, Rev. J.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

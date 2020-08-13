@@ -1,0 +1,275 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13204",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1997",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "b08899ed-13a1-42eb-90d7-accff2332749",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4465.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/London",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "(Incorporated April 26th, 1912.) Outline of its scope and objects, together with a list of members of council. (November, 1912.)The British Engineers' Association.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "2 v. ; 20 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "The British Engineers\\' Association.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "London, 1920.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=20&tg3=G&tg4=a&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "20. Economy and Industry",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "G. Industry",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "a. General",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "(Incorporated April 26th, 1912.) Outline of its scope and objects, together with a list of members of council. (November, 1912.)",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:13+00:00"
+    },
+    "o:id": 13204,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49836",
+            "o:id": 49836
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49837",
+            "o:id": 49837
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49838",
+            "o:id": 49838
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49839",
+            "o:id": 49839
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49840",
+            "o:id": 49840
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49841",
+            "o:id": 49841
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49842",
+            "o:id": 49842
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49843",
+            "o:id": 49843
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49844",
+            "o:id": 49844
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49845",
+            "o:id": 49845
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49846",
+            "o:id": 49846
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49847",
+            "o:id": 49847
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49848",
+            "o:id": 49848
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49849",
+            "o:id": 49849
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49850",
+            "o:id": 49850
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49851",
+            "o:id": 49851
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49852",
+            "o:id": 49852
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49853",
+            "o:id": 49853
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:32:20+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "(Incorporated April 26th, 1912.) Outline of its scope and objects, together with a list of members of council. (November, 1912.)The British Engineers' Association.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

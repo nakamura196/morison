@@ -1,0 +1,206 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12297",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-b-0890",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "72495133-8595-4a7d-970f-f92e75c038ed",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3558.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "M. Venioukof et les jésuites de Shang-häi.Gagarin, [Jean Xavier].",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=10&tg3=E&tg4=c&tg5=c2",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "10. Religion",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "E. Christianity",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "c. Roman Catholic",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:tag5": [
+        {
+            "@value": "c2. Jesuits; Rite Controversy",
+            "is_public": true,
+            "property_id": 297,
+            "property_label": "分類5",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:07+00:00"
+    },
+    "o:id": 12297,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37427",
+            "o:id": 37427
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37428",
+            "o:id": 37428
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37429",
+            "o:id": 37429
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37430",
+            "o:id": 37430
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37431",
+            "o:id": 37431
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37432",
+            "o:id": 37432
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37433",
+            "o:id": 37433
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37434",
+            "o:id": 37434
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37435",
+            "o:id": 37435
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37436",
+            "o:id": 37436
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37437",
+            "o:id": 37437
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37438",
+            "o:id": 37438
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T05:09:14+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "M. Venioukof et les jésuites de Shang-häi.Gagarin, [Jean Xavier].",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

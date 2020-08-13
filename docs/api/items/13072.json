@@ -1,0 +1,311 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13072",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1740",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1868",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "ede36039-8e83-444f-a53b-f909a4d3a008",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4333.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Shanghai",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The Shanghai land regulations, (original and present codes) and sundry documents relating thereto. Published by order of the Municipal Council for 1861; and reprinted, with an index, by order of the Municipal Council of 1868-1869.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "41 p. ; 19 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Shanghai, 1868.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=17&tg3=H&tg4=b&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "17. Law",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "H. International Law",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "b. Extraterritoriality; Consuhar Jurisdiction; Foreign Concession",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "The Shanghai land regulations, (original and present codes) and sundry documents relating thereto. Published by order of the Municipal Council for 1861; and reprinted, with an index, by order of the Municipal Council of 1868-1869.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:12+00:00"
+    },
+    "o:id": 13072,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47964",
+            "o:id": 47964
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47965",
+            "o:id": 47965
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47966",
+            "o:id": 47966
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47967",
+            "o:id": 47967
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47968",
+            "o:id": 47968
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47969",
+            "o:id": 47969
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47970",
+            "o:id": 47970
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47971",
+            "o:id": 47971
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47972",
+            "o:id": 47972
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47973",
+            "o:id": 47973
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47974",
+            "o:id": 47974
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47975",
+            "o:id": 47975
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47976",
+            "o:id": 47976
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47977",
+            "o:id": 47977
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47978",
+            "o:id": 47978
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47979",
+            "o:id": 47979
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47980",
+            "o:id": 47980
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47981",
+            "o:id": 47981
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47982",
+            "o:id": 47982
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47983",
+            "o:id": 47983
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47984",
+            "o:id": 47984
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47985",
+            "o:id": 47985
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47986",
+            "o:id": 47986
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47987",
+            "o:id": 47987
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47988",
+            "o:id": 47988
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47989",
+            "o:id": 47989
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47990",
+            "o:id": 47990
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:32:31+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "The Shanghai land regulations, (original and present codes) and sundry documents relating thereto. Published by order of the Municipal Council for 1861; and reprinted, with an index, by order of the Municipal Council of 1868-1869.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

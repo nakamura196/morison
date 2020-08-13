@@ -1,0 +1,337 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13410",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-2092",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "21515577-d219-4480-8247-0b59fdfb1090",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4671.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/New_York_(disambiguation)",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Tea: and the Tea Trade.Nye, Gideon, Jr.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "56 p. ; 24 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Nye, Gideon, Jr.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:kan": [
+        {
+            "@value": "Pt. 1-3.",
+            "is_public": true,
+            "property_id": 312,
+            "property_label": "巻次",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "New York, 1850.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=20&tg3=H&tg4=c&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "20. Economy and Industry",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "H. Commerce",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "c. Foreign trade",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Tea: and the Tea Trade.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "ex:version": [
+        {
+            "@value": "3. ed.",
+            "is_public": true,
+            "property_id": 308,
+            "property_label": "版",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:14+00:00"
+    },
+    "o:id": 13410,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52751",
+            "o:id": 52751
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52752",
+            "o:id": 52752
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52753",
+            "o:id": 52753
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52754",
+            "o:id": 52754
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52755",
+            "o:id": 52755
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52756",
+            "o:id": 52756
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52757",
+            "o:id": 52757
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52758",
+            "o:id": 52758
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52759",
+            "o:id": 52759
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52760",
+            "o:id": 52760
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52761",
+            "o:id": 52761
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52762",
+            "o:id": 52762
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52763",
+            "o:id": 52763
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52764",
+            "o:id": 52764
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52765",
+            "o:id": 52765
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52766",
+            "o:id": 52766
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52767",
+            "o:id": 52767
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52768",
+            "o:id": 52768
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52769",
+            "o:id": 52769
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52770",
+            "o:id": 52770
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52771",
+            "o:id": 52771
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52772",
+            "o:id": 52772
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52773",
+            "o:id": 52773
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52774",
+            "o:id": 52774
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52775",
+            "o:id": 52775
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52776",
+            "o:id": 52776
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52777",
+            "o:id": 52777
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52778",
+            "o:id": 52778
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52779",
+            "o:id": 52779
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:36:01+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Tea: and the Tea Trade.Nye, Gideon, Jr.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

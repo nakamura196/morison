@@ -1,0 +1,321 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11892",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1072",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "499f7b9a-7645-4d25-91ef-4c24e98f07c9",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3153.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "China versus Japan.Wood, Ge-Zay.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=F&tg4=n&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "F. Foreign relations",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "n. Japan (Including Shino-Japanese War)",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:04+00:00"
+    },
+    "o:id": 11892,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31270",
+            "o:id": 31270
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31271",
+            "o:id": 31271
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31272",
+            "o:id": 31272
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31273",
+            "o:id": 31273
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31274",
+            "o:id": 31274
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31275",
+            "o:id": 31275
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31276",
+            "o:id": 31276
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31277",
+            "o:id": 31277
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31278",
+            "o:id": 31278
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31279",
+            "o:id": 31279
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31280",
+            "o:id": 31280
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31281",
+            "o:id": 31281
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31282",
+            "o:id": 31282
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31283",
+            "o:id": 31283
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31284",
+            "o:id": 31284
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31285",
+            "o:id": 31285
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31286",
+            "o:id": 31286
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31287",
+            "o:id": 31287
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31288",
+            "o:id": 31288
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31289",
+            "o:id": 31289
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31290",
+            "o:id": 31290
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31291",
+            "o:id": 31291
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31292",
+            "o:id": 31292
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31293",
+            "o:id": 31293
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31294",
+            "o:id": 31294
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31295",
+            "o:id": 31295
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31296",
+            "o:id": 31296
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31297",
+            "o:id": 31297
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31298",
+            "o:id": 31298
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31299",
+            "o:id": 31299
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31300",
+            "o:id": 31300
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31301",
+            "o:id": 31301
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31302",
+            "o:id": 31302
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31303",
+            "o:id": 31303
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31304",
+            "o:id": 31304
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31305",
+            "o:id": 31305
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31306",
+            "o:id": 31306
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31307",
+            "o:id": 31307
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31308",
+            "o:id": 31308
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31309",
+            "o:id": 31309
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31310",
+            "o:id": 31310
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31311",
+            "o:id": 31311
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31312",
+            "o:id": 31312
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T00:57:55+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "China versus Japan.Wood, Ge-Zay.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

@@ -1,0 +1,363 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11491",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-607",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "cbd705c9-56e1-44e4-b8bb-0448cf9b67a7",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2752.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Rome",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Le mémorandum chinois; ou, Violation du traité du Peking. Exposé et réfutation par un missionnaire de Chine.[Gennevoise, Felix].",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "74 p. ; 20 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "[Gennevoise, Felix].",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Rome, 1872.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=F&tg4=a&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "F. Foreign relations",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "a. General history of foreign relations with China",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Le mémorandum chinois; ou, Violation du traité du Peking. Exposé et réfutation par un missionnaire de Chine.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:02+00:00"
+    },
+    "o:id": 11491,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25324",
+            "o:id": 25324
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25325",
+            "o:id": 25325
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25326",
+            "o:id": 25326
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25327",
+            "o:id": 25327
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25328",
+            "o:id": 25328
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25329",
+            "o:id": 25329
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25330",
+            "o:id": 25330
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25331",
+            "o:id": 25331
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25332",
+            "o:id": 25332
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25333",
+            "o:id": 25333
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25334",
+            "o:id": 25334
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25335",
+            "o:id": 25335
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25336",
+            "o:id": 25336
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25337",
+            "o:id": 25337
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25338",
+            "o:id": 25338
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25339",
+            "o:id": 25339
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25340",
+            "o:id": 25340
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25341",
+            "o:id": 25341
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25342",
+            "o:id": 25342
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25343",
+            "o:id": 25343
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25344",
+            "o:id": 25344
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25345",
+            "o:id": 25345
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25346",
+            "o:id": 25346
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25347",
+            "o:id": 25347
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25348",
+            "o:id": 25348
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25349",
+            "o:id": 25349
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25350",
+            "o:id": 25350
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25351",
+            "o:id": 25351
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25352",
+            "o:id": 25352
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25353",
+            "o:id": 25353
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25354",
+            "o:id": 25354
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25355",
+            "o:id": 25355
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25356",
+            "o:id": 25356
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25357",
+            "o:id": 25357
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25358",
+            "o:id": 25358
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25359",
+            "o:id": 25359
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25360",
+            "o:id": 25360
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25361",
+            "o:id": 25361
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25362",
+            "o:id": 25362
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25363",
+            "o:id": 25363
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:32:13+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Le mémorandum chinois; ou, Violation du traité du Peking. Exposé et réfutation par un missionnaire de Chine.[Gennevoise, Felix].",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

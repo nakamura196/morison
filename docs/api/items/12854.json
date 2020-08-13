@@ -1,0 +1,398 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12854",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-3173",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "814bd578-081d-4e6e-a309-1eed01204f94",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4115.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Hong_Kong",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The Hongkong directory with list of foreign residents in China.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "93 p. ; 22 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Hongkong, 1859.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=15&tg3=B&tg4=a&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "15. Politics & Administration",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "B. Government & Administration",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "a. Political Institutions; Ancient Institutions",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "The Hongkong directory with list of foreign residents in China.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:10+00:00"
+    },
+    "o:id": 12854,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44619",
+            "o:id": 44619
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44620",
+            "o:id": 44620
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44621",
+            "o:id": 44621
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44622",
+            "o:id": 44622
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44623",
+            "o:id": 44623
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44624",
+            "o:id": 44624
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44625",
+            "o:id": 44625
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44626",
+            "o:id": 44626
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44627",
+            "o:id": 44627
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44628",
+            "o:id": 44628
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44629",
+            "o:id": 44629
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44630",
+            "o:id": 44630
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44631",
+            "o:id": 44631
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44632",
+            "o:id": 44632
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44633",
+            "o:id": 44633
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44634",
+            "o:id": 44634
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44635",
+            "o:id": 44635
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44636",
+            "o:id": 44636
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44637",
+            "o:id": 44637
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44638",
+            "o:id": 44638
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44639",
+            "o:id": 44639
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44640",
+            "o:id": 44640
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44641",
+            "o:id": 44641
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44642",
+            "o:id": 44642
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44643",
+            "o:id": 44643
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44644",
+            "o:id": 44644
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44645",
+            "o:id": 44645
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44646",
+            "o:id": 44646
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44647",
+            "o:id": 44647
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44648",
+            "o:id": 44648
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44649",
+            "o:id": 44649
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44650",
+            "o:id": 44650
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44651",
+            "o:id": 44651
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44652",
+            "o:id": 44652
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44653",
+            "o:id": 44653
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44654",
+            "o:id": 44654
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44655",
+            "o:id": 44655
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44656",
+            "o:id": 44656
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44657",
+            "o:id": 44657
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44658",
+            "o:id": 44658
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44659",
+            "o:id": 44659
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44660",
+            "o:id": 44660
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44661",
+            "o:id": 44661
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44662",
+            "o:id": 44662
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44663",
+            "o:id": 44663
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44664",
+            "o:id": 44664
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44665",
+            "o:id": 44665
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44666",
+            "o:id": 44666
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44667",
+            "o:id": 44667
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44668",
+            "o:id": 44668
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44669",
+            "o:id": 44669
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:37:01+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "The Hongkong directory with list of foreign residents in China.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

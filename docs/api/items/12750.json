@@ -1,0 +1,378 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12750",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-c-130",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "1a99946b-1a87-49bd-aa03-a6b735236ab6",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4011.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Tianjin",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Atlas syndicate news. Nov. 7th, 1910-1914.International Reform Bureau. Tientsin.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "84 p. ; 33 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "International Reform Bureau. Tientsin.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Tientsin.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=14&tg3=W2&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "14. Customs & Manners",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "W2. Opium",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Atlas syndicate news. Nov. 7th, 1910-1914.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:10+00:00"
+    },
+    "o:id": 12750,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43426",
+            "o:id": 43426
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43427",
+            "o:id": 43427
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43428",
+            "o:id": 43428
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43429",
+            "o:id": 43429
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43430",
+            "o:id": 43430
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43431",
+            "o:id": 43431
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43432",
+            "o:id": 43432
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43433",
+            "o:id": 43433
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43434",
+            "o:id": 43434
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43435",
+            "o:id": 43435
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43436",
+            "o:id": 43436
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43437",
+            "o:id": 43437
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43438",
+            "o:id": 43438
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43439",
+            "o:id": 43439
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43440",
+            "o:id": 43440
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43441",
+            "o:id": 43441
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43442",
+            "o:id": 43442
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43443",
+            "o:id": 43443
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43444",
+            "o:id": 43444
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43445",
+            "o:id": 43445
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43446",
+            "o:id": 43446
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43447",
+            "o:id": 43447
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43448",
+            "o:id": 43448
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43449",
+            "o:id": 43449
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43450",
+            "o:id": 43450
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43451",
+            "o:id": 43451
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43452",
+            "o:id": 43452
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43453",
+            "o:id": 43453
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43454",
+            "o:id": 43454
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43455",
+            "o:id": 43455
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43456",
+            "o:id": 43456
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43457",
+            "o:id": 43457
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43458",
+            "o:id": 43458
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43459",
+            "o:id": 43459
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43460",
+            "o:id": 43460
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43461",
+            "o:id": 43461
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43462",
+            "o:id": 43462
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43463",
+            "o:id": 43463
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43464",
+            "o:id": 43464
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43465",
+            "o:id": 43465
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43466",
+            "o:id": 43466
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43467",
+            "o:id": 43467
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43468",
+            "o:id": 43468
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43469",
+            "o:id": 43469
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43470",
+            "o:id": 43470
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43471",
+            "o:id": 43471
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:32:12+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Atlas syndicate news. Nov. 7th, 1910-1914.International Reform Bureau. Tientsin.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

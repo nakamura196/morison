@@ -1,0 +1,197 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13139",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-0081",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "4a535bc4-7c54-46ed-9271-dab3aa7c9240",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4400.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "List of the principal tea districts in China and notes on the names applied to the various kinds of black and green tea.Hollingworth, H. G.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=20&tg3=B&tg4=g&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "20. Economy and Industry",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "B. Agriculture",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "g. Agricultural products",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:12+00:00"
+    },
+    "o:id": 13139,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48891",
+            "o:id": 48891
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48892",
+            "o:id": 48892
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48893",
+            "o:id": 48893
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48894",
+            "o:id": 48894
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48895",
+            "o:id": 48895
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48896",
+            "o:id": 48896
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48897",
+            "o:id": 48897
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48898",
+            "o:id": 48898
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48899",
+            "o:id": 48899
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48900",
+            "o:id": 48900
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48901",
+            "o:id": 48901
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48902",
+            "o:id": 48902
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T01:21:26+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "List of the principal tea districts in China and notes on the names applied to the various kinds of black and green tea.Hollingworth, H. G.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

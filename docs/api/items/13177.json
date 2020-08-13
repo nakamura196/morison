@@ -1,0 +1,283 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13177",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-2276",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1864",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "913b22fd-416c-42ff-a620-1507faa70c20",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4438.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Mémoire sur les betes à laine en Chine.Simon, G. Eugène.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "pp. 567-579, 683-694, 726-734.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Simon, G. Eugène.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "1864",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=20&tg3=D&tg4=b&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "20. Economy and Industry",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "D. Live stock and allied industry",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "b. Livestock; wool & fur",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Mémoire sur les betes à laine en Chine.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:13+00:00"
+    },
+    "o:id": 13177,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49430",
+            "o:id": 49430
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49431",
+            "o:id": 49431
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49432",
+            "o:id": 49432
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49433",
+            "o:id": 49433
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49434",
+            "o:id": 49434
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49435",
+            "o:id": 49435
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49436",
+            "o:id": 49436
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49437",
+            "o:id": 49437
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49438",
+            "o:id": 49438
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49439",
+            "o:id": 49439
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49440",
+            "o:id": 49440
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49441",
+            "o:id": 49441
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49442",
+            "o:id": 49442
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49443",
+            "o:id": 49443
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49444",
+            "o:id": 49444
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49445",
+            "o:id": 49445
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49446",
+            "o:id": 49446
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49447",
+            "o:id": 49447
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49448",
+            "o:id": 49448
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49449",
+            "o:id": 49449
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:39:37+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Mémoire sur les betes à laine en Chine.Simon, G. Eugène.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

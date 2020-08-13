@@ -1,0 +1,301 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/10806",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-0195",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "7fdb80e6-c41e-4fec-b0fa-14602c53d076",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2067.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Huit jours à Pékin en 1865.Beaumont, Olivier de.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=C&tg4=a&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "C. Local topography & Travels",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "a. North China",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:57+00:00"
+    },
+    "o:id": 10806,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14527",
+            "o:id": 14527
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14528",
+            "o:id": 14528
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14529",
+            "o:id": 14529
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14530",
+            "o:id": 14530
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14531",
+            "o:id": 14531
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14532",
+            "o:id": 14532
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14533",
+            "o:id": 14533
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14534",
+            "o:id": 14534
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14535",
+            "o:id": 14535
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14536",
+            "o:id": 14536
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14537",
+            "o:id": 14537
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14538",
+            "o:id": 14538
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14539",
+            "o:id": 14539
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14540",
+            "o:id": 14540
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14541",
+            "o:id": 14541
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14542",
+            "o:id": 14542
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14543",
+            "o:id": 14543
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14544",
+            "o:id": 14544
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14545",
+            "o:id": 14545
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14546",
+            "o:id": 14546
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14547",
+            "o:id": 14547
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14548",
+            "o:id": 14548
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14549",
+            "o:id": 14549
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14550",
+            "o:id": 14550
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14551",
+            "o:id": 14551
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14552",
+            "o:id": 14552
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14553",
+            "o:id": 14553
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14554",
+            "o:id": 14554
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14555",
+            "o:id": 14555
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14556",
+            "o:id": 14556
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14557",
+            "o:id": 14557
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14558",
+            "o:id": 14558
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14559",
+            "o:id": 14559
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14560",
+            "o:id": 14560
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14561",
+            "o:id": 14561
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14562",
+            "o:id": 14562
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14563",
+            "o:id": 14563
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14564",
+            "o:id": 14564
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T01:00:27+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Huit jours à Pékin en 1865.Beaumont, Olivier de.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

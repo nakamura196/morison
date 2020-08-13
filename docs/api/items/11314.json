@@ -1,0 +1,394 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11314",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-2311",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "f78bd156-c157-4709-9ab7-cfa6cbf835f7",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2575.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Hong_Kong",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Note on the condition and government of the Chinese Empire in 1849.Wade, Thomas Francis.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "93 p. ; 22 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Wade, Thomas Francis.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "[Hongkong, 1850].",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=D&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "D. Modern history",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Note on the condition and government of the Chinese Empire in 1849.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:00+00:00"
+    },
+    "o:id": 11314,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22979",
+            "o:id": 22979
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22980",
+            "o:id": 22980
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22981",
+            "o:id": 22981
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22982",
+            "o:id": 22982
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22983",
+            "o:id": 22983
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22984",
+            "o:id": 22984
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22985",
+            "o:id": 22985
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22986",
+            "o:id": 22986
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22987",
+            "o:id": 22987
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22988",
+            "o:id": 22988
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22989",
+            "o:id": 22989
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22990",
+            "o:id": 22990
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22991",
+            "o:id": 22991
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22992",
+            "o:id": 22992
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22993",
+            "o:id": 22993
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22994",
+            "o:id": 22994
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22995",
+            "o:id": 22995
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22996",
+            "o:id": 22996
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22997",
+            "o:id": 22997
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22998",
+            "o:id": 22998
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22999",
+            "o:id": 22999
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23000",
+            "o:id": 23000
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23001",
+            "o:id": 23001
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23002",
+            "o:id": 23002
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23003",
+            "o:id": 23003
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23004",
+            "o:id": 23004
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23005",
+            "o:id": 23005
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23006",
+            "o:id": 23006
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23007",
+            "o:id": 23007
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23008",
+            "o:id": 23008
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23009",
+            "o:id": 23009
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23010",
+            "o:id": 23010
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23011",
+            "o:id": 23011
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23012",
+            "o:id": 23012
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23013",
+            "o:id": 23013
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23014",
+            "o:id": 23014
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23015",
+            "o:id": 23015
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23016",
+            "o:id": 23016
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23017",
+            "o:id": 23017
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23018",
+            "o:id": 23018
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23019",
+            "o:id": 23019
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23020",
+            "o:id": 23020
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23021",
+            "o:id": 23021
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23022",
+            "o:id": 23022
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23023",
+            "o:id": 23023
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23024",
+            "o:id": 23024
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23025",
+            "o:id": 23025
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23026",
+            "o:id": 23026
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23027",
+            "o:id": 23027
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23028",
+            "o:id": 23028
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T14:37:32+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Note on the condition and government of the Chinese Empire in 1849.Wade, Thomas Francis.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

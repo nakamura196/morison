@@ -1,0 +1,351 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12335",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1550",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1913",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "00393a7e-cc0d-4f75-af82-6b454245f3a0",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3596.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Shanghai",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Handbook of foreign etiquette. specially prepared for Chinese. *1King, Paton.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "35, 22 p. ; 17 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "King, Paton.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Shanghai, 1913.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=14&tg3=A&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "14. Customs & Manners",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "A. General; Social Life; Etiquette",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Handbook of foreign etiquette. specially prepared for Chinese. *1",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:07+00:00"
+    },
+    "o:id": 12335,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38142",
+            "o:id": 38142
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38143",
+            "o:id": 38143
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38144",
+            "o:id": 38144
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38145",
+            "o:id": 38145
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38146",
+            "o:id": 38146
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38147",
+            "o:id": 38147
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38148",
+            "o:id": 38148
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38149",
+            "o:id": 38149
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38150",
+            "o:id": 38150
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38151",
+            "o:id": 38151
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38152",
+            "o:id": 38152
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38153",
+            "o:id": 38153
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38154",
+            "o:id": 38154
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38155",
+            "o:id": 38155
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38156",
+            "o:id": 38156
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38157",
+            "o:id": 38157
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38158",
+            "o:id": 38158
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38159",
+            "o:id": 38159
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38160",
+            "o:id": 38160
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38161",
+            "o:id": 38161
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38162",
+            "o:id": 38162
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38163",
+            "o:id": 38163
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38164",
+            "o:id": 38164
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38165",
+            "o:id": 38165
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38166",
+            "o:id": 38166
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38167",
+            "o:id": 38167
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38168",
+            "o:id": 38168
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38169",
+            "o:id": 38169
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38170",
+            "o:id": 38170
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38171",
+            "o:id": 38171
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38172",
+            "o:id": 38172
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38173",
+            "o:id": 38173
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38174",
+            "o:id": 38174
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38175",
+            "o:id": 38175
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38176",
+            "o:id": 38176
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38177",
+            "o:id": 38177
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38178",
+            "o:id": 38178
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:32:32+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Handbook of foreign etiquette. specially prepared for Chinese. *1King, Paton.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

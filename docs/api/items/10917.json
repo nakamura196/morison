@@ -1,0 +1,209 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/10917",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-b-0910",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "dbf24361-2703-46ce-9f5a-ac759b1e6166",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2178.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Si-Ka-Wei und seine Umgebung. Eine kurze Schilderung der Schulen, Waisenhäuser, u.s.w. der Mission von Kiangnan in der Umgebung Shanghai's.Fink, C.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=C&tg4=b&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "C. Local topography & Travels",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "b. Central China",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:58+00:00"
+    },
+    "o:id": 10917,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16546",
+            "o:id": 16546
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16547",
+            "o:id": 16547
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16548",
+            "o:id": 16548
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16549",
+            "o:id": 16549
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16550",
+            "o:id": 16550
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16551",
+            "o:id": 16551
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16552",
+            "o:id": 16552
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16553",
+            "o:id": 16553
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16554",
+            "o:id": 16554
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16555",
+            "o:id": 16555
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16556",
+            "o:id": 16556
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16557",
+            "o:id": 16557
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16558",
+            "o:id": 16558
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16559",
+            "o:id": 16559
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16560",
+            "o:id": 16560
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T01:11:11+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Si-Ka-Wei und seine Umgebung. Eine kurze Schilderung der Schulen, Waisenhäuser, u.s.w. der Mission von Kiangnan in der Umgebung Shanghai's.Fink, C.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

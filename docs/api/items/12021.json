@@ -1,0 +1,418 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12021",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-694",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1904",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "a5d978bd-1c4c-4c1f-a990-4aa4694a7167",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3282.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The struggle in the Far East.[Carus, Psul].",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "pp. 705-709 ; 24 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Shaku, Sôyen.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "1904",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=H&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "H. Russo-Japanese War, 1904-05",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "At the battle of Nanshan Hill. Tr. by Teitaro Suzuki.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:05+00:00"
+    },
+    "o:id": 12021,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33272",
+            "o:id": 33272
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33273",
+            "o:id": 33273
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33274",
+            "o:id": 33274
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33275",
+            "o:id": 33275
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33276",
+            "o:id": 33276
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33277",
+            "o:id": 33277
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33278",
+            "o:id": 33278
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33279",
+            "o:id": 33279
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33280",
+            "o:id": 33280
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33281",
+            "o:id": 33281
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33282",
+            "o:id": 33282
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33283",
+            "o:id": 33283
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33284",
+            "o:id": 33284
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33285",
+            "o:id": 33285
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34039",
+            "o:id": 34039
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34040",
+            "o:id": 34040
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34041",
+            "o:id": 34041
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34042",
+            "o:id": 34042
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34043",
+            "o:id": 34043
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34044",
+            "o:id": 34044
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34045",
+            "o:id": 34045
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34046",
+            "o:id": 34046
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34047",
+            "o:id": 34047
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34048",
+            "o:id": 34048
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34049",
+            "o:id": 34049
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34050",
+            "o:id": 34050
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34051",
+            "o:id": 34051
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34052",
+            "o:id": 34052
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34143",
+            "o:id": 34143
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34144",
+            "o:id": 34144
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34145",
+            "o:id": 34145
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34146",
+            "o:id": 34146
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34147",
+            "o:id": 34147
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34148",
+            "o:id": 34148
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34149",
+            "o:id": 34149
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34150",
+            "o:id": 34150
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34151",
+            "o:id": 34151
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34152",
+            "o:id": 34152
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34153",
+            "o:id": 34153
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34154",
+            "o:id": 34154
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34155",
+            "o:id": 34155
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34156",
+            "o:id": 34156
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34187",
+            "o:id": 34187
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34188",
+            "o:id": 34188
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34189",
+            "o:id": 34189
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34190",
+            "o:id": 34190
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34191",
+            "o:id": 34191
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34192",
+            "o:id": 34192
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34193",
+            "o:id": 34193
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34194",
+            "o:id": 34194
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34195",
+            "o:id": 34195
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34196",
+            "o:id": 34196
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34197",
+            "o:id": 34197
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34198",
+            "o:id": 34198
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34199",
+            "o:id": 34199
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34200",
+            "o:id": 34200
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:39:54+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "The struggle in the Far East.[Carus, Psul].",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

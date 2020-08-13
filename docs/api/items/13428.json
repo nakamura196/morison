@@ -1,0 +1,507 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13428",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-2060",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "d9efd512-5b2d-4a06-be09-9e29d44a1c33",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4689.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/London",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The western-inland-provinces of China proper, geographically and commercially considered in connection with British-Eastern-Pegue, and the port of Rangoon. With a map.Sprye, Capt. Richard & Reynell-Hele-Fowell.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "63 p. ; 25 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Sprye, Capt. Richard & Reynell-Hele-Fowell.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "London, 1862.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=20&tg3=H&tg4=c&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "20. Economy and Industry",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "H. Commerce",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "c. Foreign trade",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "The western-inland-provinces of China proper, geographically and commercially considered in connection with British-Eastern-Pegue, and the port of Rangoon. With a map.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:14+00:00"
+    },
+    "o:id": 13428,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52930",
+            "o:id": 52930
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52931",
+            "o:id": 52931
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52932",
+            "o:id": 52932
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52933",
+            "o:id": 52933
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52934",
+            "o:id": 52934
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52935",
+            "o:id": 52935
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52936",
+            "o:id": 52936
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52937",
+            "o:id": 52937
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52938",
+            "o:id": 52938
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52939",
+            "o:id": 52939
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52940",
+            "o:id": 52940
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52941",
+            "o:id": 52941
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52942",
+            "o:id": 52942
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52943",
+            "o:id": 52943
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52944",
+            "o:id": 52944
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52945",
+            "o:id": 52945
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52946",
+            "o:id": 52946
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52947",
+            "o:id": 52947
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52948",
+            "o:id": 52948
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52949",
+            "o:id": 52949
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52950",
+            "o:id": 52950
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52951",
+            "o:id": 52951
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52952",
+            "o:id": 52952
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52953",
+            "o:id": 52953
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52954",
+            "o:id": 52954
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52955",
+            "o:id": 52955
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52956",
+            "o:id": 52956
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52957",
+            "o:id": 52957
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52958",
+            "o:id": 52958
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52959",
+            "o:id": 52959
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52960",
+            "o:id": 52960
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52961",
+            "o:id": 52961
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52962",
+            "o:id": 52962
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52963",
+            "o:id": 52963
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52964",
+            "o:id": 52964
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52965",
+            "o:id": 52965
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52966",
+            "o:id": 52966
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52967",
+            "o:id": 52967
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52989",
+            "o:id": 52989
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52990",
+            "o:id": 52990
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52991",
+            "o:id": 52991
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52992",
+            "o:id": 52992
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52993",
+            "o:id": 52993
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52994",
+            "o:id": 52994
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52995",
+            "o:id": 52995
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52996",
+            "o:id": 52996
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52997",
+            "o:id": 52997
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52998",
+            "o:id": 52998
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52999",
+            "o:id": 52999
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53000",
+            "o:id": 53000
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53001",
+            "o:id": 53001
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53002",
+            "o:id": 53002
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53003",
+            "o:id": 53003
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53004",
+            "o:id": 53004
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53005",
+            "o:id": 53005
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53006",
+            "o:id": 53006
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53007",
+            "o:id": 53007
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53008",
+            "o:id": 53008
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53009",
+            "o:id": 53009
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53010",
+            "o:id": 53010
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53011",
+            "o:id": 53011
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53012",
+            "o:id": 53012
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53013",
+            "o:id": 53013
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53014",
+            "o:id": 53014
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53015",
+            "o:id": 53015
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53016",
+            "o:id": 53016
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53017",
+            "o:id": 53017
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53018",
+            "o:id": 53018
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53019",
+            "o:id": 53019
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53020",
+            "o:id": 53020
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53021",
+            "o:id": 53021
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53022",
+            "o:id": 53022
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53023",
+            "o:id": 53023
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53024",
+            "o:id": 53024
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53025",
+            "o:id": 53025
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53026",
+            "o:id": 53026
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:48:28+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "The western-inland-provinces of China proper, geographically and commercially considered in connection with British-Eastern-Pegue, and the port of Rangoon. With a map.Sprye, Capt. Richard & Reynell-Hele-Fowell.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

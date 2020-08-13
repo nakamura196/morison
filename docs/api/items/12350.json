@@ -1,0 +1,278 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12350",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1518",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "9dc43224-41d9-4723-9cdd-63f8220fd21b",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3611.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Lanzhou",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Manuel de politesse chinoise à l'usage des missionnaires.Van Dijk.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "37 p. ; 22 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Van Dijk.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "[Lanchow, 1909.]",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=14&tg3=A&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "14. Customs & Manners",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "A. General; Social Life; Etiquette",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Manuel de politesse chinoise à l\\'usage des missionnaires.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:07+00:00"
+    },
+    "o:id": 12350,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38365",
+            "o:id": 38365
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38366",
+            "o:id": 38366
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38367",
+            "o:id": 38367
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38368",
+            "o:id": 38368
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38369",
+            "o:id": 38369
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38370",
+            "o:id": 38370
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38371",
+            "o:id": 38371
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38372",
+            "o:id": 38372
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38373",
+            "o:id": 38373
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38374",
+            "o:id": 38374
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38375",
+            "o:id": 38375
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38376",
+            "o:id": 38376
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38377",
+            "o:id": 38377
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38378",
+            "o:id": 38378
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38379",
+            "o:id": 38379
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38380",
+            "o:id": 38380
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38381",
+            "o:id": 38381
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38382",
+            "o:id": 38382
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38383",
+            "o:id": 38383
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38384",
+            "o:id": 38384
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38385",
+            "o:id": 38385
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T14:09:21+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Manuel de politesse chinoise à l'usage des missionnaires.Van Dijk.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

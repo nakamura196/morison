@@ -1,0 +1,372 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13120",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-2038",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "a5813255-096a-4ab0-aa25-9ab40fb7e2aa",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4381.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/London",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The famine in China. Ill. by a native artist with a tr. of the Chinese text. by James Legge.China Famine Relief Fund.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "34 p. ; 20 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "China Famine Relief Fund.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:heading2": [
+        {
+            "@value": "Legge, James, tr.",
+            "is_public": true,
+            "property_id": 310,
+            "property_label": "heading2",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "London, 1878.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=20&tg3=B&tg4=f&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "20. Economy and Industry",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "B. Agriculture",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "f. Famine & famine relief works",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "The famine in China. Ill. by a native artist with a tr. of the Chinese text. by James Legge.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:12+00:00"
+    },
+    "o:id": 13120,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48678",
+            "o:id": 48678
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48679",
+            "o:id": 48679
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48680",
+            "o:id": 48680
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48681",
+            "o:id": 48681
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48682",
+            "o:id": 48682
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48683",
+            "o:id": 48683
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48684",
+            "o:id": 48684
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48685",
+            "o:id": 48685
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48686",
+            "o:id": 48686
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48687",
+            "o:id": 48687
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48688",
+            "o:id": 48688
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48689",
+            "o:id": 48689
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48690",
+            "o:id": 48690
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48691",
+            "o:id": 48691
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48692",
+            "o:id": 48692
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48693",
+            "o:id": 48693
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48694",
+            "o:id": 48694
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48695",
+            "o:id": 48695
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48696",
+            "o:id": 48696
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48697",
+            "o:id": 48697
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48779",
+            "o:id": 48779
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48780",
+            "o:id": 48780
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48781",
+            "o:id": 48781
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48782",
+            "o:id": 48782
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48783",
+            "o:id": 48783
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48784",
+            "o:id": 48784
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48785",
+            "o:id": 48785
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48786",
+            "o:id": 48786
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48787",
+            "o:id": 48787
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48788",
+            "o:id": 48788
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48789",
+            "o:id": 48789
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48790",
+            "o:id": 48790
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48791",
+            "o:id": 48791
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48792",
+            "o:id": 48792
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48793",
+            "o:id": 48793
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48794",
+            "o:id": 48794
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48795",
+            "o:id": 48795
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48796",
+            "o:id": 48796
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48797",
+            "o:id": 48797
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48798",
+            "o:id": 48798
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:33:46+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "The famine in China. Ill. by a native artist with a tr. of the Chinese text. by James Legge.China Famine Relief Fund.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

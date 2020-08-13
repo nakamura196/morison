@@ -1,0 +1,229 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13041",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-0851",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "afa2a039-db4b-473f-ab6f-7fdb9f984453",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4302.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Treaty of peace, friendship, commerce and navigation between Her Britannic Majesty and the Emperor of China. Signed at Tientsin, June 26th, 1858. Ratifications exchanged at Peking, October 24th, 1860.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=17&tg3=H&tg4=a&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "17. Law",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "H. International Law",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "a. Treaty Texts; Conventions, Agreements, Protocoles",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:12+00:00"
+    },
+    "o:id": 13041,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47395",
+            "o:id": 47395
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47396",
+            "o:id": 47396
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47397",
+            "o:id": 47397
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47398",
+            "o:id": 47398
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47399",
+            "o:id": 47399
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47400",
+            "o:id": 47400
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47401",
+            "o:id": 47401
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47402",
+            "o:id": 47402
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47403",
+            "o:id": 47403
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47404",
+            "o:id": 47404
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47405",
+            "o:id": 47405
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47406",
+            "o:id": 47406
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47407",
+            "o:id": 47407
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47408",
+            "o:id": 47408
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47409",
+            "o:id": 47409
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47410",
+            "o:id": 47410
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47411",
+            "o:id": 47411
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47412",
+            "o:id": 47412
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47413",
+            "o:id": 47413
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47414",
+            "o:id": 47414
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T02:24:18+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Treaty of peace, friendship, commerce and navigation between Her Britannic Majesty and the Emperor of China. Signed at Tientsin, June 26th, 1858. Ratifications exchanged at Peking, October 24th, 1860.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

@@ -1,0 +1,315 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13051",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1732",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "809f0ffa-2a0c-4a12-89ed-51756efb3864",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4312.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Brussels",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Juridiction et exterritorialité en Chine.Ferguson, J. Helenus.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "46 p. ; 23 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Ferguson, J. Helenus.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Bruxelles & La Haye, 1890.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=17&tg3=H&tg4=b&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "17. Law",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "H. International Law",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "b. Extraterritoriality; Consuhar Jurisdiction; Foreign Concession",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Juridiction et exterritorialité en Chine.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:12+00:00"
+    },
+    "o:id": 13051,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47555",
+            "o:id": 47555
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47556",
+            "o:id": 47556
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47557",
+            "o:id": 47557
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47558",
+            "o:id": 47558
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47559",
+            "o:id": 47559
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47560",
+            "o:id": 47560
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47561",
+            "o:id": 47561
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47562",
+            "o:id": 47562
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47563",
+            "o:id": 47563
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47564",
+            "o:id": 47564
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47565",
+            "o:id": 47565
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47566",
+            "o:id": 47566
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47567",
+            "o:id": 47567
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47568",
+            "o:id": 47568
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47569",
+            "o:id": 47569
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47570",
+            "o:id": 47570
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47571",
+            "o:id": 47571
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47572",
+            "o:id": 47572
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47573",
+            "o:id": 47573
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47574",
+            "o:id": 47574
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47575",
+            "o:id": 47575
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47576",
+            "o:id": 47576
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47577",
+            "o:id": 47577
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47578",
+            "o:id": 47578
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47579",
+            "o:id": 47579
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47580",
+            "o:id": 47580
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47581",
+            "o:id": 47581
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47582",
+            "o:id": 47582
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T14:01:11+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Juridiction et exterritorialité en Chine.Ferguson, J. Helenus.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

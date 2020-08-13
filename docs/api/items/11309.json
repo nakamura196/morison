@@ -1,0 +1,386 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11309",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-2560",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "215bbda7-5064-4633-a968-2a32e1a6162a",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2570.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Berlin",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Die Reformen des chinensischen Reiches in Verfassung, Verwaltung und Rechtsprechung mit Rücksicht auf die entsprechenden Einrichtungen Europeas.Tso Tschun-tschou.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "91 p. ; 24 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Tso Tschun-tschou.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Berlin, 1909.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=D&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "D. Modern history",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Die Reformen des chinensischen Reiches in Verfassung, Verwaltung und Rechtsprechung mit Rücksicht auf die entsprechenden Einrichtungen Europeas.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:00+00:00"
+    },
+    "o:id": 11309,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22868",
+            "o:id": 22868
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22869",
+            "o:id": 22869
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22870",
+            "o:id": 22870
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22871",
+            "o:id": 22871
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22872",
+            "o:id": 22872
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22873",
+            "o:id": 22873
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22874",
+            "o:id": 22874
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22875",
+            "o:id": 22875
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22876",
+            "o:id": 22876
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22877",
+            "o:id": 22877
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22878",
+            "o:id": 22878
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22879",
+            "o:id": 22879
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22880",
+            "o:id": 22880
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22881",
+            "o:id": 22881
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22882",
+            "o:id": 22882
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22883",
+            "o:id": 22883
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22884",
+            "o:id": 22884
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22885",
+            "o:id": 22885
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22886",
+            "o:id": 22886
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22887",
+            "o:id": 22887
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22888",
+            "o:id": 22888
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22889",
+            "o:id": 22889
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22890",
+            "o:id": 22890
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22891",
+            "o:id": 22891
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22892",
+            "o:id": 22892
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22893",
+            "o:id": 22893
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22894",
+            "o:id": 22894
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22895",
+            "o:id": 22895
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22896",
+            "o:id": 22896
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22897",
+            "o:id": 22897
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22898",
+            "o:id": 22898
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22899",
+            "o:id": 22899
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22900",
+            "o:id": 22900
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22901",
+            "o:id": 22901
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22902",
+            "o:id": 22902
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22903",
+            "o:id": 22903
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22904",
+            "o:id": 22904
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22905",
+            "o:id": 22905
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22906",
+            "o:id": 22906
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22907",
+            "o:id": 22907
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22908",
+            "o:id": 22908
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22909",
+            "o:id": 22909
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22910",
+            "o:id": 22910
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22911",
+            "o:id": 22911
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22912",
+            "o:id": 22912
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22913",
+            "o:id": 22913
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22914",
+            "o:id": 22914
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22915",
+            "o:id": 22915
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:48:24+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Die Reformen des chinensischen Reiches in Verfassung, Verwaltung und Rechtsprechung mit Rücksicht auf die entsprechenden Einrichtungen Europeas.Tso Tschun-tschou.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

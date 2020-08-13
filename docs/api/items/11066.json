@@ -1,0 +1,229 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11066",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-0132",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "ab42650a-9bcc-4fb1-aa50-da1acedf40a4",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2327.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Marco Polo and travels in his footsteps: Being review based on: - 1. The book of Ser Marco Polo by Col. Henry Yule. London. 1871. - 2. Visit to High Tartary, Yarkand and Kashgar by Robert Shaw. London. 1871. - 3. Travels of a pioneer of commerce by T. T. Cooper. London. 1871. - 4. Proceedings of the Royal Geographical Society.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=F&tg4=c&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "F. Ancient & Mediaeval Description & Travel",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "c. Individual Works (Marco Pole)",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:59+00:00"
+    },
+    "o:id": 11066,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19102",
+            "o:id": 19102
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19103",
+            "o:id": 19103
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19104",
+            "o:id": 19104
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19105",
+            "o:id": 19105
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19106",
+            "o:id": 19106
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19107",
+            "o:id": 19107
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19108",
+            "o:id": 19108
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19109",
+            "o:id": 19109
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19110",
+            "o:id": 19110
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19111",
+            "o:id": 19111
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19112",
+            "o:id": 19112
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19113",
+            "o:id": 19113
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19114",
+            "o:id": 19114
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19115",
+            "o:id": 19115
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19116",
+            "o:id": 19116
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19117",
+            "o:id": 19117
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19118",
+            "o:id": 19118
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19119",
+            "o:id": 19119
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19120",
+            "o:id": 19120
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19121",
+            "o:id": 19121
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T01:14:08+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Marco Polo and travels in his footsteps: Being review based on: - 1. The book of Ser Marco Polo by Col. Henry Yule. London. 1871. - 2. Visit to High Tartary, Yarkand and Kashgar by Robert Shaw. London. 1871. - 3. Travels of a pioneer of commerce by T. T. Cooper. London. 1871. - 4. Proceedings of the Royal Geographical Society.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

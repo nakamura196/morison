@@ -1,0 +1,354 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11410",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-777",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1922",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "b19e0565-ae6b-4a99-bfd6-e483ab707f2f",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2671.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Un président de la République chinoise Yuen Chi kay, le directeur.Matignon, J[ean] J[acques].",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "pp. 193-207 ; 23 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Matignon, J[ean] J[acques].",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "1922",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=E&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "E. Recent history",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Un président de la République chinoise Yuen Chi kay, le directeur.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:01+00:00"
+    },
+    "o:id": 11410,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24175",
+            "o:id": 24175
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24176",
+            "o:id": 24176
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24177",
+            "o:id": 24177
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24178",
+            "o:id": 24178
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24179",
+            "o:id": 24179
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24180",
+            "o:id": 24180
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24181",
+            "o:id": 24181
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24182",
+            "o:id": 24182
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24183",
+            "o:id": 24183
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24184",
+            "o:id": 24184
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24185",
+            "o:id": 24185
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24186",
+            "o:id": 24186
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24187",
+            "o:id": 24187
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24188",
+            "o:id": 24188
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24189",
+            "o:id": 24189
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24190",
+            "o:id": 24190
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24191",
+            "o:id": 24191
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24192",
+            "o:id": 24192
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24193",
+            "o:id": 24193
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24194",
+            "o:id": 24194
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24813",
+            "o:id": 24813
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24814",
+            "o:id": 24814
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24815",
+            "o:id": 24815
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24816",
+            "o:id": 24816
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24817",
+            "o:id": 24817
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24818",
+            "o:id": 24818
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24819",
+            "o:id": 24819
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24820",
+            "o:id": 24820
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24821",
+            "o:id": 24821
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24822",
+            "o:id": 24822
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24823",
+            "o:id": 24823
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24824",
+            "o:id": 24824
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24825",
+            "o:id": 24825
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24826",
+            "o:id": 24826
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24827",
+            "o:id": 24827
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24828",
+            "o:id": 24828
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24829",
+            "o:id": 24829
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24830",
+            "o:id": 24830
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24831",
+            "o:id": 24831
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24832",
+            "o:id": 24832
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:36:36+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Un président de la République chinoise Yuen Chi kay, le directeur.Matignon, J[ean] J[acques].",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

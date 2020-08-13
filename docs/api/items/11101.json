@@ -1,0 +1,322 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11101",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-3257",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "46ef2dca-1ed1-4ec3-b6f5-6369ef323fec",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2362.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/London",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Buddhism and Buddhist pilgrims. A review of M. Stanislas Julien's \"Voyages des pelerins buddhistes\". Together with a better on the original meaning of \"Nirvâna\".Müller, Max.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "54 p. ; 22 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Müller, Max.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "London &c., 1857.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=G&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "G. Chinese Knowledge of Foreign Lands",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Buddhism and Buddhist pilgrims. A review of M. Stanislas Julien\\'s \"Voyages des pelerins buddhistes\". Together with a better on the original meaning of \"Nirvâna\".",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:59+00:00"
+    },
+    "o:id": 11101,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19654",
+            "o:id": 19654
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19655",
+            "o:id": 19655
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19656",
+            "o:id": 19656
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19657",
+            "o:id": 19657
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19658",
+            "o:id": 19658
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19659",
+            "o:id": 19659
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19660",
+            "o:id": 19660
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19661",
+            "o:id": 19661
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19662",
+            "o:id": 19662
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19663",
+            "o:id": 19663
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19664",
+            "o:id": 19664
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19665",
+            "o:id": 19665
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19666",
+            "o:id": 19666
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19667",
+            "o:id": 19667
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19668",
+            "o:id": 19668
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19669",
+            "o:id": 19669
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19670",
+            "o:id": 19670
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19671",
+            "o:id": 19671
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19672",
+            "o:id": 19672
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19673",
+            "o:id": 19673
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19674",
+            "o:id": 19674
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19675",
+            "o:id": 19675
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19676",
+            "o:id": 19676
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19677",
+            "o:id": 19677
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19678",
+            "o:id": 19678
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19679",
+            "o:id": 19679
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19680",
+            "o:id": 19680
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19681",
+            "o:id": 19681
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19682",
+            "o:id": 19682
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19683",
+            "o:id": 19683
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19684",
+            "o:id": 19684
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19685",
+            "o:id": 19685
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:56:22+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Buddhism and Buddhist pilgrims. A review of M. Stanislas Julien's \"Voyages des pelerins buddhistes\". Together with a better on the original meaning of \"Nirvâna\".Müller, Max.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

@@ -1,0 +1,270 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12598",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1595",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1883",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "a2839286-bb65-4c55-b4e0-aedde0d7a0b8",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3859.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Bijdrage tot de kennis der Chineeshe geheime genootschappen.Young, J. W.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "pp. 546-577 ; 23 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Young, J. W.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "1883",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=14&tg3=T&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "14. Customs & Manners",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "T. Secret Societies",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Bijdrage tot de kennis der Chineeshe geheime genootschappen.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:09+00:00"
+    },
+    "o:id": 12598,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41655",
+            "o:id": 41655
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41656",
+            "o:id": 41656
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41657",
+            "o:id": 41657
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41658",
+            "o:id": 41658
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41659",
+            "o:id": 41659
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41660",
+            "o:id": 41660
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41661",
+            "o:id": 41661
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41662",
+            "o:id": 41662
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41663",
+            "o:id": 41663
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41664",
+            "o:id": 41664
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41665",
+            "o:id": 41665
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41666",
+            "o:id": 41666
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41667",
+            "o:id": 41667
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41668",
+            "o:id": 41668
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41669",
+            "o:id": 41669
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41670",
+            "o:id": 41670
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41671",
+            "o:id": 41671
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41672",
+            "o:id": 41672
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41673",
+            "o:id": 41673
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:55:07+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Bijdrage tot de kennis der Chineeshe geheime genootschappen.Young, J. W.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

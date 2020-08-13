@@ -1,0 +1,257 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12543",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1616",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "58b462bb-aff7-4007-8d56-75f4c414b82a",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3804.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "[Constitution, history and list of members up to January 14, 1899.]American Association of China.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "American Association of China.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "28 p. ; 20 cm.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=14&tg3=S&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "14. Customs & Manners",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "S. Association & Club",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "[Constitution, history and list of members up to January 14, 1899.]",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:09+00:00"
+    },
+    "o:id": 12543,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41036",
+            "o:id": 41036
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41037",
+            "o:id": 41037
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41038",
+            "o:id": 41038
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41039",
+            "o:id": 41039
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41040",
+            "o:id": 41040
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41041",
+            "o:id": 41041
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41042",
+            "o:id": 41042
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41043",
+            "o:id": 41043
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41044",
+            "o:id": 41044
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41045",
+            "o:id": 41045
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41046",
+            "o:id": 41046
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41047",
+            "o:id": 41047
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41048",
+            "o:id": 41048
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41049",
+            "o:id": 41049
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41050",
+            "o:id": 41050
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41051",
+            "o:id": 41051
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41052",
+            "o:id": 41052
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41053",
+            "o:id": 41053
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:45:39+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "[Constitution, history and list of members up to January 14, 1899.]American Association of China.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

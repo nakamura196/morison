@@ -1,0 +1,253 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/10962",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-0204",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "8136e859-1ed1-421c-804d-7989d9f3c99b",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2223.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Die drei Kiang des Chouking ihre Geschichte von ehedem bis jetzt. Randglossen und Ergänzungen zu Richthofens \"China\" Bd. 1.Tschepe, P. Albert.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=C&tg4=b&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "C. Local topography & Travels",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "b. Central China",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:58+00:00"
+    },
+    "o:id": 10962,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17391",
+            "o:id": 17391
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17392",
+            "o:id": 17392
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17393",
+            "o:id": 17393
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17394",
+            "o:id": 17394
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17395",
+            "o:id": 17395
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17396",
+            "o:id": 17396
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17397",
+            "o:id": 17397
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17398",
+            "o:id": 17398
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17399",
+            "o:id": 17399
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17400",
+            "o:id": 17400
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17401",
+            "o:id": 17401
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17402",
+            "o:id": 17402
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17403",
+            "o:id": 17403
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17404",
+            "o:id": 17404
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17405",
+            "o:id": 17405
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17406",
+            "o:id": 17406
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17407",
+            "o:id": 17407
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17408",
+            "o:id": 17408
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17409",
+            "o:id": 17409
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17410",
+            "o:id": 17410
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17411",
+            "o:id": 17411
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17412",
+            "o:id": 17412
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17413",
+            "o:id": 17413
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17414",
+            "o:id": 17414
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17415",
+            "o:id": 17415
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17416",
+            "o:id": 17416
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T01:44:02+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Die drei Kiang des Chouking ihre Geschichte von ehedem bis jetzt. Randglossen und Ergänzungen zu Richthofens \"China\" Bd. 1.Tschepe, P. Albert.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

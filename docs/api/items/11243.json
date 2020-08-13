@@ -1,0 +1,346 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11243",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-754",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "e79fc24a-a27a-410e-b308-a6cc4c82eed8",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2504.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/London",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The Taepings. The Speech of S. G. ... and the reply of A. H. L.Gregson, Samuel & Layard A. H.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "35 p. ; 21 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Gregson, Samuel & Layard A. H.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "London, 1862.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=D&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "D. Modern history",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "The Taepings. The Speech of S. G. ... and the reply of A. H. L.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:00+00:00"
+    },
+    "o:id": 11243,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22014",
+            "o:id": 22014
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22015",
+            "o:id": 22015
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22016",
+            "o:id": 22016
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22017",
+            "o:id": 22017
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22018",
+            "o:id": 22018
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22019",
+            "o:id": 22019
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22020",
+            "o:id": 22020
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22021",
+            "o:id": 22021
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22022",
+            "o:id": 22022
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22023",
+            "o:id": 22023
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22024",
+            "o:id": 22024
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22025",
+            "o:id": 22025
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22026",
+            "o:id": 22026
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22027",
+            "o:id": 22027
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22028",
+            "o:id": 22028
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22029",
+            "o:id": 22029
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22030",
+            "o:id": 22030
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22031",
+            "o:id": 22031
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22032",
+            "o:id": 22032
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22368",
+            "o:id": 22368
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22369",
+            "o:id": 22369
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22370",
+            "o:id": 22370
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22371",
+            "o:id": 22371
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22372",
+            "o:id": 22372
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22373",
+            "o:id": 22373
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22374",
+            "o:id": 22374
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22375",
+            "o:id": 22375
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22376",
+            "o:id": 22376
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22377",
+            "o:id": 22377
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22378",
+            "o:id": 22378
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22379",
+            "o:id": 22379
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22380",
+            "o:id": 22380
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22381",
+            "o:id": 22381
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22382",
+            "o:id": 22382
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22383",
+            "o:id": 22383
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22384",
+            "o:id": 22384
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22385",
+            "o:id": 22385
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22386",
+            "o:id": 22386
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:34:46+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "The Taepings. The Speech of S. G. ... and the reply of A. H. L.Gregson, Samuel & Layard A. H.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

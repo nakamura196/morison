@@ -1,0 +1,213 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/10924",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-0218",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "8347e17c-bff5-4b4a-9dac-1acb5823b684",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2185.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Northeastern Chehkiang, China : Notes on human adaptation to environment.Goodchild, Thomas.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=C&tg4=b&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "C. Local topography & Travels",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "b. Central China",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:58+00:00"
+    },
+    "o:id": 10924,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16675",
+            "o:id": 16675
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16676",
+            "o:id": 16676
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16677",
+            "o:id": 16677
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16678",
+            "o:id": 16678
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16679",
+            "o:id": 16679
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16680",
+            "o:id": 16680
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16681",
+            "o:id": 16681
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16682",
+            "o:id": 16682
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16683",
+            "o:id": 16683
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16684",
+            "o:id": 16684
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16685",
+            "o:id": 16685
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16686",
+            "o:id": 16686
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16687",
+            "o:id": 16687
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16688",
+            "o:id": 16688
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16689",
+            "o:id": 16689
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16690",
+            "o:id": 16690
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T00:54:58+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Northeastern Chehkiang, China : Notes on human adaptation to environment.Goodchild, Thomas.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

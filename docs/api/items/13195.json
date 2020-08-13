@@ -1,0 +1,563 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13195",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-c-103",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "3345baab-ad0c-4d3f-9d7d-09b89013a924",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4456.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Shanghai",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Chief inspectorate of the Central salt administration. Accounts for 1913-1914.China. Ministry of Finance.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "2 v. (7 p.) ; 28 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "China. Ministry of Finance.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Shanghai, 1915-1916,",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=20&tg3=F&tg4=f&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "20. Economy and Industry",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "F. Fishery and marine products",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "f. Salt industry",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Chief inspectorate of the Central salt administration. Accounts for 1913-1914.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:13+00:00"
+    },
+    "o:id": 13195,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49598",
+            "o:id": 49598
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49599",
+            "o:id": 49599
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49600",
+            "o:id": 49600
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49601",
+            "o:id": 49601
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49602",
+            "o:id": 49602
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49603",
+            "o:id": 49603
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49604",
+            "o:id": 49604
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49605",
+            "o:id": 49605
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49606",
+            "o:id": 49606
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49607",
+            "o:id": 49607
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49608",
+            "o:id": 49608
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49609",
+            "o:id": 49609
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49610",
+            "o:id": 49610
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49611",
+            "o:id": 49611
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49612",
+            "o:id": 49612
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49613",
+            "o:id": 49613
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49614",
+            "o:id": 49614
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49615",
+            "o:id": 49615
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49616",
+            "o:id": 49616
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49617",
+            "o:id": 49617
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49618",
+            "o:id": 49618
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49619",
+            "o:id": 49619
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49620",
+            "o:id": 49620
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49621",
+            "o:id": 49621
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49622",
+            "o:id": 49622
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49623",
+            "o:id": 49623
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49624",
+            "o:id": 49624
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49625",
+            "o:id": 49625
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49626",
+            "o:id": 49626
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49627",
+            "o:id": 49627
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49628",
+            "o:id": 49628
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49629",
+            "o:id": 49629
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49630",
+            "o:id": 49630
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49631",
+            "o:id": 49631
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49632",
+            "o:id": 49632
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49633",
+            "o:id": 49633
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49634",
+            "o:id": 49634
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49635",
+            "o:id": 49635
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49636",
+            "o:id": 49636
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49637",
+            "o:id": 49637
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49638",
+            "o:id": 49638
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49639",
+            "o:id": 49639
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49640",
+            "o:id": 49640
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49641",
+            "o:id": 49641
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49642",
+            "o:id": 49642
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49643",
+            "o:id": 49643
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49644",
+            "o:id": 49644
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49645",
+            "o:id": 49645
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49646",
+            "o:id": 49646
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49647",
+            "o:id": 49647
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49648",
+            "o:id": 49648
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49649",
+            "o:id": 49649
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49650",
+            "o:id": 49650
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49651",
+            "o:id": 49651
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49652",
+            "o:id": 49652
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49653",
+            "o:id": 49653
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49654",
+            "o:id": 49654
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49655",
+            "o:id": 49655
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49656",
+            "o:id": 49656
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49657",
+            "o:id": 49657
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49658",
+            "o:id": 49658
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49659",
+            "o:id": 49659
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49660",
+            "o:id": 49660
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49661",
+            "o:id": 49661
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49662",
+            "o:id": 49662
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49663",
+            "o:id": 49663
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49664",
+            "o:id": 49664
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49665",
+            "o:id": 49665
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49666",
+            "o:id": 49666
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49667",
+            "o:id": 49667
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49668",
+            "o:id": 49668
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49669",
+            "o:id": 49669
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49670",
+            "o:id": 49670
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49671",
+            "o:id": 49671
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49672",
+            "o:id": 49672
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49673",
+            "o:id": 49673
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49674",
+            "o:id": 49674
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49675",
+            "o:id": 49675
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49676",
+            "o:id": 49676
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49677",
+            "o:id": 49677
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49678",
+            "o:id": 49678
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49679",
+            "o:id": 49679
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49680",
+            "o:id": 49680
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49681",
+            "o:id": 49681
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49682",
+            "o:id": 49682
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49683",
+            "o:id": 49683
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49684",
+            "o:id": 49684
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49685",
+            "o:id": 49685
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49686",
+            "o:id": 49686
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49687",
+            "o:id": 49687
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:33:10+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Chief inspectorate of the Central salt administration. Accounts for 1913-1914.China. Ministry of Finance.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

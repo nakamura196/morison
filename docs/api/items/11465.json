@@ -1,0 +1,263 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11465",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-749",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1904",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "46af4157-324a-48c7-94b0-8610d735ed97",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2726.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Shanghai",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The Battle of \"Muddy Flat\" 1854. Being an historical sketch of that famous occurance, written specially for the Jubilee Commemoration thereof at Shanghai, Apri 1904; with some added particulars relating to the Shanghai Volunteer Corps.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "17 p. ; 23 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Shanghai, 1904.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=F&tg4=a&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "F. Foreign relations",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "a. General history of foreign relations with China",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "The Battle of \"Muddy Flat\" 1854. Being an historical sketch of that famous occurance, written specially for the Jubilee Commemoration thereof at Shanghai, Apri 1904; with some added particulars relating to the Shanghai Volunteer Corps.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:01+00:00"
+    },
+    "o:id": 11465,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24967",
+            "o:id": 24967
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24968",
+            "o:id": 24968
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24969",
+            "o:id": 24969
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24970",
+            "o:id": 24970
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24971",
+            "o:id": 24971
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24972",
+            "o:id": 24972
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24973",
+            "o:id": 24973
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24974",
+            "o:id": 24974
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24975",
+            "o:id": 24975
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24976",
+            "o:id": 24976
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24977",
+            "o:id": 24977
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24978",
+            "o:id": 24978
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24979",
+            "o:id": 24979
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24980",
+            "o:id": 24980
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24981",
+            "o:id": 24981
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:32:30+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "The Battle of \"Muddy Flat\" 1854. Being an historical sketch of that famous occurance, written specially for the Jubilee Commemoration thereof at Shanghai, Apri 1904; with some added particulars relating to the Shanghai Volunteer Corps.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

@@ -1,0 +1,258 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11940",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-b-1001",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1900",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "62968d34-fd1a-42d4-97e5-956e5585a7c3",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3201.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The Peking legations: A national uprising and international episode.Hart, Sir Robert.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "pp. 713-739 ; 26 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Hart, Sir Robert.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "1900",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=G&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "G. The Boxer rising, 1900-01",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "The Peking legations: A national uprising and international episode.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:05+00:00"
+    },
+    "o:id": 11940,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32109",
+            "o:id": 32109
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32110",
+            "o:id": 32110
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32111",
+            "o:id": 32111
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32112",
+            "o:id": 32112
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32113",
+            "o:id": 32113
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32114",
+            "o:id": 32114
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32115",
+            "o:id": 32115
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32116",
+            "o:id": 32116
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32117",
+            "o:id": 32117
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32118",
+            "o:id": 32118
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32119",
+            "o:id": 32119
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32120",
+            "o:id": 32120
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32121",
+            "o:id": 32121
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32122",
+            "o:id": 32122
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32123",
+            "o:id": 32123
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32124",
+            "o:id": 32124
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T14:29:59+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "The Peking legations: A national uprising and international episode.Hart, Sir Robert.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

@@ -1,0 +1,325 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11039",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-2673",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "afa4ea22-5e26-4c44-a335-7c2cc8079541",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2300.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Guide du voyageur sur la ligne du chemin de Fer Chinois de l'Est.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "63 p. ; 22 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "St. Pétersburg, 1906-1907.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=D&tg4=b&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "D. Mountains & Rivers; Lakes & Canals",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "b. Rivers, Canals, & Lakes",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Guide du voyageur sur la ligne du chemin de Fer Chinois de l\\'Est.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:59+00:00"
+    },
+    "o:id": 11039,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18653",
+            "o:id": 18653
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18654",
+            "o:id": 18654
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18655",
+            "o:id": 18655
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18656",
+            "o:id": 18656
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18657",
+            "o:id": 18657
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18658",
+            "o:id": 18658
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18659",
+            "o:id": 18659
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18660",
+            "o:id": 18660
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18661",
+            "o:id": 18661
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18662",
+            "o:id": 18662
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18663",
+            "o:id": 18663
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18664",
+            "o:id": 18664
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18665",
+            "o:id": 18665
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18666",
+            "o:id": 18666
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18667",
+            "o:id": 18667
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18668",
+            "o:id": 18668
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18669",
+            "o:id": 18669
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18670",
+            "o:id": 18670
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18671",
+            "o:id": 18671
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18672",
+            "o:id": 18672
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18673",
+            "o:id": 18673
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18674",
+            "o:id": 18674
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18675",
+            "o:id": 18675
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18676",
+            "o:id": 18676
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18677",
+            "o:id": 18677
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18678",
+            "o:id": 18678
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18679",
+            "o:id": 18679
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18680",
+            "o:id": 18680
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18681",
+            "o:id": 18681
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18682",
+            "o:id": 18682
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18683",
+            "o:id": 18683
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18684",
+            "o:id": 18684
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18685",
+            "o:id": 18685
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18686",
+            "o:id": 18686
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18687",
+            "o:id": 18687
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:32:14+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Guide du voyageur sur la ligne du chemin de Fer Chinois de l'Est.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

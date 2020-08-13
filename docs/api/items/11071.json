@@ -1,0 +1,279 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11071",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-b-1197",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "544d414a-78da-4e79-bae6-2276c7c14dca",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2332.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Paris",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Description de la Ville de Quinsay (Hang-tcheou fou), capitale de l'Empire des Soung. Comprenant les 151e et 152e chapitres du Livre dè Marco Polo, citoyen de Venise, conseiller privé et ministre plénipotentiaire en second de l'Empereur Mongol Khoubilai-Khaan qui régnait en Chine au XIIIe siècle de notre ère.Pauthier, Jean Pierre Guillaume.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "pp. 491-518 ; 26 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Pauthier, Jean Pierre Guillaume.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Paris, 1863.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=F&tg4=c&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "F. Ancient & Mediaeval Description & Travel",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "c. Individual Works (Marco Pole)",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Description de la Ville de Quinsay (Hang-tcheou fou), capitale de l\\'Empire des Soung. Comprenant les 151e et 152e chapitres du Livre dè Marco Polo, citoyen de Venise, conseiller privé et ministre plénipotentiaire en second de l\\'Empereur Mongol Khoubilai-Khaan qui régnait en Chine au XIIIe siècle de notre ère.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:59+00:00"
+    },
+    "o:id": 11071,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19192",
+            "o:id": 19192
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19193",
+            "o:id": 19193
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19194",
+            "o:id": 19194
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19195",
+            "o:id": 19195
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19196",
+            "o:id": 19196
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19197",
+            "o:id": 19197
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19198",
+            "o:id": 19198
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19199",
+            "o:id": 19199
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19200",
+            "o:id": 19200
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19201",
+            "o:id": 19201
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19202",
+            "o:id": 19202
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19203",
+            "o:id": 19203
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19204",
+            "o:id": 19204
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19205",
+            "o:id": 19205
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19206",
+            "o:id": 19206
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19207",
+            "o:id": 19207
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19208",
+            "o:id": 19208
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19209",
+            "o:id": 19209
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19210",
+            "o:id": 19210
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:35:25+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Description de la Ville de Quinsay (Hang-tcheou fou), capitale de l'Empire des Soung. Comprenant les 151e et 152e chapitres du Livre dè Marco Polo, citoyen de Venise, conseiller privé et ministre plénipotentiaire en second de l'Empereur Mongol Khoubilai-Khaan qui régnait en Chine au XIIIe siècle de notre ère.Pauthier, Jean Pierre Guillaume.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

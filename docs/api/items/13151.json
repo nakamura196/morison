@@ -1,0 +1,300 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13151",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1972",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1895",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "e399b394-5163-4e41-a7ec-aeb0368a8345",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4412.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/London",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "On the tea cultivation in Western Ssǔchuan and the tea trade with Tibet viâ Tachienlu.Rosthorn, A. de.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "40 p. ; 19 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Rosthorn, A. de.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "London, 1895.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=20&tg3=B&tg4=g&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "20. Economy and Industry",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "B. Agriculture",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "g. Agricultural products",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "On the tea cultivation in Western Ssǔchuan and the tea trade with Tibet viâ Tachienlu.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:12+00:00"
+    },
+    "o:id": 13151,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49024",
+            "o:id": 49024
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49025",
+            "o:id": 49025
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49026",
+            "o:id": 49026
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49027",
+            "o:id": 49027
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49028",
+            "o:id": 49028
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49029",
+            "o:id": 49029
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49030",
+            "o:id": 49030
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49031",
+            "o:id": 49031
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49032",
+            "o:id": 49032
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49033",
+            "o:id": 49033
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49034",
+            "o:id": 49034
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49035",
+            "o:id": 49035
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49036",
+            "o:id": 49036
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49037",
+            "o:id": 49037
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49038",
+            "o:id": 49038
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49039",
+            "o:id": 49039
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49040",
+            "o:id": 49040
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49041",
+            "o:id": 49041
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49042",
+            "o:id": 49042
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49043",
+            "o:id": 49043
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49044",
+            "o:id": 49044
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49045",
+            "o:id": 49045
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:32:24+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "On the tea cultivation in Western Ssǔchuan and the tea trade with Tibet viâ Tachienlu.Rosthorn, A. de.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

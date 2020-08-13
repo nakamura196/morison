@@ -1,0 +1,290 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12599",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1593",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1877",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "f171c1f5-b504-472f-b676-5b7ced0a1030",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3860.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Chinese eunuchs.Stent, G[eorge] Carter.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "pp. 143-184 ; 24 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Stent, G[eorge] Carter.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "1877",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=14&tg3=U&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "14. Customs & Manners",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "U. Sexual Life; Prostitution; Eunuchs",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Chinese eunuchs.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:09+00:00"
+    },
+    "o:id": 12599,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41674",
+            "o:id": 41674
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41675",
+            "o:id": 41675
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41676",
+            "o:id": 41676
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41677",
+            "o:id": 41677
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41678",
+            "o:id": 41678
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41679",
+            "o:id": 41679
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41680",
+            "o:id": 41680
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41681",
+            "o:id": 41681
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41682",
+            "o:id": 41682
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41683",
+            "o:id": 41683
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41684",
+            "o:id": 41684
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41685",
+            "o:id": 41685
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41686",
+            "o:id": 41686
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41687",
+            "o:id": 41687
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41688",
+            "o:id": 41688
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41689",
+            "o:id": 41689
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41690",
+            "o:id": 41690
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41691",
+            "o:id": 41691
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41692",
+            "o:id": 41692
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41693",
+            "o:id": 41693
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41694",
+            "o:id": 41694
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41695",
+            "o:id": 41695
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41696",
+            "o:id": 41696
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41697",
+            "o:id": 41697
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T14:30:12+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Chinese eunuchs.Stent, G[eorge] Carter.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

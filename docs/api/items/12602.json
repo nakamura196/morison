@@ -1,0 +1,274 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12602",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-b-1245",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "d680c703-73c5-40dd-a5dc-bf8bfe2c1097",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3863.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Leiden",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The origins and nature of chattel slavery in China.PulleyblanK, E. G.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "pp. 185-220 ; 28 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "PulleyblanK, E. G.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Leiden, 1958.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=14&tg3=V&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "14. Customs & Manners",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "V. Slaves; Beggars",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "The origins and nature of chattel slavery in China.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:09+00:00"
+    },
+    "o:id": 12602,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41709",
+            "o:id": 41709
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41710",
+            "o:id": 41710
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41711",
+            "o:id": 41711
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41712",
+            "o:id": 41712
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41713",
+            "o:id": 41713
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41714",
+            "o:id": 41714
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41715",
+            "o:id": 41715
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41716",
+            "o:id": 41716
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41717",
+            "o:id": 41717
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41718",
+            "o:id": 41718
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41719",
+            "o:id": 41719
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41720",
+            "o:id": 41720
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41721",
+            "o:id": 41721
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41722",
+            "o:id": 41722
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41723",
+            "o:id": 41723
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41724",
+            "o:id": 41724
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41725",
+            "o:id": 41725
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41726",
+            "o:id": 41726
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41727",
+            "o:id": 41727
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41728",
+            "o:id": 41728
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:34:23+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "The origins and nature of chattel slavery in China.PulleyblanK, E. G.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

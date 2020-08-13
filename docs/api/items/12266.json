@@ -1,0 +1,347 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12266",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1460",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "4595f028-b03f-491f-b93e-3860176327e9",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3527.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/New_York_(disambiguation)",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "On the Nestorian tablet at Se-gan foo.(Repr. fr. the North China herald.)Wylie, A.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "pp. 277-36 ; 23 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Wylie, A.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "New York, 1856.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=10&tg3=E&tg4=b&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "10. Religion",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "E. Christianity",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "b. Nestorian Christianity",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "On the Nestorian tablet at Se-gan foo.(Repr. fr. the North China herald.)",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:07+00:00"
+    },
+    "o:id": 12266,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36929",
+            "o:id": 36929
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36930",
+            "o:id": 36930
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36931",
+            "o:id": 36931
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36932",
+            "o:id": 36932
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36933",
+            "o:id": 36933
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36934",
+            "o:id": 36934
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36935",
+            "o:id": 36935
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36936",
+            "o:id": 36936
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36937",
+            "o:id": 36937
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36938",
+            "o:id": 36938
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36939",
+            "o:id": 36939
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36940",
+            "o:id": 36940
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36941",
+            "o:id": 36941
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36942",
+            "o:id": 36942
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36943",
+            "o:id": 36943
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36944",
+            "o:id": 36944
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36945",
+            "o:id": 36945
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36946",
+            "o:id": 36946
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36947",
+            "o:id": 36947
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36948",
+            "o:id": 36948
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36949",
+            "o:id": 36949
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36950",
+            "o:id": 36950
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36951",
+            "o:id": 36951
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36952",
+            "o:id": 36952
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36953",
+            "o:id": 36953
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36954",
+            "o:id": 36954
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36955",
+            "o:id": 36955
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36956",
+            "o:id": 36956
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36957",
+            "o:id": 36957
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36958",
+            "o:id": 36958
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36959",
+            "o:id": 36959
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36960",
+            "o:id": 36960
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36961",
+            "o:id": 36961
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36962",
+            "o:id": 36962
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36963",
+            "o:id": 36963
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36964",
+            "o:id": 36964
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:59:40+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "On the Nestorian tablet at Se-gan foo.(Repr. fr. the North China herald.)Wylie, A.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

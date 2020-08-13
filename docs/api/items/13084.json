@@ -1,0 +1,287 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13084",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-2049",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "54ef252b-3ee7-4bd1-bd75-bb584863040c",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4345.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Chinese trade and economic notes.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "6 v. ; 23 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=20&tg3=A&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "20. Economy and Industry",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "A. Economy and industry in general; statistics in general",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Chinese trade and economic notes.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:12+00:00"
+    },
+    "o:id": 13084,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48127",
+            "o:id": 48127
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48128",
+            "o:id": 48128
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48129",
+            "o:id": 48129
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48130",
+            "o:id": 48130
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48131",
+            "o:id": 48131
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48132",
+            "o:id": 48132
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48133",
+            "o:id": 48133
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48134",
+            "o:id": 48134
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48135",
+            "o:id": 48135
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48136",
+            "o:id": 48136
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48137",
+            "o:id": 48137
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48138",
+            "o:id": 48138
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48139",
+            "o:id": 48139
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48140",
+            "o:id": 48140
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48141",
+            "o:id": 48141
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48142",
+            "o:id": 48142
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48143",
+            "o:id": 48143
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48144",
+            "o:id": 48144
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48145",
+            "o:id": 48145
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48146",
+            "o:id": 48146
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48147",
+            "o:id": 48147
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48148",
+            "o:id": 48148
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48149",
+            "o:id": 48149
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48150",
+            "o:id": 48150
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48151",
+            "o:id": 48151
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48152",
+            "o:id": 48152
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48153",
+            "o:id": 48153
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48154",
+            "o:id": 48154
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48155",
+            "o:id": 48155
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48156",
+            "o:id": 48156
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T14:10:05+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Chinese trade and economic notes.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

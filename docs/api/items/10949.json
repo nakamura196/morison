@@ -1,0 +1,285 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/10949",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-0234",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "b89f6c04-5610-4a93-bafa-b3fa04185835",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2210.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The Nanking handbook.Nanking Association.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=C&tg4=b&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "C. Local topography & Travels",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "b. Central China",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:58+00:00"
+    },
+    "o:id": 10949,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17155",
+            "o:id": 17155
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17156",
+            "o:id": 17156
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17157",
+            "o:id": 17157
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17158",
+            "o:id": 17158
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17159",
+            "o:id": 17159
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17160",
+            "o:id": 17160
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17161",
+            "o:id": 17161
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17162",
+            "o:id": 17162
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17163",
+            "o:id": 17163
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17164",
+            "o:id": 17164
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17165",
+            "o:id": 17165
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17166",
+            "o:id": 17166
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17167",
+            "o:id": 17167
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17168",
+            "o:id": 17168
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17169",
+            "o:id": 17169
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17170",
+            "o:id": 17170
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17171",
+            "o:id": 17171
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17172",
+            "o:id": 17172
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17173",
+            "o:id": 17173
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17174",
+            "o:id": 17174
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17175",
+            "o:id": 17175
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17176",
+            "o:id": 17176
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17177",
+            "o:id": 17177
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17178",
+            "o:id": 17178
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17179",
+            "o:id": 17179
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17180",
+            "o:id": 17180
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17181",
+            "o:id": 17181
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17182",
+            "o:id": 17182
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17183",
+            "o:id": 17183
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17184",
+            "o:id": 17184
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17185",
+            "o:id": 17185
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17186",
+            "o:id": 17186
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17187",
+            "o:id": 17187
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17188",
+            "o:id": 17188
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T03:31:32+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "The Nanking handbook.Nanking Association.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

@@ -1,0 +1,261 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11291",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-764",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1855",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "38f294c9-37b4-456d-90fa-9c0bd0fb50f9",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2552.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Political disturbances in China: Review based upon: - The North China herald. 1853, 1854. Shanghai. The China mail. 1853, 1854. Hongkong. The books of the Taipingwang dynasty. Shanghai: 1853. The visions of Hungsiutsiuen and the origin of the Kwangsee insurrection. By the late Rev. Theodore Hamberg. Hongkong: 1854. Papers respecting the civil war in China. 1853. Captain Fishbourne's Impressions of China and the present revolution: its progress and prospects. London. 1853. The Chinese missionary gleaner. London: 1853, 1854.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "pp. 346-377 ; 22 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "1855",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=D&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "D. Modern history",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Political disturbances in China: Review based upon: - The North China herald. 1853, 1854. Shanghai. The China mail. 1853, 1854. Hongkong. The books of the Taipingwang dynasty. Shanghai: 1853. The visions of Hungsiutsiuen and the origin of the Kwangsee insurrection. By the late Rev. Theodore Hamberg. Hongkong: 1854. Papers respecting the civil war in China. 1853. Captain Fishbourne\\'s Impressions of China and the present revolution: its progress and prospects. London. 1853. The Chinese missionary gleaner. London: 1853, 1854.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:00+00:00"
+    },
+    "o:id": 11291,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22673",
+            "o:id": 22673
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22674",
+            "o:id": 22674
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22675",
+            "o:id": 22675
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22676",
+            "o:id": 22676
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22677",
+            "o:id": 22677
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22678",
+            "o:id": 22678
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22679",
+            "o:id": 22679
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22680",
+            "o:id": 22680
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22681",
+            "o:id": 22681
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22682",
+            "o:id": 22682
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22683",
+            "o:id": 22683
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22684",
+            "o:id": 22684
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22685",
+            "o:id": 22685
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22686",
+            "o:id": 22686
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22687",
+            "o:id": 22687
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22688",
+            "o:id": 22688
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22689",
+            "o:id": 22689
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22690",
+            "o:id": 22690
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22691",
+            "o:id": 22691
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:39:04+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Political disturbances in China: Review based upon: - The North China herald. 1853, 1854. Shanghai. The China mail. 1853, 1854. Hongkong. The books of the Taipingwang dynasty. Shanghai: 1853. The visions of Hungsiutsiuen and the origin of the Kwangsee insurrection. By the late Rev. Theodore Hamberg. Hongkong: 1854. Papers respecting the civil war in China. 1853. Captain Fishbourne's Impressions of China and the present revolution: its progress and prospects. London. 1853. The Chinese missionary gleaner. London: 1853, 1854.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

@@ -1,0 +1,311 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11952",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-632",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "ec1933f3-c53c-4bd9-a9cd-9164a5e1cbae",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3213.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Shanghai",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Tientsin besieged and after the siege, from the 15th of June to the 16th of July, 1900. A daily record by the correspondent of the \"North-China daily news\".[McLeish, William].",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "45 p. ; 24 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "[McLeish, William].",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Shanghai, 1901.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=G&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "G. The Boxer rising, 1900-01",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Tientsin besieged and after the siege, from the 15th of June to the 16th of July, 1900. A daily record by the correspondent of the \"North-China daily news\".",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "ex:version": [
+        {
+            "@value": "2. ed.",
+            "is_public": true,
+            "property_id": 308,
+            "property_label": "版",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:05+00:00"
+    },
+    "o:id": 11952,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32324",
+            "o:id": 32324
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32325",
+            "o:id": 32325
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32326",
+            "o:id": 32326
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32327",
+            "o:id": 32327
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32328",
+            "o:id": 32328
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32329",
+            "o:id": 32329
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32330",
+            "o:id": 32330
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32331",
+            "o:id": 32331
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32332",
+            "o:id": 32332
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32333",
+            "o:id": 32333
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32334",
+            "o:id": 32334
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32335",
+            "o:id": 32335
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32336",
+            "o:id": 32336
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32337",
+            "o:id": 32337
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32338",
+            "o:id": 32338
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32339",
+            "o:id": 32339
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32340",
+            "o:id": 32340
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32341",
+            "o:id": 32341
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32342",
+            "o:id": 32342
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32343",
+            "o:id": 32343
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32344",
+            "o:id": 32344
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32345",
+            "o:id": 32345
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32346",
+            "o:id": 32346
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32347",
+            "o:id": 32347
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32348",
+            "o:id": 32348
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32349",
+            "o:id": 32349
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32350",
+            "o:id": 32350
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:32:55+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Tientsin besieged and after the siege, from the 15th of June to the 16th of July, 1900. A daily record by the correspondent of the \"North-China daily news\".[McLeish, William].",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

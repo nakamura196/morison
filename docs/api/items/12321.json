@@ -1,0 +1,252 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12321",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-0316",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "0b9760bb-cd48-4914-9703-669fa36b010d",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3582.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Catalogue de différentes collections éthnographiques provenant de la China et appartemant à la maison E. J. Brill à Leide.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=14&tg3=A&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "14. Customs & Manners",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "A. General; Social Life; Etiquette",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:07+00:00"
+    },
+    "o:id": 12321,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37863",
+            "o:id": 37863
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37864",
+            "o:id": 37864
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37865",
+            "o:id": 37865
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37866",
+            "o:id": 37866
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37867",
+            "o:id": 37867
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37868",
+            "o:id": 37868
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37869",
+            "o:id": 37869
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37870",
+            "o:id": 37870
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37871",
+            "o:id": 37871
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37872",
+            "o:id": 37872
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37873",
+            "o:id": 37873
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37874",
+            "o:id": 37874
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37875",
+            "o:id": 37875
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37876",
+            "o:id": 37876
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37877",
+            "o:id": 37877
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37878",
+            "o:id": 37878
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37879",
+            "o:id": 37879
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37880",
+            "o:id": 37880
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37881",
+            "o:id": 37881
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37882",
+            "o:id": 37882
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37883",
+            "o:id": 37883
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37884",
+            "o:id": 37884
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37885",
+            "o:id": 37885
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37886",
+            "o:id": 37886
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37887",
+            "o:id": 37887
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37888",
+            "o:id": 37888
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37889",
+            "o:id": 37889
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37890",
+            "o:id": 37890
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T05:05:32+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Catalogue de différentes collections éthnographiques provenant de la China et appartemant à la maison E. J. Brill à Leide.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

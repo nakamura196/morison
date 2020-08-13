@@ -1,0 +1,358 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11163",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1160",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1863",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "2b39c089-1a4e-4238-b0d8-4f91f90bb933",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2424.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Die Geschichte des Königslandes Tsu.Pfizmaier, August.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "pp. 68-139 ; 24 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Pfizmaier, August.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "1863",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=B&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "B. Ancient history",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Die Geschichte des Königslandes Tsu.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:00+00:00"
+    },
+    "o:id": 11163,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20663",
+            "o:id": 20663
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20664",
+            "o:id": 20664
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20665",
+            "o:id": 20665
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20666",
+            "o:id": 20666
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20667",
+            "o:id": 20667
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20668",
+            "o:id": 20668
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20669",
+            "o:id": 20669
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20670",
+            "o:id": 20670
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20671",
+            "o:id": 20671
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20672",
+            "o:id": 20672
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20673",
+            "o:id": 20673
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20674",
+            "o:id": 20674
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20675",
+            "o:id": 20675
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20676",
+            "o:id": 20676
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20677",
+            "o:id": 20677
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20678",
+            "o:id": 20678
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20679",
+            "o:id": 20679
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20680",
+            "o:id": 20680
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20681",
+            "o:id": 20681
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20682",
+            "o:id": 20682
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20683",
+            "o:id": 20683
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20684",
+            "o:id": 20684
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20685",
+            "o:id": 20685
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20686",
+            "o:id": 20686
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20687",
+            "o:id": 20687
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20688",
+            "o:id": 20688
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20689",
+            "o:id": 20689
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20690",
+            "o:id": 20690
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20691",
+            "o:id": 20691
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20692",
+            "o:id": 20692
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20693",
+            "o:id": 20693
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20694",
+            "o:id": 20694
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20695",
+            "o:id": 20695
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20696",
+            "o:id": 20696
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20697",
+            "o:id": 20697
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20698",
+            "o:id": 20698
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20699",
+            "o:id": 20699
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20700",
+            "o:id": 20700
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20701",
+            "o:id": 20701
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20702",
+            "o:id": 20702
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20703",
+            "o:id": 20703
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:35:34+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Die Geschichte des Königslandes Tsu.Pfizmaier, August.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

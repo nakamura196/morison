@@ -1,0 +1,268 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13257",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-2013",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "1ff9d355-e244-4429-b817-b507405d4ee0",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4518.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Paris",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Essai sur les gisements minéraux et l'industrie minière de la province du Kouang-toung.Imbault-Huart, Camille. Clément.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "18 p. ; 22 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Imbault-Huart, Camille. Clément.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Paris, 1897.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=20&tg3=G&tg4=i&tg5=i1",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "20. Economy and Industry",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "G. Industry",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "i. Mining industry",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:tag5": [
+        {
+            "@value": "i1. General",
+            "is_public": true,
+            "property_id": 297,
+            "property_label": "分類5",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Essai sur les gisements minéraux et l\\'industrie minière de la province du Kouang-toung.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:13+00:00"
+    },
+    "o:id": 13257,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50749",
+            "o:id": 50749
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50750",
+            "o:id": 50750
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50751",
+            "o:id": 50751
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50752",
+            "o:id": 50752
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50753",
+            "o:id": 50753
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50754",
+            "o:id": 50754
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50755",
+            "o:id": 50755
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50756",
+            "o:id": 50756
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50757",
+            "o:id": 50757
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50758",
+            "o:id": 50758
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50759",
+            "o:id": 50759
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50760",
+            "o:id": 50760
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50761",
+            "o:id": 50761
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50762",
+            "o:id": 50762
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:32:45+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Essai sur les gisements minéraux et l'industrie minière de la province du Kouang-toung.Imbault-Huart, Camille. Clément.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

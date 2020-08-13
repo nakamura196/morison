@@ -1,0 +1,257 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/10880",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-0154",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "7079017d-41a3-4ceb-81ae-49e1f7318565",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2141.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The China times guide to Tientsin and neighbourhood.St. John, Mrs. Barton.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=C&tg4=a&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "C. Local topography & Travels",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "a. North China",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:58+00:00"
+    },
+    "o:id": 10880,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15939",
+            "o:id": 15939
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15940",
+            "o:id": 15940
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15941",
+            "o:id": 15941
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15942",
+            "o:id": 15942
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15943",
+            "o:id": 15943
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15944",
+            "o:id": 15944
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15945",
+            "o:id": 15945
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15946",
+            "o:id": 15946
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15947",
+            "o:id": 15947
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15948",
+            "o:id": 15948
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15949",
+            "o:id": 15949
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15950",
+            "o:id": 15950
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15951",
+            "o:id": 15951
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15952",
+            "o:id": 15952
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15953",
+            "o:id": 15953
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15954",
+            "o:id": 15954
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15955",
+            "o:id": 15955
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15956",
+            "o:id": 15956
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15957",
+            "o:id": 15957
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15958",
+            "o:id": 15958
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15959",
+            "o:id": 15959
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15960",
+            "o:id": 15960
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15961",
+            "o:id": 15961
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15962",
+            "o:id": 15962
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15963",
+            "o:id": 15963
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15964",
+            "o:id": 15964
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15965",
+            "o:id": 15965
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T04:53:11+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "The China times guide to Tientsin and neighbourhood.St. John, Mrs. Barton.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

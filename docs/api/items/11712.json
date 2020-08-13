@@ -1,0 +1,403 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11712",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-3260",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1911",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "02d5296a-8fbd-473d-80b8-35b163245c42",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2973.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "La mission de M. le chevalier d'Entrecasteaux à Canton, en 1787, d'après les archives du ministère des affaires etrangeres.Cordier, Henri.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "pp. 407-446 ; 25 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Cordier, Henri.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "1911",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=F&tg4=g&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "F. Foreign relations",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "g. France",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "La mission de M. le chevalier d\\'Entrecasteaux à Canton, en 1787, d\\'après les archives du ministère des affaires etrangeres.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:03+00:00"
+    },
+    "o:id": 11712,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28831",
+            "o:id": 28831
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28832",
+            "o:id": 28832
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28833",
+            "o:id": 28833
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28834",
+            "o:id": 28834
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28835",
+            "o:id": 28835
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28836",
+            "o:id": 28836
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28837",
+            "o:id": 28837
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28838",
+            "o:id": 28838
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28839",
+            "o:id": 28839
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28840",
+            "o:id": 28840
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28841",
+            "o:id": 28841
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28842",
+            "o:id": 28842
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28843",
+            "o:id": 28843
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28844",
+            "o:id": 28844
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28845",
+            "o:id": 28845
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28846",
+            "o:id": 28846
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28847",
+            "o:id": 28847
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28848",
+            "o:id": 28848
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28849",
+            "o:id": 28849
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28850",
+            "o:id": 28850
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28851",
+            "o:id": 28851
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28852",
+            "o:id": 28852
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28853",
+            "o:id": 28853
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28854",
+            "o:id": 28854
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28855",
+            "o:id": 28855
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28985",
+            "o:id": 28985
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28986",
+            "o:id": 28986
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28987",
+            "o:id": 28987
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28988",
+            "o:id": 28988
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28989",
+            "o:id": 28989
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28990",
+            "o:id": 28990
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28991",
+            "o:id": 28991
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28992",
+            "o:id": 28992
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28993",
+            "o:id": 28993
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28994",
+            "o:id": 28994
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28995",
+            "o:id": 28995
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28996",
+            "o:id": 28996
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28997",
+            "o:id": 28997
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28998",
+            "o:id": 28998
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28999",
+            "o:id": 28999
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29000",
+            "o:id": 29000
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29001",
+            "o:id": 29001
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29002",
+            "o:id": 29002
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29003",
+            "o:id": 29003
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29004",
+            "o:id": 29004
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29005",
+            "o:id": 29005
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29006",
+            "o:id": 29006
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29007",
+            "o:id": 29007
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29008",
+            "o:id": 29008
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29009",
+            "o:id": 29009
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:36:40+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "La mission de M. le chevalier d'Entrecasteaux à Canton, en 1787, d'après les archives du ministère des affaires etrangeres.Cordier, Henri.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

@@ -1,0 +1,253 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12860",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-b-0403",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "5d8ee89b-55ba-4d93-8b6f-695e803a7667",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4121.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The Parliament of the Republic of China. A Memorandum submitted to the President of the Republic of China.Goodnow, F. J.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=15&tg3=B&tg4=c&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "15. Politics & Administration",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "B. Government & Administration",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "c. President; Diet",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:11+00:00"
+    },
+    "o:id": 12860,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44726",
+            "o:id": 44726
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44727",
+            "o:id": 44727
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44728",
+            "o:id": 44728
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44729",
+            "o:id": 44729
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44730",
+            "o:id": 44730
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44731",
+            "o:id": 44731
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44732",
+            "o:id": 44732
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44733",
+            "o:id": 44733
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44734",
+            "o:id": 44734
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44735",
+            "o:id": 44735
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44736",
+            "o:id": 44736
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44737",
+            "o:id": 44737
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44738",
+            "o:id": 44738
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44739",
+            "o:id": 44739
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44740",
+            "o:id": 44740
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44741",
+            "o:id": 44741
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44742",
+            "o:id": 44742
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44743",
+            "o:id": 44743
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44744",
+            "o:id": 44744
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44745",
+            "o:id": 44745
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44746",
+            "o:id": 44746
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44747",
+            "o:id": 44747
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44748",
+            "o:id": 44748
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44749",
+            "o:id": 44749
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44750",
+            "o:id": 44750
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44751",
+            "o:id": 44751
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T02:47:10+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "The Parliament of the Republic of China. A Memorandum submitted to the President of the Republic of China.Goodnow, F. J.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

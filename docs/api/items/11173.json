@@ -1,0 +1,334 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11173",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-2356",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "910424e8-e880-4778-a86f-d3f55624a9be",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2434.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Paris",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Documens hiéoglyphiques, emportés d'Assyrie, et conservés en Chine et en Amérique, sur le déluge de Noé, les dix générations avant le déluge, l'existence d'un premier homme, et celle du péché originel: dogmes qui sont la base du Christianisme, mais qui sont niés en ce jour.Paravey, [Charles Hippolyte] de.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "56 p. ; 25 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Paravey, [Charles Hippolyte] de.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Paris, 1838.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=B&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "B. Ancient history",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Documens hiéoglyphiques, emportés d\\'Assyrie, et conservés en Chine et en Amérique, sur le déluge de Noé, les dix générations avant le déluge, l\\'existence d\\'un premier homme, et celle du péché originel: dogmes qui sont la base du Christianisme, mais qui sont niés en ce jour.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:00+00:00"
+    },
+    "o:id": 11173,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20892",
+            "o:id": 20892
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20893",
+            "o:id": 20893
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20894",
+            "o:id": 20894
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20895",
+            "o:id": 20895
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20896",
+            "o:id": 20896
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20897",
+            "o:id": 20897
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20898",
+            "o:id": 20898
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20899",
+            "o:id": 20899
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20900",
+            "o:id": 20900
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20901",
+            "o:id": 20901
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20902",
+            "o:id": 20902
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20903",
+            "o:id": 20903
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20904",
+            "o:id": 20904
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20905",
+            "o:id": 20905
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20906",
+            "o:id": 20906
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20907",
+            "o:id": 20907
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20908",
+            "o:id": 20908
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20909",
+            "o:id": 20909
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20910",
+            "o:id": 20910
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20911",
+            "o:id": 20911
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20912",
+            "o:id": 20912
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20913",
+            "o:id": 20913
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20914",
+            "o:id": 20914
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20915",
+            "o:id": 20915
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20916",
+            "o:id": 20916
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20917",
+            "o:id": 20917
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20918",
+            "o:id": 20918
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20919",
+            "o:id": 20919
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20920",
+            "o:id": 20920
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20921",
+            "o:id": 20921
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20922",
+            "o:id": 20922
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20923",
+            "o:id": 20923
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20924",
+            "o:id": 20924
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20925",
+            "o:id": 20925
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20926",
+            "o:id": 20926
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:43:50+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Documens hiéoglyphiques, emportés d'Assyrie, et conservés en Chine et en Amérique, sur le déluge de Noé, les dix générations avant le déluge, l'existence d'un premier homme, et celle du péché originel: dogmes qui sont la base du Christianisme, mais qui sont niés en ce jour.Paravey, [Charles Hippolyte] de.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

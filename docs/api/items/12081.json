@@ -1,0 +1,298 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12081",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-671",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "10528c44-d153-4e02-8f12-04dcf59619d4",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3342.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/London",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Supremacy in the Far East! Will Russia ever regain it? A complete résumé of the navies of Japan and Russia up to and including the fall of Port Arthur, showing casualties suffered by both nations, and exact position to date. Full details of Baltic Fleet. Comp. fr. official sources.Smith, Godwin, comp.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "47 p. ; 22 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Smith, Godwin, comp.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "London, 1905.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=H&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "H. Russo-Japanese War, 1904-05",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Supremacy in the Far East! Will Russia ever regain it? A complete résumé of the navies of Japan and Russia up to and including the fall of Port Arthur, showing casualties suffered by both nations, and exact position to date. Full details of Baltic Fleet. Comp. fr. official sources.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:06+00:00"
+    },
+    "o:id": 12081,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34053",
+            "o:id": 34053
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34054",
+            "o:id": 34054
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34055",
+            "o:id": 34055
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34056",
+            "o:id": 34056
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34057",
+            "o:id": 34057
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34058",
+            "o:id": 34058
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34059",
+            "o:id": 34059
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34060",
+            "o:id": 34060
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34061",
+            "o:id": 34061
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34062",
+            "o:id": 34062
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34063",
+            "o:id": 34063
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34064",
+            "o:id": 34064
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34065",
+            "o:id": 34065
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34066",
+            "o:id": 34066
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34067",
+            "o:id": 34067
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34068",
+            "o:id": 34068
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34069",
+            "o:id": 34069
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34070",
+            "o:id": 34070
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34071",
+            "o:id": 34071
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34072",
+            "o:id": 34072
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34073",
+            "o:id": 34073
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34074",
+            "o:id": 34074
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34075",
+            "o:id": 34075
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34076",
+            "o:id": 34076
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34077",
+            "o:id": 34077
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34078",
+            "o:id": 34078
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:39:02+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Supremacy in the Far East! Will Russia ever regain it? A complete résumé of the navies of Japan and Russia up to and including the fall of Port Arthur, showing casualties suffered by both nations, and exact position to date. Full details of Baltic Fleet. Comp. fr. official sources.Smith, Godwin, comp.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

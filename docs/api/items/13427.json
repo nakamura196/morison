@@ -1,0 +1,371 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13427",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-2061",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "a49d47ad-13ea-49c5-8beb-fe7d40f05e0b",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4688.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/London",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Aërial telegraph to Hong-Kong and the open ports of China, and a new commerce with the vast west of that Empire, across Eastern-Pegue from Rangoon.Sprye, Capt. Richard & Reynell-Hele-Fowell.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "35 p. ; 25 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Sprye, Capt. Richard & Reynell-Hele-Fowell.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "London, 1862.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=20&tg3=H&tg4=c&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "20. Economy and Industry",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "H. Commerce",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "c. Foreign trade",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Aërial telegraph to Hong-Kong and the open ports of China, and a new commerce with the vast west of that Empire, across Eastern-Pegue from Rangoon.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:14+00:00"
+    },
+    "o:id": 13427,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52909",
+            "o:id": 52909
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52910",
+            "o:id": 52910
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52911",
+            "o:id": 52911
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52912",
+            "o:id": 52912
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52913",
+            "o:id": 52913
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52914",
+            "o:id": 52914
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52915",
+            "o:id": 52915
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52916",
+            "o:id": 52916
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52917",
+            "o:id": 52917
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52918",
+            "o:id": 52918
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52919",
+            "o:id": 52919
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52920",
+            "o:id": 52920
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52921",
+            "o:id": 52921
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52922",
+            "o:id": 52922
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52923",
+            "o:id": 52923
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52924",
+            "o:id": 52924
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52925",
+            "o:id": 52925
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52926",
+            "o:id": 52926
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52927",
+            "o:id": 52927
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52928",
+            "o:id": 52928
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52929",
+            "o:id": 52929
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52968",
+            "o:id": 52968
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52969",
+            "o:id": 52969
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52970",
+            "o:id": 52970
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52971",
+            "o:id": 52971
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52972",
+            "o:id": 52972
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52973",
+            "o:id": 52973
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52974",
+            "o:id": 52974
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52975",
+            "o:id": 52975
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52976",
+            "o:id": 52976
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52977",
+            "o:id": 52977
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52978",
+            "o:id": 52978
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52979",
+            "o:id": 52979
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52980",
+            "o:id": 52980
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52981",
+            "o:id": 52981
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52982",
+            "o:id": 52982
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52983",
+            "o:id": 52983
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52984",
+            "o:id": 52984
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52985",
+            "o:id": 52985
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52986",
+            "o:id": 52986
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52987",
+            "o:id": 52987
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52988",
+            "o:id": 52988
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:35:09+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Aërial telegraph to Hong-Kong and the open ports of China, and a new commerce with the vast west of that Empire, across Eastern-Pegue from Rangoon.Sprye, Capt. Richard & Reynell-Hele-Fowell.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

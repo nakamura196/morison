@@ -1,0 +1,304 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11072",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-2465",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1921",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "0ce44414-c54e-4c96-835f-c28f24ff1c52",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2333.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Paris",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "[Review on:] Voyage de marchand arabe Sulaymân en Inde et en Chine ... tr. par G. Ferrand.Pelliot, Paul.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "pp. 413-425 ; 25 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Pelliot, Paul.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "1921",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=F&tg4=c&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "F. Ancient & Mediaeval Description & Travel",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "c. Individual Works (Marco Pole)",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "[Review on.] The Arabian prophet, a life of Mohammed from Chinese and Arabic sources... by Liu-Chai-lien, tr. by Mason... Changhai, 1921.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:59+00:00"
+    },
+    "o:id": 11072,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19211",
+            "o:id": 19211
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19212",
+            "o:id": 19212
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19213",
+            "o:id": 19213
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19214",
+            "o:id": 19214
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19215",
+            "o:id": 19215
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19216",
+            "o:id": 19216
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19217",
+            "o:id": 19217
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19218",
+            "o:id": 19218
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19219",
+            "o:id": 19219
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19220",
+            "o:id": 19220
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19221",
+            "o:id": 19221
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19222",
+            "o:id": 19222
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19223",
+            "o:id": 19223
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19224",
+            "o:id": 19224
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19225",
+            "o:id": 19225
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19226",
+            "o:id": 19226
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19227",
+            "o:id": 19227
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19228",
+            "o:id": 19228
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19229",
+            "o:id": 19229
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19230",
+            "o:id": 19230
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19231",
+            "o:id": 19231
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19232",
+            "o:id": 19232
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19233",
+            "o:id": 19233
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T14:36:26+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "[Review on:] Voyage de marchand arabe Sulaymân en Inde et en Chine ... tr. par G. Ferrand.Pelliot, Paul.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

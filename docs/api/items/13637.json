@@ -1,0 +1,265 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13637",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-c-338",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "5b4af61a-b2e3-42b0-93bb-b7e5b43e74f0",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4898.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "\"Hong Kong Daily Press\" Jubilee issuee. Also facsimile of the first issue. Oct. 1st, 1907.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "10 p. ; 58 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "10 p. ; 58 cm.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=21&tg3=G&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "21. Communication",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "G. Post",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "\"Hong Kong Daily Press\" Jubilee issuee. Also facsimile of the first issue. Oct. 1st, 1907.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:16+00:00"
+    },
+    "o:id": 13637,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56346",
+            "o:id": 56346
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56347",
+            "o:id": 56347
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56348",
+            "o:id": 56348
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56349",
+            "o:id": 56349
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56350",
+            "o:id": 56350
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56351",
+            "o:id": 56351
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56352",
+            "o:id": 56352
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56353",
+            "o:id": 56353
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56354",
+            "o:id": 56354
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56355",
+            "o:id": 56355
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56356",
+            "o:id": 56356
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56357",
+            "o:id": 56357
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56358",
+            "o:id": 56358
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56359",
+            "o:id": 56359
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56360",
+            "o:id": 56360
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56361",
+            "o:id": 56361
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56362",
+            "o:id": 56362
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56363",
+            "o:id": 56363
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56364",
+            "o:id": 56364
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56365",
+            "o:id": 56365
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T14:00:00+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "\"Hong Kong Daily Press\" Jubilee issuee. Also facsimile of the first issue. Oct. 1st, 1907.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

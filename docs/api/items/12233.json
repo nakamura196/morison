@@ -1,0 +1,358 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12233",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-2776",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "39502458-1a5c-45fe-a3df-9df3e645a9e9",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3494.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Shanghai",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Missionary characteristics. by Observer.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "76 p. ; 21 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Shanghai, 1902.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=10&tg3=E&tg4=a&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "10. Religion",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "E. Christianity",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "a. General works",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Missionary characteristics. by Observer.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:06+00:00"
+    },
+    "o:id": 12233,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36395",
+            "o:id": 36395
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36396",
+            "o:id": 36396
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36397",
+            "o:id": 36397
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36398",
+            "o:id": 36398
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36399",
+            "o:id": 36399
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36400",
+            "o:id": 36400
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36401",
+            "o:id": 36401
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36402",
+            "o:id": 36402
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36403",
+            "o:id": 36403
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36404",
+            "o:id": 36404
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36405",
+            "o:id": 36405
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36406",
+            "o:id": 36406
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36407",
+            "o:id": 36407
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36408",
+            "o:id": 36408
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36409",
+            "o:id": 36409
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36410",
+            "o:id": 36410
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36411",
+            "o:id": 36411
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36412",
+            "o:id": 36412
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36413",
+            "o:id": 36413
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36414",
+            "o:id": 36414
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36415",
+            "o:id": 36415
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36416",
+            "o:id": 36416
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36417",
+            "o:id": 36417
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36418",
+            "o:id": 36418
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36419",
+            "o:id": 36419
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36420",
+            "o:id": 36420
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36421",
+            "o:id": 36421
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36422",
+            "o:id": 36422
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36423",
+            "o:id": 36423
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36424",
+            "o:id": 36424
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36425",
+            "o:id": 36425
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36426",
+            "o:id": 36426
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36427",
+            "o:id": 36427
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36428",
+            "o:id": 36428
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36429",
+            "o:id": 36429
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36430",
+            "o:id": 36430
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36431",
+            "o:id": 36431
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36432",
+            "o:id": 36432
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36433",
+            "o:id": 36433
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36434",
+            "o:id": 36434
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36435",
+            "o:id": 36435
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:45:27+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Missionary characteristics. by Observer.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

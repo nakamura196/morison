@@ -1,0 +1,601 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12953",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-2483",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "ee741674-99bd-4f94-8c35-4120413fa9c4",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4214.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Shanghai",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Notes on money matters, with special reference to China.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "196 p. ; 19 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Shanghai, 1910.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=16&tg3=H&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "16. Finance",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "H. Monetary System",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Notes on money matters, with special reference to China.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:11+00:00"
+    },
+    "o:id": 12953,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45874",
+            "o:id": 45874
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45875",
+            "o:id": 45875
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45876",
+            "o:id": 45876
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45877",
+            "o:id": 45877
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45878",
+            "o:id": 45878
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45879",
+            "o:id": 45879
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45880",
+            "o:id": 45880
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45881",
+            "o:id": 45881
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45882",
+            "o:id": 45882
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45883",
+            "o:id": 45883
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45884",
+            "o:id": 45884
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45885",
+            "o:id": 45885
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45886",
+            "o:id": 45886
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45887",
+            "o:id": 45887
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45888",
+            "o:id": 45888
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45889",
+            "o:id": 45889
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45890",
+            "o:id": 45890
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45891",
+            "o:id": 45891
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45892",
+            "o:id": 45892
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45893",
+            "o:id": 45893
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45894",
+            "o:id": 45894
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45895",
+            "o:id": 45895
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45896",
+            "o:id": 45896
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45897",
+            "o:id": 45897
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45898",
+            "o:id": 45898
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45899",
+            "o:id": 45899
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45900",
+            "o:id": 45900
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45901",
+            "o:id": 45901
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45902",
+            "o:id": 45902
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45903",
+            "o:id": 45903
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45904",
+            "o:id": 45904
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45905",
+            "o:id": 45905
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45906",
+            "o:id": 45906
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45907",
+            "o:id": 45907
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45908",
+            "o:id": 45908
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45909",
+            "o:id": 45909
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45910",
+            "o:id": 45910
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45911",
+            "o:id": 45911
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45912",
+            "o:id": 45912
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45913",
+            "o:id": 45913
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45914",
+            "o:id": 45914
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45915",
+            "o:id": 45915
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45916",
+            "o:id": 45916
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45917",
+            "o:id": 45917
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45918",
+            "o:id": 45918
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45919",
+            "o:id": 45919
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45920",
+            "o:id": 45920
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45921",
+            "o:id": 45921
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45922",
+            "o:id": 45922
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45923",
+            "o:id": 45923
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45924",
+            "o:id": 45924
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45925",
+            "o:id": 45925
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45926",
+            "o:id": 45926
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45927",
+            "o:id": 45927
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45928",
+            "o:id": 45928
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45929",
+            "o:id": 45929
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45930",
+            "o:id": 45930
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45931",
+            "o:id": 45931
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45932",
+            "o:id": 45932
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45933",
+            "o:id": 45933
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45934",
+            "o:id": 45934
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45935",
+            "o:id": 45935
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45936",
+            "o:id": 45936
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45937",
+            "o:id": 45937
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45938",
+            "o:id": 45938
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45939",
+            "o:id": 45939
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45940",
+            "o:id": 45940
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45941",
+            "o:id": 45941
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45942",
+            "o:id": 45942
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45943",
+            "o:id": 45943
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45944",
+            "o:id": 45944
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45945",
+            "o:id": 45945
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45946",
+            "o:id": 45946
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45947",
+            "o:id": 45947
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45948",
+            "o:id": 45948
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45949",
+            "o:id": 45949
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45950",
+            "o:id": 45950
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45951",
+            "o:id": 45951
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45952",
+            "o:id": 45952
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45953",
+            "o:id": 45953
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45954",
+            "o:id": 45954
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45955",
+            "o:id": 45955
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45956",
+            "o:id": 45956
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45957",
+            "o:id": 45957
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45958",
+            "o:id": 45958
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45959",
+            "o:id": 45959
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45960",
+            "o:id": 45960
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45961",
+            "o:id": 45961
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45962",
+            "o:id": 45962
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45963",
+            "o:id": 45963
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45964",
+            "o:id": 45964
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45965",
+            "o:id": 45965
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45966",
+            "o:id": 45966
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45967",
+            "o:id": 45967
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45968",
+            "o:id": 45968
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45969",
+            "o:id": 45969
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45970",
+            "o:id": 45970
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45971",
+            "o:id": 45971
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45972",
+            "o:id": 45972
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45973",
+            "o:id": 45973
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45974",
+            "o:id": 45974
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45975",
+            "o:id": 45975
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45976",
+            "o:id": 45976
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45977",
+            "o:id": 45977
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:45:57+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Notes on money matters, with special reference to China.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

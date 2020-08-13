@@ -1,0 +1,333 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/10885",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-0157",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "c62e1b92-baea-4d13-8f5e-7513d7e5793f",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2146.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Shantung (China) : A general outline of the geography and history of the province.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=C&tg4=a&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "C. Local topography & Travels",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "a. North China",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:58+00:00"
+    },
+    "o:id": 10885,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16009",
+            "o:id": 16009
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16010",
+            "o:id": 16010
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16011",
+            "o:id": 16011
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16012",
+            "o:id": 16012
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16013",
+            "o:id": 16013
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16014",
+            "o:id": 16014
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16015",
+            "o:id": 16015
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16016",
+            "o:id": 16016
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16017",
+            "o:id": 16017
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16018",
+            "o:id": 16018
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16019",
+            "o:id": 16019
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16020",
+            "o:id": 16020
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16021",
+            "o:id": 16021
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16022",
+            "o:id": 16022
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16023",
+            "o:id": 16023
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16024",
+            "o:id": 16024
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16025",
+            "o:id": 16025
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16026",
+            "o:id": 16026
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16027",
+            "o:id": 16027
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16028",
+            "o:id": 16028
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16029",
+            "o:id": 16029
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16030",
+            "o:id": 16030
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16031",
+            "o:id": 16031
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16032",
+            "o:id": 16032
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16033",
+            "o:id": 16033
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16034",
+            "o:id": 16034
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16035",
+            "o:id": 16035
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16036",
+            "o:id": 16036
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16037",
+            "o:id": 16037
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16038",
+            "o:id": 16038
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16039",
+            "o:id": 16039
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16040",
+            "o:id": 16040
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16041",
+            "o:id": 16041
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16042",
+            "o:id": 16042
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16043",
+            "o:id": 16043
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16044",
+            "o:id": 16044
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16045",
+            "o:id": 16045
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16046",
+            "o:id": 16046
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16047",
+            "o:id": 16047
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16048",
+            "o:id": 16048
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16049",
+            "o:id": 16049
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16050",
+            "o:id": 16050
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16051",
+            "o:id": 16051
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16052",
+            "o:id": 16052
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16053",
+            "o:id": 16053
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16054",
+            "o:id": 16054
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T02:13:00+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Shantung (China) : A general outline of the geography and history of the province.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

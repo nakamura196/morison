@@ -1,0 +1,634 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12995",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1714",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "1c594ec4-41e9-40c4-8238-2728f4dd3134",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4256.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Beijing",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The provisional criminal code of the Republic of China. Tr. by T. T. Y. & Tachuen S. K. Loh.Yuen T. -t. & Lu Shou-ching, trs.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "101 p. ; 22 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Yuen T. -t. & Lu Shou-ching, trs.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Peking, 1915.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=17&tg3=C&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "17. Law",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "C. Criminal Law; Prison",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "The provisional criminal code of the Republic of China. Tr. by T. T. Y. & Tachuen S. K. Loh.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:11+00:00"
+    },
+    "o:id": 12995,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46735",
+            "o:id": 46735
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46736",
+            "o:id": 46736
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46737",
+            "o:id": 46737
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46738",
+            "o:id": 46738
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46739",
+            "o:id": 46739
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46740",
+            "o:id": 46740
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46741",
+            "o:id": 46741
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46742",
+            "o:id": 46742
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46743",
+            "o:id": 46743
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46744",
+            "o:id": 46744
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46745",
+            "o:id": 46745
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46746",
+            "o:id": 46746
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46747",
+            "o:id": 46747
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46748",
+            "o:id": 46748
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46749",
+            "o:id": 46749
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46750",
+            "o:id": 46750
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46751",
+            "o:id": 46751
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46752",
+            "o:id": 46752
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46753",
+            "o:id": 46753
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46754",
+            "o:id": 46754
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46755",
+            "o:id": 46755
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46756",
+            "o:id": 46756
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46757",
+            "o:id": 46757
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46758",
+            "o:id": 46758
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46759",
+            "o:id": 46759
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46760",
+            "o:id": 46760
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46761",
+            "o:id": 46761
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46762",
+            "o:id": 46762
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46763",
+            "o:id": 46763
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46764",
+            "o:id": 46764
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46765",
+            "o:id": 46765
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46766",
+            "o:id": 46766
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46767",
+            "o:id": 46767
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46768",
+            "o:id": 46768
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46769",
+            "o:id": 46769
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46770",
+            "o:id": 46770
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46771",
+            "o:id": 46771
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46772",
+            "o:id": 46772
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46773",
+            "o:id": 46773
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46774",
+            "o:id": 46774
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46775",
+            "o:id": 46775
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46776",
+            "o:id": 46776
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46777",
+            "o:id": 46777
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46778",
+            "o:id": 46778
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46779",
+            "o:id": 46779
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46780",
+            "o:id": 46780
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46781",
+            "o:id": 46781
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46782",
+            "o:id": 46782
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46783",
+            "o:id": 46783
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46784",
+            "o:id": 46784
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46785",
+            "o:id": 46785
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46786",
+            "o:id": 46786
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46787",
+            "o:id": 46787
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46788",
+            "o:id": 46788
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46789",
+            "o:id": 46789
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46839",
+            "o:id": 46839
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46840",
+            "o:id": 46840
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46841",
+            "o:id": 46841
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46842",
+            "o:id": 46842
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46843",
+            "o:id": 46843
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46844",
+            "o:id": 46844
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46845",
+            "o:id": 46845
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46846",
+            "o:id": 46846
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46847",
+            "o:id": 46847
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46848",
+            "o:id": 46848
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46849",
+            "o:id": 46849
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46850",
+            "o:id": 46850
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46851",
+            "o:id": 46851
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46852",
+            "o:id": 46852
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46853",
+            "o:id": 46853
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46854",
+            "o:id": 46854
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46855",
+            "o:id": 46855
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46856",
+            "o:id": 46856
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46857",
+            "o:id": 46857
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46858",
+            "o:id": 46858
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46859",
+            "o:id": 46859
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46860",
+            "o:id": 46860
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46861",
+            "o:id": 46861
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46862",
+            "o:id": 46862
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46863",
+            "o:id": 46863
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46864",
+            "o:id": 46864
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46865",
+            "o:id": 46865
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46866",
+            "o:id": 46866
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46867",
+            "o:id": 46867
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46868",
+            "o:id": 46868
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46869",
+            "o:id": 46869
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46870",
+            "o:id": 46870
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46871",
+            "o:id": 46871
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46872",
+            "o:id": 46872
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46873",
+            "o:id": 46873
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46874",
+            "o:id": 46874
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46875",
+            "o:id": 46875
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46876",
+            "o:id": 46876
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46877",
+            "o:id": 46877
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46878",
+            "o:id": 46878
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46879",
+            "o:id": 46879
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46880",
+            "o:id": 46880
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46881",
+            "o:id": 46881
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46882",
+            "o:id": 46882
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46883",
+            "o:id": 46883
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46884",
+            "o:id": 46884
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46885",
+            "o:id": 46885
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46886",
+            "o:id": 46886
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46887",
+            "o:id": 46887
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46888",
+            "o:id": 46888
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46889",
+            "o:id": 46889
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46890",
+            "o:id": 46890
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46891",
+            "o:id": 46891
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46892",
+            "o:id": 46892
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46893",
+            "o:id": 46893
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:34:26+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "The provisional criminal code of the Republic of China. Tr. by T. T. Y. & Tachuen S. K. Loh.Yuen T. -t. & Lu Shou-ching, trs.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

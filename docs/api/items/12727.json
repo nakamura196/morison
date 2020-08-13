@@ -1,0 +1,273 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12727",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1673",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "9a41c007-1155-4d1a-aaa3-9fb823aba68a",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3988.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/London",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Medical testimonies as to the effects of opium-smoking. By medical men who have resided in China. With a pref. by Sir James Risdon Bennett.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "40 p. ; 21 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "London, 1882.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=14&tg3=W2&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "14. Customs & Manners",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "W2. Opium",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Medical testimonies as to the effects of opium-smoking. By medical men who have resided in China. With a pref. by Sir James Risdon Bennett.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:10+00:00"
+    },
+    "o:id": 12727,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43168",
+            "o:id": 43168
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43169",
+            "o:id": 43169
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43170",
+            "o:id": 43170
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43171",
+            "o:id": 43171
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43172",
+            "o:id": 43172
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43173",
+            "o:id": 43173
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43174",
+            "o:id": 43174
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43175",
+            "o:id": 43175
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43176",
+            "o:id": 43176
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43177",
+            "o:id": 43177
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43178",
+            "o:id": 43178
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43179",
+            "o:id": 43179
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43180",
+            "o:id": 43180
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43181",
+            "o:id": 43181
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43182",
+            "o:id": 43182
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43183",
+            "o:id": 43183
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43184",
+            "o:id": 43184
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43185",
+            "o:id": 43185
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43186",
+            "o:id": 43186
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43187",
+            "o:id": 43187
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43188",
+            "o:id": 43188
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43189",
+            "o:id": 43189
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:42:35+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Medical testimonies as to the effects of opium-smoking. By medical men who have resided in China. With a pref. by Sir James Risdon Bennett.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

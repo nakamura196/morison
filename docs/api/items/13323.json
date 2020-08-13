@@ -1,0 +1,470 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13323",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-c-295",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "b6e902bd-31be-4cb4-b6b5-fa580d59a24a",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4584.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Shanghai",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "British Chamber of Commerce journal. New ser. No. 1-2.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "72 p. ; 34 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Shanghai, 1919.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=20&tg3=H&tg4=a&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "20. Economy and Industry",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "H. Commerce",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "a. General",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "British Chamber of Commerce journal. New ser. No. 1-2.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:14+00:00"
+    },
+    "o:id": 13323,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51497",
+            "o:id": 51497
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51498",
+            "o:id": 51498
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51499",
+            "o:id": 51499
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51500",
+            "o:id": 51500
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51501",
+            "o:id": 51501
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51502",
+            "o:id": 51502
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51503",
+            "o:id": 51503
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51504",
+            "o:id": 51504
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51505",
+            "o:id": 51505
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51506",
+            "o:id": 51506
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51507",
+            "o:id": 51507
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51508",
+            "o:id": 51508
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51509",
+            "o:id": 51509
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51510",
+            "o:id": 51510
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51511",
+            "o:id": 51511
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51512",
+            "o:id": 51512
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51513",
+            "o:id": 51513
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51514",
+            "o:id": 51514
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51515",
+            "o:id": 51515
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51516",
+            "o:id": 51516
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51517",
+            "o:id": 51517
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51518",
+            "o:id": 51518
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51519",
+            "o:id": 51519
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51520",
+            "o:id": 51520
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51521",
+            "o:id": 51521
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51522",
+            "o:id": 51522
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51523",
+            "o:id": 51523
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51524",
+            "o:id": 51524
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51525",
+            "o:id": 51525
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51526",
+            "o:id": 51526
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51527",
+            "o:id": 51527
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51528",
+            "o:id": 51528
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51529",
+            "o:id": 51529
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51530",
+            "o:id": 51530
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51531",
+            "o:id": 51531
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51532",
+            "o:id": 51532
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51533",
+            "o:id": 51533
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51534",
+            "o:id": 51534
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51535",
+            "o:id": 51535
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51536",
+            "o:id": 51536
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51537",
+            "o:id": 51537
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51538",
+            "o:id": 51538
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51539",
+            "o:id": 51539
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51540",
+            "o:id": 51540
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51541",
+            "o:id": 51541
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51542",
+            "o:id": 51542
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51543",
+            "o:id": 51543
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51544",
+            "o:id": 51544
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51545",
+            "o:id": 51545
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51546",
+            "o:id": 51546
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51547",
+            "o:id": 51547
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51548",
+            "o:id": 51548
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51549",
+            "o:id": 51549
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51550",
+            "o:id": 51550
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51551",
+            "o:id": 51551
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51552",
+            "o:id": 51552
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51553",
+            "o:id": 51553
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51554",
+            "o:id": 51554
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51555",
+            "o:id": 51555
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51556",
+            "o:id": 51556
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51557",
+            "o:id": 51557
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51558",
+            "o:id": 51558
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51559",
+            "o:id": 51559
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51560",
+            "o:id": 51560
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51561",
+            "o:id": 51561
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51562",
+            "o:id": 51562
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51563",
+            "o:id": 51563
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51564",
+            "o:id": 51564
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51565",
+            "o:id": 51565
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T14:01:45+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "British Chamber of Commerce journal. New ser. No. 1-2.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

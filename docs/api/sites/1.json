@@ -1,0 +1,105 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/sites/1",
+    "@type": "o:Site",
+    "o:assign_new_items": false,
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-04-19T10:56:27+00:00"
+    },
+    "o:homepage": null,
+    "o:id": 1,
+    "o:is_public": true,
+    "o:item_pool": {
+        "item_set_id": [
+            ""
+        ],
+        "property": [
+            {
+                "joiner": "and",
+                "property": "",
+                "text": "",
+                "type": "eq"
+            }
+        ],
+        "resource_class_id": "",
+        "site_id": ""
+    },
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-08-13T02:59:19+00:00"
+    },
+    "o:navigation": [
+        {
+            "data": {
+                "id": 1,
+                "label": ""
+            },
+            "links": [],
+            "type": "page"
+        },
+        {
+            "data": {
+                "label": "検索",
+                "url": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/toyo/s/morison/search?q="
+            },
+            "links": [],
+            "type": "url"
+        },
+        {
+            "data": {
+                "id": 5,
+                "label": ""
+            },
+            "links": [],
+            "type": "page"
+        },
+        {
+            "data": {
+                "id": 3,
+                "label": ""
+            },
+            "links": [],
+            "type": "page"
+        }
+    ],
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:page": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/site_pages/1",
+            "o:id": 1
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/site_pages/3",
+            "o:id": 3
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/site_pages/5",
+            "o:id": 5
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/site_pages/9",
+            "o:id": 9
+        }
+    ],
+    "o:site_item": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/items?site_id=1"
+    },
+    "o:site_item_set": [],
+    "o:site_permission": [
+        {
+            "o:role": "admin",
+            "o:user": {
+                "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+                "o:id": 1
+            }
+        }
+    ],
+    "o:slug": "morison",
+    "o:summary": null,
+    "o:theme": "foundation",
+    "o:title": "モリソンパンフレット画像データベース"
+}

@@ -1,0 +1,208 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12419",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-b-0401",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "ef85bbff-0dc4-4198-b6e7-0a2a43c27e07",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3680.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "A study in sociology.The natural history of the Chinese boy and of the Chinese girl.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=14&tg3=H&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "14. Customs & Manners",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "H. Boys & Girls",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:08+00:00"
+    },
+    "o:id": 12419,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39275",
+            "o:id": 39275
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39276",
+            "o:id": 39276
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39277",
+            "o:id": 39277
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39278",
+            "o:id": 39278
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39279",
+            "o:id": 39279
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39280",
+            "o:id": 39280
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39281",
+            "o:id": 39281
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39282",
+            "o:id": 39282
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39283",
+            "o:id": 39283
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39284",
+            "o:id": 39284
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39285",
+            "o:id": 39285
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39286",
+            "o:id": 39286
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39287",
+            "o:id": 39287
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39288",
+            "o:id": 39288
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39289",
+            "o:id": 39289
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39290",
+            "o:id": 39290
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39291",
+            "o:id": 39291
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T00:52:41+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "A study in sociology.The natural history of the Chinese boy and of the Chinese girl.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

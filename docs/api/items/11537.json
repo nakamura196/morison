@@ -1,0 +1,455 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11537",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-b-475",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1900",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "630da81c-1e76-4f1f-aa3b-81a6b7ca108a",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2798.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The powers and the partition of China.Reid, Gilbert.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "pp. 609-633 ; 24 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Murdoch, James.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "1900",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=F&tg4=a&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "F. Foreign relations",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "a. General history of foreign relations with China",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Japan and Russia in the Far East.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:02+00:00"
+    },
+    "o:id": 11537,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25937",
+            "o:id": 25937
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25938",
+            "o:id": 25938
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25939",
+            "o:id": 25939
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25940",
+            "o:id": 25940
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25941",
+            "o:id": 25941
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25942",
+            "o:id": 25942
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25943",
+            "o:id": 25943
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25944",
+            "o:id": 25944
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25945",
+            "o:id": 25945
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25946",
+            "o:id": 25946
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25947",
+            "o:id": 25947
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25948",
+            "o:id": 25948
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25949",
+            "o:id": 25949
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25950",
+            "o:id": 25950
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25951",
+            "o:id": 25951
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25952",
+            "o:id": 25952
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25953",
+            "o:id": 25953
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25954",
+            "o:id": 25954
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25955",
+            "o:id": 25955
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25956",
+            "o:id": 25956
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25957",
+            "o:id": 25957
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27448",
+            "o:id": 27448
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27449",
+            "o:id": 27449
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27450",
+            "o:id": 27450
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27451",
+            "o:id": 27451
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27452",
+            "o:id": 27452
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27453",
+            "o:id": 27453
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27454",
+            "o:id": 27454
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27455",
+            "o:id": 27455
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27456",
+            "o:id": 27456
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27457",
+            "o:id": 27457
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27458",
+            "o:id": 27458
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27459",
+            "o:id": 27459
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27460",
+            "o:id": 27460
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27461",
+            "o:id": 27461
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27462",
+            "o:id": 27462
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27463",
+            "o:id": 27463
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27464",
+            "o:id": 27464
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27465",
+            "o:id": 27465
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27466",
+            "o:id": 27466
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27467",
+            "o:id": 27467
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27468",
+            "o:id": 27468
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29472",
+            "o:id": 29472
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29473",
+            "o:id": 29473
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29474",
+            "o:id": 29474
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29475",
+            "o:id": 29475
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29476",
+            "o:id": 29476
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29477",
+            "o:id": 29477
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29478",
+            "o:id": 29478
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29479",
+            "o:id": 29479
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29480",
+            "o:id": 29480
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29481",
+            "o:id": 29481
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29482",
+            "o:id": 29482
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29483",
+            "o:id": 29483
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29484",
+            "o:id": 29484
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29485",
+            "o:id": 29485
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29486",
+            "o:id": 29486
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29487",
+            "o:id": 29487
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29488",
+            "o:id": 29488
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29489",
+            "o:id": 29489
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29490",
+            "o:id": 29490
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29491",
+            "o:id": 29491
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29492",
+            "o:id": 29492
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:53:30+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "The powers and the partition of China.Reid, Gilbert.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

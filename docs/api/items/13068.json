@@ -1,0 +1,319 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13068",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-c-261",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "e8ca9822-2e4c-4f06-a8c1-7e4483336717",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4329.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Shanghai",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Shanghai e la sua Colonia Italiana.Ros, Giuseppe.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "45 p. ; 28 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Ros, Giuseppe.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Shanghai, 1911.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=17&tg3=H&tg4=b&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "17. Law",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "H. International Law",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "b. Extraterritoriality; Consuhar Jurisdiction; Foreign Concession",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Shanghai e la sua Colonia Italiana.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:12+00:00"
+    },
+    "o:id": 13068,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47890",
+            "o:id": 47890
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47891",
+            "o:id": 47891
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47892",
+            "o:id": 47892
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47893",
+            "o:id": 47893
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47894",
+            "o:id": 47894
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47895",
+            "o:id": 47895
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47896",
+            "o:id": 47896
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47897",
+            "o:id": 47897
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47898",
+            "o:id": 47898
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47899",
+            "o:id": 47899
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47900",
+            "o:id": 47900
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47901",
+            "o:id": 47901
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47902",
+            "o:id": 47902
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47903",
+            "o:id": 47903
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47904",
+            "o:id": 47904
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47905",
+            "o:id": 47905
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47906",
+            "o:id": 47906
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47907",
+            "o:id": 47907
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47908",
+            "o:id": 47908
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47909",
+            "o:id": 47909
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47910",
+            "o:id": 47910
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47911",
+            "o:id": 47911
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47912",
+            "o:id": 47912
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47913",
+            "o:id": 47913
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47914",
+            "o:id": 47914
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47915",
+            "o:id": 47915
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47916",
+            "o:id": 47916
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47917",
+            "o:id": 47917
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47918",
+            "o:id": 47918
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:47:33+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Shanghai e la sua Colonia Italiana.Ros, Giuseppe.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

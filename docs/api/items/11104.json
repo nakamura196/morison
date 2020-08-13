@@ -1,0 +1,361 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11104",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-2455",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "408308f8-10e5-4dcb-9ed8-afc8266959d3",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2365.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Western geographical names used in Chapin's geography and proposed list of characters to use in representing western names in Chinese.Sheffield, D. Z.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "Sheffield, D. Z.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "81 p. ; 19 cm.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=G&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "G. Chinese Knowledge of Foreign Lands",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Western geographical names used in Chapin\\'s geography and proposed list of characters to use in representing western names in Chinese.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:59+00:00"
+    },
+    "o:id": 11104,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19722",
+            "o:id": 19722
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19723",
+            "o:id": 19723
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19724",
+            "o:id": 19724
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19725",
+            "o:id": 19725
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19726",
+            "o:id": 19726
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19727",
+            "o:id": 19727
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19728",
+            "o:id": 19728
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19729",
+            "o:id": 19729
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19730",
+            "o:id": 19730
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19731",
+            "o:id": 19731
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19732",
+            "o:id": 19732
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19733",
+            "o:id": 19733
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19734",
+            "o:id": 19734
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19735",
+            "o:id": 19735
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19736",
+            "o:id": 19736
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19737",
+            "o:id": 19737
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19738",
+            "o:id": 19738
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19739",
+            "o:id": 19739
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19740",
+            "o:id": 19740
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19741",
+            "o:id": 19741
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19742",
+            "o:id": 19742
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19743",
+            "o:id": 19743
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19744",
+            "o:id": 19744
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19745",
+            "o:id": 19745
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19746",
+            "o:id": 19746
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19747",
+            "o:id": 19747
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19748",
+            "o:id": 19748
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19749",
+            "o:id": 19749
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19750",
+            "o:id": 19750
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19751",
+            "o:id": 19751
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19752",
+            "o:id": 19752
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19753",
+            "o:id": 19753
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19754",
+            "o:id": 19754
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19755",
+            "o:id": 19755
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19756",
+            "o:id": 19756
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19757",
+            "o:id": 19757
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19758",
+            "o:id": 19758
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19759",
+            "o:id": 19759
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19760",
+            "o:id": 19760
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19761",
+            "o:id": 19761
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19762",
+            "o:id": 19762
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19763",
+            "o:id": 19763
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19764",
+            "o:id": 19764
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19765",
+            "o:id": 19765
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:32:25+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Western geographical names used in Chapin's geography and proposed list of characters to use in representing western names in Chinese.Sheffield, D. Z.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

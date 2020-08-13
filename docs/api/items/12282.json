@@ -1,0 +1,275 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12282",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-b-1091",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1886",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "dd3a01f6-6fc4-4e3a-8cde-f38e6c42192d",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3543.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Les missions catholiques en Chine le protectorat de France.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "pp. 769-798 ; 23 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "1886",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=10&tg3=E&tg4=c&tg5=c1",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "10. Religion",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "E. Christianity",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "c. Roman Catholic",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:tag5": [
+        {
+            "@value": "c1. General",
+            "is_public": true,
+            "property_id": 297,
+            "property_label": "分類5",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Les missions catholiques en Chine le protectorat de France.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:07+00:00"
+    },
+    "o:id": 12282,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37135",
+            "o:id": 37135
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37136",
+            "o:id": 37136
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37137",
+            "o:id": 37137
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37138",
+            "o:id": 37138
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37139",
+            "o:id": 37139
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37140",
+            "o:id": 37140
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37141",
+            "o:id": 37141
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37142",
+            "o:id": 37142
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37143",
+            "o:id": 37143
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37144",
+            "o:id": 37144
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37145",
+            "o:id": 37145
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37146",
+            "o:id": 37146
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37147",
+            "o:id": 37147
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37148",
+            "o:id": 37148
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37149",
+            "o:id": 37149
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37150",
+            "o:id": 37150
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37151",
+            "o:id": 37151
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37152",
+            "o:id": 37152
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T14:07:45+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Les missions catholiques en Chine le protectorat de France.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

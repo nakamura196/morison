@@ -1,0 +1,201 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11065",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-0122",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "0bd030cb-167c-4861-9928-a415ce299c94",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2326.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Mandeville's travels: Review based upon: - 1. The buke of John Maundeuill, being the travels of Sir J. Mandeville; ed. together with the Fr. text... by G. F. Warner. Wenstminister, 1889. - 2. A thousand miles on an elephant in the Shan states; by H. S. Hallet. Edinburgh & London. 1890.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=F&tg4=c&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "F. Ancient & Mediaeval Description & Travel",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "c. Individual Works (Marco Pole)",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:59+00:00"
+    },
+    "o:id": 11065,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19089",
+            "o:id": 19089
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19090",
+            "o:id": 19090
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19091",
+            "o:id": 19091
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19092",
+            "o:id": 19092
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19093",
+            "o:id": 19093
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19094",
+            "o:id": 19094
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19095",
+            "o:id": 19095
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19096",
+            "o:id": 19096
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19097",
+            "o:id": 19097
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19098",
+            "o:id": 19098
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19099",
+            "o:id": 19099
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19100",
+            "o:id": 19100
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19101",
+            "o:id": 19101
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T01:24:01+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Mandeville's travels: Review based upon: - 1. The buke of John Maundeuill, being the travels of Sir J. Mandeville; ed. together with the Fr. text... by G. F. Warner. Wenstminister, 1889. - 2. A thousand miles on an elephant in the Shan states; by H. S. Hallet. Edinburgh & London. 1890.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

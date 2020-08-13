@@ -1,0 +1,373 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/10896",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-0168",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "87a33d9d-2286-459e-a316-f459501772db",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2157.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Tsingtau. Ein führer durch das deutsche Schutzgebiet in Ostasien.Tsingtauer Verkehrs-Ausschuss.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=C&tg4=a&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "C. Local topography & Travels",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "a. North China",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:58+00:00"
+    },
+    "o:id": 10896,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16147",
+            "o:id": 16147
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16148",
+            "o:id": 16148
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16149",
+            "o:id": 16149
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16150",
+            "o:id": 16150
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16151",
+            "o:id": 16151
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16152",
+            "o:id": 16152
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16153",
+            "o:id": 16153
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16154",
+            "o:id": 16154
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16155",
+            "o:id": 16155
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16156",
+            "o:id": 16156
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16157",
+            "o:id": 16157
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16158",
+            "o:id": 16158
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16159",
+            "o:id": 16159
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16160",
+            "o:id": 16160
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16161",
+            "o:id": 16161
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16162",
+            "o:id": 16162
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16163",
+            "o:id": 16163
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16164",
+            "o:id": 16164
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16165",
+            "o:id": 16165
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16166",
+            "o:id": 16166
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16167",
+            "o:id": 16167
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16168",
+            "o:id": 16168
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16169",
+            "o:id": 16169
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16170",
+            "o:id": 16170
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16171",
+            "o:id": 16171
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16172",
+            "o:id": 16172
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16173",
+            "o:id": 16173
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16174",
+            "o:id": 16174
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16175",
+            "o:id": 16175
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16176",
+            "o:id": 16176
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16177",
+            "o:id": 16177
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16178",
+            "o:id": 16178
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16179",
+            "o:id": 16179
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16180",
+            "o:id": 16180
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16181",
+            "o:id": 16181
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16182",
+            "o:id": 16182
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16183",
+            "o:id": 16183
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16184",
+            "o:id": 16184
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16185",
+            "o:id": 16185
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16186",
+            "o:id": 16186
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16187",
+            "o:id": 16187
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16188",
+            "o:id": 16188
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16189",
+            "o:id": 16189
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16190",
+            "o:id": 16190
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16191",
+            "o:id": 16191
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16192",
+            "o:id": 16192
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16193",
+            "o:id": 16193
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16194",
+            "o:id": 16194
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16195",
+            "o:id": 16195
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16196",
+            "o:id": 16196
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16197",
+            "o:id": 16197
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16198",
+            "o:id": 16198
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16199",
+            "o:id": 16199
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16200",
+            "o:id": 16200
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16201",
+            "o:id": 16201
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16202",
+            "o:id": 16202
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T03:20:20+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Tsingtau. Ein führer durch das deutsche Schutzgebiet in Ostasien.Tsingtauer Verkehrs-Ausschuss.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

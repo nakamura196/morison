@@ -1,0 +1,458 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12052",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-681",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "27597dfc-826f-42ae-b08f-a71d861b3ba3",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3313.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Paris",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Ce que disent les Japonais de leurs succès maritimes. Relation des opérations navales pendant la Guerre russo-japonaise d'après l'ouvrage de l'état-major naval japonais. Tr. de l'allemand par le capitaine Le Merre, de l'état-major de l'armée.Pfeil und Klein-Ellguth, Richard von.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "53 p. ; 22 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Pfeil und Klein-Ellguth, Richard von.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Paris, 1910.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=H&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "H. Russo-Japanese War, 1904-05",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Ce que disent les Japonais de leurs succès maritimes. Relation des opérations navales pendant la Guerre russo-japonaise d\\'après l\\'ouvrage de l\\'état-major naval japonais. Tr. de l\\'allemand par le capitaine Le Merre, de l\\'état-major de l\\'armée.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:05+00:00"
+    },
+    "o:id": 12052,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33705",
+            "o:id": 33705
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33706",
+            "o:id": 33706
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33707",
+            "o:id": 33707
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33708",
+            "o:id": 33708
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33709",
+            "o:id": 33709
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33710",
+            "o:id": 33710
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33711",
+            "o:id": 33711
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33712",
+            "o:id": 33712
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33713",
+            "o:id": 33713
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33714",
+            "o:id": 33714
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33715",
+            "o:id": 33715
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33716",
+            "o:id": 33716
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33717",
+            "o:id": 33717
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33718",
+            "o:id": 33718
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33719",
+            "o:id": 33719
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33720",
+            "o:id": 33720
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33721",
+            "o:id": 33721
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33722",
+            "o:id": 33722
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33723",
+            "o:id": 33723
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33724",
+            "o:id": 33724
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33725",
+            "o:id": 33725
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33726",
+            "o:id": 33726
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33727",
+            "o:id": 33727
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33728",
+            "o:id": 33728
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33729",
+            "o:id": 33729
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33730",
+            "o:id": 33730
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33731",
+            "o:id": 33731
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33732",
+            "o:id": 33732
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33733",
+            "o:id": 33733
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33734",
+            "o:id": 33734
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33735",
+            "o:id": 33735
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33736",
+            "o:id": 33736
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33737",
+            "o:id": 33737
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33818",
+            "o:id": 33818
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33819",
+            "o:id": 33819
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33820",
+            "o:id": 33820
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33821",
+            "o:id": 33821
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33822",
+            "o:id": 33822
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33823",
+            "o:id": 33823
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33824",
+            "o:id": 33824
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33825",
+            "o:id": 33825
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33826",
+            "o:id": 33826
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33827",
+            "o:id": 33827
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33828",
+            "o:id": 33828
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33829",
+            "o:id": 33829
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33830",
+            "o:id": 33830
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33831",
+            "o:id": 33831
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33832",
+            "o:id": 33832
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33833",
+            "o:id": 33833
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33834",
+            "o:id": 33834
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33835",
+            "o:id": 33835
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33836",
+            "o:id": 33836
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33837",
+            "o:id": 33837
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33838",
+            "o:id": 33838
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33839",
+            "o:id": 33839
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33840",
+            "o:id": 33840
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33841",
+            "o:id": 33841
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33842",
+            "o:id": 33842
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33843",
+            "o:id": 33843
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33844",
+            "o:id": 33844
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33845",
+            "o:id": 33845
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33846",
+            "o:id": 33846
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33847",
+            "o:id": 33847
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33848",
+            "o:id": 33848
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33849",
+            "o:id": 33849
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33850",
+            "o:id": 33850
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:32:57+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Ce que disent les Japonais de leurs succès maritimes. Relation des opérations navales pendant la Guerre russo-japonaise d'après l'ouvrage de l'état-major naval japonais. Tr. de l'allemand par le capitaine Le Merre, de l'état-major de l'armée.Pfeil und Klein-Ellguth, Richard von.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

@@ -1,0 +1,308 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13109",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-2031",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1910",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "cd22376e-5c67-4480-885b-b9cf424f92a9",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4370.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Brussels",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "L'agriculture en Chine. Rapport de documentation.Van Loo, Rodolphe.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "37 p. ; 24 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Van Loo, Rodolphe.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Bruxelles, 1910.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=20&tg3=B&tg4=a&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "20. Economy and Industry",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "B. Agriculture",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "a. Agriculture in General",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "L\\'agriculture en Chine. Rapport de documentation.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:12+00:00"
+    },
+    "o:id": 13109,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48486",
+            "o:id": 48486
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48487",
+            "o:id": 48487
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48488",
+            "o:id": 48488
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48489",
+            "o:id": 48489
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48490",
+            "o:id": 48490
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48491",
+            "o:id": 48491
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48492",
+            "o:id": 48492
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48493",
+            "o:id": 48493
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48494",
+            "o:id": 48494
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48495",
+            "o:id": 48495
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48496",
+            "o:id": 48496
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48497",
+            "o:id": 48497
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48498",
+            "o:id": 48498
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48499",
+            "o:id": 48499
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48500",
+            "o:id": 48500
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48501",
+            "o:id": 48501
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48502",
+            "o:id": 48502
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48503",
+            "o:id": 48503
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48504",
+            "o:id": 48504
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48505",
+            "o:id": 48505
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48506",
+            "o:id": 48506
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48507",
+            "o:id": 48507
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48508",
+            "o:id": 48508
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48509",
+            "o:id": 48509
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T14:30:34+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "L'agriculture en Chine. Rapport de documentation.Van Loo, Rodolphe.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

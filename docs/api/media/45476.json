@@ -1,0 +1,42 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/media/45476",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T21:30:16+00:00"
+    },
+    "o:filename": "12928/P-III-c-146_008.jpg",
+    "o:id": 45476,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/items/12928",
+        "o:id": 12928
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T21:30:16+00:00"
+    },
+    "o:original_url": "http://localhost:8882/d_omekas/toyo/files/original/12928/P-III-c-146_008.jpg",
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "75e7f77ea6e832ac05214ae71cf5bf3eb0f92532b4d3c8b6fa4fb5ab325bd872",
+    "o:size": null,
+    "o:source": "http://124.33.215.236/morisonp2015/openimage_fc/P-III-c-146_008.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "http://localhost:8882/d_omekas/toyo/files/large/12928/P-III-c-146_008.jpg",
+        "medium": "http://localhost:8882/d_omekas/toyo/files/medium/12928/P-III-c-146_008.jpg",
+        "square": "http://localhost:8882/d_omekas/toyo/files/square/12928/P-III-c-146_008.jpg"
+    },
+    "o:title": null
+}

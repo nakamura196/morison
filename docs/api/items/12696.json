@@ -1,0 +1,241 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12696",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1558",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "80eaf7cf-09cc-45dc-9c39-a585adbec1fa",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3957.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The oppium question-legal phases. An elementary study of the Rights of Indian Opium in China to-day.Hornbeck, Stanley K.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "22 p. ; 22 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Hornbeck, Stanley K.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Shangahi, 1912.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=14&tg3=W2&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "14. Customs & Manners",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "W2. Opium",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "The oppium question-legal phases. An elementary study of the Rights of Indian Opium in China to-day.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:10+00:00"
+    },
+    "o:id": 12696,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42776",
+            "o:id": 42776
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42777",
+            "o:id": 42777
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42778",
+            "o:id": 42778
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42779",
+            "o:id": 42779
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42780",
+            "o:id": 42780
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42781",
+            "o:id": 42781
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42782",
+            "o:id": 42782
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42783",
+            "o:id": 42783
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42784",
+            "o:id": 42784
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42785",
+            "o:id": 42785
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42786",
+            "o:id": 42786
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42787",
+            "o:id": 42787
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42788",
+            "o:id": 42788
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42789",
+            "o:id": 42789
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:44:22+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "The oppium question-legal phases. An elementary study of the Rights of Indian Opium in China to-day.Hornbeck, Stanley K.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

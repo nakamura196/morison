@@ -1,0 +1,441 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13171",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-c-141",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1902",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "c76593c3-f155-43b2-aaf8-feaa540105f6",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4432.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Tianjin",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Report on the breeding of mules, in the Chinese Empire, ... .China Field Force, Intelligence Br., comp.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "63 p. ; 27 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "China Field Force, Intelligence Br., comp.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Tientsin, 1902.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=20&tg3=D&tg4=b&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "20. Economy and Industry",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "D. Live stock and allied industry",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "b. Livestock; wool & fur",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Report on the breeding of mules, in the Chinese Empire, ... .",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "ex:version": [
+        {
+            "@value": "Repr.",
+            "is_public": true,
+            "property_id": 308,
+            "property_label": "版",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:13+00:00"
+    },
+    "o:id": 13171,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49340",
+            "o:id": 49340
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49341",
+            "o:id": 49341
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49342",
+            "o:id": 49342
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49343",
+            "o:id": 49343
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49344",
+            "o:id": 49344
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49345",
+            "o:id": 49345
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49346",
+            "o:id": 49346
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49347",
+            "o:id": 49347
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49348",
+            "o:id": 49348
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49349",
+            "o:id": 49349
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49350",
+            "o:id": 49350
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49351",
+            "o:id": 49351
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49352",
+            "o:id": 49352
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49353",
+            "o:id": 49353
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49354",
+            "o:id": 49354
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49355",
+            "o:id": 49355
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49356",
+            "o:id": 49356
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49357",
+            "o:id": 49357
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49358",
+            "o:id": 49358
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49359",
+            "o:id": 49359
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49360",
+            "o:id": 49360
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49361",
+            "o:id": 49361
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49362",
+            "o:id": 49362
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49363",
+            "o:id": 49363
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49364",
+            "o:id": 49364
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49365",
+            "o:id": 49365
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49366",
+            "o:id": 49366
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49367",
+            "o:id": 49367
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49368",
+            "o:id": 49368
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49369",
+            "o:id": 49369
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49370",
+            "o:id": 49370
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49371",
+            "o:id": 49371
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49372",
+            "o:id": 49372
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49373",
+            "o:id": 49373
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49374",
+            "o:id": 49374
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49375",
+            "o:id": 49375
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49376",
+            "o:id": 49376
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49377",
+            "o:id": 49377
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49378",
+            "o:id": 49378
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49379",
+            "o:id": 49379
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49380",
+            "o:id": 49380
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49381",
+            "o:id": 49381
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49382",
+            "o:id": 49382
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49383",
+            "o:id": 49383
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49384",
+            "o:id": 49384
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49385",
+            "o:id": 49385
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49386",
+            "o:id": 49386
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49387",
+            "o:id": 49387
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49388",
+            "o:id": 49388
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49389",
+            "o:id": 49389
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49390",
+            "o:id": 49390
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49391",
+            "o:id": 49391
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49392",
+            "o:id": 49392
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49393",
+            "o:id": 49393
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49394",
+            "o:id": 49394
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:32:23+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Report on the breeding of mules, in the Chinese Empire, ... .China Field Force, Intelligence Br., comp.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

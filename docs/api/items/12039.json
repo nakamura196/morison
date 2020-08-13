@@ -1,0 +1,331 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12039",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-c-429",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1904",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "7dc9b6b6-386e-4fc5-8619-c41db801887d",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3300.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Berlin",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Mit den Japanern über den Jalu. Spezialberichte vom Kriegsschauplatz.Gottberg, Otto von.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "33 p. ; ob. 20 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Gottberg, Otto von.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Berlin, 1904.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=H&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "H. Russo-Japanese War, 1904-05",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Mit den Japanern über den Jalu. Spezialberichte vom Kriegsschauplatz.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:05+00:00"
+    },
+    "o:id": 12039,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33550",
+            "o:id": 33550
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33551",
+            "o:id": 33551
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33552",
+            "o:id": 33552
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33553",
+            "o:id": 33553
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33554",
+            "o:id": 33554
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33555",
+            "o:id": 33555
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33556",
+            "o:id": 33556
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33557",
+            "o:id": 33557
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33558",
+            "o:id": 33558
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33559",
+            "o:id": 33559
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33560",
+            "o:id": 33560
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33561",
+            "o:id": 33561
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33562",
+            "o:id": 33562
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33563",
+            "o:id": 33563
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33564",
+            "o:id": 33564
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33565",
+            "o:id": 33565
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33566",
+            "o:id": 33566
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33567",
+            "o:id": 33567
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33568",
+            "o:id": 33568
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33569",
+            "o:id": 33569
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33570",
+            "o:id": 33570
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33571",
+            "o:id": 33571
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33572",
+            "o:id": 33572
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33573",
+            "o:id": 33573
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33574",
+            "o:id": 33574
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33575",
+            "o:id": 33575
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33576",
+            "o:id": 33576
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33577",
+            "o:id": 33577
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33578",
+            "o:id": 33578
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33579",
+            "o:id": 33579
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33580",
+            "o:id": 33580
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33581",
+            "o:id": 33581
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T14:36:35+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Mit den Japanern über den Jalu. Spezialberichte vom Kriegsschauplatz.Gottberg, Otto von.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

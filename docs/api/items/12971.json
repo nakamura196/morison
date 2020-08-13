@@ -1,0 +1,430 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12971",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1718",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "6b6fab4f-5755-48b6-b6f8-f70e3c35c04c",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4232.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Paris",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Thèse pour la licence. (*1) Faculté de Droit de Paris.Ma Kié-tchong.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "114 p. ; 21 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Ma Kié-tchong.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Paris, 1879.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=17&tg3=A&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "17. Law",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "A. Law & Legislation in General; Legal History",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Thèse pour la licence. (*1) Faculté de Droit de Paris.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:11+00:00"
+    },
+    "o:id": 12971,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46272",
+            "o:id": 46272
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46273",
+            "o:id": 46273
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46274",
+            "o:id": 46274
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46275",
+            "o:id": 46275
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46276",
+            "o:id": 46276
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46277",
+            "o:id": 46277
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46278",
+            "o:id": 46278
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46279",
+            "o:id": 46279
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46280",
+            "o:id": 46280
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46281",
+            "o:id": 46281
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46282",
+            "o:id": 46282
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46283",
+            "o:id": 46283
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46284",
+            "o:id": 46284
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46285",
+            "o:id": 46285
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46286",
+            "o:id": 46286
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46287",
+            "o:id": 46287
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46288",
+            "o:id": 46288
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46289",
+            "o:id": 46289
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46290",
+            "o:id": 46290
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46291",
+            "o:id": 46291
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46292",
+            "o:id": 46292
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46293",
+            "o:id": 46293
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46294",
+            "o:id": 46294
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46295",
+            "o:id": 46295
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46296",
+            "o:id": 46296
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46297",
+            "o:id": 46297
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46298",
+            "o:id": 46298
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46299",
+            "o:id": 46299
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46300",
+            "o:id": 46300
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46301",
+            "o:id": 46301
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46302",
+            "o:id": 46302
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46303",
+            "o:id": 46303
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46304",
+            "o:id": 46304
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46305",
+            "o:id": 46305
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46306",
+            "o:id": 46306
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46307",
+            "o:id": 46307
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46308",
+            "o:id": 46308
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46309",
+            "o:id": 46309
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46310",
+            "o:id": 46310
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46311",
+            "o:id": 46311
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46312",
+            "o:id": 46312
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46313",
+            "o:id": 46313
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46314",
+            "o:id": 46314
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46315",
+            "o:id": 46315
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46316",
+            "o:id": 46316
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46317",
+            "o:id": 46317
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46318",
+            "o:id": 46318
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46319",
+            "o:id": 46319
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46320",
+            "o:id": 46320
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46321",
+            "o:id": 46321
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46322",
+            "o:id": 46322
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46323",
+            "o:id": 46323
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46324",
+            "o:id": 46324
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46325",
+            "o:id": 46325
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46326",
+            "o:id": 46326
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46327",
+            "o:id": 46327
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46328",
+            "o:id": 46328
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46329",
+            "o:id": 46329
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46330",
+            "o:id": 46330
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:47:29+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Thèse pour la licence. (*1) Faculté de Droit de Paris.Ma Kié-tchong.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

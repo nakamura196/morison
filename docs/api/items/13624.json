@@ -1,0 +1,330 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13624",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-2140",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "b81a255e-468e-45df-89aa-478c6f6b05d5",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4885.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Shanghai",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Mémoire sur l'établissement de lignes télégraphiques en Chine.Viguier, S. A.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "26 p. ; 22 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Viguier, S. A.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Shanghai, 1875.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=21&tg3=D&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "21. Communication",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "D. Inland Navigation; Canals & Creeks; River Conservancy; &c.",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Mémoire sur l\\'établissement de lignes télégraphiques en Chine.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:16+00:00"
+    },
+    "o:id": 13624,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55817",
+            "o:id": 55817
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55818",
+            "o:id": 55818
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55819",
+            "o:id": 55819
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55820",
+            "o:id": 55820
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55821",
+            "o:id": 55821
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55822",
+            "o:id": 55822
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55823",
+            "o:id": 55823
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55824",
+            "o:id": 55824
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55825",
+            "o:id": 55825
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55826",
+            "o:id": 55826
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55827",
+            "o:id": 55827
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55828",
+            "o:id": 55828
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55829",
+            "o:id": 55829
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55830",
+            "o:id": 55830
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55831",
+            "o:id": 55831
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55832",
+            "o:id": 55832
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55833",
+            "o:id": 55833
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55923",
+            "o:id": 55923
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55924",
+            "o:id": 55924
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55925",
+            "o:id": 55925
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55926",
+            "o:id": 55926
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55927",
+            "o:id": 55927
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55928",
+            "o:id": 55928
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55929",
+            "o:id": 55929
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55930",
+            "o:id": 55930
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55931",
+            "o:id": 55931
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55932",
+            "o:id": 55932
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55933",
+            "o:id": 55933
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55934",
+            "o:id": 55934
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55935",
+            "o:id": 55935
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55936",
+            "o:id": 55936
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55937",
+            "o:id": 55937
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55938",
+            "o:id": 55938
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55939",
+            "o:id": 55939
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T14:42:35+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Mémoire sur l'établissement de lignes télégraphiques en Chine.Viguier, S. A.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

@@ -1,0 +1,363 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11772",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-897",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1908",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "767467db-daef-4fea-9208-05cf555abf17",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3033.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Shanghai",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Souvenir program. October 29th to November 3rd, 1908. Reception and entertainment tendered the officers and men of the U. S. battleship fleet on the occasion of its visit to Amoy, China.(*1)",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "21, 16 p. ; 21 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Shanghai, 1908.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=F&tg4=h&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "F. Foreign relations",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "h. U.S. of America",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Souvenir program. October 29th to November 3rd, 1908. Reception and entertainment tendered the officers and men of the U. S. battleship fleet on the occasion of its visit to Amoy, China.(*1)",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:03+00:00"
+    },
+    "o:id": 11772,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29727",
+            "o:id": 29727
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29728",
+            "o:id": 29728
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29729",
+            "o:id": 29729
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29730",
+            "o:id": 29730
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29731",
+            "o:id": 29731
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29732",
+            "o:id": 29732
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29733",
+            "o:id": 29733
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29734",
+            "o:id": 29734
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29735",
+            "o:id": 29735
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29736",
+            "o:id": 29736
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29737",
+            "o:id": 29737
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29738",
+            "o:id": 29738
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29739",
+            "o:id": 29739
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29740",
+            "o:id": 29740
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29741",
+            "o:id": 29741
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29742",
+            "o:id": 29742
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29743",
+            "o:id": 29743
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29744",
+            "o:id": 29744
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29745",
+            "o:id": 29745
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29746",
+            "o:id": 29746
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29747",
+            "o:id": 29747
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29748",
+            "o:id": 29748
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29749",
+            "o:id": 29749
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29750",
+            "o:id": 29750
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29751",
+            "o:id": 29751
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29752",
+            "o:id": 29752
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29753",
+            "o:id": 29753
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29754",
+            "o:id": 29754
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29755",
+            "o:id": 29755
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29756",
+            "o:id": 29756
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29757",
+            "o:id": 29757
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29758",
+            "o:id": 29758
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29759",
+            "o:id": 29759
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29760",
+            "o:id": 29760
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29761",
+            "o:id": 29761
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29762",
+            "o:id": 29762
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29763",
+            "o:id": 29763
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29764",
+            "o:id": 29764
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29765",
+            "o:id": 29765
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29766",
+            "o:id": 29766
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:51:28+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Souvenir program. October 29th to November 3rd, 1908. Reception and entertainment tendered the officers and men of the U. S. battleship fleet on the occasion of its visit to Amoy, China.(*1)",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

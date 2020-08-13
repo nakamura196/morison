@@ -1,0 +1,246 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11351",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-b-248",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1912",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "62370c2e-d356-470b-8cc1-c836c5561000",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2612.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The Chinese revolution: Review based upon: - China under the Dowager Empress, by J. O. P. Bland & E. Backhouse. London. 1910. - Two years in the forbidden city, by Princess Der Ling. London. 1912. - Intellectual and political currents in the Far East, by P. S. Reinsch. Boston. 1912. - Lion and dragon in northern China, by R. E. Johnston. London. 1910. - The China correspondents of the 'Times\".Chirol, Sir Valentine.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "pp. 157-162 ; 25 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Clausen, Walter Bertin.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "1912",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=E&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "E. Recent history",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "The Chung Hwa Republic: Careful Organization of the Revolt in China. (Article edited by Sun Fo, son of Dr. Sun Yet Sen, revolutionary Leader. and by Fung Chi You, formerly President of the Siu Nin Wui, of Canton, now called The Young China Association.)",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:01+00:00"
+    },
+    "o:id": 11351,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23415",
+            "o:id": 23415
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23416",
+            "o:id": 23416
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23417",
+            "o:id": 23417
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23418",
+            "o:id": 23418
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23419",
+            "o:id": 23419
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23420",
+            "o:id": 23420
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23421",
+            "o:id": 23421
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23422",
+            "o:id": 23422
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23423",
+            "o:id": 23423
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23424",
+            "o:id": 23424
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23425",
+            "o:id": 23425
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23426",
+            "o:id": 23426
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23427",
+            "o:id": 23427
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T14:27:27+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "The Chinese revolution: Review based upon: - China under the Dowager Empress, by J. O. P. Bland & E. Backhouse. London. 1910. - Two years in the forbidden city, by Princess Der Ling. London. 1912. - Intellectual and political currents in the Far East, by P. S. Reinsch. Boston. 1912. - Lion and dragon in northern China, by R. E. Johnston. London. 1910. - The China correspondents of the 'Times\".Chirol, Sir Valentine.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

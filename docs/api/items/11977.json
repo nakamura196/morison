@@ -1,0 +1,370 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11977",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-625",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "a3ea9e08-51e1-4003-affc-8231f38501a6",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3238.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Berlin",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Deutsche Seesoldaten bei der Belagerung der Gesandtschaften in Peking im Sommer, 1900.Rogge, Christian.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "75 p. ; 23 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Rogge, Christian.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Berlin, 1902.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=G&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "G. The Boxer rising, 1900-01",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Deutsche Seesoldaten bei der Belagerung der Gesandtschaften in Peking im Sommer, 1900.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:05+00:00"
+    },
+    "o:id": 11977,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32711",
+            "o:id": 32711
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32712",
+            "o:id": 32712
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32713",
+            "o:id": 32713
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32714",
+            "o:id": 32714
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32715",
+            "o:id": 32715
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32716",
+            "o:id": 32716
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32717",
+            "o:id": 32717
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32718",
+            "o:id": 32718
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32719",
+            "o:id": 32719
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32720",
+            "o:id": 32720
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32721",
+            "o:id": 32721
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32722",
+            "o:id": 32722
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32723",
+            "o:id": 32723
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32724",
+            "o:id": 32724
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32725",
+            "o:id": 32725
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32726",
+            "o:id": 32726
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32727",
+            "o:id": 32727
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32728",
+            "o:id": 32728
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32729",
+            "o:id": 32729
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32730",
+            "o:id": 32730
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32731",
+            "o:id": 32731
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32732",
+            "o:id": 32732
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32733",
+            "o:id": 32733
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32734",
+            "o:id": 32734
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32735",
+            "o:id": 32735
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32736",
+            "o:id": 32736
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32737",
+            "o:id": 32737
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32738",
+            "o:id": 32738
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32739",
+            "o:id": 32739
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32740",
+            "o:id": 32740
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32741",
+            "o:id": 32741
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32742",
+            "o:id": 32742
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32743",
+            "o:id": 32743
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32744",
+            "o:id": 32744
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32745",
+            "o:id": 32745
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32746",
+            "o:id": 32746
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32747",
+            "o:id": 32747
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32748",
+            "o:id": 32748
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32749",
+            "o:id": 32749
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32750",
+            "o:id": 32750
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32751",
+            "o:id": 32751
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32752",
+            "o:id": 32752
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32753",
+            "o:id": 32753
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32754",
+            "o:id": 32754
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:44:44+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Deutsche Seesoldaten bei der Belagerung der Gesandtschaften in Peking im Sommer, 1900.Rogge, Christian.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

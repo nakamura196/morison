@@ -1,0 +1,228 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13162",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-b-0381",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "58885627-601d-455f-a850-0a164df80235",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4423.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Des soieries et des vers à Soie en Chine. Extract ... Montpellier.Du Halde, J. B.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=20&tg3=C&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "20. Economy and Industry",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "C. Sericulture",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:13+00:00"
+    },
+    "o:id": 13162,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49247",
+            "o:id": 49247
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49248",
+            "o:id": 49248
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49249",
+            "o:id": 49249
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49250",
+            "o:id": 49250
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49251",
+            "o:id": 49251
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49252",
+            "o:id": 49252
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49253",
+            "o:id": 49253
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49254",
+            "o:id": 49254
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49255",
+            "o:id": 49255
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49256",
+            "o:id": 49256
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49257",
+            "o:id": 49257
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49258",
+            "o:id": 49258
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49259",
+            "o:id": 49259
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49260",
+            "o:id": 49260
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49261",
+            "o:id": 49261
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49262",
+            "o:id": 49262
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49263",
+            "o:id": 49263
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49264",
+            "o:id": 49264
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49265",
+            "o:id": 49265
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49266",
+            "o:id": 49266
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49267",
+            "o:id": 49267
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49268",
+            "o:id": 49268
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T01:53:14+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Des soieries et des vers à Soie en Chine. Extract ... Montpellier.Du Halde, J. B.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

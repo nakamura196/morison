@@ -1,0 +1,205 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/morison/iiif/item/11446/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東洋文庫 / Toyo Bunko",
+    "label": "The China of to-day. An interview with Hamilton W.Sun Yat-sen.",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "metadata": [
+        {
+            "label": "Call Number",
+            "term": "dcndl:callNumber",
+            "value": "P-III-b-825"
+        },
+        {
+            "label": "Identifier",
+            "term": "dcterms:identifier",
+            "value": "0045606c-8c62-4f65-ae00-6761dbfe5a2c"
+        },
+        {
+            "label": "Is Part Of",
+            "term": "dcterms:isPartOf",
+            "value": "http://124.33.215.236/morisonp2015/morisonpocr2707.php"
+        },
+        {
+            "label": "Publisher",
+            "term": "dcterms:publisher",
+            "value": "モリソンパンフレット画像データベース"
+        },
+        {
+            "label": "Rights",
+            "term": "dcterms:rights",
+            "value": "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+            "label": "Spatial Coverage",
+            "term": "dcterms:spatial",
+            "value": "http://dbpedia.org/resource/Mabie"
+        },
+        {
+            "label": "Title",
+            "term": "dcterms:title",
+            "value": "The China of to-day. An interview with Hamilton W.Sun Yat-sen."
+        },
+        {
+            "label": "形態的記述",
+            "term": "ex:format",
+            "value": "pp. 769-771 ; 25 cm."
+        },
+        {
+            "label": "heading1",
+            "term": "ex:heading1",
+            "value": "Sun Yat-sen."
+        },
+        {
+            "label": "所蔵",
+            "term": "ex:holding",
+            "value": "（記録なし）"
+        },
+        {
+            "label": "出版事項",
+            "term": "ex:publication",
+            "value": "Mabie, 1913."
+        },
+        {
+            "label": "引用元",
+            "term": "ex:references",
+            "value": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=E&tg4=&tg5="
+        },
+        {
+            "label": "分類1",
+            "term": "ex:tag1",
+            "value": "III. CHINA"
+        },
+        {
+            "label": "分類2",
+            "term": "ex:tag2",
+            "value": "7. History"
+        },
+        {
+            "label": "分類3",
+            "term": "ex:tag3",
+            "value": "E. Recent history"
+        },
+        {
+            "label": "タイトル責任表示",
+            "term": "ex:title",
+            "value": "The China of to-day. An interview with Hamilton W."
+        },
+        {
+            "label": "attributionLabel",
+            "term": "sc:attributionLabel",
+            "value": "東洋文庫 / Toyo Bunko"
+        }
+    ],
+    "seeAlso": "https://nakamura196.github.io/morison/api/items/11446.json",
+    "sequences": [
+        {
+            "@id": "https://nakamura196.github.io/morison/iiif/item/11446/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/11446/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/11446/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/11446/canvas/p1",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/openimage/P-III-b-0825_001.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/openimage/P-III-b-0825_001.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/11446/canvas/p2",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/11446/annotation/p0002-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/11446/canvas/p2",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/openimage/P-III-b-0825_002.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[2]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/openimage/P-III-b-0825_002.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/11446/canvas/p3",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/11446/annotation/p0003-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/11446/canvas/p3",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/openimage/P-III-b-0825_003.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[3]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/openimage/P-III-b-0825_003.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/11446/canvas/p4",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/11446/annotation/p0004-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/11446/canvas/p4",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/openimage/P-III-b-0825_004.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[4]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/openimage/P-III-b-0825_004.jpg"
+                    },
+                    "width": 1
+                }
+            ]
+        }
+    ],
+    "thumbnail": "http://124.33.215.236/morisonp2015/openimage/P-III-b-0825_001.jpg"
+}

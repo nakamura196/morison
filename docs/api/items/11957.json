@@ -1,0 +1,298 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11957",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-b-998",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "342f6063-71fd-4e45-893b-2145fdfe4141",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3218.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Paris",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Le siège de la légation de France (Pékin, du 13 juin au 15 août, 1900).Matignon, J[ean] J[acque].",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "47 p. ; 25 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Matignon, J[ean] J[acque].",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Paris & Bordeaux, 1902.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=G&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "G. The Boxer rising, 1900-01",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Le siège de la légation de France (Pékin, du 13 juin au 15 août, 1900).",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:05+00:00"
+    },
+    "o:id": 11957,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32407",
+            "o:id": 32407
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32408",
+            "o:id": 32408
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32409",
+            "o:id": 32409
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32410",
+            "o:id": 32410
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32411",
+            "o:id": 32411
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32412",
+            "o:id": 32412
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32413",
+            "o:id": 32413
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32414",
+            "o:id": 32414
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32415",
+            "o:id": 32415
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32416",
+            "o:id": 32416
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32417",
+            "o:id": 32417
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32418",
+            "o:id": 32418
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32419",
+            "o:id": 32419
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32420",
+            "o:id": 32420
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32421",
+            "o:id": 32421
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32422",
+            "o:id": 32422
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32423",
+            "o:id": 32423
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32424",
+            "o:id": 32424
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32425",
+            "o:id": 32425
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32426",
+            "o:id": 32426
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32427",
+            "o:id": 32427
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32428",
+            "o:id": 32428
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32429",
+            "o:id": 32429
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32430",
+            "o:id": 32430
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32431",
+            "o:id": 32431
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32432",
+            "o:id": 32432
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:34:52+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Le siège de la légation de France (Pékin, du 13 juin au 15 août, 1900).Matignon, J[ean] J[acque].",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

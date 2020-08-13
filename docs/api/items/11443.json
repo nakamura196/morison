@@ -1,0 +1,282 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11443",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-736",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "6538a6db-7a79-4f56-8528-6281cba8e19c",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2704.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Tianjin",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Scenes in Shensi's civil war. Some consequences of the monarchical movement: the apotheosis of brigandage.Smith, Earnest F. Borst.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "39 p. ; 18 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Smith, Earnest F. Borst.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Tientsin.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=E&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "E. Recent history",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Scenes in Shensi\\'s civil war. Some consequences of the monarchical movement: the apotheosis of brigandage.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:01+00:00"
+    },
+    "o:id": 11443,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24702",
+            "o:id": 24702
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24703",
+            "o:id": 24703
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24704",
+            "o:id": 24704
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24705",
+            "o:id": 24705
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24706",
+            "o:id": 24706
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24707",
+            "o:id": 24707
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24708",
+            "o:id": 24708
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24709",
+            "o:id": 24709
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24710",
+            "o:id": 24710
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24711",
+            "o:id": 24711
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24712",
+            "o:id": 24712
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24713",
+            "o:id": 24713
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24714",
+            "o:id": 24714
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24715",
+            "o:id": 24715
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24716",
+            "o:id": 24716
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24717",
+            "o:id": 24717
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24718",
+            "o:id": 24718
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24719",
+            "o:id": 24719
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24720",
+            "o:id": 24720
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24721",
+            "o:id": 24721
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24722",
+            "o:id": 24722
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24723",
+            "o:id": 24723
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:50:09+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Scenes in Shensi's civil war. Some consequences of the monarchical movement: the apotheosis of brigandage.Smith, Earnest F. Borst.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

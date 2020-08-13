@@ -1,0 +1,323 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13470",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-2021",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "d67a7bed-7fbb-4835-9e78-023cc93fa57f",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4731.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Brussels",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Entreprises en Chine.Bray, Fd. de.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "52 p. ; 24 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Bray, Fd. de.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Bruxelles, 1899.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=20&tg3=I&tg4=f&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "20. Economy and Industry",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "I. Money market and Banking",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "f. Investment, Enterprise",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Entreprises en Chine.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:14+00:00"
+    },
+    "o:id": 13470,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53566",
+            "o:id": 53566
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53567",
+            "o:id": 53567
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53568",
+            "o:id": 53568
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53569",
+            "o:id": 53569
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53570",
+            "o:id": 53570
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53571",
+            "o:id": 53571
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53572",
+            "o:id": 53572
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53573",
+            "o:id": 53573
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53574",
+            "o:id": 53574
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53575",
+            "o:id": 53575
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53576",
+            "o:id": 53576
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53577",
+            "o:id": 53577
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53578",
+            "o:id": 53578
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53579",
+            "o:id": 53579
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53580",
+            "o:id": 53580
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53581",
+            "o:id": 53581
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53582",
+            "o:id": 53582
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53583",
+            "o:id": 53583
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53584",
+            "o:id": 53584
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53585",
+            "o:id": 53585
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53586",
+            "o:id": 53586
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53587",
+            "o:id": 53587
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53588",
+            "o:id": 53588
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53589",
+            "o:id": 53589
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53590",
+            "o:id": 53590
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53591",
+            "o:id": 53591
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53592",
+            "o:id": 53592
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53593",
+            "o:id": 53593
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53594",
+            "o:id": 53594
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53595",
+            "o:id": 53595
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:33:53+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Entreprises en Chine.Bray, Fd. de.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

@@ -1,0 +1,371 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13158",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1965",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "ca603686-6f9c-46b8-a480-8a1f3f907de7",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4419.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Hong_Kong",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Gardening for Hongkong.Tutcher, W. J.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "68, iv p. ; 21 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Tutcher, W. J.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Hongkong &c., 1907.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=20&tg3=B&tg4=h&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "20. Economy and Industry",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "B. Agriculture",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "h. Horticulture",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Gardening for Hongkong.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:13+00:00"
+    },
+    "o:id": 13158,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49166",
+            "o:id": 49166
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49167",
+            "o:id": 49167
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49168",
+            "o:id": 49168
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49169",
+            "o:id": 49169
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49170",
+            "o:id": 49170
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49171",
+            "o:id": 49171
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49172",
+            "o:id": 49172
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49173",
+            "o:id": 49173
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49174",
+            "o:id": 49174
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49175",
+            "o:id": 49175
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49176",
+            "o:id": 49176
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49177",
+            "o:id": 49177
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49178",
+            "o:id": 49178
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49179",
+            "o:id": 49179
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49180",
+            "o:id": 49180
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49181",
+            "o:id": 49181
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49182",
+            "o:id": 49182
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49183",
+            "o:id": 49183
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49184",
+            "o:id": 49184
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49185",
+            "o:id": 49185
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49186",
+            "o:id": 49186
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49187",
+            "o:id": 49187
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49188",
+            "o:id": 49188
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49189",
+            "o:id": 49189
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49190",
+            "o:id": 49190
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49191",
+            "o:id": 49191
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49192",
+            "o:id": 49192
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49193",
+            "o:id": 49193
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49194",
+            "o:id": 49194
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49195",
+            "o:id": 49195
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49196",
+            "o:id": 49196
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49197",
+            "o:id": 49197
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49198",
+            "o:id": 49198
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49199",
+            "o:id": 49199
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49200",
+            "o:id": 49200
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49201",
+            "o:id": 49201
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49202",
+            "o:id": 49202
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49203",
+            "o:id": 49203
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49204",
+            "o:id": 49204
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49205",
+            "o:id": 49205
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49206",
+            "o:id": 49206
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49207",
+            "o:id": 49207
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:34:39+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Gardening for Hongkong.Tutcher, W. J.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

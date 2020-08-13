@@ -1,0 +1,387 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11845",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-b-908",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "3a0b3cb3-0b93-485e-99b5-1952f991c6d5",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3106.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Yokohama",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The Japan-China War: The naval battle of Haiyang.Inouye, Junkichi.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "24 p. ; 26 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Inouye, Junkichi.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Yokohama & c., [1894.]",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=F&tg4=n&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "F. Foreign relations",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "n. Japan (Including Shino-Japanese War)",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "The Japan-China War: The naval battle of Haiyang.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:04+00:00"
+    },
+    "o:id": 11845,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30629",
+            "o:id": 30629
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30630",
+            "o:id": 30630
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30631",
+            "o:id": 30631
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30632",
+            "o:id": 30632
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30633",
+            "o:id": 30633
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30634",
+            "o:id": 30634
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30635",
+            "o:id": 30635
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30636",
+            "o:id": 30636
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30637",
+            "o:id": 30637
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30638",
+            "o:id": 30638
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30639",
+            "o:id": 30639
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30640",
+            "o:id": 30640
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30641",
+            "o:id": 30641
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30642",
+            "o:id": 30642
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30643",
+            "o:id": 30643
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30644",
+            "o:id": 30644
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30645",
+            "o:id": 30645
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30646",
+            "o:id": 30646
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30647",
+            "o:id": 30647
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30648",
+            "o:id": 30648
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30649",
+            "o:id": 30649
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30650",
+            "o:id": 30650
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30651",
+            "o:id": 30651
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30652",
+            "o:id": 30652
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30653",
+            "o:id": 30653
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30654",
+            "o:id": 30654
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30655",
+            "o:id": 30655
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30656",
+            "o:id": 30656
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30657",
+            "o:id": 30657
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30658",
+            "o:id": 30658
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30659",
+            "o:id": 30659
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30660",
+            "o:id": 30660
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30661",
+            "o:id": 30661
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30662",
+            "o:id": 30662
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30663",
+            "o:id": 30663
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30664",
+            "o:id": 30664
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30665",
+            "o:id": 30665
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30666",
+            "o:id": 30666
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30667",
+            "o:id": 30667
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30668",
+            "o:id": 30668
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30669",
+            "o:id": 30669
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30670",
+            "o:id": 30670
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30671",
+            "o:id": 30671
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30672",
+            "o:id": 30672
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30673",
+            "o:id": 30673
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30674",
+            "o:id": 30674
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T14:22:17+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "The Japan-China War: The naval battle of Haiyang.Inouye, Junkichi.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

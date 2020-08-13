@@ -1,0 +1,274 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11586",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1100",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1857",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "f6b8a6f2-7bd2-4064-92dd-c36348f2b132",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2847.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "British relations with China: Review based upon: - The Chinese and their rebellions. By M. S. T. Meadows. 1856. - Papers relating to the proceedings of Her Majesty's naval forces at Canton. 1857. - Correspondence respecting insults in China. 1857.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "pp. 517-552 ; 23 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "1857",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=F&tg4=e&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "F. Foreign relations",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "e. Great-Britain",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "British relations with China: Review based upon: - The Chinese and their rebellions. By M. S. T. Meadows. 1856. - Papers relating to the proceedings of Her Majesty\\'s naval forces at Canton. 1857. - Correspondence respecting insults in China. 1857.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:02+00:00"
+    },
+    "o:id": 11586,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26643",
+            "o:id": 26643
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26644",
+            "o:id": 26644
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26645",
+            "o:id": 26645
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26646",
+            "o:id": 26646
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26647",
+            "o:id": 26647
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26648",
+            "o:id": 26648
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26649",
+            "o:id": 26649
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26650",
+            "o:id": 26650
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26651",
+            "o:id": 26651
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26652",
+            "o:id": 26652
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26653",
+            "o:id": 26653
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26654",
+            "o:id": 26654
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26655",
+            "o:id": 26655
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26656",
+            "o:id": 26656
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26657",
+            "o:id": 26657
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26658",
+            "o:id": 26658
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26659",
+            "o:id": 26659
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26660",
+            "o:id": 26660
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26661",
+            "o:id": 26661
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26662",
+            "o:id": 26662
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:45:03+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "British relations with China: Review based upon: - The Chinese and their rebellions. By M. S. T. Meadows. 1856. - Papers relating to the proceedings of Her Majesty's naval forces at Canton. 1857. - Correspondence respecting insults in China. 1857.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

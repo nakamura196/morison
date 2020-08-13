@@ -1,0 +1,285 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11053",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-0839",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "65d91887-f4b2-4acf-ad62-f26a8ef41457",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2314.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "British captives in China ; an account of the shipwreck on the Island of Formosa, of the brig \"Ann\".Patridge, Dan.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=E&tg4=b&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "E. China Coast & China Sea",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "b. Cruise or Voyage in China Sea (or along China Coast)",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:59+00:00"
+    },
+    "o:id": 11053,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18914",
+            "o:id": 18914
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18915",
+            "o:id": 18915
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18916",
+            "o:id": 18916
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18917",
+            "o:id": 18917
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18918",
+            "o:id": 18918
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18919",
+            "o:id": 18919
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18920",
+            "o:id": 18920
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18921",
+            "o:id": 18921
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18922",
+            "o:id": 18922
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18923",
+            "o:id": 18923
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18924",
+            "o:id": 18924
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18925",
+            "o:id": 18925
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18926",
+            "o:id": 18926
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18927",
+            "o:id": 18927
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18928",
+            "o:id": 18928
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18929",
+            "o:id": 18929
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18930",
+            "o:id": 18930
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18931",
+            "o:id": 18931
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18932",
+            "o:id": 18932
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18933",
+            "o:id": 18933
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18934",
+            "o:id": 18934
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18935",
+            "o:id": 18935
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18936",
+            "o:id": 18936
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18937",
+            "o:id": 18937
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18938",
+            "o:id": 18938
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18939",
+            "o:id": 18939
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18940",
+            "o:id": 18940
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18941",
+            "o:id": 18941
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18942",
+            "o:id": 18942
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18943",
+            "o:id": 18943
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18944",
+            "o:id": 18944
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18945",
+            "o:id": 18945
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18946",
+            "o:id": 18946
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18947",
+            "o:id": 18947
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T01:46:04+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "British captives in China ; an account of the shipwreck on the Island of Formosa, of the brig \"Ann\".Patridge, Dan.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

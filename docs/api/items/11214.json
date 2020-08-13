@@ -1,0 +1,265 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11214",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-762",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1862",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "bf24cb10-7dde-4e19-bd0c-ca69b6f90196",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2475.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "China the Taeping rebellion: Review based upon: - Narrative of the rise and progress of the Taeping rebellion in China. By Comm. Lindesay Brine. London, 1862. Five months on the Yangtsze. By Thomas W. Blakiston. London, 1862. Narrative of the war with China on 1860. By Lieut. Col. G. J. Woleskey. London, 1862. The London and China telegraph. The Church mission record. Oct.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "pp. 500-534 ; 20 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "1862",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=D&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "D. Modern history",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "China the Taeping rebellion: Review based upon: - Narrative of the rise and progress of the Taeping rebellion in China. By Comm. Lindesay Brine. London, 1862. Five months on the Yangtsze. By Thomas W. Blakiston. London, 1862. Narrative of the war with China on 1860. By   Lieut. Col. G. J. Woleskey. London, 1862. The London and China telegraph. The Church mission record. Oct.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:00+00:00"
+    },
+    "o:id": 11214,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21650",
+            "o:id": 21650
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21651",
+            "o:id": 21651
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21652",
+            "o:id": 21652
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21653",
+            "o:id": 21653
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21654",
+            "o:id": 21654
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21655",
+            "o:id": 21655
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21656",
+            "o:id": 21656
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21657",
+            "o:id": 21657
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21658",
+            "o:id": 21658
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21659",
+            "o:id": 21659
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21660",
+            "o:id": 21660
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21661",
+            "o:id": 21661
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21662",
+            "o:id": 21662
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21663",
+            "o:id": 21663
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21664",
+            "o:id": 21664
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21665",
+            "o:id": 21665
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21666",
+            "o:id": 21666
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21667",
+            "o:id": 21667
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21668",
+            "o:id": 21668
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21669",
+            "o:id": 21669
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:39:08+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "China the Taeping rebellion: Review based upon: - Narrative of the rise and progress of the Taeping rebellion in China. By Comm. Lindesay Brine. London, 1862. Five months on the Yangtsze. By Thomas W. Blakiston. London, 1862. Narrative of the war with China on 1860. By Lieut. Col. G. J. Woleskey. London, 1862. The London and China telegraph. The Church mission record. Oct.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

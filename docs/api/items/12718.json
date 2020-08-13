@@ -1,0 +1,346 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12718",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-2262",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "c352e4ce-efa6-46ac-8ef6-c9711acff54c",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3979.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/London",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Our opium trade with China.Mander, Samuel S.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "72 p. ; 22 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Mander, Samuel S.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "London, 1877.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=14&tg3=W2&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "14. Customs & Manners",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "W2. Opium",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Our opium trade with China.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:10+00:00"
+    },
+    "o:id": 12718,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43038",
+            "o:id": 43038
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43039",
+            "o:id": 43039
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43040",
+            "o:id": 43040
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43041",
+            "o:id": 43041
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43042",
+            "o:id": 43042
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43043",
+            "o:id": 43043
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43044",
+            "o:id": 43044
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43045",
+            "o:id": 43045
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43046",
+            "o:id": 43046
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43047",
+            "o:id": 43047
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43048",
+            "o:id": 43048
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43049",
+            "o:id": 43049
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43050",
+            "o:id": 43050
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43051",
+            "o:id": 43051
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43052",
+            "o:id": 43052
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43053",
+            "o:id": 43053
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43054",
+            "o:id": 43054
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43055",
+            "o:id": 43055
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43056",
+            "o:id": 43056
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43057",
+            "o:id": 43057
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43058",
+            "o:id": 43058
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43059",
+            "o:id": 43059
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43060",
+            "o:id": 43060
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43061",
+            "o:id": 43061
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43062",
+            "o:id": 43062
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43063",
+            "o:id": 43063
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43064",
+            "o:id": 43064
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43065",
+            "o:id": 43065
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43066",
+            "o:id": 43066
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43067",
+            "o:id": 43067
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43068",
+            "o:id": 43068
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43069",
+            "o:id": 43069
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43070",
+            "o:id": 43070
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43071",
+            "o:id": 43071
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43072",
+            "o:id": 43072
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43073",
+            "o:id": 43073
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43074",
+            "o:id": 43074
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43075",
+            "o:id": 43075
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T14:07:19+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Our opium trade with China.Mander, Samuel S.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

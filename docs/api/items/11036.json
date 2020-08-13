@@ -1,0 +1,205 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11036",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-0088",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "d0303ee7-6912-40a0-bc40-4d7eea014901",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2297.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Notice sur les déplacements des deux principaux fleuves de la Chine.Escayrac de Lauture, Cte. de.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=D&tg4=b&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "D. Mountains & Rivers; Lakes & Canals",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "b. Rivers, Canals, & Lakes",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:59+00:00"
+    },
+    "o:id": 11036,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18628",
+            "o:id": 18628
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18629",
+            "o:id": 18629
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18630",
+            "o:id": 18630
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18631",
+            "o:id": 18631
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18632",
+            "o:id": 18632
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18633",
+            "o:id": 18633
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18634",
+            "o:id": 18634
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18635",
+            "o:id": 18635
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18636",
+            "o:id": 18636
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18637",
+            "o:id": 18637
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18638",
+            "o:id": 18638
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18639",
+            "o:id": 18639
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18640",
+            "o:id": 18640
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18641",
+            "o:id": 18641
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T01:10:29+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Notice sur les déplacements des deux principaux fleuves de la Chine.Escayrac de Lauture, Cte. de.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

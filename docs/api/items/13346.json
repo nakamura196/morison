@@ -1,0 +1,368 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13346",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-2047",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1907",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "c96fd31d-9f6a-43f8-9a6c-dd8578c0cb6c",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4607.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Vienna",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Handels - und Geschäftsverhältnisse in China.Post, Nikolaus.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "72 p. ; 23 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Post, Nikolaus.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Wien, 1907.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=20&tg3=H&tg4=a&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "20. Economy and Industry",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "H. Commerce",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "a. General",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Handels - und Geschäftsverhältnisse in China.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:14+00:00"
+    },
+    "o:id": 13346,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51849",
+            "o:id": 51849
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51850",
+            "o:id": 51850
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51851",
+            "o:id": 51851
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51852",
+            "o:id": 51852
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51853",
+            "o:id": 51853
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51854",
+            "o:id": 51854
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51855",
+            "o:id": 51855
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51856",
+            "o:id": 51856
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51857",
+            "o:id": 51857
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51858",
+            "o:id": 51858
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51859",
+            "o:id": 51859
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51860",
+            "o:id": 51860
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51861",
+            "o:id": 51861
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51862",
+            "o:id": 51862
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51863",
+            "o:id": 51863
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51864",
+            "o:id": 51864
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51865",
+            "o:id": 51865
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51866",
+            "o:id": 51866
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51867",
+            "o:id": 51867
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51868",
+            "o:id": 51868
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51869",
+            "o:id": 51869
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51870",
+            "o:id": 51870
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51871",
+            "o:id": 51871
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51872",
+            "o:id": 51872
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51873",
+            "o:id": 51873
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51874",
+            "o:id": 51874
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51875",
+            "o:id": 51875
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51876",
+            "o:id": 51876
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51877",
+            "o:id": 51877
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51878",
+            "o:id": 51878
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51879",
+            "o:id": 51879
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51880",
+            "o:id": 51880
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51881",
+            "o:id": 51881
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51882",
+            "o:id": 51882
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51883",
+            "o:id": 51883
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51884",
+            "o:id": 51884
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51885",
+            "o:id": 51885
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51886",
+            "o:id": 51886
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51887",
+            "o:id": 51887
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:32:41+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Handels - und Geschäftsverhältnisse in China.Post, Nikolaus.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

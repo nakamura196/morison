@@ -1,0 +1,213 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13030",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-b-0487",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "73b39414-3c3d-4462-9d55-34e95c1943dc",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4291.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Proceedings of the 3rd meeting of the Tibet Conference held at Delhi on the 12th January 1914.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=17&tg3=H&tg4=a&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "17. Law",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "H. International Law",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "a. Treaty Texts; Conventions, Agreements, Protocoles",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:12+00:00"
+    },
+    "o:id": 13030,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47275",
+            "o:id": 47275
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47276",
+            "o:id": 47276
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47277",
+            "o:id": 47277
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47278",
+            "o:id": 47278
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47279",
+            "o:id": 47279
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47280",
+            "o:id": 47280
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47281",
+            "o:id": 47281
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47282",
+            "o:id": 47282
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47283",
+            "o:id": 47283
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47284",
+            "o:id": 47284
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47285",
+            "o:id": 47285
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47286",
+            "o:id": 47286
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47287",
+            "o:id": 47287
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47288",
+            "o:id": 47288
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47289",
+            "o:id": 47289
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47290",
+            "o:id": 47290
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T01:00:04+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Proceedings of the 3rd meeting of the Tibet Conference held at Delhi on the 12th January 1914.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

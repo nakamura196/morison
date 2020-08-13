@@ -1,0 +1,42 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/media/36312",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T15:35:53+00:00"
+    },
+    "o:filename": "12229/P-III-a-2769_001.jpg",
+    "o:id": 36312,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/items/12229",
+        "o:id": 12229
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T15:35:53+00:00"
+    },
+    "o:original_url": "http://localhost:8882/d_omekas/toyo/files/original/12229/P-III-a-2769_001.jpg",
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "fb7d3381e0d07dab3bed08bf1800f57d223d016ffa431724a68d387c2831e015",
+    "o:size": null,
+    "o:source": "http://124.33.215.236/morisonp2015/10ReligionAEc/P-III-a-2769_001.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "http://localhost:8882/d_omekas/toyo/files/large/12229/P-III-a-2769_001.jpg",
+        "medium": "http://localhost:8882/d_omekas/toyo/files/medium/12229/P-III-a-2769_001.jpg",
+        "square": "http://localhost:8882/d_omekas/toyo/files/square/12229/P-III-a-2769_001.jpg"
+    },
+    "o:title": null
+}

@@ -1,0 +1,270 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12117",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1176",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "195e4b16-dfdb-4eb5-80b0-eaf870265cde",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3378.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Gand",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "La religion en China. A propos du dernier livre de M. A. Reville.Harlez, Charles Joseph de.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "33 p. ; 23 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Harlez, Charles Joseph de.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Gand, 1889.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=10&tg3=A&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "10. Religion",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "A. General",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "La religion en China. A propos du dernier livre de M. A. Reville.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:06+00:00"
+    },
+    "o:id": 12117,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34642",
+            "o:id": 34642
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34643",
+            "o:id": 34643
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34644",
+            "o:id": 34644
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34645",
+            "o:id": 34645
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34646",
+            "o:id": 34646
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34647",
+            "o:id": 34647
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34648",
+            "o:id": 34648
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34649",
+            "o:id": 34649
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34650",
+            "o:id": 34650
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34651",
+            "o:id": 34651
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34652",
+            "o:id": 34652
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34653",
+            "o:id": 34653
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34654",
+            "o:id": 34654
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34655",
+            "o:id": 34655
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34656",
+            "o:id": 34656
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34657",
+            "o:id": 34657
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34658",
+            "o:id": 34658
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34659",
+            "o:id": 34659
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34660",
+            "o:id": 34660
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:32:16+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "La religion en China. A propos du dernier livre de M. A. Reville.Harlez, Charles Joseph de.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

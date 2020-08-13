@@ -1,0 +1,246 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11620",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1095",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1860",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "9bab15ed-cda7-4ec9-ba35-e5c3225fe23c",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2881.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Lord Elgin's Mission to China and Japan. [Being a Review of Laurence Oliphant's Narrative of the Earl of Elgin's Mission to China and Japan in the Years 1857, '58, '59. ]",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "pp. 255-276 ; 22 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "1860",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=F&tg4=e&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "F. Foreign relations",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "e. Great-Britain",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Lord Elgin\\'s Mission to China and Japan. [Being a Review of Laurence Oliphant\\'s Narrative of the Earl of Elgin\\'s Mission to China and Japan in the Years 1857, \\'58, \\'59. ]",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:03+00:00"
+    },
+    "o:id": 11620,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27198",
+            "o:id": 27198
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27199",
+            "o:id": 27199
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27200",
+            "o:id": 27200
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27201",
+            "o:id": 27201
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27202",
+            "o:id": 27202
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27203",
+            "o:id": 27203
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27204",
+            "o:id": 27204
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27205",
+            "o:id": 27205
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27206",
+            "o:id": 27206
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27207",
+            "o:id": 27207
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27208",
+            "o:id": 27208
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27209",
+            "o:id": 27209
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27210",
+            "o:id": 27210
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T14:23:58+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Lord Elgin's Mission to China and Japan. [Being a Review of Laurence Oliphant's Narrative of the Earl of Elgin's Mission to China and Japan in the Years 1857, '58, '59. ]",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

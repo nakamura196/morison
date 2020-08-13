@@ -1,0 +1,443 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13519",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-2125",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "efb0e9aa-c1db-481b-8a09-f4cead8666ca",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4780.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Beijing",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Classification of capital expenditures.China. Ministry of Communication.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "112 p. ; 23 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "China. Ministry of Communication.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Peking, 1914.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=21&tg3=B&tg4=b&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "21. Communication",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "B. Communication by Land",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "b. Railway",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Classification of capital expenditures.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:15+00:00"
+    },
+    "o:id": 13519,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54153",
+            "o:id": 54153
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54154",
+            "o:id": 54154
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54155",
+            "o:id": 54155
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54156",
+            "o:id": 54156
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54157",
+            "o:id": 54157
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54158",
+            "o:id": 54158
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54159",
+            "o:id": 54159
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54160",
+            "o:id": 54160
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54161",
+            "o:id": 54161
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54162",
+            "o:id": 54162
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54163",
+            "o:id": 54163
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54164",
+            "o:id": 54164
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54165",
+            "o:id": 54165
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54166",
+            "o:id": 54166
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54167",
+            "o:id": 54167
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54168",
+            "o:id": 54168
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54169",
+            "o:id": 54169
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54170",
+            "o:id": 54170
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54171",
+            "o:id": 54171
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54172",
+            "o:id": 54172
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54173",
+            "o:id": 54173
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54174",
+            "o:id": 54174
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54175",
+            "o:id": 54175
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54176",
+            "o:id": 54176
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54177",
+            "o:id": 54177
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54178",
+            "o:id": 54178
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54179",
+            "o:id": 54179
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54180",
+            "o:id": 54180
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54181",
+            "o:id": 54181
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54182",
+            "o:id": 54182
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54183",
+            "o:id": 54183
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54184",
+            "o:id": 54184
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54185",
+            "o:id": 54185
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54186",
+            "o:id": 54186
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54187",
+            "o:id": 54187
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54188",
+            "o:id": 54188
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54189",
+            "o:id": 54189
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54190",
+            "o:id": 54190
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54191",
+            "o:id": 54191
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54192",
+            "o:id": 54192
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54193",
+            "o:id": 54193
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54194",
+            "o:id": 54194
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54195",
+            "o:id": 54195
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54196",
+            "o:id": 54196
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54197",
+            "o:id": 54197
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54198",
+            "o:id": 54198
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54199",
+            "o:id": 54199
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54200",
+            "o:id": 54200
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54201",
+            "o:id": 54201
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54202",
+            "o:id": 54202
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54203",
+            "o:id": 54203
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54204",
+            "o:id": 54204
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54205",
+            "o:id": 54205
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54206",
+            "o:id": 54206
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54207",
+            "o:id": 54207
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54208",
+            "o:id": 54208
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54209",
+            "o:id": 54209
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54210",
+            "o:id": 54210
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54211",
+            "o:id": 54211
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54212",
+            "o:id": 54212
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T14:25:54+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Classification of capital expenditures.China. Ministry of Communication.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

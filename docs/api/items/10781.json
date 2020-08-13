@@ -1,0 +1,232 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/10781",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-0116",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "b96fd58d-6090-40ff-81dd-83e33d14ec49",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2042.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Fortune, R. & Huc, M.: Travels in China: Review based upon: - 1. Two visits to the tea countries of China; by R. Fortune. 2 v. London. 1853. - 2. A residence among the Chinese; by R. Fortune. London. 1857. - 3. China; by J. F. Davis. Paris. 1854. - 4. L'empire chinois; by M. Huc. 2 v. London. 1855.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=B&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "B. Travels through China",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:57+00:00"
+    },
+    "o:id": 10781,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14058",
+            "o:id": 14058
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14059",
+            "o:id": 14059
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14060",
+            "o:id": 14060
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14061",
+            "o:id": 14061
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14062",
+            "o:id": 14062
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14063",
+            "o:id": 14063
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14064",
+            "o:id": 14064
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14065",
+            "o:id": 14065
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14066",
+            "o:id": 14066
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14067",
+            "o:id": 14067
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14068",
+            "o:id": 14068
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14069",
+            "o:id": 14069
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14070",
+            "o:id": 14070
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14071",
+            "o:id": 14071
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14072",
+            "o:id": 14072
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14073",
+            "o:id": 14073
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14074",
+            "o:id": 14074
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14075",
+            "o:id": 14075
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14076",
+            "o:id": 14076
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14077",
+            "o:id": 14077
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14078",
+            "o:id": 14078
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14079",
+            "o:id": 14079
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14080",
+            "o:id": 14080
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T01:16:03+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Fortune, R. & Huc, M.: Travels in China: Review based upon: - 1. Two visits to the tea countries of China; by R. Fortune. 2 v. London. 1853. - 2. A residence among the Chinese; by R. Fortune. London. 1857. - 3. China; by J. F. Davis. Paris. 1854. - 4. L'empire chinois; by M. Huc. 2 v. London. 1855.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

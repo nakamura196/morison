@@ -1,0 +1,258 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12448",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1519",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "cfd14156-8eac-4814-a850-261daf56115d",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3709.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/London",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Female infanticide in China. [With an article of the newspaper.]Snell, C. D.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "pp. 597-610 ; 25 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Snell, C. D.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "London, 1914.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=14&tg3=K&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "14. Customs & Manners",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "K. Infanticide; Suicide; Homicide",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Female infanticide in China. [With an article of the newspaper.]",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:08+00:00"
+    },
+    "o:id": 12448,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39778",
+            "o:id": 39778
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39779",
+            "o:id": 39779
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39780",
+            "o:id": 39780
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39781",
+            "o:id": 39781
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39782",
+            "o:id": 39782
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39783",
+            "o:id": 39783
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39784",
+            "o:id": 39784
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39785",
+            "o:id": 39785
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39786",
+            "o:id": 39786
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39787",
+            "o:id": 39787
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39788",
+            "o:id": 39788
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39789",
+            "o:id": 39789
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39790",
+            "o:id": 39790
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39791",
+            "o:id": 39791
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39792",
+            "o:id": 39792
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39793",
+            "o:id": 39793
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:40:55+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Female infanticide in China. [With an article of the newspaper.]Snell, C. D.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+    "@type": "o:ItemSet",
+    "dcterms:identifier": [
+        {
+            "@value": "morison",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "モリソンパンフレット",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-04-19T10:54:52+00:00"
+    },
+    "o:id": 1,
+    "o:is_open": false,
+    "o:is_public": true,
+    "o:items": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/items?item_set_id=1"
+    },
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2019-10-23T23:36:39+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:thumbnail": null,
+    "o:title": "モリソンパンフレット"
+}

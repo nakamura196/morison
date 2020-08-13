@@ -1,0 +1,2380 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東洋文庫 / Toyo Bunko",
+    "label": "Berol's guide to Shanghai in particular and China in general.Berol, William.",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "metadata": [
+        {
+            "label": "Call Number",
+            "term": "dcndl:callNumber",
+            "value": "P-III-a-0241"
+        },
+        {
+            "label": "Identifier",
+            "term": "dcterms:identifier",
+            "value": "48829e72-4127-4220-bdb7-aae0dedd542f"
+        },
+        {
+            "label": "Is Part Of",
+            "term": "dcterms:isPartOf",
+            "value": "http://124.33.215.236/morisonp2015/morisonpocr2163.php"
+        },
+        {
+            "label": "Publisher",
+            "term": "dcterms:publisher",
+            "value": "モリソンパンフレット画像データベース"
+        },
+        {
+            "label": "Rights",
+            "term": "dcterms:rights",
+            "value": "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+            "label": "Title",
+            "term": "dcterms:title",
+            "value": "Berol's guide to Shanghai in particular and China in general.Berol, William."
+        },
+        {
+            "label": "引用元",
+            "term": "ex:references",
+            "value": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=C&tg4=b&tg5="
+        },
+        {
+            "label": "分類1",
+            "term": "ex:tag1",
+            "value": "III. CHINA"
+        },
+        {
+            "label": "分類2",
+            "term": "ex:tag2",
+            "value": "2. Geography"
+        },
+        {
+            "label": "分類3",
+            "term": "ex:tag3",
+            "value": "C. Local topography & Travels"
+        },
+        {
+            "label": "分類4",
+            "term": "ex:tag4",
+            "value": "b. Central China"
+        },
+        {
+            "label": "attributionLabel",
+            "term": "sc:attributionLabel",
+            "value": "東洋文庫 / Toyo Bunko"
+        }
+    ],
+    "seeAlso": "https://nakamura196.github.io/morison/api/items/10902.json",
+    "sequences": [
+        {
+            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p1",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0001.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0001.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p2",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0002-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p2",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0002.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[2]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0002.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p3",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0003-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p3",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0003.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[3]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0003.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p4",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0004-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p4",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0004.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[4]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0004.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p5",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0005-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p5",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0005.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[5]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0005.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p6",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0006-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p6",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0006.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[6]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0006.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p7",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0007-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p7",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0007.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[7]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0007.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p8",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0008-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p8",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0008.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[8]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0008.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p9",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0009-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p9",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0009.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[9]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0009.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p10",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0010-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p10",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0010.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[10]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0010.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p11",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0011-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p11",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0011.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[11]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0011.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p12",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0012-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p12",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0012.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[12]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0012.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p13",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0013-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p13",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0013.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[13]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0013.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p14",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0014-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p14",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0014.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[14]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0014.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p15",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0015-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p15",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0015.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[15]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0015.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p16",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0016-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p16",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0016.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[16]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0016.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p17",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0017-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p17",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0017.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[17]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0017.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p18",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0018-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p18",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0018.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[18]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0018.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p19",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0019-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p19",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0019.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[19]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0019.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p20",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0020-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p20",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0020.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[20]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0020.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p21",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0021-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p21",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0021.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[21]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0021.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p22",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0022-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p22",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0022.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[22]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0022.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p23",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0023-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p23",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0023.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[23]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0023.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p24",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0024-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p24",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0024.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[24]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0024.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p25",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0025-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p25",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0025.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[25]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0025.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p26",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0026-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p26",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0026.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[26]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0026.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p27",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0027-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p27",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0027.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[27]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0027.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p28",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0028-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p28",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0028.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[28]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0028.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p29",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0029-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p29",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0029.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[29]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0029.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p30",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0030-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p30",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0030.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[30]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0030.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p31",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0031-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p31",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0031.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[31]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0031.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p32",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0032-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p32",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0032.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[32]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0032.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p33",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0033-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p33",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0033.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[33]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0033.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p34",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0034-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p34",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0034.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[34]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0034.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p35",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0035-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p35",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0035.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[35]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0035.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p36",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0036-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p36",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0036.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[36]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0036.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p37",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0037-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p37",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0037.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[37]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0037.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p38",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0038-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p38",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0038.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[38]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0038.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p39",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0039-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p39",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0039.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[39]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0039.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p40",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0040-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p40",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0040.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[40]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0040.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p41",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0041-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p41",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0041.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[41]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0041.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p42",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0042-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p42",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0042.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[42]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0042.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p43",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0043-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p43",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0043.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[43]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0043.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p44",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0044-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p44",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0044.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[44]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0044.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p45",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0045-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p45",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0045.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[45]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0045.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p46",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0046-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p46",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0046.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[46]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0046.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p47",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0047-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p47",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0047.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[47]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0047.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p48",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0048-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p48",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0048.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[48]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0048.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p49",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0049-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p49",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0049.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[49]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0049.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p50",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0050-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p50",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0050.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[50]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0050.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p51",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0051-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p51",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0051.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[51]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0051.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p52",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0052-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p52",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0052.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[52]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0052.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p53",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0053-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p53",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0053.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[53]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0053.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p54",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0054-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p54",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0054.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[54]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0054.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p55",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0055-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p55",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0055.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[55]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0055.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p56",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0056-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p56",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0056.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[56]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0056.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p57",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0057-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p57",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0057.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[57]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0057.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p58",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0058-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p58",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0058.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[58]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0058.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p59",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0059-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p59",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0059.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[59]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0059.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p60",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0060-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p60",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0060.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[60]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0060.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p61",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0061-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p61",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0061.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[61]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0061.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p62",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0062-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p62",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0062.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[62]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0062.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p63",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0063-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p63",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0063.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[63]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0063.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p64",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0064-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p64",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0064.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[64]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0064.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p65",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0065-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p65",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0065.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[65]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0065.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p66",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0066-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p66",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0066.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[66]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0066.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p67",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0067-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p67",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0067.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[67]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0067.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p68",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0068-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p68",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0068.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[68]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0068.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p69",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0069-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p69",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0069.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[69]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0069.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p70",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0070-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p70",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0070.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[70]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0070.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p71",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0071-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p71",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0071.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[71]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0071.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p72",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0072-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p72",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0072.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[72]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0072.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p73",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0073-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p73",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0073.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[73]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0073.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p74",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0074-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p74",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0074.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[74]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0074.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p75",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0075-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p75",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0075.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[75]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0075.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p76",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0076-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p76",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0076.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[76]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0076.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p77",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0077-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p77",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0077.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[77]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0077.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p78",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0078-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p78",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0078.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[78]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0078.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p79",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0079-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p79",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0079.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[79]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0079.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p80",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0080-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p80",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0080.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[80]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0080.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p81",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0081-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p81",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0081.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[81]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0081.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p82",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0082-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p82",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0082.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[82]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0082.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p83",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0083-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p83",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0083.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[83]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0083.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p84",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0084-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p84",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0084.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[84]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0084.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p85",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0085-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p85",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0085.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[85]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0085.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p86",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0086-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p86",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0086.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[86]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0086.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p87",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0087-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p87",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0087.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[87]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0087.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p88",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0088-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p88",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0088.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[88]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0088.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p89",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0089-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p89",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0089.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[89]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0089.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p90",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0090-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p90",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0090.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[90]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0090.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p91",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0091-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p91",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0091.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[91]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0091.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p92",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/10902/annotation/p0092-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/10902/canvas/p92",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0092.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[92]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0092.jpg"
+                    },
+                    "width": 1
+                }
+            ]
+        }
+    ],
+    "thumbnail": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0241_0001.jpg"
+}

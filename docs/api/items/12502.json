@@ -1,0 +1,354 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12502",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1566",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "397270e8-a3f7-47ac-b4e4-ee961bed6c5c",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3763.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Washington",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Chinese games with dice and dominoes.Culin, Stewart.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "pp. 491-537 ; 24 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Culin, Stewart.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Washington, 1895.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=14&tg3=Q&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "14. Customs & Manners",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "Q. Sports & Amusements",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Chinese games with dice and dominoes.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:08+00:00"
+    },
+    "o:id": 12502,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40465",
+            "o:id": 40465
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40466",
+            "o:id": 40466
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40467",
+            "o:id": 40467
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40468",
+            "o:id": 40468
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40469",
+            "o:id": 40469
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40470",
+            "o:id": 40470
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40471",
+            "o:id": 40471
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40472",
+            "o:id": 40472
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40473",
+            "o:id": 40473
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40474",
+            "o:id": 40474
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40475",
+            "o:id": 40475
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40476",
+            "o:id": 40476
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40477",
+            "o:id": 40477
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40478",
+            "o:id": 40478
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40479",
+            "o:id": 40479
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40480",
+            "o:id": 40480
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40481",
+            "o:id": 40481
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40482",
+            "o:id": 40482
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40483",
+            "o:id": 40483
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40484",
+            "o:id": 40484
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40485",
+            "o:id": 40485
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40486",
+            "o:id": 40486
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40487",
+            "o:id": 40487
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40488",
+            "o:id": 40488
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40489",
+            "o:id": 40489
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40490",
+            "o:id": 40490
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40491",
+            "o:id": 40491
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40492",
+            "o:id": 40492
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40493",
+            "o:id": 40493
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40494",
+            "o:id": 40494
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40495",
+            "o:id": 40495
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40496",
+            "o:id": 40496
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40497",
+            "o:id": 40497
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40498",
+            "o:id": 40498
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40499",
+            "o:id": 40499
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40500",
+            "o:id": 40500
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40501",
+            "o:id": 40501
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40502",
+            "o:id": 40502
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40503",
+            "o:id": 40503
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40504",
+            "o:id": 40504
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:39:06+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Chinese games with dice and dominoes.Culin, Stewart.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

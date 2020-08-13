@@ -1,0 +1,370 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12124",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1177",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "f7f755c0-f0d4-4514-b1f1-16fb06688cbd",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3385.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Leipzig",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Krypto-Monotheismus in den Religionen der alten Chinesen und anderer Völker.Langegg, Ferd. Adalbert Junker von.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "78 p. ; 21 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Langegg, Ferd. Adalbert Junker von.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Leipzig, 1892.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=10&tg3=A&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "10. Religion",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "A. General",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Krypto-Monotheismus in den Religionen der alten Chinesen und anderer Völker.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:06+00:00"
+    },
+    "o:id": 12124,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34736",
+            "o:id": 34736
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34737",
+            "o:id": 34737
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34738",
+            "o:id": 34738
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34739",
+            "o:id": 34739
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34740",
+            "o:id": 34740
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34741",
+            "o:id": 34741
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34742",
+            "o:id": 34742
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34743",
+            "o:id": 34743
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34744",
+            "o:id": 34744
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34745",
+            "o:id": 34745
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34746",
+            "o:id": 34746
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34747",
+            "o:id": 34747
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34748",
+            "o:id": 34748
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34749",
+            "o:id": 34749
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34750",
+            "o:id": 34750
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34751",
+            "o:id": 34751
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34752",
+            "o:id": 34752
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34753",
+            "o:id": 34753
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34754",
+            "o:id": 34754
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34755",
+            "o:id": 34755
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34756",
+            "o:id": 34756
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34757",
+            "o:id": 34757
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34758",
+            "o:id": 34758
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34759",
+            "o:id": 34759
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34760",
+            "o:id": 34760
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34761",
+            "o:id": 34761
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34762",
+            "o:id": 34762
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34763",
+            "o:id": 34763
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34764",
+            "o:id": 34764
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34765",
+            "o:id": 34765
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34766",
+            "o:id": 34766
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34767",
+            "o:id": 34767
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34768",
+            "o:id": 34768
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34769",
+            "o:id": 34769
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34770",
+            "o:id": 34770
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34771",
+            "o:id": 34771
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34772",
+            "o:id": 34772
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34773",
+            "o:id": 34773
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34774",
+            "o:id": 34774
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34775",
+            "o:id": 34775
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34776",
+            "o:id": 34776
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34777",
+            "o:id": 34777
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34778",
+            "o:id": 34778
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34779",
+            "o:id": 34779
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:33:42+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Krypto-Monotheismus in den Religionen der alten Chinesen und anderer Völker.Langegg, Ferd. Adalbert Junker von.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

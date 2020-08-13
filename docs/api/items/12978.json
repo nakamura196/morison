@@ -1,0 +1,266 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12978",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1723",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "9557898b-acc0-41f0-b1ff-d4edf1588a42",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4239.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Albany",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Chinese jurisprudence. An address delivered before the New York State Bar Assoc. at its annual meeting at Albany, N. Y. Jan. 15, 1901.Wu Ting-fang.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "29 p. ; 24 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Wu Ting-fang.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Albany, 1901.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=17&tg3=A&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "17. Law",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "A. Law & Legislation in General; Legal History",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Chinese jurisprudence. An address delivered before the New York State Bar Assoc. at its annual meeting at Albany, N. Y. Jan. 15, 1901.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:11+00:00"
+    },
+    "o:id": 12978,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46409",
+            "o:id": 46409
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46410",
+            "o:id": 46410
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46411",
+            "o:id": 46411
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46412",
+            "o:id": 46412
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46413",
+            "o:id": 46413
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46414",
+            "o:id": 46414
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46415",
+            "o:id": 46415
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46416",
+            "o:id": 46416
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46417",
+            "o:id": 46417
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46418",
+            "o:id": 46418
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46419",
+            "o:id": 46419
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46420",
+            "o:id": 46420
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46421",
+            "o:id": 46421
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46422",
+            "o:id": 46422
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46423",
+            "o:id": 46423
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46424",
+            "o:id": 46424
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46425",
+            "o:id": 46425
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46426",
+            "o:id": 46426
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:59:51+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Chinese jurisprudence. An address delivered before the New York State Bar Assoc. at its annual meeting at Albany, N. Y. Jan. 15, 1901.Wu Ting-fang.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

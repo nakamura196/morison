@@ -1,0 +1,285 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13357",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-b-0391",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "0b9d067c-8866-4e47-812e-a20430b96232",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4618.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The silver question in China and the fluctuations of prices, with Tables of numbers and diagrams based on over 5000 prices obtained from ten Provinces.Volpicelli, Z.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=20&tg3=H&tg4=a&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "20. Economy and Industry",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "H. Commerce",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "a. General",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:14+00:00"
+    },
+    "o:id": 13357,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51993",
+            "o:id": 51993
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51994",
+            "o:id": 51994
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51995",
+            "o:id": 51995
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51996",
+            "o:id": 51996
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51997",
+            "o:id": 51997
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51998",
+            "o:id": 51998
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51999",
+            "o:id": 51999
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52000",
+            "o:id": 52000
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52001",
+            "o:id": 52001
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52002",
+            "o:id": 52002
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52003",
+            "o:id": 52003
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52004",
+            "o:id": 52004
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52005",
+            "o:id": 52005
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52006",
+            "o:id": 52006
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52007",
+            "o:id": 52007
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52008",
+            "o:id": 52008
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52009",
+            "o:id": 52009
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52010",
+            "o:id": 52010
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52011",
+            "o:id": 52011
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52012",
+            "o:id": 52012
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52013",
+            "o:id": 52013
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52014",
+            "o:id": 52014
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52015",
+            "o:id": 52015
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52016",
+            "o:id": 52016
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52017",
+            "o:id": 52017
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52018",
+            "o:id": 52018
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52019",
+            "o:id": 52019
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52020",
+            "o:id": 52020
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52021",
+            "o:id": 52021
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52022",
+            "o:id": 52022
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52023",
+            "o:id": 52023
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52024",
+            "o:id": 52024
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52025",
+            "o:id": 52025
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52026",
+            "o:id": 52026
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T04:32:12+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "The silver question in China and the fluctuations of prices, with Tables of numbers and diagrams based on over 5000 prices obtained from ten Provinces.Volpicelli, Z.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

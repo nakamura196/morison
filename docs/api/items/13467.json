@@ -1,0 +1,287 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13467",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-b-779",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1913",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "1b461dc3-50ab-4eb6-a249-0df0898e2adf",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4728.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Notes sur l'organnisation d'une banque nationale.Mazot, Henry.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "18, 18 p. ; 26 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Mazot, Henry.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Péking, 1913.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=20&tg3=I&tg4=d&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "20. Economy and Industry",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "I. Money market and Banking",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "d. Banking & pawnbroking",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Notes sur l\\'organnisation d\\'une banque nationale.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:14+00:00"
+    },
+    "o:id": 13467,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53529",
+            "o:id": 53529
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53530",
+            "o:id": 53530
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53531",
+            "o:id": 53531
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53532",
+            "o:id": 53532
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53533",
+            "o:id": 53533
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53534",
+            "o:id": 53534
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53535",
+            "o:id": 53535
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53536",
+            "o:id": 53536
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53537",
+            "o:id": 53537
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53538",
+            "o:id": 53538
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53539",
+            "o:id": 53539
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53540",
+            "o:id": 53540
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53541",
+            "o:id": 53541
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53542",
+            "o:id": 53542
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53543",
+            "o:id": 53543
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53544",
+            "o:id": 53544
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53545",
+            "o:id": 53545
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53546",
+            "o:id": 53546
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53547",
+            "o:id": 53547
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53548",
+            "o:id": 53548
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53549",
+            "o:id": 53549
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T14:27:23+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Notes sur l'organnisation d'une banque nationale.Mazot, Henry.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

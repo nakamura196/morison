@@ -1,0 +1,286 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11648",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-842",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "cddbfd49-ffd2-4296-aaea-d98d85fe08ac",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2909.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Hong_Kong",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Petition to the House of Commons and other papers relating to the Hongkong military contribution, published by the authority of the Hongkong Association for Promoting the Interests of the Colony.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "44 p. ; 21 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Hongkong, 1868.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=F&tg4=e&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "F. Foreign relations",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "e. Great-Britain",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Petition to the House of Commons and other papers relating to the Hongkong military contribution, published by the authority of the Hongkong Association for Promoting the Interests of the Colony.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:03+00:00"
+    },
+    "o:id": 11648,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27765",
+            "o:id": 27765
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27766",
+            "o:id": 27766
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27767",
+            "o:id": 27767
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27768",
+            "o:id": 27768
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27769",
+            "o:id": 27769
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27770",
+            "o:id": 27770
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27771",
+            "o:id": 27771
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27772",
+            "o:id": 27772
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27773",
+            "o:id": 27773
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27774",
+            "o:id": 27774
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27775",
+            "o:id": 27775
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27776",
+            "o:id": 27776
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27777",
+            "o:id": 27777
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27778",
+            "o:id": 27778
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27779",
+            "o:id": 27779
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27780",
+            "o:id": 27780
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27781",
+            "o:id": 27781
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27782",
+            "o:id": 27782
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27783",
+            "o:id": 27783
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27784",
+            "o:id": 27784
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27785",
+            "o:id": 27785
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27786",
+            "o:id": 27786
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27787",
+            "o:id": 27787
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:32:22+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Petition to the House of Commons and other papers relating to the Hongkong military contribution, published by the authority of the Hongkong Association for Promoting the Interests of the Colony.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

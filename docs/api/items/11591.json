@@ -1,0 +1,395 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11591",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-846",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "ba2b115d-a897-4e5c-98f3-21437ad0b302",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2852.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/London",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Boat actions and river fights. The opium war, 1840-1841. Capture of the forts at Bocca Tigris, Canton River. Cession of Hongkong to Great Britain.Currey, E. Hamilton.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "pp. 569-580, 232-242, 352-363, 600-610, 21-31, 394-406 ; 24 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Currey, E. Hamilton.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "London.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=F&tg4=e&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "F. Foreign relations",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "e. Great-Britain",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Boat actions and river fights. The opium war, 1840-1841. Capture of the forts at Bocca Tigris, Canton River. Cession of Hongkong to Great Britain.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:02+00:00"
+    },
+    "o:id": 11591,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26710",
+            "o:id": 26710
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26711",
+            "o:id": 26711
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26712",
+            "o:id": 26712
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26713",
+            "o:id": 26713
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26714",
+            "o:id": 26714
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26715",
+            "o:id": 26715
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26716",
+            "o:id": 26716
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26717",
+            "o:id": 26717
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26718",
+            "o:id": 26718
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26719",
+            "o:id": 26719
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26720",
+            "o:id": 26720
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26721",
+            "o:id": 26721
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26722",
+            "o:id": 26722
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26723",
+            "o:id": 26723
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26724",
+            "o:id": 26724
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26725",
+            "o:id": 26725
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26726",
+            "o:id": 26726
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26727",
+            "o:id": 26727
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26728",
+            "o:id": 26728
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26729",
+            "o:id": 26729
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26730",
+            "o:id": 26730
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26731",
+            "o:id": 26731
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26732",
+            "o:id": 26732
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26733",
+            "o:id": 26733
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26734",
+            "o:id": 26734
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26735",
+            "o:id": 26735
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26736",
+            "o:id": 26736
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26737",
+            "o:id": 26737
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26738",
+            "o:id": 26738
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26739",
+            "o:id": 26739
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26740",
+            "o:id": 26740
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26741",
+            "o:id": 26741
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26742",
+            "o:id": 26742
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26743",
+            "o:id": 26743
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26744",
+            "o:id": 26744
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26745",
+            "o:id": 26745
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26746",
+            "o:id": 26746
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26747",
+            "o:id": 26747
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26748",
+            "o:id": 26748
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26749",
+            "o:id": 26749
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26750",
+            "o:id": 26750
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26751",
+            "o:id": 26751
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26752",
+            "o:id": 26752
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26753",
+            "o:id": 26753
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26754",
+            "o:id": 26754
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26755",
+            "o:id": 26755
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26756",
+            "o:id": 26756
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26757",
+            "o:id": 26757
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:36:12+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Boat actions and river fights. The opium war, 1840-1841. Capture of the forts at Bocca Tigris, Canton River. Cession of Hongkong to Great Britain.Currey, E. Hamilton.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

@@ -1,0 +1,374 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11162",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-b-601",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "cc14a9d0-d996-429b-8170-1cc11d5d5f74",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2423.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Vienna",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Die Fremdländischen Reiche zu den Zeiten der Sui.Pfizmaier, August.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "82 p. ; 24 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Pfizmaier, August.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Wien, 1881.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=B&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "B. Ancient history",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Die Fremdländischen Reiche zu den Zeiten der Sui.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:00+00:00"
+    },
+    "o:id": 11162,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20618",
+            "o:id": 20618
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20619",
+            "o:id": 20619
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20620",
+            "o:id": 20620
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20621",
+            "o:id": 20621
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20622",
+            "o:id": 20622
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20623",
+            "o:id": 20623
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20624",
+            "o:id": 20624
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20625",
+            "o:id": 20625
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20626",
+            "o:id": 20626
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20627",
+            "o:id": 20627
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20628",
+            "o:id": 20628
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20629",
+            "o:id": 20629
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20630",
+            "o:id": 20630
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20631",
+            "o:id": 20631
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20632",
+            "o:id": 20632
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20633",
+            "o:id": 20633
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20634",
+            "o:id": 20634
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20635",
+            "o:id": 20635
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20636",
+            "o:id": 20636
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20637",
+            "o:id": 20637
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20638",
+            "o:id": 20638
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20639",
+            "o:id": 20639
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20640",
+            "o:id": 20640
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20641",
+            "o:id": 20641
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20642",
+            "o:id": 20642
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20643",
+            "o:id": 20643
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20644",
+            "o:id": 20644
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20645",
+            "o:id": 20645
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20646",
+            "o:id": 20646
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20647",
+            "o:id": 20647
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20648",
+            "o:id": 20648
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20649",
+            "o:id": 20649
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20650",
+            "o:id": 20650
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20651",
+            "o:id": 20651
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20652",
+            "o:id": 20652
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20653",
+            "o:id": 20653
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20654",
+            "o:id": 20654
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20655",
+            "o:id": 20655
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20656",
+            "o:id": 20656
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20657",
+            "o:id": 20657
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20658",
+            "o:id": 20658
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20659",
+            "o:id": 20659
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20660",
+            "o:id": 20660
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20661",
+            "o:id": 20661
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20662",
+            "o:id": 20662
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:37:29+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Die Fremdländischen Reiche zu den Zeiten der Sui.Pfizmaier, August.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

@@ -1,0 +1,282 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11311",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-2793",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1863",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "f171085e-99bc-49ab-8628-44cc95256a64",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2572.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "La Chine depuis le traité de Pékin. Les Anglo-Français, les Taï-pings.Varannes, A. des.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "pp. 857-895 ; 24 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Varannes, A. des.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "1863",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=D&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "D. Modern history",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "La Chine depuis le traité de Pékin. Les Anglo-Français, les Taï-pings.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:00+00:00"
+    },
+    "o:id": 11311,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22922",
+            "o:id": 22922
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22923",
+            "o:id": 22923
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22924",
+            "o:id": 22924
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22925",
+            "o:id": 22925
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22926",
+            "o:id": 22926
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22927",
+            "o:id": 22927
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22928",
+            "o:id": 22928
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22929",
+            "o:id": 22929
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22930",
+            "o:id": 22930
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22931",
+            "o:id": 22931
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22932",
+            "o:id": 22932
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22933",
+            "o:id": 22933
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22934",
+            "o:id": 22934
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22935",
+            "o:id": 22935
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22936",
+            "o:id": 22936
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22937",
+            "o:id": 22937
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22938",
+            "o:id": 22938
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22939",
+            "o:id": 22939
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22940",
+            "o:id": 22940
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22941",
+            "o:id": 22941
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22942",
+            "o:id": 22942
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22943",
+            "o:id": 22943
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T14:22:57+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "La Chine depuis le traité de Pékin. Les Anglo-Français, les Taï-pings.Varannes, A. des.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

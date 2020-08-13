@@ -1,0 +1,347 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12259",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-2758",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "21095177-e711-40d7-987a-7ece4a14a382",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3520.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Paris",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "La Croix instructive et historique trouvée en Chine en 1636. Avec une inscription en langue chinoise et syriaque, tr. du Chinois en lang. russe par M. L., et du Russe en Français par M. C. Marchal de Lunéville.Léontiewski, M.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "55 p. ; 22 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Léontiewski, M.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Paris, 1853.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=10&tg3=E&tg4=b&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "10. Religion",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "E. Christianity",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "b. Nestorian Christianity",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "La Croix instructive et historique trouvée en Chine en 1636. Avec une inscription en langue chinoise et syriaque, tr. du Chinois en lang. russe par M. L., et du Russe en Français par M. C. Marchal de Lunéville.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:07+00:00"
+    },
+    "o:id": 12259,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36815",
+            "o:id": 36815
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36816",
+            "o:id": 36816
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36817",
+            "o:id": 36817
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36818",
+            "o:id": 36818
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36819",
+            "o:id": 36819
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36820",
+            "o:id": 36820
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36821",
+            "o:id": 36821
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36822",
+            "o:id": 36822
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36823",
+            "o:id": 36823
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36824",
+            "o:id": 36824
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36825",
+            "o:id": 36825
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36826",
+            "o:id": 36826
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36827",
+            "o:id": 36827
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36828",
+            "o:id": 36828
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36829",
+            "o:id": 36829
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36830",
+            "o:id": 36830
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36831",
+            "o:id": 36831
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36832",
+            "o:id": 36832
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36833",
+            "o:id": 36833
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36834",
+            "o:id": 36834
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36835",
+            "o:id": 36835
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36836",
+            "o:id": 36836
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36837",
+            "o:id": 36837
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36838",
+            "o:id": 36838
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36839",
+            "o:id": 36839
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36840",
+            "o:id": 36840
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36841",
+            "o:id": 36841
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36842",
+            "o:id": 36842
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36843",
+            "o:id": 36843
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36844",
+            "o:id": 36844
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36845",
+            "o:id": 36845
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36846",
+            "o:id": 36846
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36847",
+            "o:id": 36847
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36848",
+            "o:id": 36848
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36849",
+            "o:id": 36849
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36850",
+            "o:id": 36850
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T14:37:28+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "La Croix instructive et historique trouvée en Chine en 1636. Avec une inscription en langue chinoise et syriaque, tr. du Chinois en lang. russe par M. L., et du Russe en Français par M. C. Marchal de Lunéville.Léontiewski, M.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

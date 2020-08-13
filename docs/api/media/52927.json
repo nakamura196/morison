@@ -1,0 +1,42 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/media/52927",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-09T04:29:46+00:00"
+    },
+    "o:filename": "13427/P-III-a-2061_019.jpg",
+    "o:id": 52927,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/items/13427",
+        "o:id": 13427
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-09T04:29:46+00:00"
+    },
+    "o:original_url": "http://localhost:8882/d_omekas/toyo/files/original/13427/P-III-a-2061_019.jpg",
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "e65c4d083e6ff46c4e0d43e2c2ed03f6358a6aea0e1d10d2f161802293c34b23",
+    "o:size": null,
+    "o:source": "http://124.33.215.236/morisonp2015/openimage/P-III-a-2061_019.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "http://localhost:8882/d_omekas/toyo/files/large/13427/P-III-a-2061_019.jpg",
+        "medium": "http://localhost:8882/d_omekas/toyo/files/medium/13427/P-III-a-2061_019.jpg",
+        "square": "http://localhost:8882/d_omekas/toyo/files/square/13427/P-III-a-2061_019.jpg"
+    },
+    "o:title": null
+}

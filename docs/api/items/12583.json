@@ -1,0 +1,286 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12583",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1603",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "80e0ebf8-9db4-4ba8-be64-d0f0c3565559",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3844.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Tianjin",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Minutes of the twelfth annual general meeting of the members of the T. C. held in the club house, on Apr. 29th, 1907, at 9.25 p. m.Tientsin Club.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "39 p. ; 18 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Tientsin Club.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Tientsin.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=14&tg3=S&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "14. Customs & Manners",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "S. Association & Club",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Minutes of the twelfth annual general meeting of the members of the T. C. held in the club house, on Apr. 29th, 1907, at 9.25  p. m.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:09+00:00"
+    },
+    "o:id": 12583,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41494",
+            "o:id": 41494
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41495",
+            "o:id": 41495
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41496",
+            "o:id": 41496
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41497",
+            "o:id": 41497
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41498",
+            "o:id": 41498
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41499",
+            "o:id": 41499
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41500",
+            "o:id": 41500
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41501",
+            "o:id": 41501
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41502",
+            "o:id": 41502
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41503",
+            "o:id": 41503
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41504",
+            "o:id": 41504
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41505",
+            "o:id": 41505
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41506",
+            "o:id": 41506
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41507",
+            "o:id": 41507
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41508",
+            "o:id": 41508
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41509",
+            "o:id": 41509
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41510",
+            "o:id": 41510
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41511",
+            "o:id": 41511
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41512",
+            "o:id": 41512
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41513",
+            "o:id": 41513
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41514",
+            "o:id": 41514
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41515",
+            "o:id": 41515
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41516",
+            "o:id": 41516
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:44:28+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Minutes of the twelfth annual general meeting of the members of the T. C. held in the club house, on Apr. 29th, 1907, at 9.25 p. m.Tientsin Club.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

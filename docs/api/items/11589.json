@@ -1,0 +1,302 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11589",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-594",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "a2ed6969-6db9-459f-9ead-3949a263639c",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2850.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/London",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The \"China question\" despassionately considered. By an Asiatic.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "52 p. ; 22 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "London, 1857.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=F&tg4=e&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "F. Foreign relations",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "e. Great-Britain",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "The \"China question\" despassionately considered. By an Asiatic.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:02+00:00"
+    },
+    "o:id": 11589,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26677",
+            "o:id": 26677
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26678",
+            "o:id": 26678
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26679",
+            "o:id": 26679
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26680",
+            "o:id": 26680
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26681",
+            "o:id": 26681
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26682",
+            "o:id": 26682
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26683",
+            "o:id": 26683
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26684",
+            "o:id": 26684
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26685",
+            "o:id": 26685
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26686",
+            "o:id": 26686
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26687",
+            "o:id": 26687
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26688",
+            "o:id": 26688
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26689",
+            "o:id": 26689
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26690",
+            "o:id": 26690
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26691",
+            "o:id": 26691
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26692",
+            "o:id": 26692
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26693",
+            "o:id": 26693
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26694",
+            "o:id": 26694
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26695",
+            "o:id": 26695
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26696",
+            "o:id": 26696
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26697",
+            "o:id": 26697
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26698",
+            "o:id": 26698
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26699",
+            "o:id": 26699
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26700",
+            "o:id": 26700
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26701",
+            "o:id": 26701
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26702",
+            "o:id": 26702
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26703",
+            "o:id": 26703
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:33:44+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "The \"China question\" despassionately considered. By an Asiatic.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

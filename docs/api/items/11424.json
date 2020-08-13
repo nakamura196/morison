@@ -1,0 +1,249 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11424",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-c-50",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "fadbcdb8-79b8-434a-813b-8179c87d94ad",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2685.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Peking weekiy gazette. Vol. I, no. 2. Sept. 16th, 1913.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "26 p. ; 34 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "26 p. ; 34 cm.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=E&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "E. Recent history",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Peking weekiy gazette. Vol. I, no. 2. Sept. 16th, 1913.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:01+00:00"
+    },
+    "o:id": 11424,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24388",
+            "o:id": 24388
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24389",
+            "o:id": 24389
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24390",
+            "o:id": 24390
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24391",
+            "o:id": 24391
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24392",
+            "o:id": 24392
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24393",
+            "o:id": 24393
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24394",
+            "o:id": 24394
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24395",
+            "o:id": 24395
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24396",
+            "o:id": 24396
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24397",
+            "o:id": 24397
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24398",
+            "o:id": 24398
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24399",
+            "o:id": 24399
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24400",
+            "o:id": 24400
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24401",
+            "o:id": 24401
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24402",
+            "o:id": 24402
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24403",
+            "o:id": 24403
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:32:38+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Peking weekiy gazette. Vol. I, no. 2. Sept. 16th, 1913.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

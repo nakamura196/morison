@@ -1,0 +1,319 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12108",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1180",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1911",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "4331f785-f1aa-4b40-88ec-dc16c1f5b1bd",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3369.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Baarn",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "De godsdiensten van het oude China.Borel, Henri.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "44 p. ; 20 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Borel, Henri.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Baarn, 1911.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=10&tg3=A&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "10. Religion",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "A. General",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "De godsdiensten van het oude China.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:06+00:00"
+    },
+    "o:id": 12108,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34437",
+            "o:id": 34437
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34438",
+            "o:id": 34438
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34439",
+            "o:id": 34439
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34440",
+            "o:id": 34440
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34441",
+            "o:id": 34441
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34442",
+            "o:id": 34442
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34443",
+            "o:id": 34443
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34444",
+            "o:id": 34444
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34445",
+            "o:id": 34445
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34446",
+            "o:id": 34446
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34447",
+            "o:id": 34447
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34448",
+            "o:id": 34448
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34449",
+            "o:id": 34449
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34450",
+            "o:id": 34450
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34451",
+            "o:id": 34451
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34452",
+            "o:id": 34452
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34453",
+            "o:id": 34453
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34454",
+            "o:id": 34454
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34455",
+            "o:id": 34455
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34456",
+            "o:id": 34456
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34457",
+            "o:id": 34457
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34458",
+            "o:id": 34458
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34459",
+            "o:id": 34459
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34460",
+            "o:id": 34460
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34461",
+            "o:id": 34461
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34462",
+            "o:id": 34462
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34463",
+            "o:id": 34463
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34464",
+            "o:id": 34464
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34465",
+            "o:id": 34465
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:32:29+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "De godsdiensten van het oude China.Borel, Henri.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

@@ -1,0 +1,232 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/10762",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-b-0007",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "ec470fbd-6309-40cd-9e08-b6509ae22757",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2023.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Hoa-fa-ti-li-tchi; Dictionnaire géographique chinois-français.Hedde, Isidore.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=A&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "A. General description",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:57+00:00"
+    },
+    "o:id": 10762,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13719",
+            "o:id": 13719
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13720",
+            "o:id": 13720
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13721",
+            "o:id": 13721
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13722",
+            "o:id": 13722
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13723",
+            "o:id": 13723
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13724",
+            "o:id": 13724
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13725",
+            "o:id": 13725
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13726",
+            "o:id": 13726
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13727",
+            "o:id": 13727
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13728",
+            "o:id": 13728
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13729",
+            "o:id": 13729
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13730",
+            "o:id": 13730
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13731",
+            "o:id": 13731
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13732",
+            "o:id": 13732
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13733",
+            "o:id": 13733
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13734",
+            "o:id": 13734
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13735",
+            "o:id": 13735
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13736",
+            "o:id": 13736
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13737",
+            "o:id": 13737
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13738",
+            "o:id": 13738
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13739",
+            "o:id": 13739
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13740",
+            "o:id": 13740
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13741",
+            "o:id": 13741
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T01:01:16+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Hoa-fa-ti-li-tchi; Dictionnaire géographique chinois-français.Hedde, Isidore.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

@@ -1,0 +1,266 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11488",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1110",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "b2036791-eb2b-4e98-96ef-b875f01e9fc2",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2749.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The Foreign relations of China: Revue based upon: - Reports on consular establishments in China in 1869. - Reports on trade at the treaty ports in China for the year 1869. Shanghae. - Journeys in North China, Manchuria and Eastern Mongolia, with some account of Corea. By A. Williamson. 2 v. London. 1870. - The Tientsin massacre; the causes of the late disturbances in China; and how to secure a permanent peace. By G. Thin. 1871.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "pp. 176-206 ; 22 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "pp. 176-206 ; 22 cm.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=F&tg4=a&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "F. Foreign relations",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "a. General history of foreign relations with China",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "The Foreign relations of China: Revue based upon: - Reports on consular establishments in China in 1869. - Reports on trade at the treaty ports in China for the year 1869. Shanghae. - Journeys in North China, Manchuria and Eastern Mongolia, with some account of Corea. By A. Williamson. 2 v. London. 1870. - The Tientsin massacre; the causes of the late disturbances in China; and how to secure a permanent peace. By G. Thin. 1871.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:02+00:00"
+    },
+    "o:id": 11488,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25276",
+            "o:id": 25276
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25277",
+            "o:id": 25277
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25278",
+            "o:id": 25278
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25279",
+            "o:id": 25279
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25280",
+            "o:id": 25280
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25281",
+            "o:id": 25281
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25282",
+            "o:id": 25282
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25283",
+            "o:id": 25283
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25284",
+            "o:id": 25284
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25285",
+            "o:id": 25285
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25286",
+            "o:id": 25286
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25287",
+            "o:id": 25287
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25288",
+            "o:id": 25288
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25289",
+            "o:id": 25289
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25290",
+            "o:id": 25290
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25291",
+            "o:id": 25291
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25292",
+            "o:id": 25292
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25293",
+            "o:id": 25293
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:46:07+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "The Foreign relations of China: Revue based upon: - Reports on consular establishments in China in 1869. - Reports on trade at the treaty ports in China for the year 1869. Shanghae. - Journeys in North China, Manchuria and Eastern Mongolia, with some account of Corea. By A. Williamson. 2 v. London. 1870. - The Tientsin massacre; the causes of the late disturbances in China; and how to secure a permanent peace. By G. Thin. 1871.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

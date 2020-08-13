@@ -1,0 +1,353 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/10810",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-0169",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "af6920d3-4b92-42eb-b8fd-28577e08a75c",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2071.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The territory of Wei-hai-wei. A descriptive guide and handbook with maps and illustrations. A historical note and appendix.Bruce-Mitford, C. E. (C. E. Beer).",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=C&tg4=a&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "C. Local topography & Travels",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "a. North China",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:57+00:00"
+    },
+    "o:id": 10810,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14602",
+            "o:id": 14602
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14603",
+            "o:id": 14603
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14604",
+            "o:id": 14604
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14605",
+            "o:id": 14605
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14606",
+            "o:id": 14606
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14607",
+            "o:id": 14607
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14608",
+            "o:id": 14608
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14609",
+            "o:id": 14609
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14610",
+            "o:id": 14610
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14611",
+            "o:id": 14611
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14612",
+            "o:id": 14612
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14613",
+            "o:id": 14613
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14614",
+            "o:id": 14614
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14615",
+            "o:id": 14615
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14616",
+            "o:id": 14616
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14617",
+            "o:id": 14617
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14618",
+            "o:id": 14618
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14619",
+            "o:id": 14619
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14620",
+            "o:id": 14620
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14621",
+            "o:id": 14621
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14622",
+            "o:id": 14622
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14623",
+            "o:id": 14623
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14624",
+            "o:id": 14624
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14625",
+            "o:id": 14625
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14626",
+            "o:id": 14626
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14627",
+            "o:id": 14627
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14628",
+            "o:id": 14628
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14629",
+            "o:id": 14629
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14630",
+            "o:id": 14630
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14631",
+            "o:id": 14631
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14632",
+            "o:id": 14632
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14633",
+            "o:id": 14633
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14634",
+            "o:id": 14634
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14635",
+            "o:id": 14635
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14636",
+            "o:id": 14636
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14637",
+            "o:id": 14637
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14638",
+            "o:id": 14638
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14639",
+            "o:id": 14639
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14640",
+            "o:id": 14640
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14641",
+            "o:id": 14641
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14642",
+            "o:id": 14642
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14643",
+            "o:id": 14643
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14644",
+            "o:id": 14644
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14645",
+            "o:id": 14645
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14646",
+            "o:id": 14646
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14647",
+            "o:id": 14647
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14648",
+            "o:id": 14648
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14649",
+            "o:id": 14649
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14650",
+            "o:id": 14650
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14651",
+            "o:id": 14651
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14652",
+            "o:id": 14652
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T04:06:45+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "The territory of Wei-hai-wei. A descriptive guide and handbook with maps and illustrations. A historical note and appendix.Bruce-Mitford, C. E. (C. E. Beer).",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

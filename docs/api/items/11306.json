@@ -1,0 +1,270 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11306",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-2440",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "1d78a23f-544b-4318-83bb-0099da67cf37",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2567.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Woking",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Suggested reforms for China.Taw Sein Ko.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "vii, 32 p. ; 25 cm",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Taw Sein Ko.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Woking, 1898.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=D&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "D. Modern history",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Suggested reforms for China.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:00+00:00"
+    },
+    "o:id": 11306,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22835",
+            "o:id": 22835
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22836",
+            "o:id": 22836
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22837",
+            "o:id": 22837
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22838",
+            "o:id": 22838
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22839",
+            "o:id": 22839
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22840",
+            "o:id": 22840
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22841",
+            "o:id": 22841
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22842",
+            "o:id": 22842
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22843",
+            "o:id": 22843
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22844",
+            "o:id": 22844
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22845",
+            "o:id": 22845
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22846",
+            "o:id": 22846
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22847",
+            "o:id": 22847
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22848",
+            "o:id": 22848
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22849",
+            "o:id": 22849
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22850",
+            "o:id": 22850
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22851",
+            "o:id": 22851
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22852",
+            "o:id": 22852
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22853",
+            "o:id": 22853
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:39:45+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Suggested reforms for China.Taw Sein Ko.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

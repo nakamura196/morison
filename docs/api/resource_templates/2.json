@@ -1,0 +1,49 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+    "@type": "o:ResourceTemplate",
+    "o:description_property": null,
+    "o:id": 2,
+    "o:label": "morison",
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template_property": [
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": null,
+            "o:data_type": null,
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "http://localhost:8882/d_omekas/toyo/api/properties/1",
+                "o:id": 1
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": null,
+            "o:data_type": null,
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "http://localhost:8882/d_omekas/toyo/api/properties/4",
+                "o:id": 4
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": "請求記号",
+            "o:data_type": null,
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "http://localhost:8882/d_omekas/toyo/api/properties/259",
+                "o:id": 259
+            }
+        }
+    ],
+    "o:title_property": null
+}

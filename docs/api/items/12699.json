@@ -1,0 +1,279 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12699",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1554",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1909",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "edd6e84c-c309-4f09-8abf-95b779eb7709",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3960.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Hong_Kong",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The opium traffic: historical, commercial, social and political aspects.Hurley, R. C.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "32 p. ; 17 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Hurley, R. C.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Hongkong, 1909.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=14&tg3=W2&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "14. Customs & Manners",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "W2. Opium",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "The opium traffic: historical, commercial, social and political aspects.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:10+00:00"
+    },
+    "o:id": 12699,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42800",
+            "o:id": 42800
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42801",
+            "o:id": 42801
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42802",
+            "o:id": 42802
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42803",
+            "o:id": 42803
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42804",
+            "o:id": 42804
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42805",
+            "o:id": 42805
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42806",
+            "o:id": 42806
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42807",
+            "o:id": 42807
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42808",
+            "o:id": 42808
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42809",
+            "o:id": 42809
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42810",
+            "o:id": 42810
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42811",
+            "o:id": 42811
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42812",
+            "o:id": 42812
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42813",
+            "o:id": 42813
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42814",
+            "o:id": 42814
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42815",
+            "o:id": 42815
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42816",
+            "o:id": 42816
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42817",
+            "o:id": 42817
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42818",
+            "o:id": 42818
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T14:29:11+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "The opium traffic: historical, commercial, social and political aspects.Hurley, R. C.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

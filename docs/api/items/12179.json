@@ -1,0 +1,192 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12179",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-b-0709",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "d1457197-83a9-48d2-9537-7892d9fa7045",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3440.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "A propos d'une preface. Aperçu critique sur le Bouddhisme en Chine au 7o Siecle.Gueluy, A.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=10&tg3=D&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "10. Religion",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "D. Buddhism in China",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:06+00:00"
+    },
+    "o:id": 12179,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35566",
+            "o:id": 35566
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35567",
+            "o:id": 35567
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35568",
+            "o:id": 35568
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35569",
+            "o:id": 35569
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35570",
+            "o:id": 35570
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35571",
+            "o:id": 35571
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35572",
+            "o:id": 35572
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35573",
+            "o:id": 35573
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35574",
+            "o:id": 35574
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35575",
+            "o:id": 35575
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35576",
+            "o:id": 35576
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35577",
+            "o:id": 35577
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35578",
+            "o:id": 35578
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T01:05:24+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "A propos d'une preface. Aperçu critique sur le Bouddhisme en Chine au 7o Siecle.Gueluy, A.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

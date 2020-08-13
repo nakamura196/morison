@@ -1,0 +1,213 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/10841",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-0186",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "d55622bf-7025-4474-af5e-58ee72264039",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2102.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "A visit to Peking with some notice of the imperial worship at the altars of Heaven, Earth, Sun, Moon and the Gods of the grain and the land.Happer, Rev. A. P.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=C&tg4=a&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "C. Local topography & Travels",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "a. North China",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:57+00:00"
+    },
+    "o:id": 10841,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15233",
+            "o:id": 15233
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15234",
+            "o:id": 15234
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15235",
+            "o:id": 15235
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15236",
+            "o:id": 15236
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15237",
+            "o:id": 15237
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15238",
+            "o:id": 15238
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15239",
+            "o:id": 15239
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15240",
+            "o:id": 15240
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15241",
+            "o:id": 15241
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15242",
+            "o:id": 15242
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15243",
+            "o:id": 15243
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15244",
+            "o:id": 15244
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15245",
+            "o:id": 15245
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15246",
+            "o:id": 15246
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15247",
+            "o:id": 15247
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15248",
+            "o:id": 15248
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T00:53:12+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "A visit to Peking with some notice of the imperial worship at the altars of Heaven, Earth, Sun, Moon and the Gods of the grain and the land.Happer, Rev. A. P.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

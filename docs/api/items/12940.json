@@ -1,0 +1,216 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12940",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-b-0780",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "2d3a018a-5f1f-4595-b20f-d65d93ee0a90",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4201.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Chinese currency.Edkins, Joseph.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=16&tg3=H&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "16. Finance",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "H. Monetary System",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:11+00:00"
+    },
+    "o:id": 12940,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45646",
+            "o:id": 45646
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45647",
+            "o:id": 45647
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45648",
+            "o:id": 45648
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45649",
+            "o:id": 45649
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45650",
+            "o:id": 45650
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45651",
+            "o:id": 45651
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45652",
+            "o:id": 45652
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45653",
+            "o:id": 45653
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45654",
+            "o:id": 45654
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45655",
+            "o:id": 45655
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45656",
+            "o:id": 45656
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45657",
+            "o:id": 45657
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45658",
+            "o:id": 45658
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45659",
+            "o:id": 45659
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45660",
+            "o:id": 45660
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45661",
+            "o:id": 45661
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45662",
+            "o:id": 45662
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45663",
+            "o:id": 45663
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45664",
+            "o:id": 45664
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T01:49:15+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Chinese currency.Edkins, Joseph.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

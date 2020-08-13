@@ -1,0 +1,229 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/10911",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-0059",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "299429f0-88c8-473a-ae22-5933c7fcf38d",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2172.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Country life and itinerant evangelism in Central China; being an account of an evening's tour by magic lantern through town and village, and of what we saw on the way, with sundry notes on China past and present. Acompanion handbook to \"Three great cities in Central China.\"",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=C&tg4=b&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "C. Local topography & Travels",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "b. Central China",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:58+00:00"
+    },
+    "o:id": 10911,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16428",
+            "o:id": 16428
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16429",
+            "o:id": 16429
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16430",
+            "o:id": 16430
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16431",
+            "o:id": 16431
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16432",
+            "o:id": 16432
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16433",
+            "o:id": 16433
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16434",
+            "o:id": 16434
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16435",
+            "o:id": 16435
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16436",
+            "o:id": 16436
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16437",
+            "o:id": 16437
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16438",
+            "o:id": 16438
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16439",
+            "o:id": 16439
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16440",
+            "o:id": 16440
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16441",
+            "o:id": 16441
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16442",
+            "o:id": 16442
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16443",
+            "o:id": 16443
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16444",
+            "o:id": 16444
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16445",
+            "o:id": 16445
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16446",
+            "o:id": 16446
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16447",
+            "o:id": 16447
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T01:21:50+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Country life and itinerant evangelism in Central China; being an account of an evening's tour by magic lantern through town and village, and of what we saw on the way, with sundry notes on China past and present. Acompanion handbook to \"Three great cities in Central China.\"",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

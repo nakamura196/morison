@@ -1,0 +1,312 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11735",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-888",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "602ffff5-6413-4577-a81d-6ac49e1ee111",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2996.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Banquet to His Excellency Anson Burlingame, and his associates of the Chinese embassy, by the citizens of New York, on Tuesday, June 23, 1868.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "65 p. ; 22 cm.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=F&tg4=h&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "F. Foreign relations",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "h. U.S. of America",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Banquet to His Excellency Anson Burlingame, and his associates of the Chinese embassy, by the citizens of New York, on Tuesday, June 23, 1868.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:03+00:00"
+    },
+    "o:id": 11735,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29346",
+            "o:id": 29346
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29347",
+            "o:id": 29347
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29348",
+            "o:id": 29348
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29349",
+            "o:id": 29349
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29350",
+            "o:id": 29350
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29351",
+            "o:id": 29351
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29352",
+            "o:id": 29352
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29353",
+            "o:id": 29353
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29354",
+            "o:id": 29354
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29355",
+            "o:id": 29355
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29356",
+            "o:id": 29356
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29357",
+            "o:id": 29357
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29358",
+            "o:id": 29358
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29359",
+            "o:id": 29359
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29360",
+            "o:id": 29360
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29361",
+            "o:id": 29361
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29362",
+            "o:id": 29362
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29363",
+            "o:id": 29363
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29364",
+            "o:id": 29364
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29365",
+            "o:id": 29365
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29366",
+            "o:id": 29366
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29367",
+            "o:id": 29367
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29368",
+            "o:id": 29368
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29369",
+            "o:id": 29369
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29370",
+            "o:id": 29370
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29371",
+            "o:id": 29371
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29372",
+            "o:id": 29372
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29373",
+            "o:id": 29373
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29374",
+            "o:id": 29374
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29375",
+            "o:id": 29375
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29376",
+            "o:id": 29376
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29377",
+            "o:id": 29377
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29378",
+            "o:id": 29378
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29379",
+            "o:id": 29379
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T14:28:27+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Banquet to His Excellency Anson Burlingame, and his associates of the Chinese embassy, by the citizens of New York, on Tuesday, June 23, 1868.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

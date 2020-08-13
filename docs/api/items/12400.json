@@ -1,0 +1,208 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12400",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-b-0464",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "71c6b7f8-4b80-4324-93de-5f8ba080b3fb",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3661.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "La femme en Chine.Dronsart, Marie.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=14&tg3=G&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "14. Customs & Manners",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "G. Women",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:08+00:00"
+    },
+    "o:id": 12400,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38954",
+            "o:id": 38954
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38955",
+            "o:id": 38955
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38956",
+            "o:id": 38956
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38957",
+            "o:id": 38957
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38958",
+            "o:id": 38958
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38959",
+            "o:id": 38959
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38960",
+            "o:id": 38960
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38961",
+            "o:id": 38961
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38962",
+            "o:id": 38962
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38963",
+            "o:id": 38963
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38964",
+            "o:id": 38964
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38965",
+            "o:id": 38965
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38966",
+            "o:id": 38966
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38967",
+            "o:id": 38967
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38968",
+            "o:id": 38968
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38969",
+            "o:id": 38969
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38970",
+            "o:id": 38970
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T00:52:32+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "La femme en Chine.Dronsart, Marie.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

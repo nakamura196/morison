@@ -1,0 +1,342 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13632",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-3399",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "1765087d-21b9-4884-bbfe-8b89a74c72d4",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4893.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Shanghai",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "T'een-piao hsin-shu, ou, Nouvelle edition du code de télégraphie chinoise, servant à la transmission télégraphie des dépèches écrites een chinois ... 3. ed. Stéréotypee, sine varietur.Viguier, S. A.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "13, 21 p. ; 25 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Viguier, S. A.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Shanghai, 1873.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=21&tg3=F&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "21. Communication",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "F. Telephone & Telegraph; Cable & Radio.",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "T\\'een-piao hsin-shu, ou, Nouvelle edition du code de télégraphie chinoise, servant à la transmission télégraphie des dépèches écrites een chinois ... 3. ed. Stéréotypee, sine varietur.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:16+00:00"
+    },
+    "o:id": 13632,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55940",
+            "o:id": 55940
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55941",
+            "o:id": 55941
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55942",
+            "o:id": 55942
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55943",
+            "o:id": 55943
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55944",
+            "o:id": 55944
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55945",
+            "o:id": 55945
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55946",
+            "o:id": 55946
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55947",
+            "o:id": 55947
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55948",
+            "o:id": 55948
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55949",
+            "o:id": 55949
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55950",
+            "o:id": 55950
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55951",
+            "o:id": 55951
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55952",
+            "o:id": 55952
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55953",
+            "o:id": 55953
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55954",
+            "o:id": 55954
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55955",
+            "o:id": 55955
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55956",
+            "o:id": 55956
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55957",
+            "o:id": 55957
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55958",
+            "o:id": 55958
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55959",
+            "o:id": 55959
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55960",
+            "o:id": 55960
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55961",
+            "o:id": 55961
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55962",
+            "o:id": 55962
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55963",
+            "o:id": 55963
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55964",
+            "o:id": 55964
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55965",
+            "o:id": 55965
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55966",
+            "o:id": 55966
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55967",
+            "o:id": 55967
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55968",
+            "o:id": 55968
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55969",
+            "o:id": 55969
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55970",
+            "o:id": 55970
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55971",
+            "o:id": 55971
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55972",
+            "o:id": 55972
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55973",
+            "o:id": 55973
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55974",
+            "o:id": 55974
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55975",
+            "o:id": 55975
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55976",
+            "o:id": 55976
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:45:22+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "T'een-piao hsin-shu, ou, Nouvelle edition du code de télégraphie chinoise, servant à la transmission télégraphie des dépèches écrites een chinois ... 3. ed. Stéréotypee, sine varietur.Viguier, S. A.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

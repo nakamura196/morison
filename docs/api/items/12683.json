@@ -1,0 +1,282 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12683",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1560",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1909",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "3ecb7e00-a6a7-461a-a442-c695784f8213",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3944.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The International Commission for the Investigation of the Opium Trade and the Opium Habit in the Far East, to be held in Shanghai, February 1909. A warning and an appeal. With notes by the Bishop of Durham, London.Foster, Arnold.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "32 p. ; 23 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Foster, Arnold.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "1909",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=14&tg3=W2&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "14. Customs & Manners",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "W2. Opium",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "The International Commission for the Investigation of the Opium Trade and the Opium Habit in the Far East, to be held in Shanghai, February 1909. A warning and an appeal. With notes by the Bishop of Durham, London.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:09+00:00"
+    },
+    "o:id": 12683,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42546",
+            "o:id": 42546
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42547",
+            "o:id": 42547
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42548",
+            "o:id": 42548
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42549",
+            "o:id": 42549
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42550",
+            "o:id": 42550
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42551",
+            "o:id": 42551
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42552",
+            "o:id": 42552
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42553",
+            "o:id": 42553
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42554",
+            "o:id": 42554
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42555",
+            "o:id": 42555
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42556",
+            "o:id": 42556
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42557",
+            "o:id": 42557
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42558",
+            "o:id": 42558
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42559",
+            "o:id": 42559
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42560",
+            "o:id": 42560
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42561",
+            "o:id": 42561
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42562",
+            "o:id": 42562
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42563",
+            "o:id": 42563
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42564",
+            "o:id": 42564
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42565",
+            "o:id": 42565
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42566",
+            "o:id": 42566
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42567",
+            "o:id": 42567
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:49:28+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "The International Commission for the Investigation of the Opium Trade and the Opium Habit in the Far East, to be held in Shanghai, February 1909. A warning and an appeal. With notes by the Bishop of Durham, London.Foster, Arnold.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

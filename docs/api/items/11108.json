@@ -1,0 +1,288 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11108",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-b-0018",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "e29cf49c-bcfb-4427-a79f-c485c5b0dd87",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2369.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Les deux plus anciens Spécimens de la cartographie Chinoise.Chavannes, Edouard.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=I&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "I. Maps & Atlases",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:59+00:00"
+    },
+    "o:id": 11108,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19836",
+            "o:id": 19836
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19837",
+            "o:id": 19837
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19838",
+            "o:id": 19838
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19839",
+            "o:id": 19839
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19840",
+            "o:id": 19840
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19841",
+            "o:id": 19841
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19842",
+            "o:id": 19842
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19843",
+            "o:id": 19843
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19844",
+            "o:id": 19844
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19845",
+            "o:id": 19845
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19846",
+            "o:id": 19846
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19847",
+            "o:id": 19847
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19848",
+            "o:id": 19848
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19849",
+            "o:id": 19849
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19850",
+            "o:id": 19850
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19851",
+            "o:id": 19851
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19852",
+            "o:id": 19852
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19853",
+            "o:id": 19853
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19854",
+            "o:id": 19854
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19855",
+            "o:id": 19855
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19856",
+            "o:id": 19856
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19857",
+            "o:id": 19857
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19858",
+            "o:id": 19858
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19859",
+            "o:id": 19859
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19860",
+            "o:id": 19860
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19861",
+            "o:id": 19861
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19862",
+            "o:id": 19862
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19863",
+            "o:id": 19863
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19864",
+            "o:id": 19864
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19865",
+            "o:id": 19865
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19866",
+            "o:id": 19866
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19867",
+            "o:id": 19867
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19868",
+            "o:id": 19868
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19869",
+            "o:id": 19869
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19870",
+            "o:id": 19870
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19871",
+            "o:id": 19871
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19872",
+            "o:id": 19872
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T00:52:26+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Les deux plus anciens Spécimens de la cartographie Chinoise.Chavannes, Edouard.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

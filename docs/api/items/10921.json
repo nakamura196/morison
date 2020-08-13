@@ -1,0 +1,293 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/10921",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-0211",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "35599417-967d-4a59-b9a4-50619bb95267",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2182.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Vallée du Yang-tsé. Les trois villes de l'embouchure du Han.Gadoffre, Capit.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=C&tg4=b&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "C. Local topography & Travels",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "b. Central China",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:58+00:00"
+    },
+    "o:id": 10921,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16605",
+            "o:id": 16605
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16606",
+            "o:id": 16606
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16607",
+            "o:id": 16607
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16608",
+            "o:id": 16608
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16609",
+            "o:id": 16609
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16610",
+            "o:id": 16610
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16611",
+            "o:id": 16611
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16612",
+            "o:id": 16612
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16613",
+            "o:id": 16613
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16614",
+            "o:id": 16614
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16615",
+            "o:id": 16615
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16616",
+            "o:id": 16616
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16617",
+            "o:id": 16617
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16618",
+            "o:id": 16618
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16619",
+            "o:id": 16619
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16620",
+            "o:id": 16620
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16621",
+            "o:id": 16621
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16622",
+            "o:id": 16622
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16623",
+            "o:id": 16623
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16624",
+            "o:id": 16624
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16625",
+            "o:id": 16625
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16626",
+            "o:id": 16626
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16627",
+            "o:id": 16627
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16628",
+            "o:id": 16628
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16629",
+            "o:id": 16629
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16630",
+            "o:id": 16630
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16631",
+            "o:id": 16631
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16632",
+            "o:id": 16632
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16633",
+            "o:id": 16633
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16634",
+            "o:id": 16634
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16635",
+            "o:id": 16635
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16636",
+            "o:id": 16636
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16637",
+            "o:id": 16637
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16638",
+            "o:id": 16638
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16639",
+            "o:id": 16639
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16640",
+            "o:id": 16640
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T01:23:16+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Vallée du Yang-tsé. Les trois villes de l'embouchure du Han.Gadoffre, Capit.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

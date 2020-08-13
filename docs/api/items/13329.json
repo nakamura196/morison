@@ -1,0 +1,278 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13329",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-b-1075",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "7c22b3e4-7f7c-4813-b3ef-eed9940e280d",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4590.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Les marchands hanistes de Canton.Cordier, Henri.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "37 p. ; 25 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Cordier, Henri.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Leide, 1902.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=20&tg3=H&tg4=a&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "20. Economy and Industry",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "H. Commerce",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "a. General",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Les marchands hanistes de Canton.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:14+00:00"
+    },
+    "o:id": 13329,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51625",
+            "o:id": 51625
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51626",
+            "o:id": 51626
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51627",
+            "o:id": 51627
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51628",
+            "o:id": 51628
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51629",
+            "o:id": 51629
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51630",
+            "o:id": 51630
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51631",
+            "o:id": 51631
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51632",
+            "o:id": 51632
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51633",
+            "o:id": 51633
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51634",
+            "o:id": 51634
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51635",
+            "o:id": 51635
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51636",
+            "o:id": 51636
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51637",
+            "o:id": 51637
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51638",
+            "o:id": 51638
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51639",
+            "o:id": 51639
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51640",
+            "o:id": 51640
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51641",
+            "o:id": 51641
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51642",
+            "o:id": 51642
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51643",
+            "o:id": 51643
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51644",
+            "o:id": 51644
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51645",
+            "o:id": 51645
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:48:49+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Les marchands hanistes de Canton.Cordier, Henri.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

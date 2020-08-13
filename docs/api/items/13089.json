@@ -1,0 +1,334 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13089",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-b-977",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "0302824c-f05d-4100-9402-270852107f00",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4350.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Tianjin",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Nankai index numbers, 1935.Nankai University. Nankai Institute of Economics.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "47 p. ; 27 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Nankai University. Nankai Institute of Economics.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Tientsin, 1936.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=20&tg3=A&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "20. Economy and Industry",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "A. Economy and industry in general; statistics in general",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Nankai index numbers, 1935.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:12+00:00"
+    },
+    "o:id": 13089,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48209",
+            "o:id": 48209
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48210",
+            "o:id": 48210
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48211",
+            "o:id": 48211
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48212",
+            "o:id": 48212
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48213",
+            "o:id": 48213
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48214",
+            "o:id": 48214
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48215",
+            "o:id": 48215
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48216",
+            "o:id": 48216
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48217",
+            "o:id": 48217
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48218",
+            "o:id": 48218
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48219",
+            "o:id": 48219
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48220",
+            "o:id": 48220
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48221",
+            "o:id": 48221
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48222",
+            "o:id": 48222
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48223",
+            "o:id": 48223
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48224",
+            "o:id": 48224
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48225",
+            "o:id": 48225
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48226",
+            "o:id": 48226
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48227",
+            "o:id": 48227
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48228",
+            "o:id": 48228
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48229",
+            "o:id": 48229
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48230",
+            "o:id": 48230
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48231",
+            "o:id": 48231
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48232",
+            "o:id": 48232
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48233",
+            "o:id": 48233
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48234",
+            "o:id": 48234
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48235",
+            "o:id": 48235
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48236",
+            "o:id": 48236
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48237",
+            "o:id": 48237
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48238",
+            "o:id": 48238
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48239",
+            "o:id": 48239
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48240",
+            "o:id": 48240
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48241",
+            "o:id": 48241
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48242",
+            "o:id": 48242
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48243",
+            "o:id": 48243
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:56:30+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Nankai index numbers, 1935.Nankai University. Nankai Institute of Economics.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

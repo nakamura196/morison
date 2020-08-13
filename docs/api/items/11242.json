@@ -1,0 +1,339 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11242",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-623",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1906",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "bda1bea7-cf21-4c29-9a69-e267f084d9f3",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2503.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Cleveland",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "A chapter of Chinese history and a plea.Goddard, Dwight.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "60 p. ; 20 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Goddard, Dwight.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Cleveland, Ohio, 1906.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=D&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "D. Modern history",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "A chapter of Chinese history and a plea.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:00+00:00"
+    },
+    "o:id": 11242,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21980",
+            "o:id": 21980
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21981",
+            "o:id": 21981
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21982",
+            "o:id": 21982
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21983",
+            "o:id": 21983
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21984",
+            "o:id": 21984
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21985",
+            "o:id": 21985
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21986",
+            "o:id": 21986
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21987",
+            "o:id": 21987
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21988",
+            "o:id": 21988
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21989",
+            "o:id": 21989
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21990",
+            "o:id": 21990
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21991",
+            "o:id": 21991
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21992",
+            "o:id": 21992
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21993",
+            "o:id": 21993
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21994",
+            "o:id": 21994
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21995",
+            "o:id": 21995
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21996",
+            "o:id": 21996
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21997",
+            "o:id": 21997
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21998",
+            "o:id": 21998
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21999",
+            "o:id": 21999
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22000",
+            "o:id": 22000
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22001",
+            "o:id": 22001
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22002",
+            "o:id": 22002
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22003",
+            "o:id": 22003
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22004",
+            "o:id": 22004
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22005",
+            "o:id": 22005
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22006",
+            "o:id": 22006
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22007",
+            "o:id": 22007
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22008",
+            "o:id": 22008
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22009",
+            "o:id": 22009
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22010",
+            "o:id": 22010
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22011",
+            "o:id": 22011
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22012",
+            "o:id": 22012
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22013",
+            "o:id": 22013
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:49:01+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "A chapter of Chinese history and a plea.Goddard, Dwight.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

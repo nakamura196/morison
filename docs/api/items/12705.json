@@ -1,0 +1,424 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12705",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-c-129",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "f9c55fa7-0f41-4158-b93d-2f7cf13f0398",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3966.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Drugging a race. 1907-1908.Merwin, Samuel.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "58 p. ; 35 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Merwin, Samuel.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=14&tg3=W2&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "14. Customs & Manners",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "W2. Opium",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Drugging a race. 1907-1908.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:10+00:00"
+    },
+    "o:id": 12705,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42831",
+            "o:id": 42831
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42832",
+            "o:id": 42832
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42833",
+            "o:id": 42833
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42834",
+            "o:id": 42834
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42835",
+            "o:id": 42835
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42836",
+            "o:id": 42836
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42837",
+            "o:id": 42837
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42838",
+            "o:id": 42838
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42839",
+            "o:id": 42839
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42840",
+            "o:id": 42840
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42841",
+            "o:id": 42841
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42842",
+            "o:id": 42842
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42843",
+            "o:id": 42843
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42844",
+            "o:id": 42844
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42845",
+            "o:id": 42845
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42846",
+            "o:id": 42846
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42847",
+            "o:id": 42847
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42848",
+            "o:id": 42848
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42849",
+            "o:id": 42849
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42850",
+            "o:id": 42850
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42851",
+            "o:id": 42851
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42852",
+            "o:id": 42852
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42853",
+            "o:id": 42853
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42854",
+            "o:id": 42854
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42855",
+            "o:id": 42855
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42856",
+            "o:id": 42856
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42857",
+            "o:id": 42857
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42858",
+            "o:id": 42858
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42859",
+            "o:id": 42859
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42860",
+            "o:id": 42860
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42861",
+            "o:id": 42861
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43191",
+            "o:id": 43191
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43192",
+            "o:id": 43192
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43193",
+            "o:id": 43193
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43194",
+            "o:id": 43194
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43195",
+            "o:id": 43195
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43196",
+            "o:id": 43196
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43197",
+            "o:id": 43197
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43198",
+            "o:id": 43198
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43199",
+            "o:id": 43199
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43200",
+            "o:id": 43200
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43201",
+            "o:id": 43201
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43202",
+            "o:id": 43202
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43203",
+            "o:id": 43203
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43204",
+            "o:id": 43204
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43205",
+            "o:id": 43205
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43206",
+            "o:id": 43206
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43207",
+            "o:id": 43207
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43208",
+            "o:id": 43208
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43209",
+            "o:id": 43209
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43210",
+            "o:id": 43210
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43211",
+            "o:id": 43211
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43212",
+            "o:id": 43212
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43213",
+            "o:id": 43213
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43214",
+            "o:id": 43214
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43215",
+            "o:id": 43215
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43216",
+            "o:id": 43216
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43217",
+            "o:id": 43217
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43218",
+            "o:id": 43218
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43219",
+            "o:id": 43219
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43220",
+            "o:id": 43220
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43221",
+            "o:id": 43221
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:47:35+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Drugging a race. 1907-1908.Merwin, Samuel.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

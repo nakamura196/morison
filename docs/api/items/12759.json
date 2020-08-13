@@ -1,0 +1,365 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12759",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1687",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "55e1cfb7-5ec3-4805-9f71-0424842eaef9",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4020.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Shanghai",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Report on opium, its derivatives and preparations. For presentation to the International Opium Commission assembled at Shanghai, China, Feb., 1909.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "76 p. ; 20 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Shanghai.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=14&tg3=W2&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "14. Customs & Manners",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "W2. Opium",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Report on opium, its derivatives and preparations. For presentation to the International Opium Commission assembled at Shanghai, China, Feb., 1909.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:10+00:00"
+    },
+    "o:id": 12759,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43571",
+            "o:id": 43571
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43572",
+            "o:id": 43572
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43573",
+            "o:id": 43573
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43574",
+            "o:id": 43574
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43575",
+            "o:id": 43575
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43576",
+            "o:id": 43576
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43577",
+            "o:id": 43577
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43578",
+            "o:id": 43578
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43579",
+            "o:id": 43579
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43580",
+            "o:id": 43580
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43581",
+            "o:id": 43581
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43582",
+            "o:id": 43582
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43583",
+            "o:id": 43583
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43584",
+            "o:id": 43584
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43585",
+            "o:id": 43585
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43586",
+            "o:id": 43586
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43587",
+            "o:id": 43587
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43588",
+            "o:id": 43588
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43589",
+            "o:id": 43589
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43590",
+            "o:id": 43590
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43591",
+            "o:id": 43591
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43592",
+            "o:id": 43592
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43593",
+            "o:id": 43593
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43594",
+            "o:id": 43594
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43595",
+            "o:id": 43595
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43596",
+            "o:id": 43596
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43597",
+            "o:id": 43597
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43598",
+            "o:id": 43598
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43599",
+            "o:id": 43599
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43600",
+            "o:id": 43600
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43601",
+            "o:id": 43601
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43602",
+            "o:id": 43602
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43603",
+            "o:id": 43603
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43604",
+            "o:id": 43604
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43605",
+            "o:id": 43605
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43606",
+            "o:id": 43606
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43607",
+            "o:id": 43607
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43608",
+            "o:id": 43608
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43609",
+            "o:id": 43609
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43610",
+            "o:id": 43610
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43611",
+            "o:id": 43611
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43612",
+            "o:id": 43612
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43613",
+            "o:id": 43613
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43614",
+            "o:id": 43614
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43615",
+            "o:id": 43615
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T14:35:34+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Report on opium, its derivatives and preparations. For presentation to the International Opium Commission assembled at Shanghai, China, Feb., 1909.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

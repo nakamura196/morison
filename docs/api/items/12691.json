@@ -1,0 +1,279 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12691",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1564",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "643d22c9-a4db-4eb9-8bd9-6f596399d6cb",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3952.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/London",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Britain's crime against China: a short history of the opium traffic. With appendix containing letters from China by Alfred S. Dyer... and appeals to British Christians from Chinese churches.Gregory, Maurice.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "32 p. ; 22 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Gregory, Maurice.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "London, 1891.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=14&tg3=W2&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "14. Customs & Manners",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "W2. Opium",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Britain\\'s crime against China: a short history of the opium traffic. With appendix containing letters from China by Alfred S. Dyer... and appeals to British Christians from Chinese churches.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "ex:version": [
+        {
+            "@value": "3. ed.",
+            "is_public": true,
+            "property_id": 308,
+            "property_label": "版",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:09+00:00"
+    },
+    "o:id": 12691,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42713",
+            "o:id": 42713
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42714",
+            "o:id": 42714
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42715",
+            "o:id": 42715
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42716",
+            "o:id": 42716
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42717",
+            "o:id": 42717
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42718",
+            "o:id": 42718
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42719",
+            "o:id": 42719
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42720",
+            "o:id": 42720
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42721",
+            "o:id": 42721
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42722",
+            "o:id": 42722
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42723",
+            "o:id": 42723
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42724",
+            "o:id": 42724
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42725",
+            "o:id": 42725
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42726",
+            "o:id": 42726
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42727",
+            "o:id": 42727
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42728",
+            "o:id": 42728
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42729",
+            "o:id": 42729
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42730",
+            "o:id": 42730
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42731",
+            "o:id": 42731
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:39:47+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Britain's crime against China: a short history of the opium traffic. With appendix containing letters from China by Alfred S. Dyer... and appeals to British Christians from Chinese churches.Gregory, Maurice.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

@@ -1,0 +1,334 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13604",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-2149",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "b41f07ee-4520-476a-91b6-1da506bdcb0a",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4865.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Shanghai",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "River conservancy at Shnaghai. Projects, criticisms, pros, cons.Bredon, R. E.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "25 p. ; 25 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Bredon, R. E.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Shanghai, 1901.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=21&tg3=D&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "21. Communication",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "D. Inland Navigation; Canals & Creeks; River Conservancy; &c.",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "River conservancy at Shnaghai. Projects, criticisms, pros, cons.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:15+00:00"
+    },
+    "o:id": 13604,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55429",
+            "o:id": 55429
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55430",
+            "o:id": 55430
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55431",
+            "o:id": 55431
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55432",
+            "o:id": 55432
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55433",
+            "o:id": 55433
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55434",
+            "o:id": 55434
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55435",
+            "o:id": 55435
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55436",
+            "o:id": 55436
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55437",
+            "o:id": 55437
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55438",
+            "o:id": 55438
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55439",
+            "o:id": 55439
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55440",
+            "o:id": 55440
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55441",
+            "o:id": 55441
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55442",
+            "o:id": 55442
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55443",
+            "o:id": 55443
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55444",
+            "o:id": 55444
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55445",
+            "o:id": 55445
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55446",
+            "o:id": 55446
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55447",
+            "o:id": 55447
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55448",
+            "o:id": 55448
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55449",
+            "o:id": 55449
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55450",
+            "o:id": 55450
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55451",
+            "o:id": 55451
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55452",
+            "o:id": 55452
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55453",
+            "o:id": 55453
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55454",
+            "o:id": 55454
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55455",
+            "o:id": 55455
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55456",
+            "o:id": 55456
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55457",
+            "o:id": 55457
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55458",
+            "o:id": 55458
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55459",
+            "o:id": 55459
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55460",
+            "o:id": 55460
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55461",
+            "o:id": 55461
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55462",
+            "o:id": 55462
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55463",
+            "o:id": 55463
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:33:19+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "River conservancy at Shnaghai. Projects, criticisms, pros, cons.Bredon, R. E.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

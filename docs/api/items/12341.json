@@ -1,0 +1,410 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12341",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-c-286",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "5f9e8e46-4a11-4d4b-baa0-cb4cdba5dc5c",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3602.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Munich",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Nahrung, Kleidung und Wohnung der alten Chinesen.Plath, Joh. Heinrich.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "pp. 1-96, 137-142 ; 29 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Plath, Joh. Heinrich.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "München, 1868.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=14&tg3=A&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "14. Customs & Manners",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "A. General; Social Life; Etiquette",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Nahrung, Kleidung und Wohnung der alten Chinesen.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:07+00:00"
+    },
+    "o:id": 12341,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38224",
+            "o:id": 38224
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38225",
+            "o:id": 38225
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38226",
+            "o:id": 38226
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38227",
+            "o:id": 38227
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38228",
+            "o:id": 38228
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38229",
+            "o:id": 38229
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38230",
+            "o:id": 38230
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38231",
+            "o:id": 38231
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38232",
+            "o:id": 38232
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38233",
+            "o:id": 38233
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38234",
+            "o:id": 38234
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38235",
+            "o:id": 38235
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38236",
+            "o:id": 38236
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38237",
+            "o:id": 38237
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38238",
+            "o:id": 38238
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38239",
+            "o:id": 38239
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38240",
+            "o:id": 38240
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38241",
+            "o:id": 38241
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38242",
+            "o:id": 38242
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38243",
+            "o:id": 38243
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38244",
+            "o:id": 38244
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38245",
+            "o:id": 38245
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38246",
+            "o:id": 38246
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38247",
+            "o:id": 38247
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38248",
+            "o:id": 38248
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38249",
+            "o:id": 38249
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38250",
+            "o:id": 38250
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38251",
+            "o:id": 38251
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38252",
+            "o:id": 38252
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38253",
+            "o:id": 38253
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38254",
+            "o:id": 38254
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38255",
+            "o:id": 38255
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38256",
+            "o:id": 38256
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38257",
+            "o:id": 38257
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38258",
+            "o:id": 38258
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38259",
+            "o:id": 38259
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38260",
+            "o:id": 38260
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38261",
+            "o:id": 38261
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38262",
+            "o:id": 38262
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38263",
+            "o:id": 38263
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38264",
+            "o:id": 38264
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38265",
+            "o:id": 38265
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38266",
+            "o:id": 38266
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38267",
+            "o:id": 38267
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38268",
+            "o:id": 38268
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38269",
+            "o:id": 38269
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38270",
+            "o:id": 38270
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38271",
+            "o:id": 38271
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38272",
+            "o:id": 38272
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38273",
+            "o:id": 38273
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38274",
+            "o:id": 38274
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38275",
+            "o:id": 38275
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38276",
+            "o:id": 38276
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38277",
+            "o:id": 38277
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:35:15+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Nahrung, Kleidung und Wohnung der alten Chinesen.Plath, Joh. Heinrich.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

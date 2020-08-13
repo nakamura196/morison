@@ -1,0 +1,282 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12161",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1182",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "345d0ee4-360e-446a-8933-eb9160335dc6",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3422.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/London",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The Taoist religion.Parker, E[dward] H[arper].",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "35 p. ; 22 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Parker, E[dward] H[arper].",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "London, 1903.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=10&tg3=C&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "10. Religion",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "C. Taoism",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "The Taoist religion.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:06+00:00"
+    },
+    "o:id": 12161,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35277",
+            "o:id": 35277
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35278",
+            "o:id": 35278
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35279",
+            "o:id": 35279
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35280",
+            "o:id": 35280
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35281",
+            "o:id": 35281
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35282",
+            "o:id": 35282
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35283",
+            "o:id": 35283
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35284",
+            "o:id": 35284
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35285",
+            "o:id": 35285
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35286",
+            "o:id": 35286
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35287",
+            "o:id": 35287
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35288",
+            "o:id": 35288
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35289",
+            "o:id": 35289
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35290",
+            "o:id": 35290
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35291",
+            "o:id": 35291
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35292",
+            "o:id": 35292
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35293",
+            "o:id": 35293
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35294",
+            "o:id": 35294
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35295",
+            "o:id": 35295
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35296",
+            "o:id": 35296
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35297",
+            "o:id": 35297
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35298",
+            "o:id": 35298
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:41:35+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "The Taoist religion.Parker, E[dward] H[arper].",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

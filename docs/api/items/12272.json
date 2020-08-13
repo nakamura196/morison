@@ -1,0 +1,320 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12272",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-c-191",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1894",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "1e540f14-2cb5-4dfa-9cdf-1567568271af",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3533.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Pekin",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Convention Berthemy réglant l'acquisition de terrains et de maisons par les Missions catholiques dans l'intérieur de la Chine.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "2 v. 25, 23 p. ; 28 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Pékin, 1894-1895.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=10&tg3=E&tg4=c&tg5=c1",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "10. Religion",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "E. Christianity",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "c. Roman Catholic",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:tag5": [
+        {
+            "@value": "c1. General",
+            "is_public": true,
+            "property_id": 297,
+            "property_label": "分類5",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Convention Berthemy réglant l\\'acquisition de terrains et de maisons par les Missions catholiques dans l\\'intérieur de la Chine.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:07+00:00"
+    },
+    "o:id": 12272,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37016",
+            "o:id": 37016
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37017",
+            "o:id": 37017
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37018",
+            "o:id": 37018
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37019",
+            "o:id": 37019
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37020",
+            "o:id": 37020
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37021",
+            "o:id": 37021
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37022",
+            "o:id": 37022
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37023",
+            "o:id": 37023
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37024",
+            "o:id": 37024
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37025",
+            "o:id": 37025
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37026",
+            "o:id": 37026
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37027",
+            "o:id": 37027
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37028",
+            "o:id": 37028
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37029",
+            "o:id": 37029
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37030",
+            "o:id": 37030
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37031",
+            "o:id": 37031
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37032",
+            "o:id": 37032
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37033",
+            "o:id": 37033
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37034",
+            "o:id": 37034
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37035",
+            "o:id": 37035
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37036",
+            "o:id": 37036
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37037",
+            "o:id": 37037
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37038",
+            "o:id": 37038
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37039",
+            "o:id": 37039
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37040",
+            "o:id": 37040
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37041",
+            "o:id": 37041
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37042",
+            "o:id": 37042
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:32:30+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Convention Berthemy réglant l'acquisition de terrains et de maisons par les Missions catholiques dans l'intérieur de la Chine.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

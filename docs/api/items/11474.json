@@ -1,0 +1,344 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11474",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-c-34",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1919",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "ca847b17-81b8-4b66-b38a-513427699361",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2735.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Pekin",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "List du corps diplomatique.China. Wai wu pu.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "pp. 357-360 ; 23 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "China. Wai wu pu.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "1919",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=F&tg4=a&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "F. Foreign relations",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "a. General history of foreign relations with China",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "China\\'s part in the European war. Effects of civil strife.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:01+00:00"
+    },
+    "o:id": 11474,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25104",
+            "o:id": 25104
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25105",
+            "o:id": 25105
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25106",
+            "o:id": 25106
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25107",
+            "o:id": 25107
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25108",
+            "o:id": 25108
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25109",
+            "o:id": 25109
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25110",
+            "o:id": 25110
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25111",
+            "o:id": 25111
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25112",
+            "o:id": 25112
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25113",
+            "o:id": 25113
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25114",
+            "o:id": 25114
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25115",
+            "o:id": 25115
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25116",
+            "o:id": 25116
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25117",
+            "o:id": 25117
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25118",
+            "o:id": 25118
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25119",
+            "o:id": 25119
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25120",
+            "o:id": 25120
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25121",
+            "o:id": 25121
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25122",
+            "o:id": 25122
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25123",
+            "o:id": 25123
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25124",
+            "o:id": 25124
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25125",
+            "o:id": 25125
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25126",
+            "o:id": 25126
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25127",
+            "o:id": 25127
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25128",
+            "o:id": 25128
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25129",
+            "o:id": 25129
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25130",
+            "o:id": 25130
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25131",
+            "o:id": 25131
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25132",
+            "o:id": 25132
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25133",
+            "o:id": 25133
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25134",
+            "o:id": 25134
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25135",
+            "o:id": 25135
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25136",
+            "o:id": 25136
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T14:17:37+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "List du corps diplomatique.China. Wai wu pu.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

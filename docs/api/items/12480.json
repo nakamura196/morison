@@ -1,0 +1,323 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12480",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1584",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1906",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "e9f106ca-0891-4ffd-bb2c-0c512394c40a",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3741.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/London",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Chinese superstitions.Vale, Joshua.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "48 p. ; 19 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Vale, Joshua.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "London, 1906.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=14&tg3=M&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "14. Customs & Manners",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "M. Superstition; Popular Belief; Folk-ways",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Chinese superstitions.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:08+00:00"
+    },
+    "o:id": 12480,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40187",
+            "o:id": 40187
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40188",
+            "o:id": 40188
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40189",
+            "o:id": 40189
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40190",
+            "o:id": 40190
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40191",
+            "o:id": 40191
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40192",
+            "o:id": 40192
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40193",
+            "o:id": 40193
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40194",
+            "o:id": 40194
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40195",
+            "o:id": 40195
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40196",
+            "o:id": 40196
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40197",
+            "o:id": 40197
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40198",
+            "o:id": 40198
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40199",
+            "o:id": 40199
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40200",
+            "o:id": 40200
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40201",
+            "o:id": 40201
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40202",
+            "o:id": 40202
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40203",
+            "o:id": 40203
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40204",
+            "o:id": 40204
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40205",
+            "o:id": 40205
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40206",
+            "o:id": 40206
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40207",
+            "o:id": 40207
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40208",
+            "o:id": 40208
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40209",
+            "o:id": 40209
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40210",
+            "o:id": 40210
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40211",
+            "o:id": 40211
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40212",
+            "o:id": 40212
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40213",
+            "o:id": 40213
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40214",
+            "o:id": 40214
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40215",
+            "o:id": 40215
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40216",
+            "o:id": 40216
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:32:40+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Chinese superstitions.Vale, Joshua.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

@@ -1,0 +1,192 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12142",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-b-0370",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "87b83f34-456d-4b4f-a096-c9db61d34fd1",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3403.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The religions of China.Wiley, J. W.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=10&tg3=A&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "10. Religion",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "A. General",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:06+00:00"
+    },
+    "o:id": 12142,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35008",
+            "o:id": 35008
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35009",
+            "o:id": 35009
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35010",
+            "o:id": 35010
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35011",
+            "o:id": 35011
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35012",
+            "o:id": 35012
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35013",
+            "o:id": 35013
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35014",
+            "o:id": 35014
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35015",
+            "o:id": 35015
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35016",
+            "o:id": 35016
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35017",
+            "o:id": 35017
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35018",
+            "o:id": 35018
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35019",
+            "o:id": 35019
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35020",
+            "o:id": 35020
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T03:08:26+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "The religions of China.Wiley, J. W.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

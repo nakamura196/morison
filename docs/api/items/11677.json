@@ -1,0 +1,278 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11677",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-863",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "528cfdb3-5597-46b8-8ae4-2bdebeeb090c",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2938.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/London",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The War in China. An account of all the operations of the British forces... By Lieut. John Ouchterlony.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "pp. 152-188 ; 23 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "London, 1844.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=F&tg4=e&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "F. Foreign relations",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "e. Great-Britain",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "The War in China. An account of all the operations of the British forces... By Lieut. John Ouchterlony.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:03+00:00"
+    },
+    "o:id": 11677,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28222",
+            "o:id": 28222
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28223",
+            "o:id": 28223
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28224",
+            "o:id": 28224
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28225",
+            "o:id": 28225
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28226",
+            "o:id": 28226
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28227",
+            "o:id": 28227
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28228",
+            "o:id": 28228
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28229",
+            "o:id": 28229
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28230",
+            "o:id": 28230
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28231",
+            "o:id": 28231
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28232",
+            "o:id": 28232
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28233",
+            "o:id": 28233
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28234",
+            "o:id": 28234
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28235",
+            "o:id": 28235
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28236",
+            "o:id": 28236
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28237",
+            "o:id": 28237
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28238",
+            "o:id": 28238
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28239",
+            "o:id": 28239
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28240",
+            "o:id": 28240
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28241",
+            "o:id": 28241
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28242",
+            "o:id": 28242
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:33:03+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "The War in China. An account of all the operations of the British forces... By Lieut. John Ouchterlony.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

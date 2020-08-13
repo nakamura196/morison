@@ -1,0 +1,419 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12223",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-2771",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "f2e1a22d-4cdd-4bd2-865c-83f7f9d3d0ff",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3484.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Shanghai",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Can the Christian church supply the wants of the Chinese with regard to the reverence for ancestors?Kranz, Pastor P.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "pp. 37-47 ; 23 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Martin, W. A. P.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Shanghai, 1904.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=10&tg3=E&tg4=a&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "10. Religion",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "E. Christianity",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "a. General works",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "The worship of ancestors - How Shall we deal with it?",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:06+00:00"
+    },
+    "o:id": 12223,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36204",
+            "o:id": 36204
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36205",
+            "o:id": 36205
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36206",
+            "o:id": 36206
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36207",
+            "o:id": 36207
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36208",
+            "o:id": 36208
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36209",
+            "o:id": 36209
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36210",
+            "o:id": 36210
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36211",
+            "o:id": 36211
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36212",
+            "o:id": 36212
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36213",
+            "o:id": 36213
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36214",
+            "o:id": 36214
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36215",
+            "o:id": 36215
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36216",
+            "o:id": 36216
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36217",
+            "o:id": 36217
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36218",
+            "o:id": 36218
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36219",
+            "o:id": 36219
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36220",
+            "o:id": 36220
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36221",
+            "o:id": 36221
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36222",
+            "o:id": 36222
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36223",
+            "o:id": 36223
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36224",
+            "o:id": 36224
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36225",
+            "o:id": 36225
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36226",
+            "o:id": 36226
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36227",
+            "o:id": 36227
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36228",
+            "o:id": 36228
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36229",
+            "o:id": 36229
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36230",
+            "o:id": 36230
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39923",
+            "o:id": 39923
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39924",
+            "o:id": 39924
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39925",
+            "o:id": 39925
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39926",
+            "o:id": 39926
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39927",
+            "o:id": 39927
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39928",
+            "o:id": 39928
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39929",
+            "o:id": 39929
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39930",
+            "o:id": 39930
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39931",
+            "o:id": 39931
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39932",
+            "o:id": 39932
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39933",
+            "o:id": 39933
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39934",
+            "o:id": 39934
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39935",
+            "o:id": 39935
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39936",
+            "o:id": 39936
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39937",
+            "o:id": 39937
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39938",
+            "o:id": 39938
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39939",
+            "o:id": 39939
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39940",
+            "o:id": 39940
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39941",
+            "o:id": 39941
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39942",
+            "o:id": 39942
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39943",
+            "o:id": 39943
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39944",
+            "o:id": 39944
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39945",
+            "o:id": 39945
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39946",
+            "o:id": 39946
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39947",
+            "o:id": 39947
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39948",
+            "o:id": 39948
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39949",
+            "o:id": 39949
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:33:29+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Can the Christian church supply the wants of the Chinese with regard to the reverence for ancestors?Kranz, Pastor P.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

@@ -1,0 +1,256 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13039",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-2517",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "71ae5840-fa75-4bb5-8b2b-779539f1ddb4",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4300.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Treaty between the United States and China, for the extension of the commercial relations between them.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "33 p. ; 23 cm.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=17&tg3=H&tg4=a&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "17. Law",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "H. International Law",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "a. Treaty Texts; Conventions, Agreements, Protocoles",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Treaty between the United States and China, for the extension of the commercial relations between them.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:12+00:00"
+    },
+    "o:id": 13039,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47372",
+            "o:id": 47372
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47373",
+            "o:id": 47373
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47374",
+            "o:id": 47374
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47375",
+            "o:id": 47375
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47376",
+            "o:id": 47376
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47377",
+            "o:id": 47377
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47378",
+            "o:id": 47378
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47379",
+            "o:id": 47379
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47380",
+            "o:id": 47380
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47381",
+            "o:id": 47381
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47382",
+            "o:id": 47382
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47383",
+            "o:id": 47383
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47384",
+            "o:id": 47384
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47385",
+            "o:id": 47385
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47386",
+            "o:id": 47386
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47387",
+            "o:id": 47387
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47388",
+            "o:id": 47388
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47389",
+            "o:id": 47389
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47390",
+            "o:id": 47390
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47391",
+            "o:id": 47391
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T14:14:35+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Treaty between the United States and China, for the extension of the commercial relations between them.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

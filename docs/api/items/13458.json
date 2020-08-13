@@ -1,0 +1,295 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13458",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-2113",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1898",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "758e7c5c-85a9-4b0c-b93e-af4cfd88b70e",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4719.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Shanghai",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Shanghai exchange tables for the conversion of taels into dollars and dollars into taels. From 71.5 to 79.9.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "18, 20 p. ; 19 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Shanghai, &c., 1898.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=20&tg3=I&tg4=b&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "20. Economy and Industry",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "I. Money market and Banking",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "b. Money market, exchange",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Shanghai exchange tables for the conversion of taels into dollars and dollars into taels. From 71.5 to 79.9.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:14+00:00"
+    },
+    "o:id": 13458,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53402",
+            "o:id": 53402
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53403",
+            "o:id": 53403
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53404",
+            "o:id": 53404
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53405",
+            "o:id": 53405
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53406",
+            "o:id": 53406
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53407",
+            "o:id": 53407
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53408",
+            "o:id": 53408
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53409",
+            "o:id": 53409
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53410",
+            "o:id": 53410
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53411",
+            "o:id": 53411
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53412",
+            "o:id": 53412
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53413",
+            "o:id": 53413
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53414",
+            "o:id": 53414
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53415",
+            "o:id": 53415
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53416",
+            "o:id": 53416
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53417",
+            "o:id": 53417
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53418",
+            "o:id": 53418
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53419",
+            "o:id": 53419
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53420",
+            "o:id": 53420
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53421",
+            "o:id": 53421
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53422",
+            "o:id": 53422
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53423",
+            "o:id": 53423
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53424",
+            "o:id": 53424
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:33:17+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Shanghai exchange tables for the conversion of taels into dollars and dollars into taels. From 71.5 to 79.9.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

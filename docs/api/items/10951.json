@@ -1,0 +1,261 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/10951",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-0080",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "34812534-30b6-4332-bb12-1976bf71671c",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2212.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "A glimpse through the gorges of the great Yangtse.Plant, S. C.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=C&tg4=b&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "C. Local topography & Travels",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "b. Central China",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:58+00:00"
+    },
+    "o:id": 10951,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17210",
+            "o:id": 17210
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17211",
+            "o:id": 17211
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17212",
+            "o:id": 17212
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17213",
+            "o:id": 17213
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17214",
+            "o:id": 17214
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17215",
+            "o:id": 17215
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17216",
+            "o:id": 17216
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17217",
+            "o:id": 17217
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17218",
+            "o:id": 17218
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17219",
+            "o:id": 17219
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17220",
+            "o:id": 17220
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17221",
+            "o:id": 17221
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17222",
+            "o:id": 17222
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17223",
+            "o:id": 17223
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17224",
+            "o:id": 17224
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17225",
+            "o:id": 17225
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17226",
+            "o:id": 17226
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17227",
+            "o:id": 17227
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17228",
+            "o:id": 17228
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17229",
+            "o:id": 17229
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17230",
+            "o:id": 17230
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17231",
+            "o:id": 17231
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17232",
+            "o:id": 17232
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17233",
+            "o:id": 17233
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17234",
+            "o:id": 17234
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17235",
+            "o:id": 17235
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17236",
+            "o:id": 17236
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17237",
+            "o:id": 17237
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T00:53:11+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "A glimpse through the gorges of the great Yangtse.Plant, S. C.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

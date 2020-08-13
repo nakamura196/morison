@@ -1,0 +1,351 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12295",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-2662",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "8e145cd6-600b-48d6-92ee-1bcb18346a5d",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3556.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Compendiosum manuale caeremoniarum seu praecipuae, ex caeremoniali episcoporum et ex missali desumptae, caeremoniae pro commoditate ministrorum annotationibus illustratae.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "60 p. ; 21 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Pekini, 1894.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=10&tg3=E&tg4=c&tg5=c2",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "10. Religion",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "E. Christianity",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "c. Roman Catholic",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:tag5": [
+        {
+            "@value": "c2. Jesuits; Rite Controversy",
+            "is_public": true,
+            "property_id": 297,
+            "property_label": "分類5",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Compendiosum manuale caeremoniarum seu praecipuae, ex caeremoniali episcoporum et ex missali desumptae, caeremoniae pro commoditate ministrorum annotationibus illustratae.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "ex:version": [
+        {
+            "@value": "2 ed.",
+            "is_public": true,
+            "property_id": 308,
+            "property_label": "版",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:07+00:00"
+    },
+    "o:id": 12295,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37370",
+            "o:id": 37370
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37371",
+            "o:id": 37371
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37372",
+            "o:id": 37372
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37373",
+            "o:id": 37373
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37374",
+            "o:id": 37374
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37375",
+            "o:id": 37375
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37376",
+            "o:id": 37376
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37377",
+            "o:id": 37377
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37378",
+            "o:id": 37378
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37379",
+            "o:id": 37379
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37380",
+            "o:id": 37380
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37381",
+            "o:id": 37381
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37382",
+            "o:id": 37382
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37383",
+            "o:id": 37383
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37384",
+            "o:id": 37384
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37385",
+            "o:id": 37385
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37386",
+            "o:id": 37386
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37387",
+            "o:id": 37387
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37388",
+            "o:id": 37388
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37389",
+            "o:id": 37389
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37390",
+            "o:id": 37390
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37391",
+            "o:id": 37391
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37392",
+            "o:id": 37392
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37393",
+            "o:id": 37393
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37394",
+            "o:id": 37394
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37395",
+            "o:id": 37395
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37396",
+            "o:id": 37396
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37397",
+            "o:id": 37397
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37398",
+            "o:id": 37398
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37399",
+            "o:id": 37399
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37400",
+            "o:id": 37400
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37401",
+            "o:id": 37401
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37402",
+            "o:id": 37402
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37403",
+            "o:id": 37403
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37404",
+            "o:id": 37404
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37405",
+            "o:id": 37405
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37406",
+            "o:id": 37406
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:32:45+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Compendiosum manuale caeremoniarum seu praecipuae, ex caeremoniali episcoporum et ex missali desumptae, caeremoniae pro commoditate ministrorum annotationibus illustratae.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

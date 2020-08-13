@@ -1,0 +1,675 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11596",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-874",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1843",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "ee6e2edf-ba3a-4770-9fff-b834bf157b63",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2857.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/London",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "East India Committee of the Colonial Society. Report of the E. I. C. C. S. on the causes and consequences of the military operations in China. By Francis Marx.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "109 p. ; 22 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "London, 1843.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=F&tg4=e&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "F. Foreign relations",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "e. Great-Britain",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "East India Committee of the Colonial Society. Report of the E. I. C. C. S. on the causes and consequences of the military operations in China. By Francis Marx.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:02+00:00"
+    },
+    "o:id": 11596,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26789",
+            "o:id": 26789
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26790",
+            "o:id": 26790
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26791",
+            "o:id": 26791
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26792",
+            "o:id": 26792
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26793",
+            "o:id": 26793
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26794",
+            "o:id": 26794
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26795",
+            "o:id": 26795
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26796",
+            "o:id": 26796
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26797",
+            "o:id": 26797
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26798",
+            "o:id": 26798
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26799",
+            "o:id": 26799
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26800",
+            "o:id": 26800
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26801",
+            "o:id": 26801
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26802",
+            "o:id": 26802
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26803",
+            "o:id": 26803
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26804",
+            "o:id": 26804
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26805",
+            "o:id": 26805
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26806",
+            "o:id": 26806
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26807",
+            "o:id": 26807
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26808",
+            "o:id": 26808
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26809",
+            "o:id": 26809
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26810",
+            "o:id": 26810
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26811",
+            "o:id": 26811
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26812",
+            "o:id": 26812
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26813",
+            "o:id": 26813
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26814",
+            "o:id": 26814
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26815",
+            "o:id": 26815
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26816",
+            "o:id": 26816
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26817",
+            "o:id": 26817
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26818",
+            "o:id": 26818
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26819",
+            "o:id": 26819
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26820",
+            "o:id": 26820
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26821",
+            "o:id": 26821
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26822",
+            "o:id": 26822
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26823",
+            "o:id": 26823
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26824",
+            "o:id": 26824
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26825",
+            "o:id": 26825
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26826",
+            "o:id": 26826
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26827",
+            "o:id": 26827
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26828",
+            "o:id": 26828
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26829",
+            "o:id": 26829
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26830",
+            "o:id": 26830
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26831",
+            "o:id": 26831
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26832",
+            "o:id": 26832
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26833",
+            "o:id": 26833
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26834",
+            "o:id": 26834
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26835",
+            "o:id": 26835
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26836",
+            "o:id": 26836
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26837",
+            "o:id": 26837
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26838",
+            "o:id": 26838
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26839",
+            "o:id": 26839
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26840",
+            "o:id": 26840
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26841",
+            "o:id": 26841
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26842",
+            "o:id": 26842
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26843",
+            "o:id": 26843
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26844",
+            "o:id": 26844
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26845",
+            "o:id": 26845
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26846",
+            "o:id": 26846
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26847",
+            "o:id": 26847
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27315",
+            "o:id": 27315
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27316",
+            "o:id": 27316
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27317",
+            "o:id": 27317
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27318",
+            "o:id": 27318
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27319",
+            "o:id": 27319
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27320",
+            "o:id": 27320
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27321",
+            "o:id": 27321
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27322",
+            "o:id": 27322
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27323",
+            "o:id": 27323
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27324",
+            "o:id": 27324
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27325",
+            "o:id": 27325
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27326",
+            "o:id": 27326
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27327",
+            "o:id": 27327
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27328",
+            "o:id": 27328
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27329",
+            "o:id": 27329
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27330",
+            "o:id": 27330
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27331",
+            "o:id": 27331
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27332",
+            "o:id": 27332
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27333",
+            "o:id": 27333
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27334",
+            "o:id": 27334
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27335",
+            "o:id": 27335
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27336",
+            "o:id": 27336
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27337",
+            "o:id": 27337
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27338",
+            "o:id": 27338
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27339",
+            "o:id": 27339
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27340",
+            "o:id": 27340
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27341",
+            "o:id": 27341
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27342",
+            "o:id": 27342
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27343",
+            "o:id": 27343
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27344",
+            "o:id": 27344
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27345",
+            "o:id": 27345
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27346",
+            "o:id": 27346
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27347",
+            "o:id": 27347
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27348",
+            "o:id": 27348
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27349",
+            "o:id": 27349
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27350",
+            "o:id": 27350
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27351",
+            "o:id": 27351
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27352",
+            "o:id": 27352
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27353",
+            "o:id": 27353
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27354",
+            "o:id": 27354
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27355",
+            "o:id": 27355
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27356",
+            "o:id": 27356
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27357",
+            "o:id": 27357
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27358",
+            "o:id": 27358
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27359",
+            "o:id": 27359
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27360",
+            "o:id": 27360
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27361",
+            "o:id": 27361
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27362",
+            "o:id": 27362
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27363",
+            "o:id": 27363
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27364",
+            "o:id": 27364
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27365",
+            "o:id": 27365
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27366",
+            "o:id": 27366
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27367",
+            "o:id": 27367
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27368",
+            "o:id": 27368
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27369",
+            "o:id": 27369
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27370",
+            "o:id": 27370
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27371",
+            "o:id": 27371
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27372",
+            "o:id": 27372
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27373",
+            "o:id": 27373
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:42:02+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "East India Committee of the Colonial Society. Report of the E. I. C. C. S. on the causes and consequences of the military operations in China. By Francis Marx.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

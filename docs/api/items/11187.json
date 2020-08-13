@@ -1,0 +1,353 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11187",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-567",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "de1aafe1-16e7-40a0-a33b-c5d18e1f17b0",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2448.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Fortsetzungen aus der Geschichte des Hauses Sui.Pfizmaier, August.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "Pfizmaier, August.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "pp. 187-266 ; 24 cm.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=C&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "C. Mediaeval history",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Fortsetzungen aus der Geschichte des Hauses Sui.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:00+00:00"
+    },
+    "o:id": 11187,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21163",
+            "o:id": 21163
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21164",
+            "o:id": 21164
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21165",
+            "o:id": 21165
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21166",
+            "o:id": 21166
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21167",
+            "o:id": 21167
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21168",
+            "o:id": 21168
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21169",
+            "o:id": 21169
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21170",
+            "o:id": 21170
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21171",
+            "o:id": 21171
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21172",
+            "o:id": 21172
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21173",
+            "o:id": 21173
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21174",
+            "o:id": 21174
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21175",
+            "o:id": 21175
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21176",
+            "o:id": 21176
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21177",
+            "o:id": 21177
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21178",
+            "o:id": 21178
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21179",
+            "o:id": 21179
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21180",
+            "o:id": 21180
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21181",
+            "o:id": 21181
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21182",
+            "o:id": 21182
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21183",
+            "o:id": 21183
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21184",
+            "o:id": 21184
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21185",
+            "o:id": 21185
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21186",
+            "o:id": 21186
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21187",
+            "o:id": 21187
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21188",
+            "o:id": 21188
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21189",
+            "o:id": 21189
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21190",
+            "o:id": 21190
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21191",
+            "o:id": 21191
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21192",
+            "o:id": 21192
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21193",
+            "o:id": 21193
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21194",
+            "o:id": 21194
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21195",
+            "o:id": 21195
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21196",
+            "o:id": 21196
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21197",
+            "o:id": 21197
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21198",
+            "o:id": 21198
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21199",
+            "o:id": 21199
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21200",
+            "o:id": 21200
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21201",
+            "o:id": 21201
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21202",
+            "o:id": 21202
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21203",
+            "o:id": 21203
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21204",
+            "o:id": 21204
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:33:21+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Fortsetzungen aus der Geschichte des Hauses Sui.Pfizmaier, August.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

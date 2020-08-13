@@ -1,0 +1,229 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11027",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-0297",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "015488e8-e6eb-44e8-8149-f71b552a1713",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2288.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Trade routes to western China: Review based upon: - 1. A report on the expedition to western Yünan viâ Bhamô; by J. Anderson. 1871. - 2. Through Burmah to western China; by C. Williams. - 3. Correspondence respecting direct commerce with the West of China from Rangoon. Blue book. 1865. - 4. La mission du Thibet de 1855 à 1870; d'après les lettres de l'abbé Desgodins. 1872. - 5. Travels in Indo-China and the Chinese Empire; by L. de Carne. 1872.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=C&tg4=d&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "C. Local topography & Travels",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "d. West China",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:59+00:00"
+    },
+    "o:id": 11027,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18443",
+            "o:id": 18443
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18444",
+            "o:id": 18444
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18445",
+            "o:id": 18445
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18446",
+            "o:id": 18446
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18447",
+            "o:id": 18447
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18448",
+            "o:id": 18448
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18449",
+            "o:id": 18449
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18450",
+            "o:id": 18450
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18451",
+            "o:id": 18451
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18452",
+            "o:id": 18452
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18453",
+            "o:id": 18453
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18454",
+            "o:id": 18454
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18455",
+            "o:id": 18455
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18456",
+            "o:id": 18456
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18457",
+            "o:id": 18457
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18458",
+            "o:id": 18458
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18459",
+            "o:id": 18459
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18460",
+            "o:id": 18460
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18461",
+            "o:id": 18461
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18462",
+            "o:id": 18462
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T02:35:34+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Trade routes to western China: Review based upon: - 1. A report on the expedition to western Yünan viâ Bhamô; by J. Anderson. 1871. - 2. Through Burmah to western China; by C. Williams. - 3. Correspondence respecting direct commerce with the West of China from Rangoon. Blue book. 1865. - 4. La mission du Thibet de 1855 à 1870; d'après les lettres de l'abbé Desgodins. 1872. - 5. Travels in Indo-China and the Chinese Empire; by L. de Carne. 1872.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

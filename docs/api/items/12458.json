@@ -1,0 +1,298 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12458",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1589",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "0759d0ce-6820-4c1b-b1a3-d9d83fe3fccb",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3719.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Shanghai",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Ancestral worship. A rev. ed. of an essay read before the Missionary Conference...Yates, M[atthew] T[yror].",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "48 p. ; 21 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Yates, M[atthew] T[yror].",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Shanghai, 1878.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=14&tg3=L&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "14. Customs & Manners",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "L. Ancestor-worship; Filial Piety",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Ancestral worship. A rev. ed. of an essay read before the Missionary Conference...",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:08+00:00"
+    },
+    "o:id": 12458,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39967",
+            "o:id": 39967
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39968",
+            "o:id": 39968
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39969",
+            "o:id": 39969
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39970",
+            "o:id": 39970
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39971",
+            "o:id": 39971
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39972",
+            "o:id": 39972
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39973",
+            "o:id": 39973
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39974",
+            "o:id": 39974
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39975",
+            "o:id": 39975
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39976",
+            "o:id": 39976
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39977",
+            "o:id": 39977
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39978",
+            "o:id": 39978
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39979",
+            "o:id": 39979
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39980",
+            "o:id": 39980
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39981",
+            "o:id": 39981
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39982",
+            "o:id": 39982
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39983",
+            "o:id": 39983
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39984",
+            "o:id": 39984
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39985",
+            "o:id": 39985
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39986",
+            "o:id": 39986
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39987",
+            "o:id": 39987
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39988",
+            "o:id": 39988
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39989",
+            "o:id": 39989
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39990",
+            "o:id": 39990
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39991",
+            "o:id": 39991
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39992",
+            "o:id": 39992
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T14:11:51+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Ancestral worship. A rev. ed. of an essay read before the Missionary Conference...Yates, M[atthew] T[yror].",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

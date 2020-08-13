@@ -1,0 +1,399 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12038",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1174",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1909",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "a4ef7347-85a9-4817-9ede-1926f7ef864f",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3299.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Berlin",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Truppenleben in der Mandschurei. Betrachtungen über den Russisch-Japanischen Feldzug.Gürtler, Oberleut.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "88 p. ; 24 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Gürtler, Oberleut.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Berlin, 1909.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=H&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "H. Russo-Japanese War, 1904-05",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Truppenleben in der Mandschurei. Betrachtungen über den Russisch-Japanischen Feldzug.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:05+00:00"
+    },
+    "o:id": 12038,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33501",
+            "o:id": 33501
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33502",
+            "o:id": 33502
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33503",
+            "o:id": 33503
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33504",
+            "o:id": 33504
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33505",
+            "o:id": 33505
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33506",
+            "o:id": 33506
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33507",
+            "o:id": 33507
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33508",
+            "o:id": 33508
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33509",
+            "o:id": 33509
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33510",
+            "o:id": 33510
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33511",
+            "o:id": 33511
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33512",
+            "o:id": 33512
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33513",
+            "o:id": 33513
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33514",
+            "o:id": 33514
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33515",
+            "o:id": 33515
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33516",
+            "o:id": 33516
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33517",
+            "o:id": 33517
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33518",
+            "o:id": 33518
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33519",
+            "o:id": 33519
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33520",
+            "o:id": 33520
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33521",
+            "o:id": 33521
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33522",
+            "o:id": 33522
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33523",
+            "o:id": 33523
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33524",
+            "o:id": 33524
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33525",
+            "o:id": 33525
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33526",
+            "o:id": 33526
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33527",
+            "o:id": 33527
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33528",
+            "o:id": 33528
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33529",
+            "o:id": 33529
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33530",
+            "o:id": 33530
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33531",
+            "o:id": 33531
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33532",
+            "o:id": 33532
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33533",
+            "o:id": 33533
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33534",
+            "o:id": 33534
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33535",
+            "o:id": 33535
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33536",
+            "o:id": 33536
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33537",
+            "o:id": 33537
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33538",
+            "o:id": 33538
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33539",
+            "o:id": 33539
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33540",
+            "o:id": 33540
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33541",
+            "o:id": 33541
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33542",
+            "o:id": 33542
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33543",
+            "o:id": 33543
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33544",
+            "o:id": 33544
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33545",
+            "o:id": 33545
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33546",
+            "o:id": 33546
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33547",
+            "o:id": 33547
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33548",
+            "o:id": 33548
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33549",
+            "o:id": 33549
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:51:59+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Truppenleben in der Mandschurei. Betrachtungen über den Russisch-Japanischen Feldzug.Gürtler, Oberleut.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

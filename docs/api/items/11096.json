@@ -1,0 +1,539 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11096",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-2506",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1902",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "2852bafe-8647-471f-8f4d-df9658352716",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2357.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Naples",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Le impressioni di un cinese in Italia. Brano del giornale di Hsie-Fu-ceng (10 Marzo-3 Aprile 1891). Tr. di Z. Volpicelli.[Hsie Fu-cheng?].",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "78 p. ; 25 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "[Hsie Fu-cheng?].",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Napoli, 1902.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=G&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "G. Chinese Knowledge of Foreign Lands",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Le impressioni di un cinese in Italia. Brano del giornale di Hsie-Fu-ceng (10 Marzo-3 Aprile 1891). Tr. di Z. Volpicelli.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:59+00:00"
+    },
+    "o:id": 11096,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19519",
+            "o:id": 19519
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19520",
+            "o:id": 19520
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19521",
+            "o:id": 19521
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19522",
+            "o:id": 19522
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19523",
+            "o:id": 19523
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19524",
+            "o:id": 19524
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19525",
+            "o:id": 19525
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19526",
+            "o:id": 19526
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19527",
+            "o:id": 19527
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19528",
+            "o:id": 19528
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19529",
+            "o:id": 19529
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19530",
+            "o:id": 19530
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19531",
+            "o:id": 19531
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19532",
+            "o:id": 19532
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19533",
+            "o:id": 19533
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19534",
+            "o:id": 19534
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19535",
+            "o:id": 19535
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19536",
+            "o:id": 19536
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19537",
+            "o:id": 19537
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19538",
+            "o:id": 19538
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19539",
+            "o:id": 19539
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19540",
+            "o:id": 19540
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19541",
+            "o:id": 19541
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19542",
+            "o:id": 19542
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19543",
+            "o:id": 19543
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19544",
+            "o:id": 19544
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19545",
+            "o:id": 19545
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19546",
+            "o:id": 19546
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19547",
+            "o:id": 19547
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19548",
+            "o:id": 19548
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19549",
+            "o:id": 19549
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19550",
+            "o:id": 19550
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19551",
+            "o:id": 19551
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19552",
+            "o:id": 19552
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19553",
+            "o:id": 19553
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19554",
+            "o:id": 19554
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19555",
+            "o:id": 19555
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19556",
+            "o:id": 19556
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19557",
+            "o:id": 19557
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19558",
+            "o:id": 19558
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19559",
+            "o:id": 19559
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19560",
+            "o:id": 19560
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19766",
+            "o:id": 19766
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19767",
+            "o:id": 19767
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19768",
+            "o:id": 19768
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19769",
+            "o:id": 19769
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19770",
+            "o:id": 19770
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19771",
+            "o:id": 19771
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19772",
+            "o:id": 19772
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19773",
+            "o:id": 19773
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19774",
+            "o:id": 19774
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19775",
+            "o:id": 19775
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19776",
+            "o:id": 19776
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19777",
+            "o:id": 19777
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19778",
+            "o:id": 19778
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19779",
+            "o:id": 19779
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19780",
+            "o:id": 19780
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19781",
+            "o:id": 19781
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19782",
+            "o:id": 19782
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19783",
+            "o:id": 19783
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19784",
+            "o:id": 19784
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19785",
+            "o:id": 19785
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19786",
+            "o:id": 19786
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19787",
+            "o:id": 19787
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19788",
+            "o:id": 19788
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19789",
+            "o:id": 19789
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19790",
+            "o:id": 19790
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19791",
+            "o:id": 19791
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19792",
+            "o:id": 19792
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19793",
+            "o:id": 19793
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19794",
+            "o:id": 19794
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19795",
+            "o:id": 19795
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19796",
+            "o:id": 19796
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19797",
+            "o:id": 19797
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19798",
+            "o:id": 19798
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19799",
+            "o:id": 19799
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19800",
+            "o:id": 19800
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19801",
+            "o:id": 19801
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19802",
+            "o:id": 19802
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19803",
+            "o:id": 19803
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19804",
+            "o:id": 19804
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19805",
+            "o:id": 19805
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19806",
+            "o:id": 19806
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19807",
+            "o:id": 19807
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T14:34:24+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Le impressioni di un cinese in Italia. Brano del giornale di Hsie-Fu-ceng (10 Marzo-3 Aprile 1891). Tr. di Z. Volpicelli.[Hsie Fu-cheng?].",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

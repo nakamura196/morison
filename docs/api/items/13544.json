@@ -1,0 +1,461 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13544",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-b-0719",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "e48d9dd1-2d44-40fb-a260-c621eaab979a",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4805.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Short military report on the Lu (or Pei) Han Railway from Peking to Hankow. Comp. in the Intelligence Branch of the China Field Force.Hacken, Capt. C. A. F. & Scott Elliot, Lieut. C. E.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=21&tg3=B&tg4=b&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "21. Communication",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "B. Communication by Land",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "b. Railway",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:15+00:00"
+    },
+    "o:id": 13544,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54629",
+            "o:id": 54629
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54630",
+            "o:id": 54630
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54631",
+            "o:id": 54631
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54632",
+            "o:id": 54632
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54633",
+            "o:id": 54633
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54634",
+            "o:id": 54634
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54635",
+            "o:id": 54635
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54636",
+            "o:id": 54636
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54637",
+            "o:id": 54637
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54638",
+            "o:id": 54638
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54639",
+            "o:id": 54639
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54640",
+            "o:id": 54640
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54641",
+            "o:id": 54641
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54642",
+            "o:id": 54642
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54643",
+            "o:id": 54643
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54644",
+            "o:id": 54644
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54645",
+            "o:id": 54645
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54646",
+            "o:id": 54646
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54647",
+            "o:id": 54647
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54648",
+            "o:id": 54648
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54649",
+            "o:id": 54649
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54650",
+            "o:id": 54650
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54651",
+            "o:id": 54651
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54652",
+            "o:id": 54652
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54653",
+            "o:id": 54653
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54654",
+            "o:id": 54654
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54655",
+            "o:id": 54655
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54656",
+            "o:id": 54656
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54657",
+            "o:id": 54657
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54658",
+            "o:id": 54658
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54659",
+            "o:id": 54659
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54660",
+            "o:id": 54660
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54661",
+            "o:id": 54661
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54662",
+            "o:id": 54662
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54663",
+            "o:id": 54663
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54664",
+            "o:id": 54664
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54665",
+            "o:id": 54665
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54666",
+            "o:id": 54666
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54667",
+            "o:id": 54667
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55026",
+            "o:id": 55026
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55027",
+            "o:id": 55027
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55028",
+            "o:id": 55028
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55029",
+            "o:id": 55029
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55030",
+            "o:id": 55030
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55031",
+            "o:id": 55031
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55032",
+            "o:id": 55032
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55033",
+            "o:id": 55033
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55034",
+            "o:id": 55034
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55035",
+            "o:id": 55035
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55036",
+            "o:id": 55036
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55037",
+            "o:id": 55037
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55038",
+            "o:id": 55038
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55039",
+            "o:id": 55039
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55040",
+            "o:id": 55040
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55041",
+            "o:id": 55041
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55042",
+            "o:id": 55042
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55043",
+            "o:id": 55043
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55044",
+            "o:id": 55044
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55045",
+            "o:id": 55045
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55046",
+            "o:id": 55046
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55047",
+            "o:id": 55047
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55048",
+            "o:id": 55048
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55049",
+            "o:id": 55049
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55050",
+            "o:id": 55050
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55051",
+            "o:id": 55051
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55052",
+            "o:id": 55052
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55053",
+            "o:id": 55053
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55054",
+            "o:id": 55054
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55055",
+            "o:id": 55055
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55056",
+            "o:id": 55056
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55057",
+            "o:id": 55057
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55058",
+            "o:id": 55058
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55059",
+            "o:id": 55059
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55060",
+            "o:id": 55060
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55061",
+            "o:id": 55061
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55062",
+            "o:id": 55062
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55063",
+            "o:id": 55063
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55064",
+            "o:id": 55064
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T02:58:50+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Short military report on the Lu (or Pei) Han Railway from Peking to Hankow. Comp. in the Intelligence Branch of the China Field Force.Hacken, Capt. C. A. F. & Scott Elliot, Lieut. C. E.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

@@ -1,0 +1,386 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13528",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1976",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "15dab3d8-c75c-4e05-b0e5-bceaf292f110",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4789.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Tianjin",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The Chinese government railways. Traveller's notes and through booking arrangements. Return tourist tickets. Circular tours in China, Chosen and Japan.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "62 p. ; 19 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Tientsin, 1917.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=21&tg3=B&tg4=b&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "21. Communication",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "B. Communication by Land",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "b. Railway",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "The Chinese government railways. Traveller\\'s notes and through booking arrangements. Return tourist tickets. Circular tours in China, Chosen and Japan.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:15+00:00"
+    },
+    "o:id": 13528,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54393",
+            "o:id": 54393
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54394",
+            "o:id": 54394
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54395",
+            "o:id": 54395
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54396",
+            "o:id": 54396
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54397",
+            "o:id": 54397
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54398",
+            "o:id": 54398
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54399",
+            "o:id": 54399
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54400",
+            "o:id": 54400
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54401",
+            "o:id": 54401
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54402",
+            "o:id": 54402
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54403",
+            "o:id": 54403
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54404",
+            "o:id": 54404
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54405",
+            "o:id": 54405
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54406",
+            "o:id": 54406
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54407",
+            "o:id": 54407
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54408",
+            "o:id": 54408
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54409",
+            "o:id": 54409
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54410",
+            "o:id": 54410
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54411",
+            "o:id": 54411
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54412",
+            "o:id": 54412
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54413",
+            "o:id": 54413
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54414",
+            "o:id": 54414
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54415",
+            "o:id": 54415
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54416",
+            "o:id": 54416
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54417",
+            "o:id": 54417
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54418",
+            "o:id": 54418
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54419",
+            "o:id": 54419
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54420",
+            "o:id": 54420
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54421",
+            "o:id": 54421
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54422",
+            "o:id": 54422
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54423",
+            "o:id": 54423
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54424",
+            "o:id": 54424
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54425",
+            "o:id": 54425
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54426",
+            "o:id": 54426
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54427",
+            "o:id": 54427
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54428",
+            "o:id": 54428
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54429",
+            "o:id": 54429
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54430",
+            "o:id": 54430
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54431",
+            "o:id": 54431
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54432",
+            "o:id": 54432
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54433",
+            "o:id": 54433
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54434",
+            "o:id": 54434
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54435",
+            "o:id": 54435
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54436",
+            "o:id": 54436
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54437",
+            "o:id": 54437
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54438",
+            "o:id": 54438
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54439",
+            "o:id": 54439
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54440",
+            "o:id": 54440
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:35:11+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "The Chinese government railways. Traveller's notes and through booking arrangements. Return tourist tickets. Circular tours in China, Chosen and Japan.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

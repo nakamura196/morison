@@ -1,0 +1,258 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12176",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-c-202",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "ab1c68ea-e4fc-47ab-849a-c6ebec8e6cf5",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3437.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Paris",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Le Religieux chassé de la communauté: Conte Bouddhique tr. du tibétain pour la première fois.Foucaux, P[hillippe] E[douard].",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "pp. 105-122 ; 28 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Foucaux, P[hillippe] E[douard].",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Paris, 1872.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=10&tg3=D&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "10. Religion",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "D. Buddhism in China",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Le Religieux chassé de la communauté: Conte Bouddhique tr. du tibétain pour la première fois.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:06+00:00"
+    },
+    "o:id": 12176,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35528",
+            "o:id": 35528
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35529",
+            "o:id": 35529
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35530",
+            "o:id": 35530
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35531",
+            "o:id": 35531
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35532",
+            "o:id": 35532
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35533",
+            "o:id": 35533
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35534",
+            "o:id": 35534
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35535",
+            "o:id": 35535
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35536",
+            "o:id": 35536
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35537",
+            "o:id": 35537
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35538",
+            "o:id": 35538
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35539",
+            "o:id": 35539
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35540",
+            "o:id": 35540
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35541",
+            "o:id": 35541
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35542",
+            "o:id": 35542
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35543",
+            "o:id": 35543
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:39:19+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Le Religieux chassé de la communauté: Conte Bouddhique tr. du tibétain pour la première fois.Foucaux, P[hillippe] E[douard].",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

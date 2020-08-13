@@ -1,0 +1,378 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11947",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-2796",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "e9942b37-76f2-42ec-9d00-9f0a57a18ef9",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3208.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Stockholm",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Om Kinesernas fäderne-dyrkan eller tillbedjan af de dödas andar.Lindberg, J. E.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "83 p. ; 19 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Lindberg, J. E.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Stockholm, 1901.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=G&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "G. The Boxer rising, 1900-01",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Om Kinesernas fäderne-dyrkan eller tillbedjan af de dödas andar.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:05+00:00"
+    },
+    "o:id": 11947,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32230",
+            "o:id": 32230
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32231",
+            "o:id": 32231
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32232",
+            "o:id": 32232
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32233",
+            "o:id": 32233
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32234",
+            "o:id": 32234
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32235",
+            "o:id": 32235
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32236",
+            "o:id": 32236
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32237",
+            "o:id": 32237
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32238",
+            "o:id": 32238
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32239",
+            "o:id": 32239
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32240",
+            "o:id": 32240
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32241",
+            "o:id": 32241
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32242",
+            "o:id": 32242
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32243",
+            "o:id": 32243
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32244",
+            "o:id": 32244
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32245",
+            "o:id": 32245
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32246",
+            "o:id": 32246
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32247",
+            "o:id": 32247
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32248",
+            "o:id": 32248
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32249",
+            "o:id": 32249
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32250",
+            "o:id": 32250
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32251",
+            "o:id": 32251
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32252",
+            "o:id": 32252
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32253",
+            "o:id": 32253
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32254",
+            "o:id": 32254
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32255",
+            "o:id": 32255
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32256",
+            "o:id": 32256
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32257",
+            "o:id": 32257
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32258",
+            "o:id": 32258
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32259",
+            "o:id": 32259
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32260",
+            "o:id": 32260
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32261",
+            "o:id": 32261
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32262",
+            "o:id": 32262
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32263",
+            "o:id": 32263
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32264",
+            "o:id": 32264
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32265",
+            "o:id": 32265
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32266",
+            "o:id": 32266
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32267",
+            "o:id": 32267
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32268",
+            "o:id": 32268
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32269",
+            "o:id": 32269
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32270",
+            "o:id": 32270
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32271",
+            "o:id": 32271
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32272",
+            "o:id": 32272
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32273",
+            "o:id": 32273
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32274",
+            "o:id": 32274
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32275",
+            "o:id": 32275
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:32:14+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Om Kinesernas fäderne-dyrkan eller tillbedjan af de dödas andar.Lindberg, J. E.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

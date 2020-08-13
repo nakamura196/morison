@@ -1,0 +1,303 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11601",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-2582",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "5d06bdd0-7130-4845-8a68-7830280e454e",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2862.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Hong_Kong",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The Wu-shih-shan affair impartially considered with the original agreements, and counsel's opinion thereon.Fair-Play, pseud.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "40 p. ; 21 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Fair-Play, pseud.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Hongkong, 1878.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=F&tg4=e&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "F. Foreign relations",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "e. Great-Britain",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "The Wu-shih-shan affair impartially considered with the original agreements, and counsel\\'s opinion thereon.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:02+00:00"
+    },
+    "o:id": 11601,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26950",
+            "o:id": 26950
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26951",
+            "o:id": 26951
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26952",
+            "o:id": 26952
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26953",
+            "o:id": 26953
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26954",
+            "o:id": 26954
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26955",
+            "o:id": 26955
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26956",
+            "o:id": 26956
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26957",
+            "o:id": 26957
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26958",
+            "o:id": 26958
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26959",
+            "o:id": 26959
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26960",
+            "o:id": 26960
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26961",
+            "o:id": 26961
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26962",
+            "o:id": 26962
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26963",
+            "o:id": 26963
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26964",
+            "o:id": 26964
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26965",
+            "o:id": 26965
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26966",
+            "o:id": 26966
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26967",
+            "o:id": 26967
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26968",
+            "o:id": 26968
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26969",
+            "o:id": 26969
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26970",
+            "o:id": 26970
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26971",
+            "o:id": 26971
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26972",
+            "o:id": 26972
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26973",
+            "o:id": 26973
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26974",
+            "o:id": 26974
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:48:14+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "The Wu-shih-shan affair impartially considered with the original agreements, and counsel's opinion thereon.Fair-Play, pseud.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

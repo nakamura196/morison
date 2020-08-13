@@ -1,0 +1,338 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12317",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1551",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "41c5fcd0-e423-4572-bb89-abd9a5bf492b",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3578.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Shanghai",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Handbook on etiquette in Chinese official intercourse. Tr. by C. T. B.Li Mou-hsün. (*1)",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "30 p. ; 25 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Li Mou-hsün. (*1)",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Shanghai, 1912.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=14&tg3=A&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "14. Customs & Manners",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "A. General; Social Life; Etiquette",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Handbook on etiquette in Chinese official intercourse. Tr. by C. T. B.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:07+00:00"
+    },
+    "o:id": 12317,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37776",
+            "o:id": 37776
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37777",
+            "o:id": 37777
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37778",
+            "o:id": 37778
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37779",
+            "o:id": 37779
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37780",
+            "o:id": 37780
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37781",
+            "o:id": 37781
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37782",
+            "o:id": 37782
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37783",
+            "o:id": 37783
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37784",
+            "o:id": 37784
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37785",
+            "o:id": 37785
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37786",
+            "o:id": 37786
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37787",
+            "o:id": 37787
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37788",
+            "o:id": 37788
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37789",
+            "o:id": 37789
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37790",
+            "o:id": 37790
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37791",
+            "o:id": 37791
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37792",
+            "o:id": 37792
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37793",
+            "o:id": 37793
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38188",
+            "o:id": 38188
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38189",
+            "o:id": 38189
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38190",
+            "o:id": 38190
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38191",
+            "o:id": 38191
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38192",
+            "o:id": 38192
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38193",
+            "o:id": 38193
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38194",
+            "o:id": 38194
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38195",
+            "o:id": 38195
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38196",
+            "o:id": 38196
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38197",
+            "o:id": 38197
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38198",
+            "o:id": 38198
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38199",
+            "o:id": 38199
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38200",
+            "o:id": 38200
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38201",
+            "o:id": 38201
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38202",
+            "o:id": 38202
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38203",
+            "o:id": 38203
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38204",
+            "o:id": 38204
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38205",
+            "o:id": 38205
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T14:44:25+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Handbook on etiquette in Chinese official intercourse. Tr. by C. T. B.Li Mou-hsün. (*1)",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

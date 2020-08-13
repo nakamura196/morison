@@ -1,0 +1,359 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11896",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-2534",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "a489934d-745c-4642-8e5b-6409402999da",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3157.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Brussels",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Les rapports de la Chine & de l'Annam.Castonnet des Fosses, H.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "70 p. ; 25 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Castonnet des Fosses, H.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Bruxelles & Leipzig, 1884.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=F&tg4=o&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "F. Foreign relations",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "o. Other Asiatic peoples",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Les rapports de la Chine & de l\\'Annam.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:04+00:00"
+    },
+    "o:id": 11896,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31328",
+            "o:id": 31328
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31329",
+            "o:id": 31329
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31330",
+            "o:id": 31330
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31331",
+            "o:id": 31331
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31332",
+            "o:id": 31332
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31333",
+            "o:id": 31333
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31334",
+            "o:id": 31334
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31335",
+            "o:id": 31335
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31336",
+            "o:id": 31336
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31337",
+            "o:id": 31337
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31338",
+            "o:id": 31338
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31339",
+            "o:id": 31339
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31340",
+            "o:id": 31340
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31341",
+            "o:id": 31341
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31342",
+            "o:id": 31342
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31343",
+            "o:id": 31343
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31344",
+            "o:id": 31344
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31345",
+            "o:id": 31345
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31346",
+            "o:id": 31346
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31347",
+            "o:id": 31347
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31348",
+            "o:id": 31348
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31349",
+            "o:id": 31349
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31350",
+            "o:id": 31350
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31351",
+            "o:id": 31351
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31352",
+            "o:id": 31352
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31353",
+            "o:id": 31353
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31354",
+            "o:id": 31354
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31355",
+            "o:id": 31355
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31356",
+            "o:id": 31356
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31357",
+            "o:id": 31357
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31358",
+            "o:id": 31358
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31359",
+            "o:id": 31359
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31360",
+            "o:id": 31360
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31361",
+            "o:id": 31361
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31362",
+            "o:id": 31362
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31363",
+            "o:id": 31363
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31364",
+            "o:id": 31364
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31365",
+            "o:id": 31365
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31366",
+            "o:id": 31366
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:33:33+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Les rapports de la Chine & de l'Annam.Castonnet des Fosses, H.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

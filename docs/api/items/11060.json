@@ -1,0 +1,333 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11060",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-0128",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "b999b0cf-4206-4888-b030-7849e6a2a7d3",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2321.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Le Vénitien Marco Polo et les services qu'il rendus en faisant connaitre l'Asie. Tr. du russe par Emile Durand.Skachkov, Konstantin.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=F&tg4=c&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "F. Ancient & Mediaeval Description & Travel",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "c. Individual Works (Marco Pole)",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:59+00:00"
+    },
+    "o:id": 11060,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19018",
+            "o:id": 19018
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19019",
+            "o:id": 19019
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19020",
+            "o:id": 19020
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19021",
+            "o:id": 19021
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19022",
+            "o:id": 19022
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19023",
+            "o:id": 19023
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19024",
+            "o:id": 19024
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19025",
+            "o:id": 19025
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19026",
+            "o:id": 19026
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19027",
+            "o:id": 19027
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19028",
+            "o:id": 19028
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19029",
+            "o:id": 19029
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19030",
+            "o:id": 19030
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19031",
+            "o:id": 19031
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19032",
+            "o:id": 19032
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19033",
+            "o:id": 19033
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19034",
+            "o:id": 19034
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19035",
+            "o:id": 19035
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19036",
+            "o:id": 19036
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19037",
+            "o:id": 19037
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19038",
+            "o:id": 19038
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19039",
+            "o:id": 19039
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19040",
+            "o:id": 19040
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19310",
+            "o:id": 19310
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19311",
+            "o:id": 19311
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19312",
+            "o:id": 19312
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19313",
+            "o:id": 19313
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19314",
+            "o:id": 19314
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19315",
+            "o:id": 19315
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19316",
+            "o:id": 19316
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19317",
+            "o:id": 19317
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19318",
+            "o:id": 19318
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19319",
+            "o:id": 19319
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19320",
+            "o:id": 19320
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19321",
+            "o:id": 19321
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19322",
+            "o:id": 19322
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19323",
+            "o:id": 19323
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19324",
+            "o:id": 19324
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19325",
+            "o:id": 19325
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19326",
+            "o:id": 19326
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19327",
+            "o:id": 19327
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19328",
+            "o:id": 19328
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19329",
+            "o:id": 19329
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19330",
+            "o:id": 19330
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19331",
+            "o:id": 19331
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19332",
+            "o:id": 19332
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T03:36:34+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Le Vénitien Marco Polo et les services qu'il rendus en faisant connaitre l'Asie. Tr. du russe par Emile Durand.Skachkov, Konstantin.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

@@ -1,0 +1,237 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/10895",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-0148",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "31e69c65-44ec-4020-9ffc-3cedd156e0c3",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2156.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Kleiner Führer für Geschäfts-und Vergnünungsreisende. Tsinanfu und Umgebung.Trendel, Fritz.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=C&tg4=a&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "C. Local topography & Travels",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "a. North China",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:58+00:00"
+    },
+    "o:id": 10895,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16125",
+            "o:id": 16125
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16126",
+            "o:id": 16126
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16127",
+            "o:id": 16127
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16128",
+            "o:id": 16128
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16129",
+            "o:id": 16129
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16130",
+            "o:id": 16130
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16131",
+            "o:id": 16131
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16132",
+            "o:id": 16132
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16133",
+            "o:id": 16133
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16134",
+            "o:id": 16134
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16135",
+            "o:id": 16135
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16136",
+            "o:id": 16136
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16137",
+            "o:id": 16137
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16138",
+            "o:id": 16138
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16139",
+            "o:id": 16139
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16140",
+            "o:id": 16140
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16141",
+            "o:id": 16141
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16142",
+            "o:id": 16142
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16143",
+            "o:id": 16143
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16144",
+            "o:id": 16144
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16145",
+            "o:id": 16145
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16146",
+            "o:id": 16146
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T02:31:02+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Kleiner Führer für Geschäfts-und Vergnünungsreisende. Tsinanfu und Umgebung.Trendel, Fritz.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

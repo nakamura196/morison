@@ -1,0 +1,314 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12439",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1546",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1884",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "86f678b0-5589-4242-87b7-b17699bdbecf",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3700.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Eene chineesche begrafenis-en huwelijks- onderneming.Schlegel, Gustaaf.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "pp. 517-571 ; 23 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Schlegel, Gustaaf.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "1884",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=14&tg3=J&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "14. Customs & Manners",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "J. Funeral; Burial System",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Eene chineesche begrafenis-en huwelijks- onderneming.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:08+00:00"
+    },
+    "o:id": 12439,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39594",
+            "o:id": 39594
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39595",
+            "o:id": 39595
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39596",
+            "o:id": 39596
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39597",
+            "o:id": 39597
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39598",
+            "o:id": 39598
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39599",
+            "o:id": 39599
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39600",
+            "o:id": 39600
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39601",
+            "o:id": 39601
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39602",
+            "o:id": 39602
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39603",
+            "o:id": 39603
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39604",
+            "o:id": 39604
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39605",
+            "o:id": 39605
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39606",
+            "o:id": 39606
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39607",
+            "o:id": 39607
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39608",
+            "o:id": 39608
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39609",
+            "o:id": 39609
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39610",
+            "o:id": 39610
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39611",
+            "o:id": 39611
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39612",
+            "o:id": 39612
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39613",
+            "o:id": 39613
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39614",
+            "o:id": 39614
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39615",
+            "o:id": 39615
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39616",
+            "o:id": 39616
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39617",
+            "o:id": 39617
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39618",
+            "o:id": 39618
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39619",
+            "o:id": 39619
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39620",
+            "o:id": 39620
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39621",
+            "o:id": 39621
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39622",
+            "o:id": 39622
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39623",
+            "o:id": 39623
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T14:16:33+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Eene chineesche begrafenis-en huwelijks- onderneming.Schlegel, Gustaaf.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

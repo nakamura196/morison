@@ -1,0 +1,350 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11247",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-751",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "1132afa6-476f-4005-9ca6-4687a6b7a7b9",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2508.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Hong_Kong",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The visions of Hung-Siu-tshuen and origin of the Kwang-si insurrection.Hamberg, Theodore.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "63 p. ; 22 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Hamberg, Theodore.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Hong Kong, 1854.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=D&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "D. Modern history",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "The visions of Hung-Siu-tshuen and origin of the Kwang-si insurrection.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:00+00:00"
+    },
+    "o:id": 11247,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22061",
+            "o:id": 22061
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22062",
+            "o:id": 22062
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22063",
+            "o:id": 22063
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22064",
+            "o:id": 22064
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22065",
+            "o:id": 22065
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22066",
+            "o:id": 22066
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22067",
+            "o:id": 22067
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22068",
+            "o:id": 22068
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22069",
+            "o:id": 22069
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22070",
+            "o:id": 22070
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22071",
+            "o:id": 22071
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22072",
+            "o:id": 22072
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22073",
+            "o:id": 22073
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22074",
+            "o:id": 22074
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22075",
+            "o:id": 22075
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22076",
+            "o:id": 22076
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22077",
+            "o:id": 22077
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22078",
+            "o:id": 22078
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22079",
+            "o:id": 22079
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22080",
+            "o:id": 22080
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22081",
+            "o:id": 22081
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22082",
+            "o:id": 22082
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22083",
+            "o:id": 22083
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22084",
+            "o:id": 22084
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22085",
+            "o:id": 22085
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22086",
+            "o:id": 22086
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22087",
+            "o:id": 22087
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22088",
+            "o:id": 22088
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22089",
+            "o:id": 22089
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22090",
+            "o:id": 22090
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22091",
+            "o:id": 22091
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22092",
+            "o:id": 22092
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22093",
+            "o:id": 22093
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22094",
+            "o:id": 22094
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22095",
+            "o:id": 22095
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22096",
+            "o:id": 22096
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22097",
+            "o:id": 22097
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22098",
+            "o:id": 22098
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22099",
+            "o:id": 22099
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:41:25+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "The visions of Hung-Siu-tshuen and origin of the Kwang-si insurrection.Hamberg, Theodore.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

@@ -1,0 +1,296 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13547",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1987",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1902",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "c8831846-8c6a-4049-9cc0-a3a695c48bcb",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4808.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Paris",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Le chemin de fer français de Yunnan.Ibos, Capit. P.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "34 p. ; 23 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Ibos, Capit. P.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Paris, 1902?",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=21&tg3=B&tg4=b&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "21. Communication",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "B. Communication by Land",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "b. Railway",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Le chemin de fer français de Yunnan.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:15+00:00"
+    },
+    "o:id": 13547,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54685",
+            "o:id": 54685
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54686",
+            "o:id": 54686
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54687",
+            "o:id": 54687
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54688",
+            "o:id": 54688
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54689",
+            "o:id": 54689
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54690",
+            "o:id": 54690
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54691",
+            "o:id": 54691
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54692",
+            "o:id": 54692
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54693",
+            "o:id": 54693
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54694",
+            "o:id": 54694
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54695",
+            "o:id": 54695
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54696",
+            "o:id": 54696
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54697",
+            "o:id": 54697
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54698",
+            "o:id": 54698
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54699",
+            "o:id": 54699
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54700",
+            "o:id": 54700
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54701",
+            "o:id": 54701
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54702",
+            "o:id": 54702
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54703",
+            "o:id": 54703
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54704",
+            "o:id": 54704
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54705",
+            "o:id": 54705
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:32:32+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Le chemin de fer français de Yunnan.Ibos, Capit. P.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

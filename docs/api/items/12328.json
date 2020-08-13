@@ -1,0 +1,334 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12328",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1503",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "c983a1f4-a238-4a5a-8019-b94904e83485",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3589.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Utrecht",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Bijdragen tot de kennis der zeden, gewoonten en geaardheid der Chinezen in het algemeen, doch van die op Java en onderhoorigheden in het Bijzonder.Doren, J. B. J. van.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "61 p. ; 23 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Doren, J. B. J. van.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Utrecht, 1853.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=14&tg3=A&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "14. Customs & Manners",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "A. General; Social Life; Etiquette",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Bijdragen tot de kennis der zeden, gewoonten en geaardheid der Chinezen in het algemeen, doch van die op Java en onderhoorigheden in het Bijzonder.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:07+00:00"
+    },
+    "o:id": 12328,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37993",
+            "o:id": 37993
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37994",
+            "o:id": 37994
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37995",
+            "o:id": 37995
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37996",
+            "o:id": 37996
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37997",
+            "o:id": 37997
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37998",
+            "o:id": 37998
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37999",
+            "o:id": 37999
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38000",
+            "o:id": 38000
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38001",
+            "o:id": 38001
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38002",
+            "o:id": 38002
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38003",
+            "o:id": 38003
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38004",
+            "o:id": 38004
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38005",
+            "o:id": 38005
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38006",
+            "o:id": 38006
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38007",
+            "o:id": 38007
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38008",
+            "o:id": 38008
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38009",
+            "o:id": 38009
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38010",
+            "o:id": 38010
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38011",
+            "o:id": 38011
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38012",
+            "o:id": 38012
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38013",
+            "o:id": 38013
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38014",
+            "o:id": 38014
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38015",
+            "o:id": 38015
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38016",
+            "o:id": 38016
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38017",
+            "o:id": 38017
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38018",
+            "o:id": 38018
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38019",
+            "o:id": 38019
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38020",
+            "o:id": 38020
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38021",
+            "o:id": 38021
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38022",
+            "o:id": 38022
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38023",
+            "o:id": 38023
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38024",
+            "o:id": 38024
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38025",
+            "o:id": 38025
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38026",
+            "o:id": 38026
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38027",
+            "o:id": 38027
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:32:47+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Bijdragen tot de kennis der zeden, gewoonten en geaardheid der Chinezen in het algemeen, doch van die op Java en onderhoorigheden in het Bijzonder.Doren, J. B. J. van.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

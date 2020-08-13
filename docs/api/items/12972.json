@@ -1,0 +1,200 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12972",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-b-0853",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "4b0c3c86-1d92-46f5-a9ae-ee6e57512e8a",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4233.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The principles of Chinese law and equity.Parker, Edward Harper.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=17&tg3=A&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "17. Law",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "A. Law & Legislation in General; Legal History",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:11+00:00"
+    },
+    "o:id": 12972,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46331",
+            "o:id": 46331
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46332",
+            "o:id": 46332
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46333",
+            "o:id": 46333
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46334",
+            "o:id": 46334
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46335",
+            "o:id": 46335
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46336",
+            "o:id": 46336
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46337",
+            "o:id": 46337
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46338",
+            "o:id": 46338
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46339",
+            "o:id": 46339
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46340",
+            "o:id": 46340
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46341",
+            "o:id": 46341
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46342",
+            "o:id": 46342
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46343",
+            "o:id": 46343
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46344",
+            "o:id": 46344
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46345",
+            "o:id": 46345
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T03:16:37+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "The principles of Chinese law and equity.Parker, Edward Harper.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

@@ -1,0 +1,233 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/10990",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-0269",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "55cb5821-f614-40d0-9e38-91772df89bf0",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2251.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Une promenade dans Canton.Rondot, Natalis.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=C&tg4=c&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "C. Local topography & Travels",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "c. South China",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:58+00:00"
+    },
+    "o:id": 10990,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17853",
+            "o:id": 17853
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17854",
+            "o:id": 17854
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17855",
+            "o:id": 17855
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17856",
+            "o:id": 17856
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17857",
+            "o:id": 17857
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17858",
+            "o:id": 17858
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17859",
+            "o:id": 17859
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17860",
+            "o:id": 17860
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17861",
+            "o:id": 17861
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17862",
+            "o:id": 17862
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17863",
+            "o:id": 17863
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17864",
+            "o:id": 17864
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17865",
+            "o:id": 17865
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17866",
+            "o:id": 17866
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17867",
+            "o:id": 17867
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17868",
+            "o:id": 17868
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17869",
+            "o:id": 17869
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17870",
+            "o:id": 17870
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17871",
+            "o:id": 17871
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17872",
+            "o:id": 17872
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17873",
+            "o:id": 17873
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T01:10:23+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Une promenade dans Canton.Rondot, Natalis.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

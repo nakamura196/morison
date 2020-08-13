@@ -1,0 +1,277 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/10834",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-0162",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "a8a327bd-fa73-4645-8567-170d55854d67",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2095.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Schantung.Gaedertz, A.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=C&tg4=a&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "C. Local topography & Travels",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "a. North China",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:57+00:00"
+    },
+    "o:id": 10834,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15070",
+            "o:id": 15070
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15071",
+            "o:id": 15071
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15072",
+            "o:id": 15072
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15073",
+            "o:id": 15073
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15074",
+            "o:id": 15074
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15075",
+            "o:id": 15075
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15076",
+            "o:id": 15076
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15077",
+            "o:id": 15077
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15078",
+            "o:id": 15078
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15079",
+            "o:id": 15079
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15080",
+            "o:id": 15080
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15081",
+            "o:id": 15081
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15082",
+            "o:id": 15082
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15083",
+            "o:id": 15083
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15084",
+            "o:id": 15084
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15085",
+            "o:id": 15085
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15086",
+            "o:id": 15086
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15087",
+            "o:id": 15087
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15088",
+            "o:id": 15088
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15089",
+            "o:id": 15089
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15090",
+            "o:id": 15090
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15091",
+            "o:id": 15091
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15092",
+            "o:id": 15092
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15093",
+            "o:id": 15093
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15094",
+            "o:id": 15094
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15095",
+            "o:id": 15095
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15096",
+            "o:id": 15096
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15097",
+            "o:id": 15097
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15098",
+            "o:id": 15098
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15099",
+            "o:id": 15099
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15100",
+            "o:id": 15100
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/15101",
+            "o:id": 15101
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T00:52:56+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Schantung.Gaedertz, A.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

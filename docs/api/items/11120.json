@@ -1,0 +1,217 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11120",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-c-415",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "ace29303-e95e-4600-89a1-c9c410766da4",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2381.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Review based upon: - A Chinese \"Divina commedia\" by J. J. L. Duyven, dak. Leiden. Sonderdruck aus T'oung pao, Vol. XLI (1952) S. 255-316. (Oriens, Vol. VI, Nr. I, 1953. 1 p.) - Conquerors and rulers. Social forces in medieval China by Wolfram Eber, hard. Leiden. 1952. XI, 129 & (Oriens, Vol. VI, Nr. I, 1953. pp. 174-175.) - Notes sur l'Histoire de la Horde d'Ur. Suivies de quelques noms turcs d'hommes et de peuples finissant en \"ar\". By Paul Pelliot. - Oeuvres posthumes de Paul Pelliot II. Paris. 1950. 292 p. (Oriens, Vol. VI, Nr. I, 1953. pp. 176-182.)Franke, Herbert.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "Franke, Herbert.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "26 cm.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=A&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "A. General history; Collected essays",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Review based upon: - A Chinese \"Divina commedia\" by J. J. L. Duyven, dak. Leiden. Sonderdruck aus T\\'oung pao, Vol. XLI (1952) S. 255-316. (Oriens, Vol. VI, Nr. I, 1953. 1 p.) - Conquerors and rulers. Social forces in medieval China by Wolfram Eber, hard. Leiden. 1952. XI, 129 & (Oriens, Vol. VI, Nr. I, 1953. pp. 174-175.) - Notes sur l\\'Histoire de la Horde d\\'Ur. Suivies de quelques noms turcs d\\'hommes et de peuples finissant en \"ar\". By Paul Pelliot. - Oeuvres posthumes de Paul Pelliot II. Paris. 1950. 292 p. (Oriens, Vol. VI, Nr. I, 1953. pp. 176-182.)",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:59+00:00"
+    },
+    "o:id": 11120,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20019",
+            "o:id": 20019
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20020",
+            "o:id": 20020
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20021",
+            "o:id": 20021
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20022",
+            "o:id": 20022
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20023",
+            "o:id": 20023
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20024",
+            "o:id": 20024
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20025",
+            "o:id": 20025
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20026",
+            "o:id": 20026
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:38:28+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Review based upon: - A Chinese \"Divina commedia\" by J. J. L. Duyven, dak. Leiden. Sonderdruck aus T'oung pao, Vol. XLI (1952) S. 255-316. (Oriens, Vol. VI, Nr. I, 1953. 1 p.) - Conquerors and rulers. Social forces in medieval China by Wolfram Eber, hard. Leiden. 1952. XI, 129 & (Oriens, Vol. VI, Nr. I, 1953. pp. 174-175.) - Notes sur l'Histoire de la Horde d'Ur. Suivies de quelques noms turcs d'hommes et de peuples finissant en \"ar\". By Paul Pelliot. - Oeuvres posthumes de Paul Pelliot II. Paris. 1950. 292 p. (Oriens, Vol. VI, Nr. I, 1953. pp. 176-182.)Franke, Herbert.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

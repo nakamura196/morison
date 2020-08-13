@@ -1,0 +1,204 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/10764",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-0085",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "9a75c11a-061a-47cc-918c-324800423986",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2025.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Een nieuw werk over China.Kramp, F. G.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=A&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "A. General description",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:57+00:00"
+    },
+    "o:id": 10764,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13792",
+            "o:id": 13792
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13793",
+            "o:id": 13793
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13794",
+            "o:id": 13794
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13795",
+            "o:id": 13795
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13796",
+            "o:id": 13796
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13797",
+            "o:id": 13797
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13798",
+            "o:id": 13798
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13799",
+            "o:id": 13799
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13800",
+            "o:id": 13800
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13801",
+            "o:id": 13801
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13802",
+            "o:id": 13802
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13803",
+            "o:id": 13803
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13804",
+            "o:id": 13804
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13805",
+            "o:id": 13805
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13806",
+            "o:id": 13806
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13807",
+            "o:id": 13807
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T01:37:52+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Een nieuw werk over China.Kramp, F. G.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

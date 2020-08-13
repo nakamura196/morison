@@ -1,0 +1,317 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/10947",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-0199",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "43ad3405-97ef-4efd-89f8-037f6391b456",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2208.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Notes on Hangchow, past and present.Moule, G. E.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=C&tg4=b&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "C. Local topography & Travels",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "b. Central China",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:58+00:00"
+    },
+    "o:id": 10947,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17092",
+            "o:id": 17092
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17093",
+            "o:id": 17093
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17094",
+            "o:id": 17094
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17095",
+            "o:id": 17095
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17096",
+            "o:id": 17096
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17097",
+            "o:id": 17097
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17098",
+            "o:id": 17098
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17099",
+            "o:id": 17099
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17100",
+            "o:id": 17100
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17101",
+            "o:id": 17101
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17102",
+            "o:id": 17102
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17103",
+            "o:id": 17103
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17104",
+            "o:id": 17104
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17105",
+            "o:id": 17105
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17106",
+            "o:id": 17106
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17107",
+            "o:id": 17107
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17108",
+            "o:id": 17108
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17109",
+            "o:id": 17109
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17110",
+            "o:id": 17110
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17111",
+            "o:id": 17111
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17112",
+            "o:id": 17112
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17113",
+            "o:id": 17113
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17114",
+            "o:id": 17114
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17115",
+            "o:id": 17115
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17116",
+            "o:id": 17116
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17117",
+            "o:id": 17117
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17118",
+            "o:id": 17118
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17119",
+            "o:id": 17119
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17120",
+            "o:id": 17120
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17121",
+            "o:id": 17121
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17122",
+            "o:id": 17122
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17123",
+            "o:id": 17123
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17124",
+            "o:id": 17124
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17125",
+            "o:id": 17125
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17126",
+            "o:id": 17126
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17127",
+            "o:id": 17127
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17128",
+            "o:id": 17128
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17129",
+            "o:id": 17129
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17130",
+            "o:id": 17130
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17131",
+            "o:id": 17131
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17132",
+            "o:id": 17132
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17133",
+            "o:id": 17133
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T01:35:28+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Notes on Hangchow, past and present.Moule, G. E.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

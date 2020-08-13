@@ -1,0 +1,330 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12688",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-2260",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "2a6e5896-5c2b-4af3-9051-965ebe719cc5",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3949.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/London",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Facts and evidence relating to the opium trade with China.Fry, William Storrs.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "64 p. ; 21 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Fry, William Storrs.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "London, 1840.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=14&tg3=W2&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "14. Customs & Manners",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "W2. Opium",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Facts and evidence relating to the opium trade with China.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:09+00:00"
+    },
+    "o:id": 12688,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42668",
+            "o:id": 42668
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42669",
+            "o:id": 42669
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42670",
+            "o:id": 42670
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42671",
+            "o:id": 42671
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42672",
+            "o:id": 42672
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42673",
+            "o:id": 42673
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42674",
+            "o:id": 42674
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42675",
+            "o:id": 42675
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42676",
+            "o:id": 42676
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42677",
+            "o:id": 42677
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42678",
+            "o:id": 42678
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42679",
+            "o:id": 42679
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42680",
+            "o:id": 42680
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42681",
+            "o:id": 42681
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42682",
+            "o:id": 42682
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42683",
+            "o:id": 42683
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42684",
+            "o:id": 42684
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42685",
+            "o:id": 42685
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42686",
+            "o:id": 42686
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42687",
+            "o:id": 42687
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42688",
+            "o:id": 42688
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42689",
+            "o:id": 42689
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42690",
+            "o:id": 42690
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42691",
+            "o:id": 42691
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42692",
+            "o:id": 42692
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42693",
+            "o:id": 42693
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42694",
+            "o:id": 42694
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42695",
+            "o:id": 42695
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42696",
+            "o:id": 42696
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42697",
+            "o:id": 42697
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42698",
+            "o:id": 42698
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42699",
+            "o:id": 42699
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42700",
+            "o:id": 42700
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42701",
+            "o:id": 42701
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T14:38:15+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Facts and evidence relating to the opium trade with China.Fry, William Storrs.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

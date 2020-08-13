@@ -1,0 +1,314 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11157",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-3192",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "fcaa4221-23b5-4f6f-8943-b28cc33cfbb4",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2418.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Berlin",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Mu Wang und die Königen von Saba.Forke, A.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "pp. 117-172 ; 24 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Forke, A.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Berlin, 1904.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=B&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "B. Ancient history",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Mu Wang und die Königen von Saba.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:00+00:00"
+    },
+    "o:id": 11157,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20508",
+            "o:id": 20508
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20509",
+            "o:id": 20509
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20510",
+            "o:id": 20510
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20511",
+            "o:id": 20511
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20512",
+            "o:id": 20512
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20513",
+            "o:id": 20513
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20514",
+            "o:id": 20514
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20515",
+            "o:id": 20515
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20516",
+            "o:id": 20516
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20517",
+            "o:id": 20517
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20518",
+            "o:id": 20518
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20519",
+            "o:id": 20519
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20520",
+            "o:id": 20520
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20521",
+            "o:id": 20521
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20522",
+            "o:id": 20522
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20523",
+            "o:id": 20523
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20524",
+            "o:id": 20524
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20525",
+            "o:id": 20525
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20526",
+            "o:id": 20526
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20527",
+            "o:id": 20527
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20528",
+            "o:id": 20528
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20529",
+            "o:id": 20529
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20530",
+            "o:id": 20530
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20531",
+            "o:id": 20531
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20532",
+            "o:id": 20532
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20533",
+            "o:id": 20533
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20534",
+            "o:id": 20534
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20535",
+            "o:id": 20535
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20536",
+            "o:id": 20536
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20537",
+            "o:id": 20537
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T14:12:33+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Mu Wang und die Königen von Saba.Forke, A.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

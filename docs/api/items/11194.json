@@ -1,0 +1,326 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11194",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-b-149",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "fede1cdc-af7e-4954-9934-da3b39263439",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2455.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Vienna",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Die Ausbreitung der Chinesischen Macht in Südwestlicher Richtung bis zum vierten Jahrhundert nach Chr. Eine Historisch-Geogrphische Studie. Der Philosophischen Facultät der Universität Leipzig bei Bewerbung um die Doctorwürde als Inaugural-Dissertation vorgelegt.Rosthorn, Arthur von.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "57 p. ; 25 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Rosthorn, Arthur von.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Wien, 1895.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=C&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "C. Mediaeval history",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Die Ausbreitung der Chinesischen Macht in Südwestlicher Richtung bis zum vierten Jahrhundert nach Chr. Eine Historisch-Geogrphische Studie. Der Philosophischen Facultät der Universität Leipzig bei Bewerbung um die Doctorwürde als Inaugural-Dissertation vorgelegt.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:00+00:00"
+    },
+    "o:id": 11194,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21369",
+            "o:id": 21369
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21370",
+            "o:id": 21370
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21371",
+            "o:id": 21371
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21372",
+            "o:id": 21372
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21373",
+            "o:id": 21373
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21374",
+            "o:id": 21374
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21375",
+            "o:id": 21375
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21376",
+            "o:id": 21376
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21377",
+            "o:id": 21377
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21378",
+            "o:id": 21378
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21379",
+            "o:id": 21379
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21380",
+            "o:id": 21380
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21381",
+            "o:id": 21381
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21382",
+            "o:id": 21382
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21383",
+            "o:id": 21383
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21384",
+            "o:id": 21384
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21385",
+            "o:id": 21385
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21386",
+            "o:id": 21386
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21387",
+            "o:id": 21387
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21388",
+            "o:id": 21388
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21389",
+            "o:id": 21389
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21390",
+            "o:id": 21390
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21391",
+            "o:id": 21391
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21392",
+            "o:id": 21392
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21393",
+            "o:id": 21393
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21394",
+            "o:id": 21394
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21395",
+            "o:id": 21395
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21396",
+            "o:id": 21396
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21397",
+            "o:id": 21397
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21398",
+            "o:id": 21398
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21399",
+            "o:id": 21399
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21400",
+            "o:id": 21400
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21401",
+            "o:id": 21401
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:34:57+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Die Ausbreitung der Chinesischen Macht in Südwestlicher Richtung bis zum vierten Jahrhundert nach Chr. Eine Historisch-Geogrphische Studie. Der Philosophischen Facultät der Universität Leipzig bei Bewerbung um die Doctorwürde als Inaugural-Dissertation vorgelegt.Rosthorn, Arthur von.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

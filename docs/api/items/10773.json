@@ -1,0 +1,212 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/10773",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-0108",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "872b53f8-360d-4076-8906-ba43e01a20cb",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2034.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Barrow's travels in China: Review based upon: - Travels in China, containing descriptions, observations, and comparisons, made and collected in the course of a short residence at the Imperial Palace of Yuen-min-Yuen, and on a subsequent journey through the country from Peking to Canton ... by J. Barrow. Lond. 1805.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=B&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "B. Travels through China",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:57+00:00"
+    },
+    "o:id": 10773,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13917",
+            "o:id": 13917
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13918",
+            "o:id": 13918
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13919",
+            "o:id": 13919
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13920",
+            "o:id": 13920
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13921",
+            "o:id": 13921
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13922",
+            "o:id": 13922
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13923",
+            "o:id": 13923
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13924",
+            "o:id": 13924
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13925",
+            "o:id": 13925
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13926",
+            "o:id": 13926
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13927",
+            "o:id": 13927
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13928",
+            "o:id": 13928
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13929",
+            "o:id": 13929
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13930",
+            "o:id": 13930
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13931",
+            "o:id": 13931
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13932",
+            "o:id": 13932
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13933",
+            "o:id": 13933
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13934",
+            "o:id": 13934
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T00:53:56+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Barrow's travels in China: Review based upon: - Travels in China, containing descriptions, observations, and comparisons, made and collected in the course of a short residence at the Imperial Palace of Yuen-min-Yuen, and on a subsequent journey through the country from Peking to Canton ... by J. Barrow. Lond. 1805.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

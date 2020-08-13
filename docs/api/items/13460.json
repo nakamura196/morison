@@ -1,0 +1,290 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13460",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-c-245",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "222c17d7-3f6c-412f-8d81-4ecb3874bee9",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4721.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Paris",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Banque Industrielle de Chine. Société Anonyme. Au Capital de 45 Millions de Frances. Siège Social 74 Rue Saint-Lazare Paris. Assemblée Général Ordinaire 1914. - 15 Rapport de Conseil d'Administrâtion Rapport des Commissaires. Bilan 1913-14 (20 p.) Résolutions.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "2 v. (18, 20 p.) ; 32 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Paris, 1914-15.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=20&tg3=I&tg4=d&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "20. Economy and Industry",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "I. Money market and Banking",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "d. Banking & pawnbroking",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Banque Industrielle de Chine. Société Anonyme. Au Capital de 45 Millions de Frances. Siège Social 74 Rue Saint-Lazare Paris. Assemblée Général Ordinaire 1914. - 15 Rapport de Conseil d\\'Administrâtion Rapport des Commissaires. Bilan 1913-14 (20 p.) Résolutions.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:14+00:00"
+    },
+    "o:id": 13460,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53444",
+            "o:id": 53444
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53445",
+            "o:id": 53445
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53446",
+            "o:id": 53446
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53447",
+            "o:id": 53447
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53448",
+            "o:id": 53448
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53449",
+            "o:id": 53449
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53450",
+            "o:id": 53450
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53451",
+            "o:id": 53451
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53452",
+            "o:id": 53452
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53453",
+            "o:id": 53453
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53454",
+            "o:id": 53454
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53455",
+            "o:id": 53455
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53456",
+            "o:id": 53456
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53457",
+            "o:id": 53457
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53458",
+            "o:id": 53458
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53459",
+            "o:id": 53459
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53460",
+            "o:id": 53460
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53461",
+            "o:id": 53461
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53462",
+            "o:id": 53462
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53463",
+            "o:id": 53463
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53464",
+            "o:id": 53464
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53465",
+            "o:id": 53465
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53466",
+            "o:id": 53466
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53467",
+            "o:id": 53467
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:48:12+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Banque Industrielle de Chine. Société Anonyme. Au Capital de 45 Millions de Frances. Siège Social 74 Rue Saint-Lazare Paris. Assemblée Général Ordinaire 1914. - 15 Rapport de Conseil d'Administrâtion Rapport des Commissaires. Bilan 1913-14 (20 p.) Résolutions.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

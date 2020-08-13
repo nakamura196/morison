@@ -1,0 +1,257 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12649",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1679",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "00edd33c-9950-4604-8c65-26eb9ed7a929",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3910.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/London",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The Chinese opium-smoker. Twelve illustrations showing the ruin which our opium trade with China is bringing upon that country.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "32 p. ; 23 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "London.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=14&tg3=W2&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "14. Customs & Manners",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "W2. Opium",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "The Chinese opium-smoker. Twelve illustrations showing the ruin which our opium trade with China is bringing upon that country.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:09+00:00"
+    },
+    "o:id": 12649,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42280",
+            "o:id": 42280
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42281",
+            "o:id": 42281
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42282",
+            "o:id": 42282
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42283",
+            "o:id": 42283
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42284",
+            "o:id": 42284
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42285",
+            "o:id": 42285
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42286",
+            "o:id": 42286
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42287",
+            "o:id": 42287
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42288",
+            "o:id": 42288
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42289",
+            "o:id": 42289
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42290",
+            "o:id": 42290
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42291",
+            "o:id": 42291
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42292",
+            "o:id": 42292
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42293",
+            "o:id": 42293
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42294",
+            "o:id": 42294
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42295",
+            "o:id": 42295
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42296",
+            "o:id": 42296
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42297",
+            "o:id": 42297
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:54:52+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "The Chinese opium-smoker. Twelve illustrations showing the ruin which our opium trade with China is bringing upon that country.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

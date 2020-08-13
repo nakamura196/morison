@@ -1,0 +1,419 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12333",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1514",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "63ba6398-0488-4feb-bbe6-8bd3f2a3bc2c",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3594.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Barmen",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Bilder aus China.Faber, Ernst.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "2 v. 22 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Faber, Ernst.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Barmen, 1893-1897.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=14&tg3=A&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "14. Customs & Manners",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "A. General; Social Life; Etiquette",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Bilder aus China.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "ex:version": [
+        {
+            "@value": "2. Aufl.",
+            "is_public": true,
+            "property_id": 308,
+            "property_label": "版",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:07+00:00"
+    },
+    "o:id": 12333,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38079",
+            "o:id": 38079
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38080",
+            "o:id": 38080
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38081",
+            "o:id": 38081
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38082",
+            "o:id": 38082
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38083",
+            "o:id": 38083
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38084",
+            "o:id": 38084
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38085",
+            "o:id": 38085
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38086",
+            "o:id": 38086
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38087",
+            "o:id": 38087
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38088",
+            "o:id": 38088
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38089",
+            "o:id": 38089
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38090",
+            "o:id": 38090
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38091",
+            "o:id": 38091
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38092",
+            "o:id": 38092
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38093",
+            "o:id": 38093
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38094",
+            "o:id": 38094
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38095",
+            "o:id": 38095
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38096",
+            "o:id": 38096
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38097",
+            "o:id": 38097
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38098",
+            "o:id": 38098
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38099",
+            "o:id": 38099
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38100",
+            "o:id": 38100
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38101",
+            "o:id": 38101
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38102",
+            "o:id": 38102
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38103",
+            "o:id": 38103
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38104",
+            "o:id": 38104
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38105",
+            "o:id": 38105
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38106",
+            "o:id": 38106
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38107",
+            "o:id": 38107
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38108",
+            "o:id": 38108
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38109",
+            "o:id": 38109
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38110",
+            "o:id": 38110
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38111",
+            "o:id": 38111
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38112",
+            "o:id": 38112
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38113",
+            "o:id": 38113
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38114",
+            "o:id": 38114
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38115",
+            "o:id": 38115
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38116",
+            "o:id": 38116
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38117",
+            "o:id": 38117
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38118",
+            "o:id": 38118
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38119",
+            "o:id": 38119
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38120",
+            "o:id": 38120
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38121",
+            "o:id": 38121
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38122",
+            "o:id": 38122
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38123",
+            "o:id": 38123
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38124",
+            "o:id": 38124
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38125",
+            "o:id": 38125
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38126",
+            "o:id": 38126
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38127",
+            "o:id": 38127
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38128",
+            "o:id": 38128
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38129",
+            "o:id": 38129
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38130",
+            "o:id": 38130
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38131",
+            "o:id": 38131
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38132",
+            "o:id": 38132
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T14:04:02+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Bilder aus China.Faber, Ernst.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

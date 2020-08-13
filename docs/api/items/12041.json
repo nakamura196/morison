@@ -1,0 +1,281 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12041",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-c-70",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1904",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "8207617f-4070-4efd-bb45-f42c9651b009",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3302.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Japan. Correspondence regarding the negotiations between Japan and Russia. (1903-1904). Presented to the Imperial Diet, March, 1904.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "36 p. ; 32 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "1904",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=H&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "H. Russo-Japanese War, 1904-05",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Japan. Correspondence regarding the negotiations between Japan and Russia. (1903-1904). Presented to the Imperial Diet, March, 1904.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:05+00:00"
+    },
+    "o:id": 12041,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33593",
+            "o:id": 33593
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33594",
+            "o:id": 33594
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33595",
+            "o:id": 33595
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33596",
+            "o:id": 33596
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33597",
+            "o:id": 33597
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33598",
+            "o:id": 33598
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33599",
+            "o:id": 33599
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33600",
+            "o:id": 33600
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33601",
+            "o:id": 33601
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33602",
+            "o:id": 33602
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33603",
+            "o:id": 33603
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33604",
+            "o:id": 33604
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33605",
+            "o:id": 33605
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33606",
+            "o:id": 33606
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33607",
+            "o:id": 33607
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33608",
+            "o:id": 33608
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33609",
+            "o:id": 33609
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33610",
+            "o:id": 33610
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33611",
+            "o:id": 33611
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33612",
+            "o:id": 33612
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33613",
+            "o:id": 33613
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33614",
+            "o:id": 33614
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33615",
+            "o:id": 33615
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33616",
+            "o:id": 33616
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:33:16+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Japan. Correspondence regarding the negotiations between Japan and Russia. (1903-1904). Presented to the Imperial Diet, March, 1904.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

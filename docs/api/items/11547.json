@@ -1,0 +1,298 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11547",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-614",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "33e02b41-e819-4bf0-8d08-36764004afda",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2808.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Paris",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Sinicae res. La situation actuelle en Chine.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "43 p. ; 23 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Paris, 1892.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=F&tg4=a&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "F. Foreign relations",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "a. General history of foreign relations with China",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Sinicae res. La situation actuelle en Chine.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:02+00:00"
+    },
+    "o:id": 11547,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26107",
+            "o:id": 26107
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26108",
+            "o:id": 26108
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26109",
+            "o:id": 26109
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26110",
+            "o:id": 26110
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26111",
+            "o:id": 26111
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26112",
+            "o:id": 26112
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26113",
+            "o:id": 26113
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26114",
+            "o:id": 26114
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26115",
+            "o:id": 26115
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26116",
+            "o:id": 26116
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26117",
+            "o:id": 26117
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26118",
+            "o:id": 26118
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26119",
+            "o:id": 26119
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26120",
+            "o:id": 26120
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26121",
+            "o:id": 26121
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26122",
+            "o:id": 26122
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26123",
+            "o:id": 26123
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26124",
+            "o:id": 26124
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26125",
+            "o:id": 26125
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26126",
+            "o:id": 26126
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26127",
+            "o:id": 26127
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26128",
+            "o:id": 26128
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26129",
+            "o:id": 26129
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26130",
+            "o:id": 26130
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26131",
+            "o:id": 26131
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/26132",
+            "o:id": 26132
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T14:41:20+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Sinicae res. La situation actuelle en Chine.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/media/15163",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T04:24:45+00:00"
+    },
+    "o:filename": "10838/P-III-a-0153_0008.jpg",
+    "o:id": 15163,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/items/10838",
+        "o:id": 10838
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T04:24:45+00:00"
+    },
+    "o:original_url": "http://localhost:8882/d_omekas/toyo/files/original/10838/P-III-a-0153_0008.jpg",
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "3e901a610a63e0de3a969d2f1a537788a8462ab7234bd1047e97184486cc38fb",
+    "o:size": null,
+    "o:source": "http://124.33.215.236/morisonp2015/01Geography_01/P-III-a-0153_0008.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "http://localhost:8882/d_omekas/toyo/files/large/10838/P-III-a-0153_0008.jpg",
+        "medium": "http://localhost:8882/d_omekas/toyo/files/medium/10838/P-III-a-0153_0008.jpg",
+        "square": "http://localhost:8882/d_omekas/toyo/files/square/10838/P-III-a-0153_0008.jpg"
+    },
+    "o:title": null
+}

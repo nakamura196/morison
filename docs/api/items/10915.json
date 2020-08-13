@@ -1,0 +1,245 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/10915",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-0203",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "50ab6c0f-00c9-4cb8-9d3c-d95f1e3d94a7",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2176.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The entire view of Chow sing cheng Town at Wusih.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=C&tg4=b&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "C. Local topography & Travels",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "b. Central China",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:58+00:00"
+    },
+    "o:id": 10915,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16506",
+            "o:id": 16506
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16507",
+            "o:id": 16507
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16508",
+            "o:id": 16508
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16509",
+            "o:id": 16509
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16510",
+            "o:id": 16510
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16511",
+            "o:id": 16511
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16512",
+            "o:id": 16512
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16513",
+            "o:id": 16513
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16514",
+            "o:id": 16514
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16515",
+            "o:id": 16515
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16516",
+            "o:id": 16516
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16517",
+            "o:id": 16517
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16518",
+            "o:id": 16518
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16519",
+            "o:id": 16519
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16520",
+            "o:id": 16520
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16521",
+            "o:id": 16521
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16522",
+            "o:id": 16522
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16523",
+            "o:id": 16523
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16524",
+            "o:id": 16524
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16525",
+            "o:id": 16525
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16526",
+            "o:id": 16526
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16527",
+            "o:id": 16527
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16528",
+            "o:id": 16528
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16529",
+            "o:id": 16529
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T03:11:17+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "The entire view of Chow sing cheng Town at Wusih.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

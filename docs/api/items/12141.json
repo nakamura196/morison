@@ -1,0 +1,278 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12141",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1200",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "419eef44-5b66-4f6c-bbc0-2103cd3412f2",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3402.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/London",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The religion of China. Fr. the Fr. of L. W.Wieger, Rev. L[éon].",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "32 p. ; 19 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Wieger, Rev. L[éon].",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "London.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=10&tg3=A&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "10. Religion",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "A. General",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "The religion of China. Fr. the Fr. of L. W.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:06+00:00"
+    },
+    "o:id": 12141,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34987",
+            "o:id": 34987
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34988",
+            "o:id": 34988
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34989",
+            "o:id": 34989
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34990",
+            "o:id": 34990
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34991",
+            "o:id": 34991
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34992",
+            "o:id": 34992
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34993",
+            "o:id": 34993
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34994",
+            "o:id": 34994
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34995",
+            "o:id": 34995
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34996",
+            "o:id": 34996
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34997",
+            "o:id": 34997
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34998",
+            "o:id": 34998
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34999",
+            "o:id": 34999
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35000",
+            "o:id": 35000
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35001",
+            "o:id": 35001
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35002",
+            "o:id": 35002
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35003",
+            "o:id": 35003
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35004",
+            "o:id": 35004
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35005",
+            "o:id": 35005
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35006",
+            "o:id": 35006
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35007",
+            "o:id": 35007
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:33:02+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "The religion of China. Fr. the Fr. of L. W.Wieger, Rev. L[éon].",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

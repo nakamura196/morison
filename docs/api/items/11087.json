@@ -1,0 +1,410 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11087",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-c-185",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1898",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "2d74c851-081a-4832-90e6-e7213608880f",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2348.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Le Pélerin Chinois I-Tsing. (Review of) Voyages des Pélerins bouddhistes, par Edouard Chavannes, (and of) A record of the Buddhist religion, by I-Tsing tr. by J. Takakusu.Barth, A.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "52 p. ; 27 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Barth, A.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "1898",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=G&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "G. Chinese Knowledge of Foreign Lands",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Le Pélerin Chinois I-Tsing. (Review of) Voyages des Pélerins bouddhistes, par Edouard Chavannes, (and of) A record of the Buddhist religion, by I-Tsing tr. by J. Takakusu.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:59+00:00"
+    },
+    "o:id": 11087,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19404",
+            "o:id": 19404
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19405",
+            "o:id": 19405
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19406",
+            "o:id": 19406
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19407",
+            "o:id": 19407
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19408",
+            "o:id": 19408
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19409",
+            "o:id": 19409
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19410",
+            "o:id": 19410
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19411",
+            "o:id": 19411
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19412",
+            "o:id": 19412
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19413",
+            "o:id": 19413
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19414",
+            "o:id": 19414
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19415",
+            "o:id": 19415
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19416",
+            "o:id": 19416
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19417",
+            "o:id": 19417
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19418",
+            "o:id": 19418
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19419",
+            "o:id": 19419
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19420",
+            "o:id": 19420
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19421",
+            "o:id": 19421
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19422",
+            "o:id": 19422
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19423",
+            "o:id": 19423
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19424",
+            "o:id": 19424
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19425",
+            "o:id": 19425
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19426",
+            "o:id": 19426
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19427",
+            "o:id": 19427
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19428",
+            "o:id": 19428
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19429",
+            "o:id": 19429
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19430",
+            "o:id": 19430
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19561",
+            "o:id": 19561
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19562",
+            "o:id": 19562
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19563",
+            "o:id": 19563
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19564",
+            "o:id": 19564
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19565",
+            "o:id": 19565
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19566",
+            "o:id": 19566
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19567",
+            "o:id": 19567
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19568",
+            "o:id": 19568
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19569",
+            "o:id": 19569
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19570",
+            "o:id": 19570
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19571",
+            "o:id": 19571
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19572",
+            "o:id": 19572
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19573",
+            "o:id": 19573
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19574",
+            "o:id": 19574
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19575",
+            "o:id": 19575
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19576",
+            "o:id": 19576
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19577",
+            "o:id": 19577
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19578",
+            "o:id": 19578
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19579",
+            "o:id": 19579
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19580",
+            "o:id": 19580
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19581",
+            "o:id": 19581
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19582",
+            "o:id": 19582
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19583",
+            "o:id": 19583
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19584",
+            "o:id": 19584
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19585",
+            "o:id": 19585
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19586",
+            "o:id": 19586
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19587",
+            "o:id": 19587
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:40:06+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Le Pélerin Chinois I-Tsing. (Review of) Voyages des Pélerins bouddhistes, par Edouard Chavannes, (and of) A record of the Buddhist religion, by I-Tsing tr. by J. Takakusu.Barth, A.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

@@ -1,0 +1,334 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13515",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-c-346",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1912",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "e81a0d4c-1d54-4785-bac6-8b83b9652a69",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4776.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Chemin-de-fer Lung-Tsing-U-Hai Contrat d'emprunt.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "33 p. ; 4 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Signé Sept. 24, 1912.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=21&tg3=B&tg4=b&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "21. Communication",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "B. Communication by Land",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "b. Railway",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Chemin-de-fer Lung-Tsing-U-Hai Contrat d\\'emprunt.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:15+00:00"
+    },
+    "o:id": 13515,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54049",
+            "o:id": 54049
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54050",
+            "o:id": 54050
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54051",
+            "o:id": 54051
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54052",
+            "o:id": 54052
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54053",
+            "o:id": 54053
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54054",
+            "o:id": 54054
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54055",
+            "o:id": 54055
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54056",
+            "o:id": 54056
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54057",
+            "o:id": 54057
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54058",
+            "o:id": 54058
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54059",
+            "o:id": 54059
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54060",
+            "o:id": 54060
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54061",
+            "o:id": 54061
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54062",
+            "o:id": 54062
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54063",
+            "o:id": 54063
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54064",
+            "o:id": 54064
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54065",
+            "o:id": 54065
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54066",
+            "o:id": 54066
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54067",
+            "o:id": 54067
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54068",
+            "o:id": 54068
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54069",
+            "o:id": 54069
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54070",
+            "o:id": 54070
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54071",
+            "o:id": 54071
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54072",
+            "o:id": 54072
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54073",
+            "o:id": 54073
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54074",
+            "o:id": 54074
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54075",
+            "o:id": 54075
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54076",
+            "o:id": 54076
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54077",
+            "o:id": 54077
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54078",
+            "o:id": 54078
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54079",
+            "o:id": 54079
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54080",
+            "o:id": 54080
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54081",
+            "o:id": 54081
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54082",
+            "o:id": 54082
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54083",
+            "o:id": 54083
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T14:31:45+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Chemin-de-fer Lung-Tsing-U-Hai Contrat d'emprunt.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

@@ -1,0 +1,453 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13238",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-2001",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "553648dc-6d27-408f-9c16-0266e5c36c1c",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4499.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "end",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "An account of a deep boring near the bubbling well, Shanghai. With a prefatory note by Chas. H. Godfrey.Kingsmill, Thomas William.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "18 p., pp. 79-87 ; 22 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Kingsmill, Thomas William.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:heading2": [
+        {
+            "@value": "Godfrey, Charles H.",
+            "is_public": true,
+            "property_id": 310,
+            "property_label": "heading2",
+            "type": "literal"
+        }
+    ],
+    "ex:heading3": [
+        {
+            "@value": "http://dbpedia.org/resource/Shanghai",
+            "is_public": true,
+            "property_id": 311,
+            "property_label": "heading3",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Shanghai, 1907.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=20&tg3=G&tg4=h&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "20. Economy and Industry",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "G. Industry",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "h. Civil engineering",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "An account of a deep boring near the bubbling well, Shanghai. With a prefatory note by Chas. H. Godfrey.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:13+00:00"
+    },
+    "o:id": 13238,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50341",
+            "o:id": 50341
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50342",
+            "o:id": 50342
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50343",
+            "o:id": 50343
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50344",
+            "o:id": 50344
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50345",
+            "o:id": 50345
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50346",
+            "o:id": 50346
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50347",
+            "o:id": 50347
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50348",
+            "o:id": 50348
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50349",
+            "o:id": 50349
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50350",
+            "o:id": 50350
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50351",
+            "o:id": 50351
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50352",
+            "o:id": 50352
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50353",
+            "o:id": 50353
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50354",
+            "o:id": 50354
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50355",
+            "o:id": 50355
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50356",
+            "o:id": 50356
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50357",
+            "o:id": 50357
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50358",
+            "o:id": 50358
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50359",
+            "o:id": 50359
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50360",
+            "o:id": 50360
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50361",
+            "o:id": 50361
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50362",
+            "o:id": 50362
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50363",
+            "o:id": 50363
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50364",
+            "o:id": 50364
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50365",
+            "o:id": 50365
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50366",
+            "o:id": 50366
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50367",
+            "o:id": 50367
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50368",
+            "o:id": 50368
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50369",
+            "o:id": 50369
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50444",
+            "o:id": 50444
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50445",
+            "o:id": 50445
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50446",
+            "o:id": 50446
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50447",
+            "o:id": 50447
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50448",
+            "o:id": 50448
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50449",
+            "o:id": 50449
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50450",
+            "o:id": 50450
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50451",
+            "o:id": 50451
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50452",
+            "o:id": 50452
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50453",
+            "o:id": 50453
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50454",
+            "o:id": 50454
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50455",
+            "o:id": 50455
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50456",
+            "o:id": 50456
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50457",
+            "o:id": 50457
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50458",
+            "o:id": 50458
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50459",
+            "o:id": 50459
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50460",
+            "o:id": 50460
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50461",
+            "o:id": 50461
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50462",
+            "o:id": 50462
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50463",
+            "o:id": 50463
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50464",
+            "o:id": 50464
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50465",
+            "o:id": 50465
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50466",
+            "o:id": 50466
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50467",
+            "o:id": 50467
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50468",
+            "o:id": 50468
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50469",
+            "o:id": 50469
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50470",
+            "o:id": 50470
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50471",
+            "o:id": 50471
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50472",
+            "o:id": 50472
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:42:49+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "An account of a deep boring near the bubbling well, Shanghai. With a prefatory note by Chas. H. Godfrey.Kingsmill, Thomas William.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

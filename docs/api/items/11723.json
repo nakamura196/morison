@@ -1,0 +1,287 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11723",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-2537",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "74a3f957-152a-45a4-979a-dbff610a95c0",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2984.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Washington",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The loot of the Imperial Summer Palace at Pekin.Hérisson, dé, count.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "pp. 601-635 ; 24 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Hérisson, dé, count.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Washington, 1901.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=F&tg4=g&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "F. Foreign relations",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "g. France",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "The loot of the Imperial Summer Palace at Pekin.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:03+00:00"
+    },
+    "o:id": 11723,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29057",
+            "o:id": 29057
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29058",
+            "o:id": 29058
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29059",
+            "o:id": 29059
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29060",
+            "o:id": 29060
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29061",
+            "o:id": 29061
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29062",
+            "o:id": 29062
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29063",
+            "o:id": 29063
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29064",
+            "o:id": 29064
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29065",
+            "o:id": 29065
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29066",
+            "o:id": 29066
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29067",
+            "o:id": 29067
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29068",
+            "o:id": 29068
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29069",
+            "o:id": 29069
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29070",
+            "o:id": 29070
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29071",
+            "o:id": 29071
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29072",
+            "o:id": 29072
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29073",
+            "o:id": 29073
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29074",
+            "o:id": 29074
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29075",
+            "o:id": 29075
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29076",
+            "o:id": 29076
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29077",
+            "o:id": 29077
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T14:03:37+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "The loot of the Imperial Summer Palace at Pekin.Hérisson, dé, count.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

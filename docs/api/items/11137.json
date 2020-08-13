@@ -1,0 +1,366 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11137",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-3179",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "a3ab453b-1e40-497b-b437-cf12679bb499",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2398.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/London",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The national life of China.Patterson, R. H.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "pp. 235-318 ; 23 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Patterson, R. H.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "London, 1862.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=A&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "A. General history; Collected essays",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "The national life of China.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:59+00:00"
+    },
+    "o:id": 11137,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20257",
+            "o:id": 20257
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20258",
+            "o:id": 20258
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20259",
+            "o:id": 20259
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20260",
+            "o:id": 20260
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20261",
+            "o:id": 20261
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20262",
+            "o:id": 20262
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20263",
+            "o:id": 20263
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20264",
+            "o:id": 20264
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20265",
+            "o:id": 20265
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20266",
+            "o:id": 20266
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20267",
+            "o:id": 20267
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20268",
+            "o:id": 20268
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20269",
+            "o:id": 20269
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20270",
+            "o:id": 20270
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20271",
+            "o:id": 20271
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20272",
+            "o:id": 20272
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20273",
+            "o:id": 20273
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20274",
+            "o:id": 20274
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20275",
+            "o:id": 20275
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20276",
+            "o:id": 20276
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20277",
+            "o:id": 20277
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20278",
+            "o:id": 20278
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20279",
+            "o:id": 20279
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20280",
+            "o:id": 20280
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20281",
+            "o:id": 20281
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20282",
+            "o:id": 20282
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20283",
+            "o:id": 20283
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20284",
+            "o:id": 20284
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20285",
+            "o:id": 20285
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20286",
+            "o:id": 20286
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20287",
+            "o:id": 20287
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20288",
+            "o:id": 20288
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20289",
+            "o:id": 20289
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20290",
+            "o:id": 20290
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20291",
+            "o:id": 20291
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20292",
+            "o:id": 20292
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20293",
+            "o:id": 20293
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20294",
+            "o:id": 20294
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20295",
+            "o:id": 20295
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20296",
+            "o:id": 20296
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20297",
+            "o:id": 20297
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20298",
+            "o:id": 20298
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20299",
+            "o:id": 20299
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:47:22+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "The national life of China.Patterson, R. H.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

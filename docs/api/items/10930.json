@@ -1,0 +1,301 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/10930",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-0201",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "021cc05f-ad62-4699-9509-df61448163bc",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2191.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Dans le Hou nann et le Kiang si.Harfeld, Capit. F.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=C&tg4=b&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "C. Local topography & Travels",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "b. Central China",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:58+00:00"
+    },
+    "o:id": 10930,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16829",
+            "o:id": 16829
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16830",
+            "o:id": 16830
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16831",
+            "o:id": 16831
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16832",
+            "o:id": 16832
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16833",
+            "o:id": 16833
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16834",
+            "o:id": 16834
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16835",
+            "o:id": 16835
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16836",
+            "o:id": 16836
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16837",
+            "o:id": 16837
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16838",
+            "o:id": 16838
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16839",
+            "o:id": 16839
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16840",
+            "o:id": 16840
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16841",
+            "o:id": 16841
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16842",
+            "o:id": 16842
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16843",
+            "o:id": 16843
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16844",
+            "o:id": 16844
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16845",
+            "o:id": 16845
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16846",
+            "o:id": 16846
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16847",
+            "o:id": 16847
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16848",
+            "o:id": 16848
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16849",
+            "o:id": 16849
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16850",
+            "o:id": 16850
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16851",
+            "o:id": 16851
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16852",
+            "o:id": 16852
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16853",
+            "o:id": 16853
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16854",
+            "o:id": 16854
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16855",
+            "o:id": 16855
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16856",
+            "o:id": 16856
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16857",
+            "o:id": 16857
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16858",
+            "o:id": 16858
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16859",
+            "o:id": 16859
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16860",
+            "o:id": 16860
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16861",
+            "o:id": 16861
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16862",
+            "o:id": 16862
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16863",
+            "o:id": 16863
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16864",
+            "o:id": 16864
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16865",
+            "o:id": 16865
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16866",
+            "o:id": 16866
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T03:20:39+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Dans le Hou nann et le Kiang si.Harfeld, Capit. F.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

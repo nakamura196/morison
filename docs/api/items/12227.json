@@ -1,0 +1,383 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12227",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-2781",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "3079b7ad-3047-4264-bc83-442f2fd44acf",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3488.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/London",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Is there anything in it? Some after-crisis vindications.McIntosh, Gilbert.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "79 p. ; 18 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "McIntosh, Gilbert.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "London & Shanghai, 1901.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=10&tg3=E&tg4=a&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "10. Religion",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "E. Christianity",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "a. General works",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Is there anything in it? Some after-crisis vindications.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:06+00:00"
+    },
+    "o:id": 12227,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36258",
+            "o:id": 36258
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36259",
+            "o:id": 36259
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36260",
+            "o:id": 36260
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36261",
+            "o:id": 36261
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36262",
+            "o:id": 36262
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36263",
+            "o:id": 36263
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36264",
+            "o:id": 36264
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36265",
+            "o:id": 36265
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36266",
+            "o:id": 36266
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36267",
+            "o:id": 36267
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36268",
+            "o:id": 36268
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36269",
+            "o:id": 36269
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36270",
+            "o:id": 36270
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36271",
+            "o:id": 36271
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36272",
+            "o:id": 36272
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36273",
+            "o:id": 36273
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36274",
+            "o:id": 36274
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36275",
+            "o:id": 36275
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36276",
+            "o:id": 36276
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36277",
+            "o:id": 36277
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36278",
+            "o:id": 36278
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36279",
+            "o:id": 36279
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36280",
+            "o:id": 36280
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36281",
+            "o:id": 36281
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36282",
+            "o:id": 36282
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36283",
+            "o:id": 36283
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36284",
+            "o:id": 36284
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36285",
+            "o:id": 36285
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36286",
+            "o:id": 36286
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36287",
+            "o:id": 36287
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36288",
+            "o:id": 36288
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36289",
+            "o:id": 36289
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36290",
+            "o:id": 36290
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36291",
+            "o:id": 36291
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36292",
+            "o:id": 36292
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36293",
+            "o:id": 36293
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36294",
+            "o:id": 36294
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36295",
+            "o:id": 36295
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36296",
+            "o:id": 36296
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36297",
+            "o:id": 36297
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36298",
+            "o:id": 36298
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36299",
+            "o:id": 36299
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36300",
+            "o:id": 36300
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36301",
+            "o:id": 36301
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36302",
+            "o:id": 36302
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:53:41+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Is there anything in it? Some after-crisis vindications.McIntosh, Gilbert.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

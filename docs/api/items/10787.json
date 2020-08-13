@@ -1,0 +1,282 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/10787",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-2292",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "976cfa2b-32f6-483f-8d70-769ba0890262",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2048.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Tokyo",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Through bookings to China. Rev. Oct. 1915.Imperial Government Railways.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "15, 16 p. ; 18 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Imperial Government Railways.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "[Tokyo, 1915].",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=B&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "B. Travels through China",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Through bookings to China. Rev. Oct. 1915.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:57+00:00"
+    },
+    "o:id": 10787,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14155",
+            "o:id": 14155
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14156",
+            "o:id": 14156
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14157",
+            "o:id": 14157
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14158",
+            "o:id": 14158
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14159",
+            "o:id": 14159
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14160",
+            "o:id": 14160
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14161",
+            "o:id": 14161
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14162",
+            "o:id": 14162
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14163",
+            "o:id": 14163
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14164",
+            "o:id": 14164
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14165",
+            "o:id": 14165
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14166",
+            "o:id": 14166
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14167",
+            "o:id": 14167
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14168",
+            "o:id": 14168
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14169",
+            "o:id": 14169
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14170",
+            "o:id": 14170
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14171",
+            "o:id": 14171
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14172",
+            "o:id": 14172
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14173",
+            "o:id": 14173
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14174",
+            "o:id": 14174
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14175",
+            "o:id": 14175
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14176",
+            "o:id": 14176
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:53:58+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Through bookings to China. Rev. Oct. 1915.Imperial Government Railways.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

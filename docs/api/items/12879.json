@@ -1,0 +1,296 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12879",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-b-0898",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "8c30f6d4-cd82-4495-ac2b-c6b988d3f0ac",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4140.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Die Einnahmequellen und der Credit Chinas nebst Aphorismen über die Deutsch-ostasiatischen Handelsbeziehungen.Exner, A. H.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=16&tg3=B&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "16. Finance",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "B. Revenue & Expenditure; Budget",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:11+00:00"
+    },
+    "o:id": 12879,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44954",
+            "o:id": 44954
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44955",
+            "o:id": 44955
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44956",
+            "o:id": 44956
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44957",
+            "o:id": 44957
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44958",
+            "o:id": 44958
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44959",
+            "o:id": 44959
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44960",
+            "o:id": 44960
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44961",
+            "o:id": 44961
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44962",
+            "o:id": 44962
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44963",
+            "o:id": 44963
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44964",
+            "o:id": 44964
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44965",
+            "o:id": 44965
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44966",
+            "o:id": 44966
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44967",
+            "o:id": 44967
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44968",
+            "o:id": 44968
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44969",
+            "o:id": 44969
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44970",
+            "o:id": 44970
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44971",
+            "o:id": 44971
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44972",
+            "o:id": 44972
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44973",
+            "o:id": 44973
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44974",
+            "o:id": 44974
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44975",
+            "o:id": 44975
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44976",
+            "o:id": 44976
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44977",
+            "o:id": 44977
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44978",
+            "o:id": 44978
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44979",
+            "o:id": 44979
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44980",
+            "o:id": 44980
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44981",
+            "o:id": 44981
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44982",
+            "o:id": 44982
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44983",
+            "o:id": 44983
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44984",
+            "o:id": 44984
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44985",
+            "o:id": 44985
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44986",
+            "o:id": 44986
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44987",
+            "o:id": 44987
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44988",
+            "o:id": 44988
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44989",
+            "o:id": 44989
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44990",
+            "o:id": 44990
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44991",
+            "o:id": 44991
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/44992",
+            "o:id": 44992
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T04:03:02+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Die Einnahmequellen und der Credit Chinas nebst Aphorismen über die Deutsch-ostasiatischen Handelsbeziehungen.Exner, A. H.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

@@ -1,0 +1,225 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/10969",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-0206",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "d0da5e38-aec0-4190-8183-76505776aa36",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2230.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Overlanding in China : From Hankow to Hongkong.Wilder, A. P.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=C&tg4=b&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "C. Local topography & Travels",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "b. Central China",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:58+00:00"
+    },
+    "o:id": 10969,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17476",
+            "o:id": 17476
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17477",
+            "o:id": 17477
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17478",
+            "o:id": 17478
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17479",
+            "o:id": 17479
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17480",
+            "o:id": 17480
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17481",
+            "o:id": 17481
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17482",
+            "o:id": 17482
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17483",
+            "o:id": 17483
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17484",
+            "o:id": 17484
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17485",
+            "o:id": 17485
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17486",
+            "o:id": 17486
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17487",
+            "o:id": 17487
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17488",
+            "o:id": 17488
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17489",
+            "o:id": 17489
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17490",
+            "o:id": 17490
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17491",
+            "o:id": 17491
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17492",
+            "o:id": 17492
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17493",
+            "o:id": 17493
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17494",
+            "o:id": 17494
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T04:13:16+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Overlanding in China : From Hankow to Hongkong.Wilder, A. P.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

@@ -1,0 +1,423 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11685",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-789",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1905",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "e62ee9ce-6f90-4e9a-9024-250630e59ad6",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2946.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Rossiya i Kitai. S.-Peterburg.Badmaev, P. A.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "104 p. ; 18 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Badmaev, P. A.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "1905",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=F&tg4=f&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "F. Foreign relations",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "f. Russia",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Rossiya i Kitai. S.-Peterburg.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:03+00:00"
+    },
+    "o:id": 11685,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28344",
+            "o:id": 28344
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28345",
+            "o:id": 28345
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28346",
+            "o:id": 28346
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28347",
+            "o:id": 28347
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28348",
+            "o:id": 28348
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28349",
+            "o:id": 28349
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28350",
+            "o:id": 28350
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28351",
+            "o:id": 28351
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28352",
+            "o:id": 28352
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28353",
+            "o:id": 28353
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28354",
+            "o:id": 28354
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28355",
+            "o:id": 28355
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28356",
+            "o:id": 28356
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28357",
+            "o:id": 28357
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28358",
+            "o:id": 28358
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28359",
+            "o:id": 28359
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28360",
+            "o:id": 28360
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28361",
+            "o:id": 28361
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28362",
+            "o:id": 28362
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28363",
+            "o:id": 28363
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28364",
+            "o:id": 28364
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28365",
+            "o:id": 28365
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28366",
+            "o:id": 28366
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28367",
+            "o:id": 28367
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28368",
+            "o:id": 28368
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28369",
+            "o:id": 28369
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28370",
+            "o:id": 28370
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28371",
+            "o:id": 28371
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28372",
+            "o:id": 28372
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28373",
+            "o:id": 28373
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28374",
+            "o:id": 28374
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28375",
+            "o:id": 28375
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28376",
+            "o:id": 28376
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28377",
+            "o:id": 28377
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28378",
+            "o:id": 28378
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28379",
+            "o:id": 28379
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28380",
+            "o:id": 28380
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28381",
+            "o:id": 28381
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28382",
+            "o:id": 28382
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28383",
+            "o:id": 28383
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28384",
+            "o:id": 28384
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28385",
+            "o:id": 28385
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28386",
+            "o:id": 28386
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28387",
+            "o:id": 28387
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28388",
+            "o:id": 28388
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28389",
+            "o:id": 28389
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28390",
+            "o:id": 28390
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28391",
+            "o:id": 28391
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28392",
+            "o:id": 28392
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28393",
+            "o:id": 28393
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28394",
+            "o:id": 28394
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28395",
+            "o:id": 28395
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28396",
+            "o:id": 28396
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28397",
+            "o:id": 28397
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28398",
+            "o:id": 28398
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:32:15+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Rossiya i Kitai. S.-Peterburg.Badmaev, P. A.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

@@ -1,0 +1,274 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11180",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-c-139",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1888",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "523cdc32-f1d7-4fb6-baac-b3b983768af4",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2441.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Un Sociatista Cinese dei V. secolo av. C. Mih-Teih. Memotia del Corrispondente Salvatore Congnetto de Martus letta nella seduta del 19 febbraio 1888.Cognetti de Martüs, Salvatore.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "pp. 248-281 ; 29 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Cognetti de Martüs, Salvatore.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "1888",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=C&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "C. Mediaeval history",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Un Sociatista Cinese dei V. secolo av. C. Mih-Teih. Memotia del Corrispondente Salvatore Congnetto de Martus letta nella seduta del 19 febbraio 1888.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:00+00:00"
+    },
+    "o:id": 11180,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21042",
+            "o:id": 21042
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21043",
+            "o:id": 21043
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21044",
+            "o:id": 21044
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21045",
+            "o:id": 21045
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21046",
+            "o:id": 21046
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21047",
+            "o:id": 21047
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21048",
+            "o:id": 21048
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21049",
+            "o:id": 21049
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21050",
+            "o:id": 21050
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21051",
+            "o:id": 21051
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21052",
+            "o:id": 21052
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21053",
+            "o:id": 21053
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21054",
+            "o:id": 21054
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21055",
+            "o:id": 21055
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21056",
+            "o:id": 21056
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21057",
+            "o:id": 21057
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21058",
+            "o:id": 21058
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21059",
+            "o:id": 21059
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21060",
+            "o:id": 21060
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21061",
+            "o:id": 21061
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:40:44+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Un Sociatista Cinese dei V. secolo av. C. Mih-Teih. Memotia del Corrispondente Salvatore Congnetto de Martus letta nella seduta del 19 febbraio 1888.Cognetti de Martüs, Salvatore.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

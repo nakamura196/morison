@@ -1,0 +1,306 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13617",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-2152",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "0fa44233-b6d1-48dc-9af6-450a8f46716c",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4878.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Shanghai",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "River, lake and land conservancy in portions of the provinces of Anhui and Kiangsu, North of the Yangtsze River.Jameson, Charles Davis.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "43 p. ; 22 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Jameson, Charles Davis.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Shanghai, 1913.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=21&tg3=D&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "21. Communication",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "D. Inland Navigation; Canals & Creeks; River Conservancy; &c.",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "River, lake and land conservancy in portions of the provinces of Anhui and Kiangsu, North of the Yangtsze River.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:16+00:00"
+    },
+    "o:id": 13617,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55723",
+            "o:id": 55723
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55724",
+            "o:id": 55724
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55725",
+            "o:id": 55725
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55726",
+            "o:id": 55726
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55727",
+            "o:id": 55727
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55728",
+            "o:id": 55728
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55729",
+            "o:id": 55729
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55730",
+            "o:id": 55730
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55731",
+            "o:id": 55731
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55732",
+            "o:id": 55732
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55733",
+            "o:id": 55733
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55734",
+            "o:id": 55734
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55735",
+            "o:id": 55735
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55736",
+            "o:id": 55736
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55737",
+            "o:id": 55737
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55738",
+            "o:id": 55738
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55739",
+            "o:id": 55739
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55740",
+            "o:id": 55740
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55741",
+            "o:id": 55741
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55742",
+            "o:id": 55742
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55743",
+            "o:id": 55743
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55744",
+            "o:id": 55744
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55745",
+            "o:id": 55745
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55746",
+            "o:id": 55746
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55747",
+            "o:id": 55747
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55748",
+            "o:id": 55748
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55749",
+            "o:id": 55749
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55750",
+            "o:id": 55750
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:58:56+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "River, lake and land conservancy in portions of the provinces of Anhui and Kiangsu, North of the Yangtsze River.Jameson, Charles Davis.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

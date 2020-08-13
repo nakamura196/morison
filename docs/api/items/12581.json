@@ -1,0 +1,335 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12581",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1614",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1897",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "0c094fbb-6b9d-4099-925a-b5d182bba000",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3842.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Tianjin",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Rules and bye-laws... 1897, 1907.Tientsin Club.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "2 v. ; 17 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Tientsin Club.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Tientsin, 1897-1907.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=14&tg3=S&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "14. Customs & Manners",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "S. Association & Club",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Rules and bye-laws... 1897, 1907.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:09+00:00"
+    },
+    "o:id": 12581,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41445",
+            "o:id": 41445
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41446",
+            "o:id": 41446
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41447",
+            "o:id": 41447
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41448",
+            "o:id": 41448
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41449",
+            "o:id": 41449
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41450",
+            "o:id": 41450
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41451",
+            "o:id": 41451
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41452",
+            "o:id": 41452
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41453",
+            "o:id": 41453
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41454",
+            "o:id": 41454
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41455",
+            "o:id": 41455
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41456",
+            "o:id": 41456
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41457",
+            "o:id": 41457
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41458",
+            "o:id": 41458
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41459",
+            "o:id": 41459
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41460",
+            "o:id": 41460
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41461",
+            "o:id": 41461
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41462",
+            "o:id": 41462
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41463",
+            "o:id": 41463
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41464",
+            "o:id": 41464
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41465",
+            "o:id": 41465
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41466",
+            "o:id": 41466
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41467",
+            "o:id": 41467
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41468",
+            "o:id": 41468
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41469",
+            "o:id": 41469
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41470",
+            "o:id": 41470
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41471",
+            "o:id": 41471
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41472",
+            "o:id": 41472
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41473",
+            "o:id": 41473
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41474",
+            "o:id": 41474
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41475",
+            "o:id": 41475
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41476",
+            "o:id": 41476
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41477",
+            "o:id": 41477
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:32:37+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Rules and bye-laws... 1897, 1907.Tientsin Club.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

@@ -1,0 +1,351 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11618",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1097",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "e8ca1772-5585-41fb-9598-0871bc623616",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2879.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/London",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Our interests in China. A letter to the Right Hon. Earl Russell.Lay, Horatio N.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "71 p. ; 22 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Lay, Horatio N.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "London, 1864.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=F&tg4=e&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "F. Foreign relations",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "e. Great-Britain",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Our interests in China. A letter to the Right Hon. Earl Russell.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:03+00:00"
+    },
+    "o:id": 11618,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27139",
+            "o:id": 27139
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27140",
+            "o:id": 27140
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27141",
+            "o:id": 27141
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27142",
+            "o:id": 27142
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27143",
+            "o:id": 27143
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27144",
+            "o:id": 27144
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27145",
+            "o:id": 27145
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27146",
+            "o:id": 27146
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27147",
+            "o:id": 27147
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27148",
+            "o:id": 27148
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27149",
+            "o:id": 27149
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27150",
+            "o:id": 27150
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27151",
+            "o:id": 27151
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27152",
+            "o:id": 27152
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27153",
+            "o:id": 27153
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27154",
+            "o:id": 27154
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27155",
+            "o:id": 27155
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27156",
+            "o:id": 27156
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27157",
+            "o:id": 27157
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27158",
+            "o:id": 27158
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27159",
+            "o:id": 27159
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27160",
+            "o:id": 27160
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27161",
+            "o:id": 27161
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27162",
+            "o:id": 27162
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27163",
+            "o:id": 27163
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27164",
+            "o:id": 27164
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27165",
+            "o:id": 27165
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27166",
+            "o:id": 27166
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27167",
+            "o:id": 27167
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27168",
+            "o:id": 27168
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27169",
+            "o:id": 27169
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27170",
+            "o:id": 27170
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27171",
+            "o:id": 27171
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27172",
+            "o:id": 27172
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27173",
+            "o:id": 27173
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27174",
+            "o:id": 27174
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27175",
+            "o:id": 27175
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:41:53+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Our interests in China. A letter to the Right Hon. Earl Russell.Lay, Horatio N.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

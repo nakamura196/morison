@@ -1,0 +1,221 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/10908",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-0545",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "2f04fbae-0db4-4661-91fc-f36754c4f3b6",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2169.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Early autumn on the lower Yangtze.Bridge, Cyprian A. G.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=C&tg4=b&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "C. Local topography & Travels",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "b. Central China",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:58+00:00"
+    },
+    "o:id": 10908,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16408",
+            "o:id": 16408
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16409",
+            "o:id": 16409
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16410",
+            "o:id": 16410
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16411",
+            "o:id": 16411
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16412",
+            "o:id": 16412
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16413",
+            "o:id": 16413
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16414",
+            "o:id": 16414
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16415",
+            "o:id": 16415
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16416",
+            "o:id": 16416
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40561",
+            "o:id": 40561
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40562",
+            "o:id": 40562
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40563",
+            "o:id": 40563
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40564",
+            "o:id": 40564
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40565",
+            "o:id": 40565
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40566",
+            "o:id": 40566
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40567",
+            "o:id": 40567
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40568",
+            "o:id": 40568
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40569",
+            "o:id": 40569
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T00:58:19+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Early autumn on the lower Yangtze.Bridge, Cyprian A. G.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

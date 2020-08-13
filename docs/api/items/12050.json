@@ -1,0 +1,294 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12050",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-675",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "3d8a79cd-f9be-4124-9847-aedf67ef6604",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3311.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Shanghai",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Et nunc, reges, intelligite! The moral causes of the Russo-Japanese war.Ku, Hung-ming.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "39 p. ; 23 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Ku, Hung-ming.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Shanghai, 1906.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=H&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "H. Russo-Japanese War, 1904-05",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Et nunc, reges, intelligite! The moral causes of the Russo-Japanese war.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:05+00:00"
+    },
+    "o:id": 12050,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33675",
+            "o:id": 33675
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33676",
+            "o:id": 33676
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33677",
+            "o:id": 33677
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33678",
+            "o:id": 33678
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33679",
+            "o:id": 33679
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33680",
+            "o:id": 33680
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33681",
+            "o:id": 33681
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33682",
+            "o:id": 33682
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33683",
+            "o:id": 33683
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33684",
+            "o:id": 33684
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33685",
+            "o:id": 33685
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33686",
+            "o:id": 33686
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33687",
+            "o:id": 33687
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33688",
+            "o:id": 33688
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33689",
+            "o:id": 33689
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33690",
+            "o:id": 33690
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33691",
+            "o:id": 33691
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33692",
+            "o:id": 33692
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33693",
+            "o:id": 33693
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33694",
+            "o:id": 33694
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33695",
+            "o:id": 33695
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33696",
+            "o:id": 33696
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33697",
+            "o:id": 33697
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33698",
+            "o:id": 33698
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33699",
+            "o:id": 33699
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T14:10:53+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Et nunc, reges, intelligite! The moral causes of the Russo-Japanese war.Ku, Hung-ming.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

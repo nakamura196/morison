@@ -1,0 +1,340 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/10763",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-0079",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "43df0db8-94ff-46e1-9e8a-b5ce8707e41f",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2024.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "A list of the cities, towns and open ports of China and dependencies.Kennelly, M.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=A&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "A. General description",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:57+00:00"
+    },
+    "o:id": 10763,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13742",
+            "o:id": 13742
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13743",
+            "o:id": 13743
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13744",
+            "o:id": 13744
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13745",
+            "o:id": 13745
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13746",
+            "o:id": 13746
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13747",
+            "o:id": 13747
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13748",
+            "o:id": 13748
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13749",
+            "o:id": 13749
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13750",
+            "o:id": 13750
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13751",
+            "o:id": 13751
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13752",
+            "o:id": 13752
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13753",
+            "o:id": 13753
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13754",
+            "o:id": 13754
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13755",
+            "o:id": 13755
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13756",
+            "o:id": 13756
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13757",
+            "o:id": 13757
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13758",
+            "o:id": 13758
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13759",
+            "o:id": 13759
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13760",
+            "o:id": 13760
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13761",
+            "o:id": 13761
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13762",
+            "o:id": 13762
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13763",
+            "o:id": 13763
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13764",
+            "o:id": 13764
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13765",
+            "o:id": 13765
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13766",
+            "o:id": 13766
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13767",
+            "o:id": 13767
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13768",
+            "o:id": 13768
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13769",
+            "o:id": 13769
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13770",
+            "o:id": 13770
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13771",
+            "o:id": 13771
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13772",
+            "o:id": 13772
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13773",
+            "o:id": 13773
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13774",
+            "o:id": 13774
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13775",
+            "o:id": 13775
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13776",
+            "o:id": 13776
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13777",
+            "o:id": 13777
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13778",
+            "o:id": 13778
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13779",
+            "o:id": 13779
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13780",
+            "o:id": 13780
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13781",
+            "o:id": 13781
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13782",
+            "o:id": 13782
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13783",
+            "o:id": 13783
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13784",
+            "o:id": 13784
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13785",
+            "o:id": 13785
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13786",
+            "o:id": 13786
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13787",
+            "o:id": 13787
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13788",
+            "o:id": 13788
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13789",
+            "o:id": 13789
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13790",
+            "o:id": 13790
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13791",
+            "o:id": 13791
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T02:57:15+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "A list of the cities, towns and open ports of China and dependencies.Kennelly, M.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

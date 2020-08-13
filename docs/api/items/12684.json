@@ -1,0 +1,264 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12684",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-b-0203",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "d2c85e55-af6a-46b8-b20a-135731978053",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3945.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Municipal ethics. Some facts and figures from the Municipal Gazette, 1907-1914. The Shanghai Municipality in an Open Letter to Chairman of the Council.Foster, Arnold.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=14&tg3=W2&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "14. Customs & Manners",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "W2. Opium",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:09+00:00"
+    },
+    "o:id": 12684,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42568",
+            "o:id": 42568
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42569",
+            "o:id": 42569
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42570",
+            "o:id": 42570
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42571",
+            "o:id": 42571
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42572",
+            "o:id": 42572
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42573",
+            "o:id": 42573
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42574",
+            "o:id": 42574
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42575",
+            "o:id": 42575
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42576",
+            "o:id": 42576
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42577",
+            "o:id": 42577
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42578",
+            "o:id": 42578
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42579",
+            "o:id": 42579
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42580",
+            "o:id": 42580
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42581",
+            "o:id": 42581
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42582",
+            "o:id": 42582
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42583",
+            "o:id": 42583
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42584",
+            "o:id": 42584
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42585",
+            "o:id": 42585
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42586",
+            "o:id": 42586
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42587",
+            "o:id": 42587
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42588",
+            "o:id": 42588
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42589",
+            "o:id": 42589
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42590",
+            "o:id": 42590
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42591",
+            "o:id": 42591
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42592",
+            "o:id": 42592
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42593",
+            "o:id": 42593
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42594",
+            "o:id": 42594
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42595",
+            "o:id": 42595
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42596",
+            "o:id": 42596
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42597",
+            "o:id": 42597
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/42598",
+            "o:id": 42598
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T05:01:33+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Municipal ethics. Some facts and figures from the Municipal Gazette, 1907-1914. The Shanghai Municipality in an Open Letter to Chairman of the Council.Foster, Arnold.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

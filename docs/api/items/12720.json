@@ -1,0 +1,386 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12720",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-2264",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "888c78e2-90bd-4f96-bd7c-92acf8a6e194",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3981.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/London",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Opium in China. Extracted from China; political, commercial and social.Martin, R[obert] Montgomery.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "90 p. ; 20 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Martin, R[obert] Montgomery.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "[London, 1847.]",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=14&tg3=W2&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "14. Customs & Manners",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "W2. Opium",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Opium in China. Extracted from China; political, commercial and social.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:10+00:00"
+    },
+    "o:id": 12720,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43093",
+            "o:id": 43093
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43094",
+            "o:id": 43094
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43095",
+            "o:id": 43095
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43096",
+            "o:id": 43096
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43097",
+            "o:id": 43097
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43098",
+            "o:id": 43098
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43099",
+            "o:id": 43099
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43100",
+            "o:id": 43100
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43101",
+            "o:id": 43101
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43102",
+            "o:id": 43102
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43103",
+            "o:id": 43103
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43104",
+            "o:id": 43104
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43105",
+            "o:id": 43105
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43106",
+            "o:id": 43106
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43107",
+            "o:id": 43107
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43108",
+            "o:id": 43108
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43109",
+            "o:id": 43109
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43110",
+            "o:id": 43110
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43111",
+            "o:id": 43111
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43112",
+            "o:id": 43112
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43113",
+            "o:id": 43113
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43114",
+            "o:id": 43114
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43115",
+            "o:id": 43115
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43116",
+            "o:id": 43116
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43117",
+            "o:id": 43117
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43118",
+            "o:id": 43118
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43119",
+            "o:id": 43119
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43120",
+            "o:id": 43120
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43121",
+            "o:id": 43121
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43122",
+            "o:id": 43122
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43123",
+            "o:id": 43123
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43124",
+            "o:id": 43124
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43125",
+            "o:id": 43125
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43126",
+            "o:id": 43126
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43127",
+            "o:id": 43127
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43128",
+            "o:id": 43128
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43129",
+            "o:id": 43129
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43130",
+            "o:id": 43130
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43131",
+            "o:id": 43131
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43132",
+            "o:id": 43132
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43133",
+            "o:id": 43133
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43134",
+            "o:id": 43134
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43135",
+            "o:id": 43135
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43136",
+            "o:id": 43136
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43137",
+            "o:id": 43137
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43138",
+            "o:id": 43138
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43139",
+            "o:id": 43139
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43140",
+            "o:id": 43140
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:43:52+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Opium in China. Extracted from China; political, commercial and social.Martin, R[obert] Montgomery.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

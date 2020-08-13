@@ -1,0 +1,42 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/media/44776",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T21:02:53+00:00"
+    },
+    "o:filename": "12864/P-III-a-2402_009.jpg",
+    "o:id": 44776,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/items/12864",
+        "o:id": 12864
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T21:02:53+00:00"
+    },
+    "o:original_url": "http://localhost:8882/d_omekas/toyo/files/original/12864/P-III-a-2402_009.jpg",
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "3083fc030dcccfa54d3f6eeeed874cd151a86e60473aad6ed5051147b56c6d34",
+    "o:size": null,
+    "o:source": "http://124.33.215.236/morisonp2015/15Politics_Administration/P-III-a-2402_009.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "http://localhost:8882/d_omekas/toyo/files/large/12864/P-III-a-2402_009.jpg",
+        "medium": "http://localhost:8882/d_omekas/toyo/files/medium/12864/P-III-a-2402_009.jpg",
+        "square": "http://localhost:8882/d_omekas/toyo/files/square/12864/P-III-a-2402_009.jpg"
+    },
+    "o:title": null
+}

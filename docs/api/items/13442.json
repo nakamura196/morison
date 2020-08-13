@@ -1,0 +1,282 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13442",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-2073",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1883",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "b4102180-49c8-4abd-90ea-1e253d053214",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4703.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Trade routes to China and French occupation of Tonquin: Review based upon: -1. Travels and researches in Western China, by E. C. Baber. Lond. 1882. -2. Recent attempts to find a direct trade-road to S. W. China, by von Richthofen from \"Ocean Highways\" Lond. 1874. -3. Across Chrysê, by A. R. Colquhoun. Lond. 1883.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "pp. 491-529 ; 23 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "1883",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=20&tg3=H&tg4=c&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "20. Economy and Industry",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "H. Commerce",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "c. Foreign trade",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Trade routes to China and French occupation of Tonquin: Review based upon: -1. Travels and researches in Western China, by E. C. Baber. Lond. 1882. -2. Recent attempts to find a direct trade-road to S. W. China, by von Richthofen from \"Ocean Highways\" Lond. 1874. -3. Across Chrysê, by A. R. Colquhoun. Lond. 1883.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:14+00:00"
+    },
+    "o:id": 13442,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53164",
+            "o:id": 53164
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53165",
+            "o:id": 53165
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53166",
+            "o:id": 53166
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53167",
+            "o:id": 53167
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53168",
+            "o:id": 53168
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53169",
+            "o:id": 53169
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53170",
+            "o:id": 53170
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53171",
+            "o:id": 53171
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53172",
+            "o:id": 53172
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53173",
+            "o:id": 53173
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53174",
+            "o:id": 53174
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53175",
+            "o:id": 53175
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53176",
+            "o:id": 53176
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53177",
+            "o:id": 53177
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53178",
+            "o:id": 53178
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53179",
+            "o:id": 53179
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53180",
+            "o:id": 53180
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53181",
+            "o:id": 53181
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53182",
+            "o:id": 53182
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53183",
+            "o:id": 53183
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53184",
+            "o:id": 53184
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/53185",
+            "o:id": 53185
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T14:33:57+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Trade routes to China and French occupation of Tonquin: Review based upon: -1. Travels and researches in Western China, by E. C. Baber. Lond. 1882. -2. Recent attempts to find a direct trade-road to S. W. China, by von Richthofen from \"Ocean Highways\" Lond. 1874. -3. Across Chrysê, by A. R. Colquhoun. Lond. 1883.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

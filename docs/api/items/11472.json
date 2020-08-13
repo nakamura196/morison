@@ -1,0 +1,319 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11472",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-b-1128",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "978fb502-c200-41be-a1af-f60ca74f06f6",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2733.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Paris",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "L'Europe et la Chine L'Occident et L'Orient.Chevalier, Michel.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "40 p. ; 25 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Chevalier, Michel.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Paris, 1840.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=F&tg4=a&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "F. Foreign relations",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "a. General history of foreign relations with China",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "L\\'Europe et la Chine L\\'Occident et L\\'Orient.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:01+00:00"
+    },
+    "o:id": 11472,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25056",
+            "o:id": 25056
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25057",
+            "o:id": 25057
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25058",
+            "o:id": 25058
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25059",
+            "o:id": 25059
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25060",
+            "o:id": 25060
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25061",
+            "o:id": 25061
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25062",
+            "o:id": 25062
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25063",
+            "o:id": 25063
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25064",
+            "o:id": 25064
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25065",
+            "o:id": 25065
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25066",
+            "o:id": 25066
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25067",
+            "o:id": 25067
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25068",
+            "o:id": 25068
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25069",
+            "o:id": 25069
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25070",
+            "o:id": 25070
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25071",
+            "o:id": 25071
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25072",
+            "o:id": 25072
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25073",
+            "o:id": 25073
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25074",
+            "o:id": 25074
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25075",
+            "o:id": 25075
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25076",
+            "o:id": 25076
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25077",
+            "o:id": 25077
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25078",
+            "o:id": 25078
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25079",
+            "o:id": 25079
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25080",
+            "o:id": 25080
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25081",
+            "o:id": 25081
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25082",
+            "o:id": 25082
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25083",
+            "o:id": 25083
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/25084",
+            "o:id": 25084
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:35:47+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "L'Europe et la Chine L'Occident et L'Orient.Chevalier, Michel.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

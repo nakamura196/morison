@@ -1,0 +1,165 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/morison/iiif/item/12766/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東洋文庫 / Toyo Bunko",
+    "label": "Missionary testimony about the opium trade.[S., Joseph & Mrs. Adams].",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "metadata": [
+        {
+            "label": "Call Number",
+            "term": "dcndl:callNumber",
+            "value": "P-III-a-1676"
+        },
+        {
+            "label": "Identifier",
+            "term": "dcterms:identifier",
+            "value": "f2c86fef-9671-4caa-97c2-84fa13edee90"
+        },
+        {
+            "label": "Is Part Of",
+            "term": "dcterms:isPartOf",
+            "value": "http://124.33.215.236/morisonp2015/morisonpocr4027.php"
+        },
+        {
+            "label": "Is Part Of",
+            "term": "dcterms:isPartOf",
+            "value": "http://124.33.215.236/morisonp2015/morisonpocr4027.php"
+        },
+        {
+            "label": "Publisher",
+            "term": "dcterms:publisher",
+            "value": "モリソンパンフレット画像データベース"
+        },
+        {
+            "label": "Rights",
+            "term": "dcterms:rights",
+            "value": "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+            "label": "Spatial Coverage",
+            "term": "dcterms:spatial",
+            "value": "http://dbpedia.org/resource/London"
+        },
+        {
+            "label": "Title",
+            "term": "dcterms:title",
+            "value": "Missionary testimony about the opium trade.[S., Joseph & Mrs. Adams]."
+        },
+        {
+            "label": "形態的記述",
+            "term": "ex:format",
+            "value": "2 p. ; 22 cm."
+        },
+        {
+            "label": "heading1",
+            "term": "ex:heading1",
+            "value": "[S., Joseph & Mrs. Adams]."
+        },
+        {
+            "label": "所蔵",
+            "term": "ex:holding",
+            "value": "（記録なし）"
+        },
+        {
+            "label": "巻次",
+            "term": "ex:kan",
+            "value": "No. 6."
+        },
+        {
+            "label": "出版事項",
+            "term": "ex:publication",
+            "value": "London, 1893."
+        },
+        {
+            "label": "引用元",
+            "term": "ex:references",
+            "value": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=14&tg3=W2&tg4=&tg5="
+        },
+        {
+            "label": "分類1",
+            "term": "ex:tag1",
+            "value": "III. CHINA"
+        },
+        {
+            "label": "分類2",
+            "term": "ex:tag2",
+            "value": "14. Customs & Manners"
+        },
+        {
+            "label": "分類3",
+            "term": "ex:tag3",
+            "value": "W2. Opium"
+        },
+        {
+            "label": "タイトル責任表示",
+            "term": "ex:title",
+            "value": "Missionary testimony about the opium trade."
+        },
+        {
+            "label": "attributionLabel",
+            "term": "sc:attributionLabel",
+            "value": "東洋文庫 / Toyo Bunko"
+        }
+    ],
+    "seeAlso": "https://nakamura196.github.io/morison/api/items/12766.json",
+    "sequences": [
+        {
+            "@id": "https://nakamura196.github.io/morison/iiif/item/12766/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/12766/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/12766/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/12766/canvas/p1",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/III-14/P-III-a-1676_001.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/III-14/P-III-a-1676_001.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/12766/canvas/p2",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/12766/annotation/p0002-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/12766/canvas/p2",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/III-14/P-III-a-1676_002.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[2]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/III-14/P-III-a-1676_002.jpg"
+                    },
+                    "width": 1
+                }
+            ]
+        }
+    ],
+    "thumbnail": "http://124.33.215.236/morisonp2015/III-14/P-III-a-1676_001.jpg"
+}

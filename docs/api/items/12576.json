@@ -1,0 +1,347 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12576",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1599",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1903",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "04e0cd34-2bbf-4aca-ad18-a61c459fa305",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3837.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Shanghai",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Officers, members and rules...Shanghai Club.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "64 p. ; 17 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Shanghai Club.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "[Shanghai.], 1903.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=14&tg3=S&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "14. Customs & Manners",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "S. Association & Club",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Officers, members and rules...",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:09+00:00"
+    },
+    "o:id": 12576,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41381",
+            "o:id": 41381
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41382",
+            "o:id": 41382
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41383",
+            "o:id": 41383
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41384",
+            "o:id": 41384
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41385",
+            "o:id": 41385
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41386",
+            "o:id": 41386
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41387",
+            "o:id": 41387
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41388",
+            "o:id": 41388
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41389",
+            "o:id": 41389
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41390",
+            "o:id": 41390
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41391",
+            "o:id": 41391
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41392",
+            "o:id": 41392
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41393",
+            "o:id": 41393
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41394",
+            "o:id": 41394
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41395",
+            "o:id": 41395
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41396",
+            "o:id": 41396
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41397",
+            "o:id": 41397
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41398",
+            "o:id": 41398
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41399",
+            "o:id": 41399
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41400",
+            "o:id": 41400
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41401",
+            "o:id": 41401
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41402",
+            "o:id": 41402
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41403",
+            "o:id": 41403
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41404",
+            "o:id": 41404
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41405",
+            "o:id": 41405
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41406",
+            "o:id": 41406
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41407",
+            "o:id": 41407
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41408",
+            "o:id": 41408
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41409",
+            "o:id": 41409
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41410",
+            "o:id": 41410
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41411",
+            "o:id": 41411
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41412",
+            "o:id": 41412
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41413",
+            "o:id": 41413
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41414",
+            "o:id": 41414
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41415",
+            "o:id": 41415
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41416",
+            "o:id": 41416
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T14:27:14+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Officers, members and rules...Shanghai Club.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

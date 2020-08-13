@@ -1,0 +1,305 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/10941",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-0246",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "d18292a2-fe40-4ca2-abfd-4e307e3ae720",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2202.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Old Shanghai. A lecture delivered in 1870.Lang, Hugh.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=C&tg4=b&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "C. Local topography & Travels",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "b. Central China",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:58+00:00"
+    },
+    "o:id": 10941,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16973",
+            "o:id": 16973
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16974",
+            "o:id": 16974
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16975",
+            "o:id": 16975
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16976",
+            "o:id": 16976
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16977",
+            "o:id": 16977
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16978",
+            "o:id": 16978
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16979",
+            "o:id": 16979
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16980",
+            "o:id": 16980
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16981",
+            "o:id": 16981
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16982",
+            "o:id": 16982
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16983",
+            "o:id": 16983
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16984",
+            "o:id": 16984
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16985",
+            "o:id": 16985
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16986",
+            "o:id": 16986
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16987",
+            "o:id": 16987
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16988",
+            "o:id": 16988
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16989",
+            "o:id": 16989
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16990",
+            "o:id": 16990
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16991",
+            "o:id": 16991
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16992",
+            "o:id": 16992
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16993",
+            "o:id": 16993
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16994",
+            "o:id": 16994
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16995",
+            "o:id": 16995
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16996",
+            "o:id": 16996
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16997",
+            "o:id": 16997
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16998",
+            "o:id": 16998
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16999",
+            "o:id": 16999
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17000",
+            "o:id": 17000
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17001",
+            "o:id": 17001
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17002",
+            "o:id": 17002
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17003",
+            "o:id": 17003
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17004",
+            "o:id": 17004
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17005",
+            "o:id": 17005
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17006",
+            "o:id": 17006
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17007",
+            "o:id": 17007
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17008",
+            "o:id": 17008
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17009",
+            "o:id": 17009
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17010",
+            "o:id": 17010
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17011",
+            "o:id": 17011
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T00:56:13+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Old Shanghai. A lecture delivered in 1870.Lang, Hugh.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

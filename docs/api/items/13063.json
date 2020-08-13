@@ -1,0 +1,285 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13063",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-b-0773",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "610ecb24-470c-4157-875b-bb2528dbc1d6",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4324.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Papers on the subject of a petition to the House of Commons praying for an amendment to the constitution of the Crown Colony of Hongkong.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=17&tg3=H&tg4=b&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "17. Law",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "H. International Law",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "b. Extraterritoriality; Consuhar Jurisdiction; Foreign Concession",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:12+00:00"
+    },
+    "o:id": 13063,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47805",
+            "o:id": 47805
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47806",
+            "o:id": 47806
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47807",
+            "o:id": 47807
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47808",
+            "o:id": 47808
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47809",
+            "o:id": 47809
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47810",
+            "o:id": 47810
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47811",
+            "o:id": 47811
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47812",
+            "o:id": 47812
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47813",
+            "o:id": 47813
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47814",
+            "o:id": 47814
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47815",
+            "o:id": 47815
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47816",
+            "o:id": 47816
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47817",
+            "o:id": 47817
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47818",
+            "o:id": 47818
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47819",
+            "o:id": 47819
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47820",
+            "o:id": 47820
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47821",
+            "o:id": 47821
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47822",
+            "o:id": 47822
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47823",
+            "o:id": 47823
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47824",
+            "o:id": 47824
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47825",
+            "o:id": 47825
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47826",
+            "o:id": 47826
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47827",
+            "o:id": 47827
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47828",
+            "o:id": 47828
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47829",
+            "o:id": 47829
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47830",
+            "o:id": 47830
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47831",
+            "o:id": 47831
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47832",
+            "o:id": 47832
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47833",
+            "o:id": 47833
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47834",
+            "o:id": 47834
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47835",
+            "o:id": 47835
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47836",
+            "o:id": 47836
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47837",
+            "o:id": 47837
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47838",
+            "o:id": 47838
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T00:55:32+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Papers on the subject of a petition to the House of Commons praying for an amendment to the constitution of the Crown Colony of Hongkong.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

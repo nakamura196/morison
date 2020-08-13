@@ -1,0 +1,224 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/10778",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-0093",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "6fdc324e-1988-4fdd-aeb2-11263c9756d3",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2039.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "A voyage inland from Canton.Dickson, W. G.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=B&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "B. Travels through China",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:57+00:00"
+    },
+    "o:id": 10778,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13992",
+            "o:id": 13992
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13993",
+            "o:id": 13993
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13994",
+            "o:id": 13994
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13995",
+            "o:id": 13995
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13996",
+            "o:id": 13996
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13997",
+            "o:id": 13997
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13998",
+            "o:id": 13998
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13999",
+            "o:id": 13999
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14000",
+            "o:id": 14000
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14001",
+            "o:id": 14001
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14002",
+            "o:id": 14002
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14003",
+            "o:id": 14003
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14004",
+            "o:id": 14004
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14005",
+            "o:id": 14005
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14006",
+            "o:id": 14006
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14007",
+            "o:id": 14007
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14008",
+            "o:id": 14008
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14009",
+            "o:id": 14009
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14010",
+            "o:id": 14010
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14011",
+            "o:id": 14011
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14012",
+            "o:id": 14012
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T00:52:47+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "A voyage inland from Canton.Dickson, W. G.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

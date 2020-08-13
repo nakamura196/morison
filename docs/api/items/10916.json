@@ -1,0 +1,213 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/10916",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-0231",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "5069b0d7-2d3c-4f67-9c34-da9240cc0b29",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2177.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Historical sketch of Mokansan.Farnham, J. M. W.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=C&tg4=b&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "C. Local topography & Travels",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "b. Central China",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:58+00:00"
+    },
+    "o:id": 10916,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16530",
+            "o:id": 16530
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16531",
+            "o:id": 16531
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16532",
+            "o:id": 16532
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16533",
+            "o:id": 16533
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16534",
+            "o:id": 16534
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16535",
+            "o:id": 16535
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16536",
+            "o:id": 16536
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16537",
+            "o:id": 16537
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16538",
+            "o:id": 16538
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16539",
+            "o:id": 16539
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16540",
+            "o:id": 16540
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16541",
+            "o:id": 16541
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16542",
+            "o:id": 16542
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16543",
+            "o:id": 16543
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16544",
+            "o:id": 16544
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16545",
+            "o:id": 16545
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T01:18:54+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Historical sketch of Mokansan.Farnham, J. M. W.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

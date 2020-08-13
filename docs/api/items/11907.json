@@ -1,0 +1,486 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11907",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-883",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "10369f55-cb3d-460c-a996-e7f6bb6b9b5e",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3168.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Berlin",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Die Kämpfe in China. Im militärischer und politischer Beziehung dargestellt von Asiaticus.Asiaticus, [pseud].",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "2 v. ; 23 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Asiaticus, [pseud].",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Berlin, 1900.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=G&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "G. The Boxer rising, 1900-01",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Die Kämpfe in China. Im militärischer und politischer Beziehung dargestellt von Asiaticus.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:04+00:00"
+    },
+    "o:id": 11907,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31533",
+            "o:id": 31533
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31534",
+            "o:id": 31534
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31535",
+            "o:id": 31535
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31536",
+            "o:id": 31536
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31537",
+            "o:id": 31537
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31538",
+            "o:id": 31538
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31539",
+            "o:id": 31539
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31540",
+            "o:id": 31540
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31541",
+            "o:id": 31541
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31542",
+            "o:id": 31542
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31543",
+            "o:id": 31543
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31544",
+            "o:id": 31544
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31545",
+            "o:id": 31545
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31546",
+            "o:id": 31546
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31547",
+            "o:id": 31547
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31548",
+            "o:id": 31548
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31549",
+            "o:id": 31549
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31550",
+            "o:id": 31550
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31551",
+            "o:id": 31551
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31552",
+            "o:id": 31552
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31553",
+            "o:id": 31553
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31554",
+            "o:id": 31554
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31555",
+            "o:id": 31555
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31556",
+            "o:id": 31556
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31557",
+            "o:id": 31557
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31558",
+            "o:id": 31558
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31559",
+            "o:id": 31559
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31560",
+            "o:id": 31560
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31561",
+            "o:id": 31561
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31562",
+            "o:id": 31562
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31563",
+            "o:id": 31563
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31564",
+            "o:id": 31564
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31565",
+            "o:id": 31565
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31566",
+            "o:id": 31566
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31567",
+            "o:id": 31567
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31568",
+            "o:id": 31568
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31569",
+            "o:id": 31569
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31570",
+            "o:id": 31570
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31571",
+            "o:id": 31571
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31572",
+            "o:id": 31572
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31573",
+            "o:id": 31573
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31574",
+            "o:id": 31574
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31575",
+            "o:id": 31575
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31576",
+            "o:id": 31576
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31577",
+            "o:id": 31577
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31578",
+            "o:id": 31578
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31579",
+            "o:id": 31579
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31580",
+            "o:id": 31580
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31581",
+            "o:id": 31581
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31582",
+            "o:id": 31582
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31583",
+            "o:id": 31583
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31584",
+            "o:id": 31584
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31585",
+            "o:id": 31585
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31586",
+            "o:id": 31586
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31587",
+            "o:id": 31587
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31588",
+            "o:id": 31588
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31589",
+            "o:id": 31589
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31590",
+            "o:id": 31590
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31591",
+            "o:id": 31591
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31592",
+            "o:id": 31592
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31593",
+            "o:id": 31593
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31594",
+            "o:id": 31594
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31595",
+            "o:id": 31595
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31596",
+            "o:id": 31596
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31597",
+            "o:id": 31597
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31598",
+            "o:id": 31598
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31599",
+            "o:id": 31599
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31600",
+            "o:id": 31600
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31601",
+            "o:id": 31601
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31602",
+            "o:id": 31602
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31603",
+            "o:id": 31603
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31604",
+            "o:id": 31604
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31605",
+            "o:id": 31605
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:54:25+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Die Kämpfe in China. Im militärischer und politischer Beziehung dargestellt von Asiaticus.Asiaticus, [pseud].",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

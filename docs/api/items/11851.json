@@ -1,0 +1,275 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11851",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-b-598",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "7805bebe-1299-48cd-a530-18bc91e28628",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3112.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/New_York_(disambiguation)",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The Chinese attitude towards Japan.Jenks, Jeremiah W.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "pp. 149-160 ; 24 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Jenks, Jeremiah W.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "New York, 1917.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=F&tg4=n&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "F. Foreign relations",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "n. Japan (Including Shino-Japanese War)",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "The Chinese attitude towards Japan.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:04+00:00"
+    },
+    "o:id": 11851,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30731",
+            "o:id": 30731
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30732",
+            "o:id": 30732
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30733",
+            "o:id": 30733
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30734",
+            "o:id": 30734
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30735",
+            "o:id": 30735
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30736",
+            "o:id": 30736
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30737",
+            "o:id": 30737
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30738",
+            "o:id": 30738
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30739",
+            "o:id": 30739
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30740",
+            "o:id": 30740
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30741",
+            "o:id": 30741
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30742",
+            "o:id": 30742
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30743",
+            "o:id": 30743
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30744",
+            "o:id": 30744
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30745",
+            "o:id": 30745
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30746",
+            "o:id": 30746
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30747",
+            "o:id": 30747
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30748",
+            "o:id": 30748
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:34:24+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "The Chinese attitude towards Japan.Jenks, Jeremiah W.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

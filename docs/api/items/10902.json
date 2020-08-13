@@ -1,0 +1,517 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/10902",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-0241",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "48829e72-4127-4220-bdb7-aae0dedd542f",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2163.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Berol's guide to Shanghai in particular and China in general.Berol, William.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=C&tg4=b&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "C. Local topography & Travels",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "b. Central China",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:58+00:00"
+    },
+    "o:id": 10902,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16262",
+            "o:id": 16262
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16263",
+            "o:id": 16263
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16264",
+            "o:id": 16264
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16265",
+            "o:id": 16265
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16266",
+            "o:id": 16266
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16267",
+            "o:id": 16267
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16268",
+            "o:id": 16268
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16269",
+            "o:id": 16269
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16270",
+            "o:id": 16270
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16271",
+            "o:id": 16271
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16272",
+            "o:id": 16272
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16273",
+            "o:id": 16273
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16274",
+            "o:id": 16274
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16275",
+            "o:id": 16275
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16276",
+            "o:id": 16276
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16277",
+            "o:id": 16277
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16278",
+            "o:id": 16278
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16279",
+            "o:id": 16279
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16280",
+            "o:id": 16280
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16281",
+            "o:id": 16281
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16282",
+            "o:id": 16282
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16283",
+            "o:id": 16283
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16284",
+            "o:id": 16284
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16285",
+            "o:id": 16285
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16286",
+            "o:id": 16286
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16287",
+            "o:id": 16287
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16288",
+            "o:id": 16288
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16289",
+            "o:id": 16289
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16290",
+            "o:id": 16290
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16291",
+            "o:id": 16291
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16292",
+            "o:id": 16292
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16293",
+            "o:id": 16293
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16294",
+            "o:id": 16294
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16295",
+            "o:id": 16295
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16296",
+            "o:id": 16296
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16297",
+            "o:id": 16297
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16298",
+            "o:id": 16298
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16299",
+            "o:id": 16299
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16300",
+            "o:id": 16300
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16301",
+            "o:id": 16301
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16302",
+            "o:id": 16302
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16303",
+            "o:id": 16303
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16304",
+            "o:id": 16304
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16305",
+            "o:id": 16305
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16306",
+            "o:id": 16306
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16307",
+            "o:id": 16307
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16308",
+            "o:id": 16308
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16309",
+            "o:id": 16309
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16310",
+            "o:id": 16310
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16311",
+            "o:id": 16311
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16312",
+            "o:id": 16312
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16313",
+            "o:id": 16313
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16314",
+            "o:id": 16314
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16315",
+            "o:id": 16315
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16316",
+            "o:id": 16316
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16317",
+            "o:id": 16317
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16318",
+            "o:id": 16318
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16319",
+            "o:id": 16319
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16320",
+            "o:id": 16320
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16321",
+            "o:id": 16321
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16322",
+            "o:id": 16322
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16323",
+            "o:id": 16323
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16324",
+            "o:id": 16324
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16325",
+            "o:id": 16325
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16326",
+            "o:id": 16326
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16327",
+            "o:id": 16327
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16328",
+            "o:id": 16328
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16329",
+            "o:id": 16329
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16330",
+            "o:id": 16330
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16331",
+            "o:id": 16331
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16332",
+            "o:id": 16332
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16333",
+            "o:id": 16333
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16334",
+            "o:id": 16334
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16335",
+            "o:id": 16335
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16336",
+            "o:id": 16336
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16337",
+            "o:id": 16337
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16338",
+            "o:id": 16338
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16339",
+            "o:id": 16339
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16340",
+            "o:id": 16340
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16341",
+            "o:id": 16341
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16342",
+            "o:id": 16342
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16343",
+            "o:id": 16343
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16344",
+            "o:id": 16344
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16345",
+            "o:id": 16345
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16346",
+            "o:id": 16346
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16347",
+            "o:id": 16347
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16348",
+            "o:id": 16348
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16349",
+            "o:id": 16349
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16350",
+            "o:id": 16350
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16351",
+            "o:id": 16351
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16352",
+            "o:id": 16352
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16353",
+            "o:id": 16353
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T04:18:52+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Berol's guide to Shanghai in particular and China in general.Berol, William.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

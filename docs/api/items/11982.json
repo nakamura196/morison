@@ -1,0 +1,366 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11982",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-2865",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "22e553bb-281a-4370-9f4d-72322ed9d6e6",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3243.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Basel",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Die chinesische Fremden-und Christenverfolgung vom Sommer 1900. Ein Bild aus der neuesten Missions-geschichte.Schlatter, W.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "77 p. ; 21 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Schlatter, W.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Basel, 1901.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=G&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "G. The Boxer rising, 1900-01",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Die chinesische Fremden-und Christenverfolgung vom Sommer 1900. Ein Bild aus der neuesten Missions-geschichte.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:05+00:00"
+    },
+    "o:id": 11982,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32812",
+            "o:id": 32812
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32813",
+            "o:id": 32813
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32814",
+            "o:id": 32814
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32815",
+            "o:id": 32815
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32816",
+            "o:id": 32816
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32817",
+            "o:id": 32817
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32818",
+            "o:id": 32818
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32819",
+            "o:id": 32819
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32820",
+            "o:id": 32820
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32821",
+            "o:id": 32821
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32822",
+            "o:id": 32822
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32823",
+            "o:id": 32823
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32824",
+            "o:id": 32824
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32825",
+            "o:id": 32825
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32826",
+            "o:id": 32826
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32827",
+            "o:id": 32827
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32828",
+            "o:id": 32828
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32829",
+            "o:id": 32829
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32830",
+            "o:id": 32830
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32831",
+            "o:id": 32831
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32832",
+            "o:id": 32832
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32833",
+            "o:id": 32833
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32834",
+            "o:id": 32834
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32835",
+            "o:id": 32835
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32836",
+            "o:id": 32836
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32837",
+            "o:id": 32837
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32838",
+            "o:id": 32838
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32839",
+            "o:id": 32839
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32840",
+            "o:id": 32840
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32841",
+            "o:id": 32841
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32842",
+            "o:id": 32842
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32843",
+            "o:id": 32843
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32844",
+            "o:id": 32844
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32845",
+            "o:id": 32845
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32846",
+            "o:id": 32846
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32847",
+            "o:id": 32847
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32848",
+            "o:id": 32848
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32849",
+            "o:id": 32849
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32850",
+            "o:id": 32850
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32851",
+            "o:id": 32851
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32852",
+            "o:id": 32852
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32853",
+            "o:id": 32853
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32854",
+            "o:id": 32854
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:35:50+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Die chinesische Fremden-und Christenverfolgung vom Sommer 1900. Ein Bild aus der neuesten Missions-geschichte.Schlatter, W.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

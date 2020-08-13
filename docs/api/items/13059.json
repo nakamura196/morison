@@ -1,0 +1,311 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13059",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-2559",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1898",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "d3a0bfb2-9a4f-44dc-9648-aac34e59232e",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4320.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Shanghai",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Land regulations and bye-laws for the Foreign Settlements of Shanghai, north of the Yang-king-pang.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "49 p. ; 21 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Shanghai, 1898.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=17&tg3=H&tg4=b&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "17. Law",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "H. International Law",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "b. Extraterritoriality; Consuhar Jurisdiction; Foreign Concession",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Land regulations and bye-laws for the Foreign Settlements of Shanghai, north of the Yang-king-pang.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:12+00:00"
+    },
+    "o:id": 13059,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47724",
+            "o:id": 47724
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47725",
+            "o:id": 47725
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47726",
+            "o:id": 47726
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47727",
+            "o:id": 47727
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47728",
+            "o:id": 47728
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47729",
+            "o:id": 47729
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47730",
+            "o:id": 47730
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47731",
+            "o:id": 47731
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47732",
+            "o:id": 47732
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47733",
+            "o:id": 47733
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47734",
+            "o:id": 47734
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47735",
+            "o:id": 47735
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47736",
+            "o:id": 47736
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47737",
+            "o:id": 47737
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47738",
+            "o:id": 47738
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47739",
+            "o:id": 47739
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47740",
+            "o:id": 47740
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47741",
+            "o:id": 47741
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47742",
+            "o:id": 47742
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47743",
+            "o:id": 47743
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47744",
+            "o:id": 47744
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47745",
+            "o:id": 47745
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47746",
+            "o:id": 47746
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47747",
+            "o:id": 47747
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47748",
+            "o:id": 47748
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47749",
+            "o:id": 47749
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47750",
+            "o:id": 47750
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:32:33+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Land regulations and bye-laws for the Foreign Settlements of Shanghai, north of the Yang-king-pang.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

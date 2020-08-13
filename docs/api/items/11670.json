@@ -1,0 +1,347 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11670",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1117",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "f3c62436-ed0e-4675-9f5e-57966fa91252",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2931.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/London",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The Emperor of China v. the Queen of England. A refutation of the arguments contained in the seven official documents transmitted by H. M. Government at Hongkong, who maintain that the documents of the Chinese Government contain insulating language.Thoms, P[eter] P[erring].",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "67 p. ; 21 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Thoms, P[eter] P[erring].",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "London, 1853.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=F&tg4=e&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "F. Foreign relations",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "e. Great-Britain",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "The Emperor of China v. the Queen of England. A refutation of the arguments contained in the seven official documents transmitted by H. M. Government at Hongkong, who maintain that the documents of the Chinese Government contain insulating language.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:03+00:00"
+    },
+    "o:id": 11670,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28131",
+            "o:id": 28131
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28132",
+            "o:id": 28132
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28133",
+            "o:id": 28133
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28134",
+            "o:id": 28134
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28135",
+            "o:id": 28135
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28136",
+            "o:id": 28136
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28137",
+            "o:id": 28137
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28138",
+            "o:id": 28138
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28139",
+            "o:id": 28139
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28140",
+            "o:id": 28140
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28141",
+            "o:id": 28141
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28142",
+            "o:id": 28142
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28143",
+            "o:id": 28143
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28144",
+            "o:id": 28144
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28145",
+            "o:id": 28145
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28146",
+            "o:id": 28146
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28147",
+            "o:id": 28147
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28148",
+            "o:id": 28148
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28149",
+            "o:id": 28149
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28150",
+            "o:id": 28150
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28151",
+            "o:id": 28151
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28152",
+            "o:id": 28152
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28153",
+            "o:id": 28153
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28154",
+            "o:id": 28154
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28155",
+            "o:id": 28155
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28156",
+            "o:id": 28156
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28157",
+            "o:id": 28157
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28158",
+            "o:id": 28158
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28159",
+            "o:id": 28159
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28160",
+            "o:id": 28160
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28161",
+            "o:id": 28161
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28162",
+            "o:id": 28162
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28163",
+            "o:id": 28163
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28164",
+            "o:id": 28164
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28165",
+            "o:id": 28165
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28166",
+            "o:id": 28166
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T14:24:39+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "The Emperor of China v. the Queen of England. A refutation of the arguments contained in the seven official documents transmitted by H. M. Government at Hongkong, who maintain that the documents of the Chinese Government contain insulating language.Thoms, P[eter] P[erring].",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

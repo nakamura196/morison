@@ -1,0 +1,283 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13205",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-2841",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "1d900154-44ac-4750-8b47-c39341ac9524",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4466.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Lyon",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "La Chine, Industrielle et Commerciale, (Conférence faite à la Société de Géographie de Lyon, le 1er mars 1888 par H. Castonnet des Fosses).Castonnet des Fosses, H.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "35 p. ; 25 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Castonnet des Fosses, H.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Lyon, 1888.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=20&tg3=G&tg4=a&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "20. Economy and Industry",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "G. Industry",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "a. General",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "La Chine, Industrielle et Commerciale, (Conférence faite à la Société de Géographie de Lyon, le 1er mars 1888 par H. Castonnet des Fosses).",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:13+00:00"
+    },
+    "o:id": 13205,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49854",
+            "o:id": 49854
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49855",
+            "o:id": 49855
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49856",
+            "o:id": 49856
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49857",
+            "o:id": 49857
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49858",
+            "o:id": 49858
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49859",
+            "o:id": 49859
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49860",
+            "o:id": 49860
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49861",
+            "o:id": 49861
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49862",
+            "o:id": 49862
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49863",
+            "o:id": 49863
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49864",
+            "o:id": 49864
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49865",
+            "o:id": 49865
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49866",
+            "o:id": 49866
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49867",
+            "o:id": 49867
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49868",
+            "o:id": 49868
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49869",
+            "o:id": 49869
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49870",
+            "o:id": 49870
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49871",
+            "o:id": 49871
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49872",
+            "o:id": 49872
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49873",
+            "o:id": 49873
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:32:21+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "La Chine, Industrielle et Commerciale, (Conférence faite à la Société de Géographie de Lyon, le 1er mars 1888 par H. Castonnet des Fosses).Castonnet des Fosses, H.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

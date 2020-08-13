@@ -1,0 +1,282 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13523",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-c-214",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1910",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "b4363cfa-d161-4611-ad5d-5c5fb2d39483",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4784.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Chinchou-Aigun. Railways. Notes addressed by the Japanese. Russian and French Ministers to the Wai Wu Pu forbidding the Construction of the Chinchou-Aigun Railway unless the consent of the Japanese and Russian Governments first be obtained. Ten dispatches.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "19 p. ; 27 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "1910",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=21&tg3=B&tg4=b&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "21. Communication",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "B. Communication by Land",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "b. Railway",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Chinchou-Aigun. Railways. Notes addressed by the Japanese. Russian and French Ministers to the Wai Wu Pu forbidding the Construction of the Chinchou-Aigun Railway unless the consent of the Japanese and Russian Governments first be obtained. Ten dispatches.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:15+00:00"
+    },
+    "o:id": 13523,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54247",
+            "o:id": 54247
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54248",
+            "o:id": 54248
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54249",
+            "o:id": 54249
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54250",
+            "o:id": 54250
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54251",
+            "o:id": 54251
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54252",
+            "o:id": 54252
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54253",
+            "o:id": 54253
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54254",
+            "o:id": 54254
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54255",
+            "o:id": 54255
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54256",
+            "o:id": 54256
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54257",
+            "o:id": 54257
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54258",
+            "o:id": 54258
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54259",
+            "o:id": 54259
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54260",
+            "o:id": 54260
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54261",
+            "o:id": 54261
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54262",
+            "o:id": 54262
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54263",
+            "o:id": 54263
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54264",
+            "o:id": 54264
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54265",
+            "o:id": 54265
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54266",
+            "o:id": 54266
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54267",
+            "o:id": 54267
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54268",
+            "o:id": 54268
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:38:29+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Chinchou-Aigun. Railways. Notes addressed by the Japanese. Russian and French Ministers to the Wai Wu Pu forbidding the Construction of the Chinchou-Aigun Railway unless the consent of the Japanese and Russian Governments first be obtained. Ten dispatches.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

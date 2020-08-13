@@ -1,0 +1,362 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/10777",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-b-1188",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "2130e552-9ca3-41e9-8ce8-45e9d2e0f67b",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2038.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Paris",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Le voyage de Montferran de Paris à la Chine. Pub. d'après un manuscrit de la Biblioth de la Faculté de Médecine de Montpellier; par L. Marcel Devic.[Feynes, Henri de.]",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "36 p. ; 24 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "[Feynes, Henri de.]",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Paris, 1884.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=B&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "B. Travels through China",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Le voyage de Montferran de Paris à la Chine. Pub. d\\'après un manuscrit de la Biblioth de la Faculté de Médecine de Montpellier; par L. Marcel Devic.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:57+00:00"
+    },
+    "o:id": 10777,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13971",
+            "o:id": 13971
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13972",
+            "o:id": 13972
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13973",
+            "o:id": 13973
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13974",
+            "o:id": 13974
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13975",
+            "o:id": 13975
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13976",
+            "o:id": 13976
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13977",
+            "o:id": 13977
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13978",
+            "o:id": 13978
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13979",
+            "o:id": 13979
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13980",
+            "o:id": 13980
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13981",
+            "o:id": 13981
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13982",
+            "o:id": 13982
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13983",
+            "o:id": 13983
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13984",
+            "o:id": 13984
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13985",
+            "o:id": 13985
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13986",
+            "o:id": 13986
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13987",
+            "o:id": 13987
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13988",
+            "o:id": 13988
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13989",
+            "o:id": 13989
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13990",
+            "o:id": 13990
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/13991",
+            "o:id": 13991
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14037",
+            "o:id": 14037
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14038",
+            "o:id": 14038
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14039",
+            "o:id": 14039
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14040",
+            "o:id": 14040
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14041",
+            "o:id": 14041
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14042",
+            "o:id": 14042
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14043",
+            "o:id": 14043
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14044",
+            "o:id": 14044
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14045",
+            "o:id": 14045
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14046",
+            "o:id": 14046
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14047",
+            "o:id": 14047
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14048",
+            "o:id": 14048
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14049",
+            "o:id": 14049
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14050",
+            "o:id": 14050
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14051",
+            "o:id": 14051
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14052",
+            "o:id": 14052
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14053",
+            "o:id": 14053
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14054",
+            "o:id": 14054
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14055",
+            "o:id": 14055
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14056",
+            "o:id": 14056
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14057",
+            "o:id": 14057
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T14:10:49+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Le voyage de Montferran de Paris à la Chine. Pub. d'après un manuscrit de la Biblioth de la Faculté de Médecine de Montpellier; par L. Marcel Devic.[Feynes, Henri de.]",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

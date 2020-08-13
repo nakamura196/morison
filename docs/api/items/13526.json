@@ -1,0 +1,334 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13526",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1991",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "130658f4-1957-4495-9024-b5259d43d936",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4787.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Tianjin",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The Chinese government railways. Peking-Mukden line. Rules and regulations regarding the through booking of passengers and registration of baggage to stations in Europe via the Trans-Siberian Railway.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "20, 39 p. ; 23 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Tientsin, 1914.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=21&tg3=B&tg4=b&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "21. Communication",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "B. Communication by Land",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "b. Railway",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "The Chinese government railways. Peking-Mukden line. Rules and regulations regarding the through booking of passengers and registration of baggage to stations in Europe via the Trans-Siberian Railway.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:15+00:00"
+    },
+    "o:id": 13526,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54333",
+            "o:id": 54333
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54334",
+            "o:id": 54334
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54335",
+            "o:id": 54335
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54336",
+            "o:id": 54336
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54337",
+            "o:id": 54337
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54338",
+            "o:id": 54338
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54339",
+            "o:id": 54339
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54340",
+            "o:id": 54340
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54341",
+            "o:id": 54341
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54342",
+            "o:id": 54342
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54343",
+            "o:id": 54343
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54344",
+            "o:id": 54344
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54345",
+            "o:id": 54345
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54346",
+            "o:id": 54346
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54347",
+            "o:id": 54347
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54348",
+            "o:id": 54348
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54349",
+            "o:id": 54349
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54350",
+            "o:id": 54350
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54351",
+            "o:id": 54351
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54352",
+            "o:id": 54352
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54353",
+            "o:id": 54353
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54354",
+            "o:id": 54354
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54355",
+            "o:id": 54355
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54356",
+            "o:id": 54356
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54357",
+            "o:id": 54357
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54358",
+            "o:id": 54358
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54359",
+            "o:id": 54359
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54360",
+            "o:id": 54360
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54361",
+            "o:id": 54361
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54362",
+            "o:id": 54362
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54363",
+            "o:id": 54363
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54364",
+            "o:id": 54364
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54365",
+            "o:id": 54365
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54366",
+            "o:id": 54366
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54367",
+            "o:id": 54367
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T14:09:55+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "The Chinese government railways. Peking-Mukden line. Rules and regulations regarding the through booking of passengers and registration of baggage to stations in Europe via the Trans-Siberian Railway.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

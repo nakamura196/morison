@@ -1,0 +1,262 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12313",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-b-0876",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "ad5b4fa6-a6d0-43a5-9835-c70f1bc4a532",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3574.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "A survey of Roman Catholic Missions.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=10&tg3=E&tg4=c&tg5=c3",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "10. Religion",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "E. Christianity",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "c. Roman Catholic",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:tag5": [
+        {
+            "@value": "c3. Particular Orders & Missionary Societies",
+            "is_public": true,
+            "property_id": 297,
+            "property_label": "分類5",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:07+00:00"
+    },
+    "o:id": 12313,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37714",
+            "o:id": 37714
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37715",
+            "o:id": 37715
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37716",
+            "o:id": 37716
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37717",
+            "o:id": 37717
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37718",
+            "o:id": 37718
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37719",
+            "o:id": 37719
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37720",
+            "o:id": 37720
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37721",
+            "o:id": 37721
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37722",
+            "o:id": 37722
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37723",
+            "o:id": 37723
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37724",
+            "o:id": 37724
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37725",
+            "o:id": 37725
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37726",
+            "o:id": 37726
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37727",
+            "o:id": 37727
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37728",
+            "o:id": 37728
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37729",
+            "o:id": 37729
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37730",
+            "o:id": 37730
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37731",
+            "o:id": 37731
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37732",
+            "o:id": 37732
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37733",
+            "o:id": 37733
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37734",
+            "o:id": 37734
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37735",
+            "o:id": 37735
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37736",
+            "o:id": 37736
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37737",
+            "o:id": 37737
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37738",
+            "o:id": 37738
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37739",
+            "o:id": 37739
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T01:30:28+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "A survey of Roman Catholic Missions.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

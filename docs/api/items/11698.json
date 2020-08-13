@@ -1,0 +1,271 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11698",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-b-675",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "3a501f27-4ace-43f6-aed9-5dde4bc8e14a",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2959.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Paris",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Chinois et Russes au Kouldja.Plauchut, Edmond.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "pp. 893-919 ; 24 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Plauchut, Edmond.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Paris, 1881.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=F&tg4=f&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "F. Foreign relations",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "f. Russia",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Chinois et Russes au Kouldja.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:03+00:00"
+    },
+    "o:id": 11698,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28613",
+            "o:id": 28613
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28614",
+            "o:id": 28614
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28615",
+            "o:id": 28615
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28616",
+            "o:id": 28616
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28617",
+            "o:id": 28617
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28618",
+            "o:id": 28618
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28619",
+            "o:id": 28619
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28620",
+            "o:id": 28620
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28621",
+            "o:id": 28621
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28622",
+            "o:id": 28622
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28623",
+            "o:id": 28623
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28624",
+            "o:id": 28624
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28625",
+            "o:id": 28625
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28626",
+            "o:id": 28626
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28627",
+            "o:id": 28627
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28628",
+            "o:id": 28628
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28629",
+            "o:id": 28629
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:53:22+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Chinois et Russes au Kouldja.Plauchut, Edmond.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

@@ -1,0 +1,262 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12916",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-2613",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1912",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "88aa3aa7-44c6-4cdc-aeca-ff9ff1c5481a",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4177.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Taxation in China.Williams, E. T.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "pp. 482-510 ; 25 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Williams, E. T.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "1912",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=16&tg3=D&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "16. Finance",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "D. Tax and Taxation",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Taxation in China.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:11+00:00"
+    },
+    "o:id": 12916,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45303",
+            "o:id": 45303
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45304",
+            "o:id": 45304
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45305",
+            "o:id": 45305
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45306",
+            "o:id": 45306
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45307",
+            "o:id": 45307
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45308",
+            "o:id": 45308
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45309",
+            "o:id": 45309
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45310",
+            "o:id": 45310
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45311",
+            "o:id": 45311
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45312",
+            "o:id": 45312
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45313",
+            "o:id": 45313
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45314",
+            "o:id": 45314
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45315",
+            "o:id": 45315
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45316",
+            "o:id": 45316
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45317",
+            "o:id": 45317
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45318",
+            "o:id": 45318
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45319",
+            "o:id": 45319
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:49:18+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Taxation in China.Williams, E. T.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

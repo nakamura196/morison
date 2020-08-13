@@ -1,0 +1,420 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13268",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-b-1049",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "f670176e-0a60-4422-b422-f1b41ca43247",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4529.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Stockholm",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The coal and mineral resources of Shansi Province, China.Nyström, Erik T.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "97 p. ; 24 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Nyström, Erik T.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Stockholm, 1912.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=20&tg3=G&tg4=i&tg5=i1",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "20. Economy and Industry",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "G. Industry",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "i. Mining industry",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:tag5": [
+        {
+            "@value": "i1. General",
+            "is_public": true,
+            "property_id": 297,
+            "property_label": "分類5",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "The coal and mineral resources of Shansi Province, China.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:13+00:00"
+    },
+    "o:id": 13268,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50871",
+            "o:id": 50871
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50872",
+            "o:id": 50872
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50873",
+            "o:id": 50873
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50874",
+            "o:id": 50874
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50875",
+            "o:id": 50875
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50876",
+            "o:id": 50876
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50877",
+            "o:id": 50877
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50878",
+            "o:id": 50878
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50879",
+            "o:id": 50879
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50880",
+            "o:id": 50880
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50881",
+            "o:id": 50881
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50882",
+            "o:id": 50882
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50883",
+            "o:id": 50883
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50884",
+            "o:id": 50884
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50885",
+            "o:id": 50885
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50886",
+            "o:id": 50886
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50887",
+            "o:id": 50887
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50888",
+            "o:id": 50888
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50889",
+            "o:id": 50889
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50890",
+            "o:id": 50890
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50891",
+            "o:id": 50891
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50892",
+            "o:id": 50892
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50893",
+            "o:id": 50893
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50894",
+            "o:id": 50894
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50895",
+            "o:id": 50895
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50896",
+            "o:id": 50896
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50897",
+            "o:id": 50897
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50898",
+            "o:id": 50898
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50899",
+            "o:id": 50899
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50900",
+            "o:id": 50900
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50901",
+            "o:id": 50901
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50902",
+            "o:id": 50902
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50903",
+            "o:id": 50903
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50904",
+            "o:id": 50904
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50905",
+            "o:id": 50905
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50906",
+            "o:id": 50906
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50907",
+            "o:id": 50907
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50908",
+            "o:id": 50908
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50909",
+            "o:id": 50909
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50910",
+            "o:id": 50910
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50911",
+            "o:id": 50911
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50912",
+            "o:id": 50912
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50913",
+            "o:id": 50913
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50914",
+            "o:id": 50914
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50915",
+            "o:id": 50915
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50916",
+            "o:id": 50916
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50917",
+            "o:id": 50917
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50918",
+            "o:id": 50918
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50919",
+            "o:id": 50919
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50920",
+            "o:id": 50920
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50921",
+            "o:id": 50921
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50922",
+            "o:id": 50922
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:32:13+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "The coal and mineral resources of Shansi Province, China.Nyström, Erik T.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

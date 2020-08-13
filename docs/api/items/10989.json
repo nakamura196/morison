@@ -1,0 +1,301 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/10989",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-0266",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "b5c6da52-811a-4b49-b872-d9c9d53f16b7",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2250.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Notes de voyage en Chine Centrale : d'Amoy à Hankao, à travers le Fou-kien le Kiang-si, le Hou-nan et le Hou-pé (avec itinéraire).Rocher, [Emile].",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=C&tg4=c&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "C. Local topography & Travels",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "c. South China",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:58+00:00"
+    },
+    "o:id": 10989,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17815",
+            "o:id": 17815
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17816",
+            "o:id": 17816
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17817",
+            "o:id": 17817
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17818",
+            "o:id": 17818
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17819",
+            "o:id": 17819
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17820",
+            "o:id": 17820
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17821",
+            "o:id": 17821
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17822",
+            "o:id": 17822
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17823",
+            "o:id": 17823
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17824",
+            "o:id": 17824
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17825",
+            "o:id": 17825
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17826",
+            "o:id": 17826
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17827",
+            "o:id": 17827
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17828",
+            "o:id": 17828
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17829",
+            "o:id": 17829
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17830",
+            "o:id": 17830
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17831",
+            "o:id": 17831
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17832",
+            "o:id": 17832
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17833",
+            "o:id": 17833
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17834",
+            "o:id": 17834
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17835",
+            "o:id": 17835
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17836",
+            "o:id": 17836
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17837",
+            "o:id": 17837
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17838",
+            "o:id": 17838
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17839",
+            "o:id": 17839
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17840",
+            "o:id": 17840
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17841",
+            "o:id": 17841
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17842",
+            "o:id": 17842
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17843",
+            "o:id": 17843
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17844",
+            "o:id": 17844
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17845",
+            "o:id": 17845
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17846",
+            "o:id": 17846
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17847",
+            "o:id": 17847
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17848",
+            "o:id": 17848
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17849",
+            "o:id": 17849
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17850",
+            "o:id": 17850
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17851",
+            "o:id": 17851
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17852",
+            "o:id": 17852
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T01:33:59+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Notes de voyage en Chine Centrale : d'Amoy à Hankao, à travers le Fou-kien le Kiang-si, le Hou-nan et le Hou-pé (avec itinéraire).Rocher, [Emile].",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

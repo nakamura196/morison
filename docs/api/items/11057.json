@@ -1,0 +1,217 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11057",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-0123",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "7b0c283a-5225-4b38-8f46-212c15c8ff5a",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2318.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Marco Polo in Cambaluc : A comparison of foreign and native accounts.Ament, William Scott.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=F&tg4=c&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "F. Ancient & Mediaeval Description & Travel",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "c. Individual Works (Marco Pole)",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:59+00:00"
+    },
+    "o:id": 11057,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18986",
+            "o:id": 18986
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18987",
+            "o:id": 18987
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18988",
+            "o:id": 18988
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18989",
+            "o:id": 18989
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18990",
+            "o:id": 18990
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18991",
+            "o:id": 18991
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18992",
+            "o:id": 18992
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18993",
+            "o:id": 18993
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18994",
+            "o:id": 18994
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18995",
+            "o:id": 18995
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18996",
+            "o:id": 18996
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18997",
+            "o:id": 18997
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18998",
+            "o:id": 18998
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18999",
+            "o:id": 18999
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19000",
+            "o:id": 19000
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19001",
+            "o:id": 19001
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19002",
+            "o:id": 19002
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T01:11:09+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Marco Polo in Cambaluc : A comparison of foreign and native accounts.Ament, William Scott.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

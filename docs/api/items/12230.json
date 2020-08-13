@@ -1,0 +1,399 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12230",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-2778",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "8eec44bb-37e2-445e-a59d-daca8e6ae99d",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3491.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/London",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The Chinese crisis and Christian missionaries: a vindication.M'Intosh, Gilbert.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "90 p. ; 17 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "M\\'Intosh, Gilbert.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "London, 1901.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=10&tg3=E&tg4=a&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "10. Religion",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "E. Christianity",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "a. General works",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "The Chinese crisis and Christian missionaries: a vindication.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:06+00:00"
+    },
+    "o:id": 12230,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36319",
+            "o:id": 36319
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36320",
+            "o:id": 36320
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36321",
+            "o:id": 36321
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36322",
+            "o:id": 36322
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36323",
+            "o:id": 36323
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36324",
+            "o:id": 36324
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36325",
+            "o:id": 36325
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36326",
+            "o:id": 36326
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36327",
+            "o:id": 36327
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36328",
+            "o:id": 36328
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36329",
+            "o:id": 36329
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36330",
+            "o:id": 36330
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36331",
+            "o:id": 36331
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36332",
+            "o:id": 36332
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36333",
+            "o:id": 36333
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36334",
+            "o:id": 36334
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36335",
+            "o:id": 36335
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36336",
+            "o:id": 36336
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36337",
+            "o:id": 36337
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36338",
+            "o:id": 36338
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36339",
+            "o:id": 36339
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36340",
+            "o:id": 36340
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36341",
+            "o:id": 36341
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36342",
+            "o:id": 36342
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36343",
+            "o:id": 36343
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36344",
+            "o:id": 36344
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36345",
+            "o:id": 36345
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36346",
+            "o:id": 36346
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36347",
+            "o:id": 36347
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36348",
+            "o:id": 36348
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36349",
+            "o:id": 36349
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36350",
+            "o:id": 36350
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36351",
+            "o:id": 36351
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36352",
+            "o:id": 36352
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36353",
+            "o:id": 36353
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36354",
+            "o:id": 36354
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36355",
+            "o:id": 36355
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36356",
+            "o:id": 36356
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36357",
+            "o:id": 36357
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36358",
+            "o:id": 36358
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36359",
+            "o:id": 36359
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36360",
+            "o:id": 36360
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36361",
+            "o:id": 36361
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36362",
+            "o:id": 36362
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36363",
+            "o:id": 36363
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36364",
+            "o:id": 36364
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36365",
+            "o:id": 36365
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36366",
+            "o:id": 36366
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/36367",
+            "o:id": 36367
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:32:21+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "The Chinese crisis and Christian missionaries: a vindication.M'Intosh, Gilbert.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

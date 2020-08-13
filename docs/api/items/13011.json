@@ -1,0 +1,232 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13011",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-b-0430",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "323ee7ee-d903-463f-9945-ab1ca0105270",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4272.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The commercial law affecting Chinese; with special reference to Partnership registration and bankruptcy laws in Hongkong.Commercial Law, the.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=17&tg3=E&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "17. Law",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "E. Commercial Law",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:11+00:00"
+    },
+    "o:id": 13011,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47041",
+            "o:id": 47041
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47042",
+            "o:id": 47042
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47043",
+            "o:id": 47043
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47044",
+            "o:id": 47044
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47045",
+            "o:id": 47045
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47046",
+            "o:id": 47046
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47047",
+            "o:id": 47047
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47048",
+            "o:id": 47048
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47049",
+            "o:id": 47049
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47050",
+            "o:id": 47050
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47051",
+            "o:id": 47051
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47052",
+            "o:id": 47052
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47053",
+            "o:id": 47053
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47054",
+            "o:id": 47054
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47055",
+            "o:id": 47055
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47056",
+            "o:id": 47056
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47057",
+            "o:id": 47057
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47058",
+            "o:id": 47058
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47059",
+            "o:id": 47059
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47060",
+            "o:id": 47060
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47061",
+            "o:id": 47061
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47062",
+            "o:id": 47062
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47063",
+            "o:id": 47063
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T01:01:23+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "The commercial law affecting Chinese; with special reference to Partnership registration and bankruptcy laws in Hongkong.Commercial Law, the.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

@@ -1,0 +1,289 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11034",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-b-0025",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "978c2f2a-8483-4b70-b9b8-f7373d538fae",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2295.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Chungking, Queen of the river of golden sand.Claxton, Arthur E.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=D&tg4=b&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "D. Mountains & Rivers; Lakes & Canals",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "b. Rivers, Canals, & Lakes",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:59+00:00"
+    },
+    "o:id": 11034,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18541",
+            "o:id": 18541
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18542",
+            "o:id": 18542
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18543",
+            "o:id": 18543
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18544",
+            "o:id": 18544
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18545",
+            "o:id": 18545
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18546",
+            "o:id": 18546
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18547",
+            "o:id": 18547
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18548",
+            "o:id": 18548
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18549",
+            "o:id": 18549
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18550",
+            "o:id": 18550
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18551",
+            "o:id": 18551
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18552",
+            "o:id": 18552
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18553",
+            "o:id": 18553
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18554",
+            "o:id": 18554
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18555",
+            "o:id": 18555
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18556",
+            "o:id": 18556
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18557",
+            "o:id": 18557
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18558",
+            "o:id": 18558
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18559",
+            "o:id": 18559
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18560",
+            "o:id": 18560
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18561",
+            "o:id": 18561
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18562",
+            "o:id": 18562
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18563",
+            "o:id": 18563
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18564",
+            "o:id": 18564
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18565",
+            "o:id": 18565
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18566",
+            "o:id": 18566
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18567",
+            "o:id": 18567
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18568",
+            "o:id": 18568
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18569",
+            "o:id": 18569
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18570",
+            "o:id": 18570
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18571",
+            "o:id": 18571
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18572",
+            "o:id": 18572
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18573",
+            "o:id": 18573
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18574",
+            "o:id": 18574
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18575",
+            "o:id": 18575
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T00:54:06+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Chungking, Queen of the river of golden sand.Claxton, Arthur E.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

@@ -1,0 +1,314 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12073",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-679",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "de0c4604-c712-44a8-aced-5d1bbd69b708",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3334.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/London",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "A series of five lectures on the Russo-Japanese war, 1904.Robson, Lieut. -Col. H. D.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "41 p. ; 21 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Robson, Lieut. -Col. H. D.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "London, 1904.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=H&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "H. Russo-Japanese War, 1904-05",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "A series of five lectures on the Russo-Japanese war, 1904.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:05+00:00"
+    },
+    "o:id": 12073,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33927",
+            "o:id": 33927
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33928",
+            "o:id": 33928
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33929",
+            "o:id": 33929
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33930",
+            "o:id": 33930
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33931",
+            "o:id": 33931
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33932",
+            "o:id": 33932
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33933",
+            "o:id": 33933
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33934",
+            "o:id": 33934
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33935",
+            "o:id": 33935
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33936",
+            "o:id": 33936
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33937",
+            "o:id": 33937
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33938",
+            "o:id": 33938
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33939",
+            "o:id": 33939
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33940",
+            "o:id": 33940
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33941",
+            "o:id": 33941
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33942",
+            "o:id": 33942
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33943",
+            "o:id": 33943
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33944",
+            "o:id": 33944
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33945",
+            "o:id": 33945
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33946",
+            "o:id": 33946
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33947",
+            "o:id": 33947
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33948",
+            "o:id": 33948
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33949",
+            "o:id": 33949
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33950",
+            "o:id": 33950
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33951",
+            "o:id": 33951
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33952",
+            "o:id": 33952
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33953",
+            "o:id": 33953
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33954",
+            "o:id": 33954
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33955",
+            "o:id": 33955
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/33956",
+            "o:id": 33956
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:49:20+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "A series of five lectures on the Russo-Japanese war, 1904.Robson, Lieut. -Col. H. D.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

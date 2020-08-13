@@ -1,0 +1,216 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12103",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-0584",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "11dc0d42-695a-424f-b15d-f3960f01c7ea",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3364.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "On Chinese chronology.Legge, James.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=I&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "I. Chronological tables",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:06+00:00"
+    },
+    "o:id": 12103,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34328",
+            "o:id": 34328
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34329",
+            "o:id": 34329
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34330",
+            "o:id": 34330
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34331",
+            "o:id": 34331
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34332",
+            "o:id": 34332
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34333",
+            "o:id": 34333
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34334",
+            "o:id": 34334
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34335",
+            "o:id": 34335
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34336",
+            "o:id": 34336
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34337",
+            "o:id": 34337
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34338",
+            "o:id": 34338
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34339",
+            "o:id": 34339
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34340",
+            "o:id": 34340
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34341",
+            "o:id": 34341
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34342",
+            "o:id": 34342
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34343",
+            "o:id": 34343
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34344",
+            "o:id": 34344
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34345",
+            "o:id": 34345
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34346",
+            "o:id": 34346
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T01:02:30+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "On Chinese chronology.Legge, James.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

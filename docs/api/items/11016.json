@@ -1,0 +1,249 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11016",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-0315",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "c4c5c426-b0dd-4bad-a9e4-39c43bcfb5d5",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2277.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Across Yunnan and Tonking.Little, Archibald.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=C&tg4=d&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "C. Local topography & Travels",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "d. West China",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:59+00:00"
+    },
+    "o:id": 11016,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18214",
+            "o:id": 18214
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18215",
+            "o:id": 18215
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18216",
+            "o:id": 18216
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18217",
+            "o:id": 18217
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18218",
+            "o:id": 18218
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18219",
+            "o:id": 18219
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18220",
+            "o:id": 18220
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18221",
+            "o:id": 18221
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18222",
+            "o:id": 18222
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18223",
+            "o:id": 18223
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18224",
+            "o:id": 18224
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18225",
+            "o:id": 18225
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18226",
+            "o:id": 18226
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18227",
+            "o:id": 18227
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18228",
+            "o:id": 18228
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18229",
+            "o:id": 18229
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18230",
+            "o:id": 18230
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18231",
+            "o:id": 18231
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18232",
+            "o:id": 18232
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18233",
+            "o:id": 18233
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18234",
+            "o:id": 18234
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18235",
+            "o:id": 18235
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18236",
+            "o:id": 18236
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18237",
+            "o:id": 18237
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18238",
+            "o:id": 18238
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T04:40:15+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Across Yunnan and Tonking.Little, Archibald.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

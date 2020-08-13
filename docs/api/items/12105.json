@@ -1,0 +1,363 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12105",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-3251",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1897",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "766f39ba-e458-4102-be69-6f2f9401a8b2",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3366.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Paris",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Voyageurs Chinois chez les Khitan et les Joutchen.Chavannes, Edouard.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "66 p. ; 23 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Chavannes, Edouard.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Paris, 1897, 1898.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=J&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "J. Historical geography",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Voyageurs Chinois chez les Khitan et les Joutchen.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:06+00:00"
+    },
+    "o:id": 12105,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34381",
+            "o:id": 34381
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34382",
+            "o:id": 34382
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34383",
+            "o:id": 34383
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34384",
+            "o:id": 34384
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34385",
+            "o:id": 34385
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34386",
+            "o:id": 34386
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34387",
+            "o:id": 34387
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34388",
+            "o:id": 34388
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34389",
+            "o:id": 34389
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34390",
+            "o:id": 34390
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34391",
+            "o:id": 34391
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34392",
+            "o:id": 34392
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34393",
+            "o:id": 34393
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34394",
+            "o:id": 34394
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34395",
+            "o:id": 34395
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34396",
+            "o:id": 34396
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34397",
+            "o:id": 34397
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34398",
+            "o:id": 34398
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34399",
+            "o:id": 34399
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34400",
+            "o:id": 34400
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34401",
+            "o:id": 34401
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34402",
+            "o:id": 34402
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34403",
+            "o:id": 34403
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34404",
+            "o:id": 34404
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34405",
+            "o:id": 34405
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34406",
+            "o:id": 34406
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34407",
+            "o:id": 34407
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34408",
+            "o:id": 34408
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34409",
+            "o:id": 34409
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34410",
+            "o:id": 34410
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34411",
+            "o:id": 34411
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34412",
+            "o:id": 34412
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34413",
+            "o:id": 34413
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34414",
+            "o:id": 34414
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34415",
+            "o:id": 34415
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34416",
+            "o:id": 34416
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34417",
+            "o:id": 34417
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34418",
+            "o:id": 34418
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34419",
+            "o:id": 34419
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34420",
+            "o:id": 34420
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:32:29+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Voyageurs Chinois chez les Khitan et les Joutchen.Chavannes, Edouard.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

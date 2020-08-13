@@ -1,0 +1,407 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13339",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-2058",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "bbae0cd1-00ba-4527-95d6-91a60334e89b",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4600.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Kolkata",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Indian brick tea for Tibet. Report on a mission to Ssu-Chuan.Hutchison, James.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "61 p. ; 25 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Hutchison, James.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Calcutta, 1906.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=20&tg3=H&tg4=a&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "20. Economy and Industry",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "H. Commerce",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "a. General",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Indian brick tea for Tibet. Report on a mission to Ssu-Chuan.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:14+00:00"
+    },
+    "o:id": 13339,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51731",
+            "o:id": 51731
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51732",
+            "o:id": 51732
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51733",
+            "o:id": 51733
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51734",
+            "o:id": 51734
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51735",
+            "o:id": 51735
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51736",
+            "o:id": 51736
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51737",
+            "o:id": 51737
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51738",
+            "o:id": 51738
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51739",
+            "o:id": 51739
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51740",
+            "o:id": 51740
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51741",
+            "o:id": 51741
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51742",
+            "o:id": 51742
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51743",
+            "o:id": 51743
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51744",
+            "o:id": 51744
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51745",
+            "o:id": 51745
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51746",
+            "o:id": 51746
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51747",
+            "o:id": 51747
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51748",
+            "o:id": 51748
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51749",
+            "o:id": 51749
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51750",
+            "o:id": 51750
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51751",
+            "o:id": 51751
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51752",
+            "o:id": 51752
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51753",
+            "o:id": 51753
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51754",
+            "o:id": 51754
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51755",
+            "o:id": 51755
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51756",
+            "o:id": 51756
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51757",
+            "o:id": 51757
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51758",
+            "o:id": 51758
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51759",
+            "o:id": 51759
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51760",
+            "o:id": 51760
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51761",
+            "o:id": 51761
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51762",
+            "o:id": 51762
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51763",
+            "o:id": 51763
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51764",
+            "o:id": 51764
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51765",
+            "o:id": 51765
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51766",
+            "o:id": 51766
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51767",
+            "o:id": 51767
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51768",
+            "o:id": 51768
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51769",
+            "o:id": 51769
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51770",
+            "o:id": 51770
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51771",
+            "o:id": 51771
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51772",
+            "o:id": 51772
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51773",
+            "o:id": 51773
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51774",
+            "o:id": 51774
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51775",
+            "o:id": 51775
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51776",
+            "o:id": 51776
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51777",
+            "o:id": 51777
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51778",
+            "o:id": 51778
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51779",
+            "o:id": 51779
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51780",
+            "o:id": 51780
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51781",
+            "o:id": 51781
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T14:13:52+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Indian brick tea for Tibet. Report on a mission to Ssu-Chuan.Hutchison, James.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

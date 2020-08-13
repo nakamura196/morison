@@ -1,0 +1,426 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12571",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-3203",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "38d1da58-c6e1-4216-8dc1-7bc708c5cc43",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3832.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Tianjin",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Rules of the Peking Club 1899, 1903, 1914, 1916.Peking Club.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "4 v. ; 15-18 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Peking Club.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Tientsin.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=14&tg3=S&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "14. Customs & Manners",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "S. Association & Club",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Rules of the Peking Club 1899, 1903, 1914, 1916.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:09+00:00"
+    },
+    "o:id": 12571,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41293",
+            "o:id": 41293
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41294",
+            "o:id": 41294
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41295",
+            "o:id": 41295
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41296",
+            "o:id": 41296
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41297",
+            "o:id": 41297
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41298",
+            "o:id": 41298
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41299",
+            "o:id": 41299
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41300",
+            "o:id": 41300
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41301",
+            "o:id": 41301
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41302",
+            "o:id": 41302
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41303",
+            "o:id": 41303
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41304",
+            "o:id": 41304
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41305",
+            "o:id": 41305
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41306",
+            "o:id": 41306
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41307",
+            "o:id": 41307
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41308",
+            "o:id": 41308
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41309",
+            "o:id": 41309
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41310",
+            "o:id": 41310
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41311",
+            "o:id": 41311
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41312",
+            "o:id": 41312
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41313",
+            "o:id": 41313
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41314",
+            "o:id": 41314
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41315",
+            "o:id": 41315
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41316",
+            "o:id": 41316
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41317",
+            "o:id": 41317
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41318",
+            "o:id": 41318
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41319",
+            "o:id": 41319
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41320",
+            "o:id": 41320
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41321",
+            "o:id": 41321
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41322",
+            "o:id": 41322
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41323",
+            "o:id": 41323
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41324",
+            "o:id": 41324
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41325",
+            "o:id": 41325
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41326",
+            "o:id": 41326
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41327",
+            "o:id": 41327
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41328",
+            "o:id": 41328
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41329",
+            "o:id": 41329
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41330",
+            "o:id": 41330
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41331",
+            "o:id": 41331
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41332",
+            "o:id": 41332
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41333",
+            "o:id": 41333
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41334",
+            "o:id": 41334
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41335",
+            "o:id": 41335
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41336",
+            "o:id": 41336
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41337",
+            "o:id": 41337
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41338",
+            "o:id": 41338
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41339",
+            "o:id": 41339
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41340",
+            "o:id": 41340
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41341",
+            "o:id": 41341
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41342",
+            "o:id": 41342
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41343",
+            "o:id": 41343
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41344",
+            "o:id": 41344
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41345",
+            "o:id": 41345
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41346",
+            "o:id": 41346
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41347",
+            "o:id": 41347
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41348",
+            "o:id": 41348
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41349",
+            "o:id": 41349
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41350",
+            "o:id": 41350
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:52:29+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Rules of the Peking Club 1899, 1903, 1914, 1916.Peking Club.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

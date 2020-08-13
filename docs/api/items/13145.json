@@ -1,0 +1,371 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13145",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1975",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "ba7e2a39-ff5e-4e13-b600-8f132f75fb29",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4406.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Washington",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Agicultural explorations in the fruit and nut orchards of China.Meyer, Frank N.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "61 p. ; 24 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Meyer, Frank N.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Washington, 1911.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=20&tg3=B&tg4=g&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "20. Economy and Industry",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "B. Agriculture",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "g. Agricultural products",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Agicultural explorations in the fruit and nut orchards of China.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:12+00:00"
+    },
+    "o:id": 13145,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48940",
+            "o:id": 48940
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48941",
+            "o:id": 48941
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48942",
+            "o:id": 48942
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48943",
+            "o:id": 48943
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48944",
+            "o:id": 48944
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48945",
+            "o:id": 48945
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48946",
+            "o:id": 48946
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48947",
+            "o:id": 48947
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48948",
+            "o:id": 48948
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48949",
+            "o:id": 48949
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48950",
+            "o:id": 48950
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48951",
+            "o:id": 48951
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48952",
+            "o:id": 48952
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48953",
+            "o:id": 48953
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48954",
+            "o:id": 48954
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48955",
+            "o:id": 48955
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48956",
+            "o:id": 48956
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48957",
+            "o:id": 48957
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48958",
+            "o:id": 48958
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48959",
+            "o:id": 48959
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48960",
+            "o:id": 48960
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48961",
+            "o:id": 48961
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48962",
+            "o:id": 48962
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48963",
+            "o:id": 48963
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48964",
+            "o:id": 48964
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48965",
+            "o:id": 48965
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48966",
+            "o:id": 48966
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48967",
+            "o:id": 48967
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48968",
+            "o:id": 48968
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48969",
+            "o:id": 48969
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48970",
+            "o:id": 48970
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48971",
+            "o:id": 48971
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48972",
+            "o:id": 48972
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48973",
+            "o:id": 48973
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48974",
+            "o:id": 48974
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48975",
+            "o:id": 48975
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48976",
+            "o:id": 48976
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48977",
+            "o:id": 48977
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48978",
+            "o:id": 48978
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48979",
+            "o:id": 48979
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48980",
+            "o:id": 48980
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48981",
+            "o:id": 48981
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:34:45+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Agicultural explorations in the fruit and nut orchards of China.Meyer, Frank N.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

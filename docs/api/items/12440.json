@@ -1,0 +1,312 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12440",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1547",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "a68698e2-7ef0-4702-8719-1f60d4d078e8",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3701.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "end",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Chineesche begrafenis- en huwelijks onderneming (gevestigd to Soerabaya). *1 *2Schlegel, Gustaaf.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "43 p. ; 23 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Schlegel, Gustaaf.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:heading3": [
+        {
+            "@value": "http://dbpedia.org/resource/Leiden",
+            "is_public": true,
+            "property_id": 311,
+            "property_label": "heading3",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Leiden, 1885.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=14&tg3=J&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "14. Customs & Manners",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "J. Funeral; Burial System",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Chineesche begrafenis- en huwelijks onderneming (gevestigd to Soerabaya). *1 *2",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "ex:version": [
+        {
+            "@value": "2. verbeterde druk.",
+            "is_public": true,
+            "property_id": 308,
+            "property_label": "版",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:08+00:00"
+    },
+    "o:id": 12440,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39624",
+            "o:id": 39624
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39625",
+            "o:id": 39625
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39626",
+            "o:id": 39626
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39627",
+            "o:id": 39627
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39628",
+            "o:id": 39628
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39629",
+            "o:id": 39629
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39630",
+            "o:id": 39630
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39631",
+            "o:id": 39631
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39632",
+            "o:id": 39632
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39633",
+            "o:id": 39633
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39634",
+            "o:id": 39634
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39635",
+            "o:id": 39635
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39636",
+            "o:id": 39636
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39637",
+            "o:id": 39637
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39638",
+            "o:id": 39638
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39639",
+            "o:id": 39639
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39640",
+            "o:id": 39640
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39641",
+            "o:id": 39641
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39642",
+            "o:id": 39642
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39643",
+            "o:id": 39643
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39644",
+            "o:id": 39644
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39645",
+            "o:id": 39645
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39646",
+            "o:id": 39646
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39647",
+            "o:id": 39647
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39648",
+            "o:id": 39648
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:33:12+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Chineesche begrafenis- en huwelijks onderneming (gevestigd to Soerabaya). *1 *2Schlegel, Gustaaf.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

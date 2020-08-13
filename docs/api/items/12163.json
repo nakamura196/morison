@@ -1,0 +1,334 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12163",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1012",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "6d9f9e32-c690-4531-bfa4-0ab5c7033bb5",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3424.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Vienna",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Die Taolehre von den wahren Menschen und den Unsterblichen.Pfizmaier, August.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "pp. 225-355 ; 24 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Pfizmaier, August.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Wien, 1869.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=10&tg3=C&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "10. Religion",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "C. Taoism",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Die Taolehre  von den wahren Menschen und den Unsterblichen.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:06+00:00"
+    },
+    "o:id": 12163,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35335",
+            "o:id": 35335
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35336",
+            "o:id": 35336
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35337",
+            "o:id": 35337
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35338",
+            "o:id": 35338
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35339",
+            "o:id": 35339
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35340",
+            "o:id": 35340
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35341",
+            "o:id": 35341
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35342",
+            "o:id": 35342
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35343",
+            "o:id": 35343
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35344",
+            "o:id": 35344
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35345",
+            "o:id": 35345
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35346",
+            "o:id": 35346
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35347",
+            "o:id": 35347
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35348",
+            "o:id": 35348
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35349",
+            "o:id": 35349
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35350",
+            "o:id": 35350
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35351",
+            "o:id": 35351
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35352",
+            "o:id": 35352
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35353",
+            "o:id": 35353
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35354",
+            "o:id": 35354
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35355",
+            "o:id": 35355
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35356",
+            "o:id": 35356
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35357",
+            "o:id": 35357
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35358",
+            "o:id": 35358
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35359",
+            "o:id": 35359
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35360",
+            "o:id": 35360
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35361",
+            "o:id": 35361
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35362",
+            "o:id": 35362
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35363",
+            "o:id": 35363
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35364",
+            "o:id": 35364
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35365",
+            "o:id": 35365
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35366",
+            "o:id": 35366
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35367",
+            "o:id": 35367
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35368",
+            "o:id": 35368
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35369",
+            "o:id": 35369
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:35:51+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Die Taolehre von den wahren Menschen und den Unsterblichen.Pfizmaier, August.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

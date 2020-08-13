@@ -1,0 +1,290 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13281",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-b-0283",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "c55de144-207c-4543-b085-5d7ee2f610ea",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4542.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Mineral resources of China.Willis, Bailey.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=20&tg3=G&tg4=i&tg5=i1",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "20. Economy and Industry",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "G. Industry",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "i. Mining industry",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:tag5": [
+        {
+            "@value": "i1. General",
+            "is_public": true,
+            "property_id": 297,
+            "property_label": "分類5",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:13+00:00"
+    },
+    "o:id": 13281,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51073",
+            "o:id": 51073
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51074",
+            "o:id": 51074
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51075",
+            "o:id": 51075
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51076",
+            "o:id": 51076
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51077",
+            "o:id": 51077
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51078",
+            "o:id": 51078
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51079",
+            "o:id": 51079
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51080",
+            "o:id": 51080
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51081",
+            "o:id": 51081
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51082",
+            "o:id": 51082
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51083",
+            "o:id": 51083
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51084",
+            "o:id": 51084
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51085",
+            "o:id": 51085
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51086",
+            "o:id": 51086
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51087",
+            "o:id": 51087
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51088",
+            "o:id": 51088
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51089",
+            "o:id": 51089
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51090",
+            "o:id": 51090
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51091",
+            "o:id": 51091
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51092",
+            "o:id": 51092
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51093",
+            "o:id": 51093
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51094",
+            "o:id": 51094
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51095",
+            "o:id": 51095
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51096",
+            "o:id": 51096
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51097",
+            "o:id": 51097
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51098",
+            "o:id": 51098
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51099",
+            "o:id": 51099
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51100",
+            "o:id": 51100
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51101",
+            "o:id": 51101
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51102",
+            "o:id": 51102
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51103",
+            "o:id": 51103
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51104",
+            "o:id": 51104
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51105",
+            "o:id": 51105
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T01:24:11+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Mineral resources of China.Willis, Bailey.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

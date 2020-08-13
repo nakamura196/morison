@@ -1,0 +1,229 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13193",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-0961",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "d5ea2e83-2bc1-4753-8acf-da9dae89d19c",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4454.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Over perelen en het maken van parlen in China. Medegedeeld door J. van der Hoeven.MacGowan, Daniel J.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=20&tg3=F&tg4=e&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "20. Economy and Industry",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "F. Fishery and marine products",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "e. Marine products industry",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:13+00:00"
+    },
+    "o:id": 13193,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49578",
+            "o:id": 49578
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49579",
+            "o:id": 49579
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49580",
+            "o:id": 49580
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49581",
+            "o:id": 49581
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49582",
+            "o:id": 49582
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49583",
+            "o:id": 49583
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49584",
+            "o:id": 49584
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49585",
+            "o:id": 49585
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49586",
+            "o:id": 49586
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49587",
+            "o:id": 49587
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49588",
+            "o:id": 49588
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49589",
+            "o:id": 49589
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49590",
+            "o:id": 49590
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49591",
+            "o:id": 49591
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49592",
+            "o:id": 49592
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49593",
+            "o:id": 49593
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49594",
+            "o:id": 49594
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49595",
+            "o:id": 49595
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49596",
+            "o:id": 49596
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/49597",
+            "o:id": 49597
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T03:48:52+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Over perelen en het maken van parlen in China. Medegedeeld door J. van der Hoeven.MacGowan, Daniel J.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

@@ -1,0 +1,330 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13014",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-1750",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "297f34e4-f86c-42b6-954f-0490238231d2",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4275.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Brussels",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Exposé de la situation en Chine en matière de propriété industrielle, artistique et littéraire.Houyet, A.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "63 p. ; 25 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Houyet, A.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Bruxelles, 1913.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=17&tg3=F&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "17. Law",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "F. Other Laws",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Exposé de la situation en Chine en matière de propriété industrielle, artistique et littéraire.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:11+00:00"
+    },
+    "o:id": 13014,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47092",
+            "o:id": 47092
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47093",
+            "o:id": 47093
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47094",
+            "o:id": 47094
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47095",
+            "o:id": 47095
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47096",
+            "o:id": 47096
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47097",
+            "o:id": 47097
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47098",
+            "o:id": 47098
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47099",
+            "o:id": 47099
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47100",
+            "o:id": 47100
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47101",
+            "o:id": 47101
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47102",
+            "o:id": 47102
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47103",
+            "o:id": 47103
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47104",
+            "o:id": 47104
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47105",
+            "o:id": 47105
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47106",
+            "o:id": 47106
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47107",
+            "o:id": 47107
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47108",
+            "o:id": 47108
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47109",
+            "o:id": 47109
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47110",
+            "o:id": 47110
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47111",
+            "o:id": 47111
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47112",
+            "o:id": 47112
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47113",
+            "o:id": 47113
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47114",
+            "o:id": 47114
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47115",
+            "o:id": 47115
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47116",
+            "o:id": 47116
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47117",
+            "o:id": 47117
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47118",
+            "o:id": 47118
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47119",
+            "o:id": 47119
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47120",
+            "o:id": 47120
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47121",
+            "o:id": 47121
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47122",
+            "o:id": 47122
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47123",
+            "o:id": 47123
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47124",
+            "o:id": 47124
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47125",
+            "o:id": 47125
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:36:48+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Exposé de la situation en Chine en matière de propriété industrielle, artistique et littéraire.Houyet, A.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

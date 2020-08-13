@@ -1,0 +1,322 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12755",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-2453",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1868",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "f1978648-4a16-44ae-bd6c-26afa4009b2d",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4016.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Reichthum und Armuth in dem alten China.Pfizmaier, August.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "pp. 61-120 ; 25 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Pfizmaier, August.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "1868",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=14&tg3=W2&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "14. Customs & Manners",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "W2. Opium",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Reichthum und Armuth in dem alten China.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:10+00:00"
+    },
+    "o:id": 12755,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43512",
+            "o:id": 43512
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43513",
+            "o:id": 43513
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43514",
+            "o:id": 43514
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43515",
+            "o:id": 43515
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43516",
+            "o:id": 43516
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43517",
+            "o:id": 43517
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43518",
+            "o:id": 43518
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43519",
+            "o:id": 43519
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43520",
+            "o:id": 43520
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43521",
+            "o:id": 43521
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43522",
+            "o:id": 43522
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43523",
+            "o:id": 43523
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43524",
+            "o:id": 43524
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43525",
+            "o:id": 43525
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43526",
+            "o:id": 43526
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43527",
+            "o:id": 43527
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43528",
+            "o:id": 43528
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43529",
+            "o:id": 43529
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43530",
+            "o:id": 43530
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43531",
+            "o:id": 43531
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43532",
+            "o:id": 43532
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43533",
+            "o:id": 43533
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43534",
+            "o:id": 43534
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43535",
+            "o:id": 43535
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43536",
+            "o:id": 43536
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43537",
+            "o:id": 43537
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43538",
+            "o:id": 43538
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43539",
+            "o:id": 43539
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43540",
+            "o:id": 43540
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43541",
+            "o:id": 43541
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43542",
+            "o:id": 43542
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43543",
+            "o:id": 43543
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:40:01+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Reichthum und Armuth in dem alten China.Pfizmaier, August.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

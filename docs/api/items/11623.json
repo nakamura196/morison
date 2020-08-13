@@ -1,0 +1,380 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11623",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-2253",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "8d904ac0-27c5-4545-bd7e-45c640c6dbb2",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2884.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/London",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Letter to the Right Hon. Charles Grant, president of the Board of Controul on the present state of British intercourse with China.Marjoribanks, Charles.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "66 p. ; 22 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Marjoribanks, Charles.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "London, 1833.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=F&tg4=e&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "F. Foreign relations",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "e. Great-Britain",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Letter to the Right Hon. Charles Grant, president of the Board of Controul on the present state of British intercourse with China.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "ex:version": [
+        {
+            "@value": "2. ed.",
+            "is_public": true,
+            "property_id": 308,
+            "property_label": "版",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:03+00:00"
+    },
+    "o:id": 11623,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27235",
+            "o:id": 27235
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27236",
+            "o:id": 27236
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27237",
+            "o:id": 27237
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27238",
+            "o:id": 27238
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27239",
+            "o:id": 27239
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27240",
+            "o:id": 27240
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27241",
+            "o:id": 27241
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27242",
+            "o:id": 27242
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27243",
+            "o:id": 27243
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27244",
+            "o:id": 27244
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27245",
+            "o:id": 27245
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27246",
+            "o:id": 27246
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27247",
+            "o:id": 27247
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27248",
+            "o:id": 27248
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27249",
+            "o:id": 27249
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27250",
+            "o:id": 27250
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27251",
+            "o:id": 27251
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27252",
+            "o:id": 27252
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27253",
+            "o:id": 27253
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27254",
+            "o:id": 27254
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27255",
+            "o:id": 27255
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27256",
+            "o:id": 27256
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27257",
+            "o:id": 27257
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27258",
+            "o:id": 27258
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27259",
+            "o:id": 27259
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27260",
+            "o:id": 27260
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27261",
+            "o:id": 27261
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27262",
+            "o:id": 27262
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27263",
+            "o:id": 27263
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27264",
+            "o:id": 27264
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27265",
+            "o:id": 27265
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27266",
+            "o:id": 27266
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27267",
+            "o:id": 27267
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27268",
+            "o:id": 27268
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27269",
+            "o:id": 27269
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27270",
+            "o:id": 27270
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27271",
+            "o:id": 27271
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27272",
+            "o:id": 27272
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27273",
+            "o:id": 27273
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27274",
+            "o:id": 27274
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27275",
+            "o:id": 27275
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27276",
+            "o:id": 27276
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:32:13+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Letter to the Right Hon. Charles Grant, president of the Board of Controul on the present state of British intercourse with China.Marjoribanks, Charles.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

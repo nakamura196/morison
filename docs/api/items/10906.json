@@ -1,0 +1,205 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/10906",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-0236",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "909587fe-0838-4038-b5ce-5cf69ae49a75",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2167.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Shanghai revisited.Bland, John Otway Percy.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=C&tg4=b&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "C. Local topography & Travels",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "b. Central China",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:58+00:00"
+    },
+    "o:id": 10906,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16387",
+            "o:id": 16387
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16388",
+            "o:id": 16388
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16389",
+            "o:id": 16389
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16390",
+            "o:id": 16390
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16391",
+            "o:id": 16391
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16392",
+            "o:id": 16392
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16393",
+            "o:id": 16393
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16394",
+            "o:id": 16394
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16395",
+            "o:id": 16395
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16396",
+            "o:id": 16396
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16397",
+            "o:id": 16397
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16398",
+            "o:id": 16398
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16399",
+            "o:id": 16399
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16400",
+            "o:id": 16400
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T00:52:37+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Shanghai revisited.Bland, John Otway Percy.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

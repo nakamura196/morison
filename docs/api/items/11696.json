@@ -1,0 +1,371 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11696",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-b-674",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "8279123d-d8a6-4de7-8b92-af39d195a3ca",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2957.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "http://dbpedia.org/resource/Brussels",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Le Conflit entre la Russie et la Chine; ses origines,son developpement et sa Portée universelle. Étude politique.Martens, F.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "75 p. ; 24 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Martens, F.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Bruxelles, 1880.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=F&tg4=f&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "7. History",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "F. Foreign relations",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "f. Russia",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "Le Conflit entre la Russie et la Chine; ses origines,son developpement et sa Portée universelle. Étude politique.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:03+00:00"
+    },
+    "o:id": 11696,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28563",
+            "o:id": 28563
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28564",
+            "o:id": 28564
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28565",
+            "o:id": 28565
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28566",
+            "o:id": 28566
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28567",
+            "o:id": 28567
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28568",
+            "o:id": 28568
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28569",
+            "o:id": 28569
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28570",
+            "o:id": 28570
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28571",
+            "o:id": 28571
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28572",
+            "o:id": 28572
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28573",
+            "o:id": 28573
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28574",
+            "o:id": 28574
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28575",
+            "o:id": 28575
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28576",
+            "o:id": 28576
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28577",
+            "o:id": 28577
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28578",
+            "o:id": 28578
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28579",
+            "o:id": 28579
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28580",
+            "o:id": 28580
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28581",
+            "o:id": 28581
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28582",
+            "o:id": 28582
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28583",
+            "o:id": 28583
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28584",
+            "o:id": 28584
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28585",
+            "o:id": 28585
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28586",
+            "o:id": 28586
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28587",
+            "o:id": 28587
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28588",
+            "o:id": 28588
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28589",
+            "o:id": 28589
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28590",
+            "o:id": 28590
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28591",
+            "o:id": 28591
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28592",
+            "o:id": 28592
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28593",
+            "o:id": 28593
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28594",
+            "o:id": 28594
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28595",
+            "o:id": 28595
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28596",
+            "o:id": 28596
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28597",
+            "o:id": 28597
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28598",
+            "o:id": 28598
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28599",
+            "o:id": 28599
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28600",
+            "o:id": 28600
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28601",
+            "o:id": 28601
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28602",
+            "o:id": 28602
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28603",
+            "o:id": 28603
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28604",
+            "o:id": 28604
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T13:59:04+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Le Conflit entre la Russie et la Chine; ses origines,son developpement et sa Portée universelle. Étude politique.Martens, F.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

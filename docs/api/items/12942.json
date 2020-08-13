@@ -1,0 +1,347 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12942",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-a-2108",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "856b233e-faf2-44f6-abbd-ad3b34b4ed5b",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4203.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        },
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4203.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "end",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "China's National Bank and currency reform. Memorial by Sheng Hsuan-hwai. Tr. by John C. Ferguson.Sheng Hsuan-hwai.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:format": [
+        {
+            "@value": "24 p. ; 21 cm.",
+            "is_public": true,
+            "property_id": 304,
+            "property_label": "形態的記述",
+            "type": "literal"
+        }
+    ],
+    "ex:heading1": [
+        {
+            "@value": "Sheng Hsuan-hwai.",
+            "is_public": true,
+            "property_id": 305,
+            "property_label": "heading1",
+            "type": "literal"
+        }
+    ],
+    "ex:heading2": [
+        {
+            "@value": "Ferguson, John C., tr.",
+            "is_public": true,
+            "property_id": 310,
+            "property_label": "heading2",
+            "type": "literal"
+        }
+    ],
+    "ex:heading3": [
+        {
+            "@value": "http://dbpedia.org/resource/Shanghai",
+            "is_public": true,
+            "property_id": 311,
+            "property_label": "heading3",
+            "type": "literal"
+        }
+    ],
+    "ex:holding": [
+        {
+            "@value": "（記録なし）",
+            "is_public": true,
+            "property_id": 306,
+            "property_label": "所蔵",
+            "type": "literal"
+        }
+    ],
+    "ex:publication": [
+        {
+            "@value": "Shanghai, 1909.",
+            "is_public": true,
+            "property_id": 303,
+            "property_label": "出版事項",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=16&tg3=H&tg4=&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "16. Finance",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "H. Monetary System",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:title": [
+        {
+            "@value": "China\\'s National Bank and currency reform. Memorial by Sheng Hsuan-hwai. Tr. by John C. Ferguson.",
+            "is_public": true,
+            "property_id": 302,
+            "property_label": "タイトル責任表示",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:42:11+00:00"
+    },
+    "o:id": 12942,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45671",
+            "o:id": 45671
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45672",
+            "o:id": 45672
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45673",
+            "o:id": 45673
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45674",
+            "o:id": 45674
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45675",
+            "o:id": 45675
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45676",
+            "o:id": 45676
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45677",
+            "o:id": 45677
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45678",
+            "o:id": 45678
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45679",
+            "o:id": 45679
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45680",
+            "o:id": 45680
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45681",
+            "o:id": 45681
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45682",
+            "o:id": 45682
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45683",
+            "o:id": 45683
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45684",
+            "o:id": 45684
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45685",
+            "o:id": 45685
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45686",
+            "o:id": 45686
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46058",
+            "o:id": 46058
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46059",
+            "o:id": 46059
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46060",
+            "o:id": 46060
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46061",
+            "o:id": 46061
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46062",
+            "o:id": 46062
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46063",
+            "o:id": 46063
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46064",
+            "o:id": 46064
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46065",
+            "o:id": 46065
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46066",
+            "o:id": 46066
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46067",
+            "o:id": 46067
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46068",
+            "o:id": 46068
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46069",
+            "o:id": 46069
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46070",
+            "o:id": 46070
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46071",
+            "o:id": 46071
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46072",
+            "o:id": 46072
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46073",
+            "o:id": 46073
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T14:02:11+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "China's National Bank and currency reform. Memorial by Sheng Hsuan-hwai. Tr. by John C. Ferguson.Sheng Hsuan-hwai.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}

@@ -1,0 +1,289 @@
+{
+    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
+    "@id": "http://localhost:8882/d_omekas/toyo/api/items/10957",
+    "@type": [
+        "o:Item",
+        "dctype:Image"
+    ],
+    "dcndl:callNumber": [
+        {
+            "@value": "P-III-b-0927",
+            "is_public": true,
+            "property_id": 259,
+            "property_label": "Call Number",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "fd0f5d22-76c9-48e4-b87c-2e5c8318095b",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2218.php",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "モリソンパンフレット画像データベース",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Du fleuve bleu au fleuve jaune.Rousset, Léon.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "ex:references": [
+        {
+            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=C&tg4=b&tg5=",
+            "is_public": true,
+            "property_id": 298,
+            "property_label": "引用元",
+            "type": "uri"
+        }
+    ],
+    "ex:tag1": [
+        {
+            "@value": "III. CHINA",
+            "is_public": true,
+            "property_id": 296,
+            "property_label": "分類1",
+            "type": "literal"
+        }
+    ],
+    "ex:tag2": [
+        {
+            "@value": "2. Geography",
+            "is_public": true,
+            "property_id": 300,
+            "property_label": "分類2",
+            "type": "literal"
+        }
+    ],
+    "ex:tag3": [
+        {
+            "@value": "C. Local topography & Travels",
+            "is_public": true,
+            "property_id": 301,
+            "property_label": "分類3",
+            "type": "literal"
+        }
+    ],
+    "ex:tag4": [
+        {
+            "@value": "b. Central China",
+            "is_public": true,
+            "property_id": 299,
+            "property_label": "分類4",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-08T03:41:58+00:00"
+    },
+    "o:id": 10957,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
+            "o:id": 1
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17319",
+            "o:id": 17319
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17320",
+            "o:id": 17320
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17321",
+            "o:id": 17321
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17322",
+            "o:id": 17322
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17323",
+            "o:id": 17323
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17324",
+            "o:id": 17324
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17325",
+            "o:id": 17325
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17326",
+            "o:id": 17326
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17327",
+            "o:id": 17327
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17328",
+            "o:id": 17328
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17329",
+            "o:id": 17329
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17330",
+            "o:id": 17330
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17331",
+            "o:id": 17331
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17332",
+            "o:id": 17332
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17333",
+            "o:id": 17333
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17334",
+            "o:id": 17334
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17335",
+            "o:id": 17335
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17336",
+            "o:id": 17336
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17337",
+            "o:id": 17337
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17338",
+            "o:id": 17338
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17339",
+            "o:id": 17339
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17340",
+            "o:id": 17340
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17341",
+            "o:id": 17341
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17342",
+            "o:id": 17342
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17343",
+            "o:id": 17343
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17344",
+            "o:id": 17344
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17345",
+            "o:id": 17345
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17346",
+            "o:id": 17346
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17347",
+            "o:id": 17347
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17348",
+            "o:id": 17348
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17349",
+            "o:id": 17349
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17350",
+            "o:id": 17350
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17351",
+            "o:id": 17351
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17352",
+            "o:id": 17352
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17353",
+            "o:id": 17353
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-12T04:16:52+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template": {
+        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "Du fleuve bleu au fleuve jaune.Rousset, Léon.",
+    "sc:attributionLabel": [
+        {
+            "@value": "東洋文庫 / Toyo Bunko",
+            "is_public": true,
+            "property_id": 201,
+            "property_label": "attributionLabel",
+            "type": "literal"
+        }
+    ]
+}
