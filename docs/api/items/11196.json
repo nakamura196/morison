@@ -1,22 +1,31 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11196",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/11196",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-b-653",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "06-012",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
             "type": "literal"
         }
     ],
     "dcterms:date": [
         {
-            "@value": "1858",
+            "@value": "1971年冬季号",
             "is_public": true,
             "property_id": 7,
             "property_label": "Date",
@@ -25,34 +34,16 @@
     ],
     "dcterms:identifier": [
         {
-            "@value": "a5b4af2f-5f78-4bd8-9f64-80c9608f0b2f",
+            "@value": "645c5d29-9425-43ae-9425-790abe9ee34f",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2457.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
@@ -61,214 +52,97 @@
     ],
     "dcterms:title": [
         {
-            "@value": "La Chine à la Veille de la Guerre, Souvenirs d'une Campagne dans les mers de Tartarie de Chine et du Japon.Aube, Th.",
+            "@value": "中国はどんな国になるのか（巻頭言）　∽06-012",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:format": [
+    "ex:l6-019": [
         {
-            "@value": "pp. 432-466 ; 23 cm.",
+            "@value": "中国はどんな国になるのか（巻頭言）　",
             "is_public": true,
-            "property_id": 304,
-            "property_label": "形態的記述",
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
             "type": "literal"
         }
     ],
-    "ex:heading1": [
+    "ex:l6-069": [
         {
-            "@value": "Aube, Th.",
+            "@value": "朝日アジアレビュー（朝日新聞社）",
             "is_public": true,
-            "property_id": 305,
-            "property_label": "heading1",
+            "property_id": 2369,
+            "property_label": "抜き取り雑誌記述-雑誌名（L6-069）",
             "type": "literal"
         }
     ],
-    "ex:holding": [
+    "ex:l6-077": [
         {
-            "@value": "（記録なし）",
+            "@value": "ja",
             "is_public": true,
-            "property_id": 306,
-            "property_label": "所蔵",
-            "type": "literal"
-        }
-    ],
-    "ex:publication": [
-        {
-            "@value": "1858",
-            "is_public": true,
-            "property_id": 303,
-            "property_label": "出版事項",
-            "type": "literal"
-        }
-    ],
-    "ex:references": [
-        {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=D&tg4=&tg5=",
-            "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
-            "type": "literal"
-        }
-    ],
-    "ex:tag2": [
-        {
-            "@value": "7. History",
-            "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
-            "type": "literal"
-        }
-    ],
-    "ex:tag3": [
-        {
-            "@value": "D. Modern history",
-            "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
-            "type": "literal"
-        }
-    ],
-    "ex:title": [
-        {
-            "@value": "La Chine à la Veille de la Guerre, Souvenirs d\\'une Campagne dans les mers de Tartarie de Chine et du Japon.",
-            "is_public": true,
-            "property_id": 302,
-            "property_label": "タイトル責任表示",
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:42:00+00:00"
+        "@value": "2018-06-08T06:49:41+00:00"
     },
     "o:id": 11196,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35008",
+            "o:id": 35008
         }
     ],
-    "o:media": [
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21433",
-            "o:id": 21433
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21434",
-            "o:id": 21434
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21435",
-            "o:id": 21435
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21436",
-            "o:id": 21436
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21437",
-            "o:id": 21437
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21438",
-            "o:id": 21438
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21439",
-            "o:id": 21439
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21440",
-            "o:id": 21440
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21441",
-            "o:id": 21441
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21442",
-            "o:id": 21442
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21443",
-            "o:id": 21443
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21444",
-            "o:id": 21444
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21445",
-            "o:id": 21445
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21446",
-            "o:id": 21446
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21447",
-            "o:id": 21447
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21448",
-            "o:id": 21448
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21449",
-            "o:id": 21449
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21450",
-            "o:id": 21450
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21451",
-            "o:id": 21451
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21452",
-            "o:id": 21452
-        }
-    ],
+    "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T13:33:04+00:00"
+        "@value": "2020-11-20T01:30:40+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/124",
+        "o:id": 124
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "La Chine à la Veille de la Guerre, Souvenirs d'une Campagne dans les mers de Tartarie de Chine et du Japon.Aube, Th.",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "中国はどんな国になるのか（巻頭言）　∽06-012",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/24287",
+            "display_title": "森恭三著作集CD-ROM版目録",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 24287,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
 }

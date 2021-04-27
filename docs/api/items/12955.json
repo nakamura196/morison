@@ -1,22 +1,40 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12955",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/12955",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-a-2110",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "157",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "bibo:numPages": [
+        {
+            "@value": "1",
+            "is_public": true,
+            "property_id": 106,
+            "property_label": "number of pages",
             "type": "literal"
         }
     ],
     "dcterms:date": [
         {
-            "@value": "1912",
+            "@value": "-  ",
             "is_public": true,
             "property_id": 7,
             "property_label": "Date",
@@ -25,251 +43,259 @@
     ],
     "dcterms:identifier": [
         {
-            "@value": "6db90c6b-59c6-4ff4-9be3-2e2101ed1e75",
+            "@value": "4be1fd33-bd6e-4269-98dd-996895ad961d",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4216.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
             "type": "uri"
         }
     ],
-    "dcterms:spatial": [
-        {
-            "@id": "http://dbpedia.org/resource/Shanghai",
-            "is_public": true,
-            "property_id": 40,
-            "property_label": "Spatial Coverage",
-            "type": "uri"
-        }
-    ],
     "dcterms:title": [
         {
-            "@value": "On Chinese currency.Vissering, G., & Roest. W. A.",
+            "@value": "志願せよ∽157",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:format": [
+    "ex:custom_00036": [
         {
-            "@value": "11 p. ; 25 cm.",
+            "@value": "募兵",
             "is_public": true,
-            "property_id": 304,
-            "property_label": "形態的記述",
+            "property_id": 2403,
+            "property_label": "内容分類（CUSTOM_00036）",
             "type": "literal"
         }
     ],
-    "ex:heading1": [
+    "ex:custom_00037": [
         {
-            "@value": "Vissering, G., & Roest. W. A.",
+            "@value": "アメリカ",
             "is_public": true,
-            "property_id": 305,
-            "property_label": "heading1",
+            "property_id": 2404,
+            "property_label": "制作国（CUSTOM_00037）",
             "type": "literal"
         }
     ],
-    "ex:holding": [
+    "ex:custom_00038": [
         {
-            "@value": "（記録なし）",
+            "@value": "[U.S. Army]",
             "is_public": true,
-            "property_id": 306,
-            "property_label": "所蔵",
+            "property_id": 2405,
+            "property_label": "クライアント（CUSTOM_00038）",
             "type": "literal"
         }
     ],
-    "ex:publication": [
+    "ex:custom_00039": [
         {
-            "@value": "Shanghai, 1912.",
+            "@value": "平版",
             "is_public": true,
-            "property_id": 303,
-            "property_label": "出版事項",
+            "property_id": 2406,
+            "property_label": "版式（CUSTOM_00039）",
             "type": "literal"
         }
     ],
-    "ex:references": [
+    "ex:custom_00040": [
         {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=16&tg3=H&tg4=&tg5=",
+            "@value": "描画石版",
             "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
+            "property_id": 2407,
+            "property_label": "版式詳細（CUSTOM_00040）",
             "type": "literal"
         }
     ],
-    "ex:tag2": [
+    "ex:custom_00041": [
         {
-            "@value": "16. Finance",
+            "@value": "-",
             "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
+            "property_id": 2408,
+            "property_label": "版式備考（CUSTOM_00041）",
             "type": "literal"
         }
     ],
-    "ex:tag3": [
+    "ex:custom_00042": [
         {
-            "@value": "H. Monetary System",
+            "@value": "6色  ",
             "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
+            "property_id": 2409,
+            "property_label": "色数（CUSTOM_00042）",
             "type": "literal"
         }
     ],
-    "ex:title": [
+    "ex:custom_00043": [
         {
-            "@value": "On Chinese currency.",
+            "@value": "黄、赤、青、墨、浅葱、オリーブグリーン",
             "is_public": true,
-            "property_id": 302,
-            "property_label": "タイトル責任表示",
+            "property_id": 2410,
+            "property_label": "色名（CUSTOM_00043）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-001": [
+        {
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
+            "is_public": true,
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-002": [
+        {
+            "@value": "外務省情報部が収集・所蔵していた資料で、旧新聞研究所の何初彦教授によって収集・受け入れられた資料。",
+            "is_public": true,
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-019": [
+        {
+            "@value": "志願せよ",
+            "is_public": true,
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-027": [
+        {
+            "@value": "Laura Brey",
+            "is_public": true,
+            "property_id": 2327,
+            "property_label": "作成（L6-027）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-030": [
+        {
+            "@value": "987",
+            "is_public": true,
+            "property_id": 2330,
+            "property_label": "物的状態-長さ（L6-030）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-031": [
+        {
+            "@value": "626",
+            "is_public": true,
+            "property_id": 2331,
+            "property_label": "物的状態-幅（L6-031）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-046": [
+        {
+            "@value": "デジタル化済",
+            "is_public": true,
+            "property_id": 2346,
+            "property_label": "デジタルデータ関連-デジタル化の有無（L6-046）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-053": [
+        {
+            "@value": "13絵画・版画・ポスター・図案・地図・書画",
+            "is_public": true,
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "EnlistOn which side of the window are you?（入隊せよきみはこの窓のどちら側に立つのか）",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-075": [
+        {
+            "@value": "印刷所:National Printing &amp; Eng. Co., Chicago, U.S.A",
+            "is_public": true,
+            "property_id": 2375,
+            "property_label": "寄与者（L6-075）",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:42:11+00:00"
+        "@value": "2018-06-08T06:50:06+00:00"
     },
     "o:id": 12955,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35001",
+            "o:id": 35001
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/61213",
+            "o:id": 61213
         }
     ],
     "o:media": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45992",
-            "o:id": 45992
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45993",
-            "o:id": 45993
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45994",
-            "o:id": 45994
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45995",
-            "o:id": 45995
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45996",
-            "o:id": 45996
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45997",
-            "o:id": 45997
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45998",
-            "o:id": 45998
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45999",
-            "o:id": 45999
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46000",
-            "o:id": 46000
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46221",
-            "o:id": 46221
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46222",
-            "o:id": 46222
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46223",
-            "o:id": 46223
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46224",
-            "o:id": 46224
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46225",
-            "o:id": 46225
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46226",
-            "o:id": 46226
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46227",
-            "o:id": 46227
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46228",
-            "o:id": 46228
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/46229",
-            "o:id": 46229
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29844",
+            "o:id": 29844
         }
     ],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T14:34:01+00:00"
+        "@value": "2020-11-20T01:35:30+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/62",
+        "o:id": 62
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "On Chinese currency.Vissering, G., & Roest. W. A.",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "志願せよ∽157",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/29175",
+            "display_title": "第1次世界大戦期プロパガンダポスターコレクション",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 29175,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": "https://dch.iii.u-tokyo.ac.jp/files/large/12955/1332747877376.jpg",
+        "medium": "https://dch.iii.u-tokyo.ac.jp/files/medium/12955/1332747877376.jpg",
+        "square": "https://dch.iii.u-tokyo.ac.jp/files/square/12955/1332747877376.jpg"
+    }
 }

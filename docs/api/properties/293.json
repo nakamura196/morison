@@ -1,14 +1,14 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/293",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/293",
     "@type": "o:Property",
-    "o:comment": "をも見よ参照（新称）",
+    "o:comment": "当該情報資源が掲載されているページの範囲",
     "o:id": 293,
-    "o:label": "Later Name",
-    "o:local_name": "laterName",
-    "o:term": "dcndl:laterName",
+    "o:label": "Page Range",
+    "o:local_name": "pageRange",
+    "o:term": "dcndl:pageRange",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/8",
-        "o:id": 8
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
     }
 }

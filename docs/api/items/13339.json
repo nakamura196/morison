@@ -1,407 +1,377 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13339",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/13339",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-a-2058",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "A-1-192-2",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1960/10/01",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
             "type": "literal"
         }
     ],
     "dcterms:identifier": [
         {
-            "@value": "bbae0cd1-00ba-4527-95d6-91a60334e89b",
+            "@value": "2a76c9d8-f7ae-4088-b947-2f5876d32730",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4600.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
             "type": "uri"
         }
     ],
-    "dcterms:spatial": [
-        {
-            "@id": "http://dbpedia.org/resource/Kolkata",
-            "is_public": true,
-            "property_id": 40,
-            "property_label": "Spatial Coverage",
-            "type": "uri"
-        }
-    ],
     "dcterms:title": [
         {
-            "@value": "Indian brick tea for Tibet. Report on a mission to Ssu-Chuan.Hutchison, James.",
+            "@value": "新聞資料　第22号∽A-1-192-2",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:format": [
+    "ex:custom_00015": [
         {
-            "@value": "61 p. ; 25 cm.",
+            "@value": "完成・公刊形態",
             "is_public": true,
-            "property_id": 304,
-            "property_label": "形態的記述",
+            "property_id": 2395,
+            "property_label": "過程（CUSTOM_00015）",
             "type": "literal"
         }
     ],
-    "ex:heading1": [
+    "ex:custom_00016": [
         {
-            "@value": "Hutchison, James.",
+            "@value": "冊子/綴",
             "is_public": true,
-            "property_id": 305,
-            "property_label": "heading1",
+            "property_id": 2396,
+            "property_label": "資源状態（CUSTOM_00016）",
             "type": "literal"
         }
     ],
-    "ex:holding": [
+    "ex:l6-001": [
         {
-            "@value": "（記録なし）",
+            "@value": "東京大学大学院情報学環",
             "is_public": true,
-            "property_id": 306,
-            "property_label": "所蔵",
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
             "type": "literal"
         }
     ],
-    "ex:publication": [
+    "ex:l6-002": [
         {
-            "@value": "Calcutta, 1906.",
+            "@value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。2007年以降図書室/社会情報研究資料センターにて再配置。",
             "is_public": true,
-            "property_id": 303,
-            "property_label": "出版事項",
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
             "type": "literal"
         }
     ],
-    "ex:references": [
+    "ex:l6-013": [
         {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=20&tg3=H&tg4=a&tg5=",
+            "@value": "A",
             "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
+            "property_id": 2313,
+            "property_label": "箱（L6-013）",
             "type": "literal"
         }
     ],
-    "ex:tag2": [
+    "ex:l6-014": [
         {
-            "@value": "20. Economy and Industry",
+            "@value": "1",
             "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
+            "property_id": 2314,
+            "property_label": "群（L6-014）",
             "type": "literal"
         }
     ],
-    "ex:tag3": [
+    "ex:l6-015": [
         {
-            "@value": "H. Commerce",
+            "@value": "192",
             "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
+            "property_id": 2315,
+            "property_label": "体（L6-015）",
             "type": "literal"
         }
     ],
-    "ex:tag4": [
+    "ex:l6-016": [
         {
-            "@value": "a. General",
+            "@value": "2",
             "is_public": true,
-            "property_id": 299,
-            "property_label": "分類4",
+            "property_id": 2316,
+            "property_label": "部（L6-016）",
             "type": "literal"
         }
     ],
-    "ex:title": [
+    "ex:l6-019": [
         {
-            "@value": "Indian brick tea for Tibet. Report on a mission to Ssu-Chuan.",
+            "@value": "新聞資料　第22号",
             "is_public": true,
-            "property_id": 302,
-            "property_label": "タイトル責任表示",
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-021": [
+        {
+            "@value": "昭和",
+            "is_public": true,
+            "property_id": 2321,
+            "property_label": "成立年代-元号（L6-021）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-022": [
+        {
+            "@value": "35",
+            "is_public": true,
+            "property_id": 2322,
+            "property_label": "成立年代-年（L6-022）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-023": [
+        {
+            "@value": "10",
+            "is_public": true,
+            "property_id": 2323,
+            "property_label": "成立年代-月（L6-023）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-024": [
+        {
+            "@value": "1",
+            "is_public": true,
+            "property_id": 2324,
+            "property_label": "成立年代-日（L6-024）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-027": [
+        {
+            "@value": "日本新聞資料協会",
+            "is_public": true,
+            "property_id": 2327,
+            "property_label": "作成（L6-027）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-030": [
+        {
+            "@value": "257",
+            "is_public": true,
+            "property_id": 2330,
+            "property_label": "物的状態-長さ（L6-030）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-031": [
+        {
+            "@value": "183",
+            "is_public": true,
+            "property_id": 2331,
+            "property_label": "物的状態-幅（L6-031）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-032": [
+        {
+            "@value": "1",
+            "is_public": true,
+            "property_id": 2332,
+            "property_label": "物的状態-高さ（L6-032）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-050": [
+        {
+            "@value": "玉井　建也",
+            "is_public": true,
+            "property_id": 2350,
+            "property_label": "情報入力（L6-050）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-051": [
+        {
+            "@value": "玉井　建也",
+            "is_public": true,
+            "property_id": 2351,
+            "property_label": "情報分析（L6-051）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-052": [
+        {
+            "@value": "新聞or雑誌",
+            "is_public": true,
+            "property_id": 2352,
+            "property_label": "形態・形式情報-資源タイプ（L6-052）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-053": [
+        {
+            "@value": "02逐次刊行-雑誌類",
+            "is_public": true,
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-061": [
+        {
+            "@value": "139.75426719999996,35.6709879",
+            "is_public": true,
+            "property_id": 2361,
+            "property_label": "索引事項-関係地-地域（L6-061）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-069": [
+        {
+            "@value": "新聞資料",
+            "is_public": true,
+            "property_id": 2369,
+            "property_label": "抜き取り雑誌記述-雑誌名（L6-069）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-072": [
+        {
+            "@value": "22号",
+            "is_public": true,
+            "property_id": 2372,
+            "property_label": "抜き取り雑誌記述-号(No.)（L6-072）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-074": [
+        {
+            "@value": "日本新聞資料協会",
+            "is_public": true,
+            "property_id": 2374,
+            "property_label": "出版者（L6-074）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-077": [
+        {
+            "@value": "ja",
+            "is_public": true,
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-078": [
+        {
+            "@value": "昭和戦後",
+            "is_public": true,
+            "property_id": 2378,
+            "property_label": "年代範囲（L6-078）",
+            "type": "literal"
+        }
+    ],
+    "ex:sort": [
+        {
+            "@value": "A-0001-0192-0002",
+            "is_public": true,
+            "property_id": 2838,
+            "property_label": "sort",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:42:14+00:00"
+        "@value": "2018-06-08T06:50:11+00:00"
     },
     "o:id": 13339,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/34998",
+            "o:id": 34998
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53473",
+            "o:id": 53473
         }
     ],
-    "o:media": [
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51731",
-            "o:id": 51731
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51732",
-            "o:id": 51732
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51733",
-            "o:id": 51733
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51734",
-            "o:id": 51734
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51735",
-            "o:id": 51735
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51736",
-            "o:id": 51736
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51737",
-            "o:id": 51737
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51738",
-            "o:id": 51738
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51739",
-            "o:id": 51739
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51740",
-            "o:id": 51740
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51741",
-            "o:id": 51741
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51742",
-            "o:id": 51742
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51743",
-            "o:id": 51743
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51744",
-            "o:id": 51744
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51745",
-            "o:id": 51745
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51746",
-            "o:id": 51746
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51747",
-            "o:id": 51747
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51748",
-            "o:id": 51748
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51749",
-            "o:id": 51749
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51750",
-            "o:id": 51750
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51751",
-            "o:id": 51751
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51752",
-            "o:id": 51752
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51753",
-            "o:id": 51753
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51754",
-            "o:id": 51754
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51755",
-            "o:id": 51755
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51756",
-            "o:id": 51756
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51757",
-            "o:id": 51757
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51758",
-            "o:id": 51758
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51759",
-            "o:id": 51759
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51760",
-            "o:id": 51760
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51761",
-            "o:id": 51761
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51762",
-            "o:id": 51762
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51763",
-            "o:id": 51763
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51764",
-            "o:id": 51764
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51765",
-            "o:id": 51765
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51766",
-            "o:id": 51766
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51767",
-            "o:id": 51767
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51768",
-            "o:id": 51768
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51769",
-            "o:id": 51769
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51770",
-            "o:id": 51770
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51771",
-            "o:id": 51771
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51772",
-            "o:id": 51772
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51773",
-            "o:id": 51773
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51774",
-            "o:id": 51774
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51775",
-            "o:id": 51775
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51776",
-            "o:id": 51776
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51777",
-            "o:id": 51777
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51778",
-            "o:id": 51778
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51779",
-            "o:id": 51779
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51780",
-            "o:id": 51780
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51781",
-            "o:id": 51781
-        }
-    ],
+    "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T14:13:52+00:00"
+        "@value": "2020-11-20T01:36:27+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/56",
+        "o:id": 56
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "Indian brick tea for Tibet. Report on a mission to Ssu-Chuan.Hutchison, James.",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "新聞資料　第22号∽A-1-192-2",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/17353",
+            "display_title": "小野秀雄研究資料Ａ",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 17353,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
 }

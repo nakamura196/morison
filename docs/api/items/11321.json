@@ -1,217 +1,157 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11321",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/11321",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-c-31",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "06-556",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "PRJ 4-1969",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
             "type": "literal"
         }
     ],
     "dcterms:identifier": [
         {
-            "@value": "795a51d3-4791-4b49-a114-2a5fe48a8ae3",
+            "@value": "a08a7670-3199-47a3-be1a-50d9202cec7a",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2582.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
             "type": "uri"
         }
     ],
-    "dcterms:spatial": [
-        {
-            "@id": "http://dbpedia.org/resource/Paris",
-            "is_public": true,
-            "property_id": 40,
-            "property_label": "Spatial Coverage",
-            "type": "uri"
-        }
-    ],
     "dcterms:title": [
         {
-            "@value": "Les Affaires du Pacifique.",
+            "@value": "mouvements pour la paix au japon  ∽06-556",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:format": [
+    "ex:l6-019": [
         {
-            "@value": "8 p. ; 31 cm.",
+            "@value": "mouvements pour la paix au japon  ",
             "is_public": true,
-            "property_id": 304,
-            "property_label": "形態的記述",
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
             "type": "literal"
         }
     ],
-    "ex:holding": [
+    "ex:l6-025": [
         {
-            "@value": "（記録なし）",
+            "@value": "CD-ROM非収録",
             "is_public": true,
-            "property_id": 306,
-            "property_label": "所蔵",
+            "property_id": 2325,
+            "property_label": "成立年代-備考（L6-025）",
             "type": "literal"
         }
     ],
-    "ex:publication": [
+    "ex:l6-069": [
         {
-            "@value": "Paris.",
+            "@value": "Convergence ",
             "is_public": true,
-            "property_id": 303,
-            "property_label": "出版事項",
+            "property_id": 2369,
+            "property_label": "抜き取り雑誌記述-雑誌名（L6-069）",
             "type": "literal"
         }
     ],
-    "ex:references": [
+    "ex:l6-077": [
         {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=E&tg4=&tg5=",
+            "@value": "ja",
             "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
-            "type": "literal"
-        }
-    ],
-    "ex:tag2": [
-        {
-            "@value": "7. History",
-            "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
-            "type": "literal"
-        }
-    ],
-    "ex:tag3": [
-        {
-            "@value": "E. Recent history",
-            "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
-            "type": "literal"
-        }
-    ],
-    "ex:title": [
-        {
-            "@value": "Les Affaires du Pacifique.",
-            "is_public": true,
-            "property_id": 302,
-            "property_label": "タイトル責任表示",
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:42:01+00:00"
+        "@value": "2018-06-08T06:49:42+00:00"
     },
     "o:id": 11321,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35008",
+            "o:id": 35008
         }
     ],
-    "o:media": [
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23104",
-            "o:id": 23104
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23105",
-            "o:id": 23105
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23106",
-            "o:id": 23106
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23107",
-            "o:id": 23107
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23108",
-            "o:id": 23108
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23109",
-            "o:id": 23109
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23110",
-            "o:id": 23110
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23111",
-            "o:id": 23111
-        }
-    ],
+    "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T14:31:54+00:00"
+        "@value": "2020-11-20T01:30:57+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/124",
+        "o:id": 124
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "Les Affaires du Pacifique.",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "mouvements pour la paix au japon  ∽06-556",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/24287",
+            "display_title": "森恭三著作集CD-ROM版目録",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 24287,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
 }

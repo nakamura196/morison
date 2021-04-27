@@ -1,14 +1,14 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/285",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/285",
     "@type": "o:Property",
-    "o:comment": "Contributorの読み又は翻字形",
+    "o:comment": "博士論文の学位分野名",
     "o:id": 285,
-    "o:label": "Contributor Transcription",
-    "o:local_name": "contributorTranscription",
-    "o:term": "dcndl:contributorTranscription",
+    "o:label": "Degree Name",
+    "o:local_name": "degreeName",
+    "o:term": "dcndl:degreeName",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/8",
-        "o:id": 8
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
     }
 }

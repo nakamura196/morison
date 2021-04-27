@@ -1,6 +1,6 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/85",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/85",
     "@type": "o:Property",
     "o:comment": "A person who translates written document from one language to another.",
     "o:id": 85,
@@ -8,7 +8,7 @@
     "o:local_name": "translator",
     "o:term": "bibo:translator",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/3",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/3",
         "o:id": 3
     }
 }

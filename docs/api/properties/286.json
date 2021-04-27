@@ -1,14 +1,14 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/286",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/286",
     "@type": "o:Property",
-    "o:comment": "Publisherの読み又は翻字形",
+    "o:comment": "博士論文の報告番号",
     "o:id": 286,
-    "o:label": "Publisher Transcription",
-    "o:local_name": "publisherTranscription",
-    "o:term": "dcndl:publisherTranscription",
+    "o:label": "Dissertation Number",
+    "o:local_name": "dissertationNumber",
+    "o:term": "dcndl:dissertationNumber",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/8",
-        "o:id": 8
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
     }
 }

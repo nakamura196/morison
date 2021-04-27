@@ -1,49 +1,49 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11217",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/11217",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-a-882",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "11-416",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1977年12月発行",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
             "type": "literal"
         }
     ],
     "dcterms:identifier": [
         {
-            "@value": "7b3b1d62-e956-412c-8a4c-bc9685652254",
+            "@value": "203e0639-e585-4d40-ada0-e4c3a7055048",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2478.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
@@ -52,172 +52,106 @@
     ],
     "dcterms:title": [
         {
-            "@value": "The Chinese fiasco. Review upon: -1. The Englishman in China. By A. Michie. Edin. & London, 1900. -2. China ; her history, diplomacy, and commerce. By E. H. Parker. London, 1901. -3. These from the land of Sinim. By Sir R. Hart. London, 1900. -4. A year in China, 1899-1900. By C. Bigham. London, 1901. -5. Manchuria. By A. Hosie. London, 1901. -6. China and the allies. By H. S. Landor. London, 1901.",
+            "@value": "罪のつぐない　［朝日ジャーナル巻頭言「風速計」　1967年6月25日号掲載］∽11-416",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:heading1": [
+    "ex:l6-019": [
         {
-            "@value": "（記録なし）",
+            "@value": "罪のつぐない　［朝日ジャーナル巻頭言「風速計」　1967年6月25日号掲載］",
             "is_public": true,
-            "property_id": 305,
-            "property_label": "heading1",
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
             "type": "literal"
         }
     ],
-    "ex:publication": [
+    "ex:l6-025": [
         {
-            "@value": "pp. 294-316 ; 23 cm.",
+            "@value": "p.243　マイクロフィルムなし",
             "is_public": true,
-            "property_id": 303,
-            "property_label": "出版事項",
+            "property_id": 2325,
+            "property_label": "成立年代-備考（L6-025）",
             "type": "literal"
         }
     ],
-    "ex:references": [
+    "ex:l6-069": [
         {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=D&tg4=&tg5=",
+            "@value": "森恭三『風速計（上）』　（朝日新聞社）",
             "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
+            "property_id": 2369,
+            "property_label": "抜き取り雑誌記述-雑誌名（L6-069）",
             "type": "literal"
         }
     ],
-    "ex:tag2": [
+    "ex:l6-077": [
         {
-            "@value": "7. History",
+            "@value": "ja",
             "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
-            "type": "literal"
-        }
-    ],
-    "ex:tag3": [
-        {
-            "@value": "D. Modern history",
-            "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
-            "type": "literal"
-        }
-    ],
-    "ex:title": [
-        {
-            "@value": "The Chinese fiasco. Review upon: -1. The Englishman in China. By A. Michie. Edin. & London, 1900. -2. China ; her history, diplomacy, and commerce. By E. H. Parker. London, 1901. -3. These from the land of Sinim. By Sir R. Hart. London, 1900. -4. A year in China, 1899-1900. By C. Bigham. London, 1901. -5. Manchuria. By A. Hosie. London, 1901. -6. China and the allies. By H. S. Landor. London, 1901.",
-            "is_public": true,
-            "property_id": 302,
-            "property_label": "タイトル責任表示",
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:42:00+00:00"
+        "@value": "2018-06-08T06:49:41+00:00"
     },
     "o:id": 11217,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35008",
+            "o:id": 35008
         }
     ],
-    "o:media": [
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21697",
-            "o:id": 21697
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21698",
-            "o:id": 21698
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21699",
-            "o:id": 21699
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21700",
-            "o:id": 21700
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21701",
-            "o:id": 21701
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21702",
-            "o:id": 21702
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21703",
-            "o:id": 21703
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21704",
-            "o:id": 21704
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21705",
-            "o:id": 21705
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21706",
-            "o:id": 21706
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21707",
-            "o:id": 21707
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21708",
-            "o:id": 21708
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21709",
-            "o:id": 21709
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21710",
-            "o:id": 21710
-        }
-    ],
+    "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T14:22:33+00:00"
+        "@value": "2020-11-20T01:30:41+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/124",
+        "o:id": 124
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "The Chinese fiasco. Review upon: -1. The Englishman in China. By A. Michie. Edin. & London, 1900. -2. China ; her history, diplomacy, and commerce. By E. H. Parker. London, 1901. -3. These from the land of Sinim. By Sir R. Hart. London, 1900. -4. A year in China, 1899-1900. By C. Bigham. London, 1901. -5. Manchuria. By A. Hosie. London, 1901. -6. China and the allies. By H. S. Landor. London, 1901.",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "罪のつぐない　［朝日ジャーナル巻頭言「風速計」　1967年6月25日号掲載］∽11-416",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/24287",
+            "display_title": "森恭三著作集CD-ROM版目録",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 24287,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
 }

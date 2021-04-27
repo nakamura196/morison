@@ -1,49 +1,49 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12295",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/12295",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-a-2662",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "I_4_197_50",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1966/11/12",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
             "type": "literal"
         }
     ],
     "dcterms:identifier": [
         {
-            "@value": "8e145cd6-600b-48d6-92ee-1bcb18346a5d",
+            "@value": "ec0e31e6-42ad-4e83-a1aa-f5d6332adac8",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3556.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
@@ -52,300 +52,281 @@
     ],
     "dcterms:title": [
         {
-            "@value": "Compendiosum manuale caeremoniarum seu praecipuae, ex caeremoniali episcoporum et ex missali desumptae, caeremoniae pro commoditate ministrorum annotationibus illustratae.",
+            "@value": "「マスメディア批判」の記事∽I_4_197_50",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:format": [
+    "ex:custom_00016": [
         {
-            "@value": "60 p. ; 21 cm.",
+            "@value": "束/括",
             "is_public": true,
-            "property_id": 304,
-            "property_label": "形態的記述",
+            "property_id": 2396,
+            "property_label": "資源状態（CUSTOM_00016）",
             "type": "literal"
         }
     ],
-    "ex:holding": [
+    "ex:custom_00018": [
         {
-            "@value": "（記録なし）",
+            "@value": "M2階でG４の付箋あり。",
             "is_public": true,
-            "property_id": 306,
-            "property_label": "所蔵",
+            "property_id": 2398,
+            "property_label": "備考（CUSTOM_00018）",
             "type": "literal"
         }
     ],
-    "ex:publication": [
+    "ex:l6-001": [
         {
-            "@value": "Pekini, 1894.",
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
             "is_public": true,
-            "property_id": 303,
-            "property_label": "出版事項",
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
             "type": "literal"
         }
     ],
-    "ex:references": [
+    "ex:l6-002": [
         {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=10&tg3=E&tg4=c&tg5=c2",
+            "@value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。2007年以降\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。",
             "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
             "type": "literal"
         }
     ],
-    "ex:tag2": [
+    "ex:l6-013": [
         {
-            "@value": "10. Religion",
+            "@value": "I",
             "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
+            "property_id": 2313,
+            "property_label": "箱（L6-013）",
             "type": "literal"
         }
     ],
-    "ex:tag3": [
+    "ex:l6-014": [
         {
-            "@value": "E. Christianity",
+            "@value": "4",
             "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
+            "property_id": 2314,
+            "property_label": "群（L6-014）",
             "type": "literal"
         }
     ],
-    "ex:tag4": [
+    "ex:l6-015": [
         {
-            "@value": "c. Roman Catholic",
+            "@value": "197",
             "is_public": true,
-            "property_id": 299,
-            "property_label": "分類4",
+            "property_id": 2315,
+            "property_label": "体（L6-015）",
             "type": "literal"
         }
     ],
-    "ex:tag5": [
+    "ex:l6-016": [
         {
-            "@value": "c2. Jesuits; Rite Controversy",
+            "@value": "50",
             "is_public": true,
-            "property_id": 297,
-            "property_label": "分類5",
+            "property_id": 2316,
+            "property_label": "部（L6-016）",
             "type": "literal"
         }
     ],
-    "ex:title": [
+    "ex:l6-019": [
         {
-            "@value": "Compendiosum manuale caeremoniarum seu praecipuae, ex caeremoniali episcoporum et ex missali desumptae, caeremoniae pro commoditate ministrorum annotationibus illustratae.",
+            "@value": "「マスメディア批判」の記事",
             "is_public": true,
-            "property_id": 302,
-            "property_label": "タイトル責任表示",
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
             "type": "literal"
         }
     ],
-    "ex:version": [
+    "ex:l6-021": [
         {
-            "@value": "2 ed.",
+            "@value": "昭和",
             "is_public": true,
-            "property_id": 308,
-            "property_label": "版",
+            "property_id": 2321,
+            "property_label": "成立年代-元号（L6-021）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-022": [
+        {
+            "@value": "41",
+            "is_public": true,
+            "property_id": 2322,
+            "property_label": "成立年代-年（L6-022）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-023": [
+        {
+            "@value": "11",
+            "is_public": true,
+            "property_id": 2323,
+            "property_label": "成立年代-月（L6-023）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-024": [
+        {
+            "@value": "12",
+            "is_public": true,
+            "property_id": 2324,
+            "property_label": "成立年代-日（L6-024）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-027": [
+        {
+            "@value": "日比谷五郎",
+            "is_public": true,
+            "property_id": 2327,
+            "property_label": "作成（L6-027）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-030": [
+        {
+            "@value": "209",
+            "is_public": true,
+            "property_id": 2330,
+            "property_label": "物的状態-長さ（L6-030）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-031": [
+        {
+            "@value": "148",
+            "is_public": true,
+            "property_id": 2331,
+            "property_label": "物的状態-幅（L6-031）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-050": [
+        {
+            "@value": "福  博充",
+            "is_public": true,
+            "property_id": 2350,
+            "property_label": "情報入力（L6-050）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-051": [
+        {
+            "@value": "福  博充",
+            "is_public": true,
+            "property_id": 2351,
+            "property_label": "情報分析（L6-051）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-052": [
+        {
+            "@value": "新聞or雑誌",
+            "is_public": true,
+            "property_id": 2352,
+            "property_label": "形態・形式情報-資源タイプ（L6-052）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-053": [
+        {
+            "@value": "05研究論考・講義・学術研究内容",
+            "is_public": true,
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "「行き過ぎた扱いぶり」が見出し",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-077": [
+        {
+            "@value": "ja",
+            "is_public": true,
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
+            "type": "literal"
+        }
+    ],
+    "ex:sort": [
+        {
+            "@value": "I-0004-0197-0050",
+            "is_public": true,
+            "property_id": 2838,
+            "property_label": "sort",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:42:07+00:00"
+        "@value": "2018-06-08T06:49:57+00:00"
     },
     "o:id": 12295,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/34998",
+            "o:id": 34998
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53473",
+            "o:id": 53473
         }
     ],
-    "o:media": [
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37370",
-            "o:id": 37370
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37371",
-            "o:id": 37371
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37372",
-            "o:id": 37372
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37373",
-            "o:id": 37373
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37374",
-            "o:id": 37374
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37375",
-            "o:id": 37375
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37376",
-            "o:id": 37376
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37377",
-            "o:id": 37377
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37378",
-            "o:id": 37378
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37379",
-            "o:id": 37379
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37380",
-            "o:id": 37380
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37381",
-            "o:id": 37381
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37382",
-            "o:id": 37382
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37383",
-            "o:id": 37383
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37384",
-            "o:id": 37384
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37385",
-            "o:id": 37385
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37386",
-            "o:id": 37386
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37387",
-            "o:id": 37387
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37388",
-            "o:id": 37388
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37389",
-            "o:id": 37389
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37390",
-            "o:id": 37390
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37391",
-            "o:id": 37391
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37392",
-            "o:id": 37392
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37393",
-            "o:id": 37393
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37394",
-            "o:id": 37394
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37395",
-            "o:id": 37395
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37396",
-            "o:id": 37396
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37397",
-            "o:id": 37397
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37398",
-            "o:id": 37398
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37399",
-            "o:id": 37399
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37400",
-            "o:id": 37400
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37401",
-            "o:id": 37401
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37402",
-            "o:id": 37402
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37403",
-            "o:id": 37403
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37404",
-            "o:id": 37404
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37405",
-            "o:id": 37405
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37406",
-            "o:id": 37406
-        }
-    ],
+    "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T13:32:45+00:00"
+        "@value": "2020-11-20T01:33:38+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/56",
+        "o:id": 56
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "Compendiosum manuale caeremoniarum seu praecipuae, ex caeremoniali episcoporum et ex missali desumptae, caeremoniae pro commoditate ministrorum annotationibus illustratae.",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "「マスメディア批判」の記事∽I_4_197_50",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/8177",
+            "display_title": "小野秀雄研究資料Ｉ",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 8177,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
 }

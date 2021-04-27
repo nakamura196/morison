@@ -1,14 +1,14 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/302",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/302",
     "@type": "o:Property",
-    "o:comment": "",
+    "o:comment": "所蔵する逐次刊行物の欠号に関する情報",
     "o:id": 302,
-    "o:label": "タイトル責任表示",
-    "o:local_name": "title",
-    "o:term": "ex:title",
+    "o:label": "Absent Issues",
+    "o:local_name": "absentIssues",
+    "o:term": "dcndl:absentIssues",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/9",
-        "o:id": 9
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
     }
 }

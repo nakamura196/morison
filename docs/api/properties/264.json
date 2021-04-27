@@ -1,14 +1,14 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/264",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/264",
     "@type": "o:Property",
-    "o:comment": "当該レコードの状態",
+    "o:comment": "単行書の構成レベルに相当する各著作のタイトル",
     "o:id": 264,
-    "o:label": "Record Status",
-    "o:local_name": "recordStatus",
-    "o:term": "dcndl:recordStatus",
+    "o:label": "Part Title",
+    "o:local_name": "partTitle",
+    "o:term": "dcndl:partTitle",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/8",
-        "o:id": 8
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
     }
 }

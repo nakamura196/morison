@@ -1,242 +1,157 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11461",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/11461",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-a-606",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "11-080",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1961年7月発行",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
             "type": "literal"
         }
     ],
     "dcterms:identifier": [
         {
-            "@value": "f929aae5-7e28-4a51-ae02-04bccfcbae33",
+            "@value": "43e0fdd0-6716-42d2-a094-87886fe9f6d3",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2722.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
             "type": "uri"
         }
     ],
-    "dcterms:spatial": [
-        {
-            "@id": "http://dbpedia.org/resource/Hankou",
-            "is_public": true,
-            "property_id": 40,
-            "property_label": "Spatial Coverage",
-            "type": "uri"
-        }
-    ],
     "dcterms:title": [
         {
-            "@value": "The Anti-foreign riots in Szchuan. Report of a meeting of the missionary body held at Hankow, July 12th 1895, in connection with the Szchuan riots.",
+            "@value": "労働運動における動と反動　-−革新政党と労組に望む--　第5章政党　（1959・12「論争」）∽11-080",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:format": [
+    "ex:l6-019": [
         {
-            "@value": "17 p. ; 22 cm.",
+            "@value": "労働運動における動と反動　-−革新政党と労組に望む--　第5章政党　（1959・12「論争」）",
             "is_public": true,
-            "property_id": 304,
-            "property_label": "形態的記述",
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
             "type": "literal"
         }
     ],
-    "ex:holding": [
+    "ex:l6-025": [
         {
-            "@value": "（記録なし）",
+            "@value": "p.183　マイクロフィルムなし",
             "is_public": true,
-            "property_id": 306,
-            "property_label": "所蔵",
+            "property_id": 2325,
+            "property_label": "成立年代-備考（L6-025）",
             "type": "literal"
         }
     ],
-    "ex:publication": [
+    "ex:l6-069": [
         {
-            "@value": "Hankow, 1895.",
+            "@value": "森恭三『書生論的政治論』（みすず書房）",
             "is_public": true,
-            "property_id": 303,
-            "property_label": "出版事項",
+            "property_id": 2369,
+            "property_label": "抜き取り雑誌記述-雑誌名（L6-069）",
             "type": "literal"
         }
     ],
-    "ex:references": [
+    "ex:l6-077": [
         {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=F&tg4=a&tg5=",
+            "@value": "ja",
             "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
-            "type": "literal"
-        }
-    ],
-    "ex:tag2": [
-        {
-            "@value": "7. History",
-            "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
-            "type": "literal"
-        }
-    ],
-    "ex:tag3": [
-        {
-            "@value": "F. Foreign relations",
-            "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
-            "type": "literal"
-        }
-    ],
-    "ex:tag4": [
-        {
-            "@value": "a. General history of foreign relations with China",
-            "is_public": true,
-            "property_id": 299,
-            "property_label": "分類4",
-            "type": "literal"
-        }
-    ],
-    "ex:title": [
-        {
-            "@value": "The Anti-foreign riots in Szchuan. Report of a meeting of the missionary body held at Hankow, July 12th 1895, in connection with the Szchuan riots.",
-            "is_public": true,
-            "property_id": 302,
-            "property_label": "タイトル責任表示",
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:42:01+00:00"
+        "@value": "2018-06-08T06:49:44+00:00"
     },
     "o:id": 11461,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35008",
+            "o:id": 35008
         }
     ],
-    "o:media": [
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24920",
-            "o:id": 24920
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24921",
-            "o:id": 24921
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24922",
-            "o:id": 24922
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24923",
-            "o:id": 24923
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24924",
-            "o:id": 24924
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24925",
-            "o:id": 24925
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24926",
-            "o:id": 24926
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24927",
-            "o:id": 24927
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24928",
-            "o:id": 24928
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24929",
-            "o:id": 24929
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24930",
-            "o:id": 24930
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24931",
-            "o:id": 24931
-        }
-    ],
+    "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T13:48:51+00:00"
+        "@value": "2020-11-20T01:31:15+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/124",
+        "o:id": 124
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "The Anti-foreign riots in Szchuan. Report of a meeting of the missionary body held at Hankow, July 12th 1895, in connection with the Szchuan riots.",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "労働運動における動と反動　-−革新政党と労組に望む--　第5章政党　（1959・12「論争」）∽11-080",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/24287",
+            "display_title": "森恭三著作集CD-ROM版目録",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 24287,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
 }

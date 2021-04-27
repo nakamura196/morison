@@ -1,49 +1,49 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12304",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/12304",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-a-2754",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "06-100",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1964年4月2日",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
             "type": "literal"
         }
     ],
     "dcterms:identifier": [
         {
-            "@value": "4027fc06-487a-4d81-827f-b7dcae06134d",
+            "@value": "1c320abd-daaf-4a7c-808c-bbb7a284f76e",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3565.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
@@ -52,319 +52,97 @@
     ],
     "dcterms:title": [
         {
-            "@value": "Apostolicae facultates earmque commentarius. (J. M. J.)",
+            "@value": "森論説主幹は語る　朝日新聞大阪本社で、新経営方針の綱領など当面する問題点について編集局の幹部に話した内容∽06-100",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:format": [
+    "ex:l6-019": [
         {
-            "@value": "81 p. ; 23 cm.",
+            "@value": "森論説主幹は語る　朝日新聞大阪本社で、新経営方針の綱領など当面する問題点について編集局の幹部に話した内容",
             "is_public": true,
-            "property_id": 304,
-            "property_label": "形態的記述",
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
             "type": "literal"
         }
     ],
-    "ex:holding": [
+    "ex:l6-069": [
         {
-            "@value": "（記録なし）",
+            "@value": "朝日新聞社大阪本社編集局長室（朝日新聞社）",
             "is_public": true,
-            "property_id": 306,
-            "property_label": "所蔵",
+            "property_id": 2369,
+            "property_label": "抜き取り雑誌記述-雑誌名（L6-069）",
             "type": "literal"
         }
     ],
-    "ex:publication": [
+    "ex:l6-077": [
         {
-            "@value": "Pekini, 1885.",
+            "@value": "ja",
             "is_public": true,
-            "property_id": 303,
-            "property_label": "出版事項",
-            "type": "literal"
-        }
-    ],
-    "ex:references": [
-        {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=10&tg3=E&tg4=c&tg5=c3",
-            "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
-            "type": "literal"
-        }
-    ],
-    "ex:tag2": [
-        {
-            "@value": "10. Religion",
-            "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
-            "type": "literal"
-        }
-    ],
-    "ex:tag3": [
-        {
-            "@value": "E. Christianity",
-            "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
-            "type": "literal"
-        }
-    ],
-    "ex:tag4": [
-        {
-            "@value": "c. Roman Catholic",
-            "is_public": true,
-            "property_id": 299,
-            "property_label": "分類4",
-            "type": "literal"
-        }
-    ],
-    "ex:tag5": [
-        {
-            "@value": "c3. Particular Orders & Missionary Societies",
-            "is_public": true,
-            "property_id": 297,
-            "property_label": "分類5",
-            "type": "literal"
-        }
-    ],
-    "ex:title": [
-        {
-            "@value": "Apostolicae facultates earmque commentarius. (J. M. J.)",
-            "is_public": true,
-            "property_id": 302,
-            "property_label": "タイトル責任表示",
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:42:07+00:00"
+        "@value": "2018-06-08T06:49:57+00:00"
     },
     "o:id": 12304,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35008",
+            "o:id": 35008
         }
     ],
-    "o:media": [
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37521",
-            "o:id": 37521
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37522",
-            "o:id": 37522
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37523",
-            "o:id": 37523
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37524",
-            "o:id": 37524
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37525",
-            "o:id": 37525
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37526",
-            "o:id": 37526
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37527",
-            "o:id": 37527
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37528",
-            "o:id": 37528
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37529",
-            "o:id": 37529
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37530",
-            "o:id": 37530
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37531",
-            "o:id": 37531
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37532",
-            "o:id": 37532
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37533",
-            "o:id": 37533
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37534",
-            "o:id": 37534
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37535",
-            "o:id": 37535
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37536",
-            "o:id": 37536
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37537",
-            "o:id": 37537
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37538",
-            "o:id": 37538
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37539",
-            "o:id": 37539
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37540",
-            "o:id": 37540
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37541",
-            "o:id": 37541
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37542",
-            "o:id": 37542
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37543",
-            "o:id": 37543
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37544",
-            "o:id": 37544
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37545",
-            "o:id": 37545
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37546",
-            "o:id": 37546
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37547",
-            "o:id": 37547
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37548",
-            "o:id": 37548
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37549",
-            "o:id": 37549
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37550",
-            "o:id": 37550
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37551",
-            "o:id": 37551
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37552",
-            "o:id": 37552
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37553",
-            "o:id": 37553
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37554",
-            "o:id": 37554
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37555",
-            "o:id": 37555
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37556",
-            "o:id": 37556
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37557",
-            "o:id": 37557
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37558",
-            "o:id": 37558
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37559",
-            "o:id": 37559
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37560",
-            "o:id": 37560
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37561",
-            "o:id": 37561
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37562",
-            "o:id": 37562
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37563",
-            "o:id": 37563
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37564",
-            "o:id": 37564
-        }
-    ],
+    "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T13:34:09+00:00"
+        "@value": "2020-11-20T01:33:39+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/124",
+        "o:id": 124
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "Apostolicae facultates earmque commentarius. (J. M. J.)",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "森論説主幹は語る　朝日新聞大阪本社で、新経営方針の綱領など当面する問題点について編集局の幹部に話した内容∽06-100",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/24287",
+            "display_title": "森恭三著作集CD-ROM版目録",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 24287,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
 }

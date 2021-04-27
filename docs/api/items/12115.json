@@ -1,302 +1,148 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12115",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/12115",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-a-1195",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "05-004",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1959年5月13日",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
             "type": "literal"
         }
     ],
     "dcterms:identifier": [
         {
-            "@value": "ab8f4a59-2717-4121-ad2d-22c4d9ec044f",
+            "@value": "42b65e10-4433-4b3e-af1a-27e89fdbb77e",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3376.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
             "type": "uri"
         }
     ],
-    "dcterms:spatial": [
-        {
-            "@id": "http://dbpedia.org/resource/Leipzig",
-            "is_public": true,
-            "property_id": 40,
-            "property_label": "Spatial Coverage",
-            "type": "uri"
-        }
-    ],
     "dcterms:title": [
         {
-            "@value": "Die altchinesische Reichsreligion vom Standpunkte der vergleichenden Religionsgeschichte.Happel, Julius.",
+            "@value": "外相会議と大衆（今日の問題）　　［ジュネーブ外相会議］∽05-004",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:format": [
+    "ex:l6-019": [
         {
-            "@value": "46 p. ; 23 cm.",
+            "@value": "外相会議と大衆（今日の問題）　　［ジュネーブ外相会議］",
             "is_public": true,
-            "property_id": 304,
-            "property_label": "形態的記述",
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
             "type": "literal"
         }
     ],
-    "ex:heading1": [
+    "ex:l6-069": [
         {
-            "@value": "Happel, Julius.",
+            "@value": "朝日新聞夕刊（朝日新聞社）",
             "is_public": true,
-            "property_id": 305,
-            "property_label": "heading1",
+            "property_id": 2369,
+            "property_label": "抜き取り雑誌記述-雑誌名（L6-069）",
             "type": "literal"
         }
     ],
-    "ex:holding": [
+    "ex:l6-077": [
         {
-            "@value": "（記録なし）",
+            "@value": "ja",
             "is_public": true,
-            "property_id": 306,
-            "property_label": "所蔵",
-            "type": "literal"
-        }
-    ],
-    "ex:publication": [
-        {
-            "@value": "Leipzig, 1882.",
-            "is_public": true,
-            "property_id": 303,
-            "property_label": "出版事項",
-            "type": "literal"
-        }
-    ],
-    "ex:references": [
-        {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=10&tg3=A&tg4=&tg5=",
-            "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
-            "type": "literal"
-        }
-    ],
-    "ex:tag2": [
-        {
-            "@value": "10. Religion",
-            "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
-            "type": "literal"
-        }
-    ],
-    "ex:tag3": [
-        {
-            "@value": "A. General",
-            "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
-            "type": "literal"
-        }
-    ],
-    "ex:title": [
-        {
-            "@value": "Die altchinesische Reichsreligion vom Standpunkte der vergleichenden Religionsgeschichte.",
-            "is_public": true,
-            "property_id": 302,
-            "property_label": "タイトル責任表示",
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:42:06+00:00"
+        "@value": "2018-06-08T06:49:54+00:00"
     },
     "o:id": 12115,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35008",
+            "o:id": 35008
         }
     ],
-    "o:media": [
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34578",
-            "o:id": 34578
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34579",
-            "o:id": 34579
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34580",
-            "o:id": 34580
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34581",
-            "o:id": 34581
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34582",
-            "o:id": 34582
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34583",
-            "o:id": 34583
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34584",
-            "o:id": 34584
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34585",
-            "o:id": 34585
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34586",
-            "o:id": 34586
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34587",
-            "o:id": 34587
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34588",
-            "o:id": 34588
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34589",
-            "o:id": 34589
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34590",
-            "o:id": 34590
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34591",
-            "o:id": 34591
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34592",
-            "o:id": 34592
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34593",
-            "o:id": 34593
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34594",
-            "o:id": 34594
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34595",
-            "o:id": 34595
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34596",
-            "o:id": 34596
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34597",
-            "o:id": 34597
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34598",
-            "o:id": 34598
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34599",
-            "o:id": 34599
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34600",
-            "o:id": 34600
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34601",
-            "o:id": 34601
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34602",
-            "o:id": 34602
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34603",
-            "o:id": 34603
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34604",
-            "o:id": 34604
-        }
-    ],
+    "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T13:41:06+00:00"
+        "@value": "2020-11-20T01:32:56+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/124",
+        "o:id": 124
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "Die altchinesische Reichsreligion vom Standpunkte der vergleichenden Religionsgeschichte.Happel, Julius.",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "外相会議と大衆（今日の問題）　　［ジュネーブ外相会議］∽05-004",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/24287",
+            "display_title": "森恭三著作集CD-ROM版目録",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 24287,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
 }

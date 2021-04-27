@@ -1,274 +1,278 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11981",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/11981",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-a-629",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "2-6-2",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
             "type": "literal"
         }
     ],
     "dcterms:identifier": [
         {
-            "@value": "81d8049e-0ee7-43f6-89c8-37ebe5a4314a",
+            "@value": "79786303-a446-466b-86ca-b8b9b08eb604",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3242.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
             "type": "uri"
         }
     ],
-    "dcterms:spatial": [
-        {
-            "@id": "http://dbpedia.org/resource/Paris",
-            "is_public": true,
-            "property_id": 40,
-            "property_label": "Spatial Coverage",
-            "type": "uri"
-        }
-    ],
     "dcterms:title": [
         {
-            "@value": "La Chine et les alliés (1900-1901). Par M. S.Saillens, M.",
+            "@value": "新薬四百九十品　第三百一品至第四百品∽2-6-2",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:format": [
+    "ex:custom_00033": [
         {
-            "@value": "33 p. ; 23 cm.",
+            "@value": "冊子",
             "is_public": true,
-            "property_id": 304,
-            "property_label": "形態的記述",
+            "property_id": 2400,
+            "property_label": "資源状態（CUSTOM_00033）",
             "type": "literal"
         }
     ],
-    "ex:heading1": [
+    "ex:custom_00035": [
         {
-            "@value": "Saillens, M.",
+            "@value": "虫損あり。",
             "is_public": true,
-            "property_id": 305,
-            "property_label": "heading1",
+            "property_id": 2402,
+            "property_label": "備考（CUSTOM_00035）",
             "type": "literal"
         }
     ],
-    "ex:holding": [
+    "ex:l6-001": [
         {
-            "@value": "（記録なし）",
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
             "is_public": true,
-            "property_id": 306,
-            "property_label": "所蔵",
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
             "type": "literal"
         }
     ],
-    "ex:publication": [
+    "ex:l6-013": [
         {
-            "@value": "Paris, 1903.",
+            "@value": "2",
             "is_public": true,
-            "property_id": 303,
-            "property_label": "出版事項",
+            "property_id": 2313,
+            "property_label": "箱（L6-013）",
             "type": "literal"
         }
     ],
-    "ex:references": [
+    "ex:l6-014": [
         {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=G&tg4=&tg5=",
+            "@value": "6",
             "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
+            "property_id": 2314,
+            "property_label": "群（L6-014）",
             "type": "literal"
         }
     ],
-    "ex:tag2": [
+    "ex:l6-015": [
         {
-            "@value": "7. History",
+            "@value": "2",
             "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
+            "property_id": 2315,
+            "property_label": "体（L6-015）",
             "type": "literal"
         }
     ],
-    "ex:tag3": [
+    "ex:l6-019": [
         {
-            "@value": "G. The Boxer rising, 1900-01",
+            "@value": "新薬四百九十品　第三百一品至第四百品",
             "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
             "type": "literal"
         }
     ],
-    "ex:title": [
+    "ex:l6-030": [
         {
-            "@value": "La Chine et les alliés (1900-1901). Par M. S.",
+            "@value": "232",
             "is_public": true,
-            "property_id": 302,
-            "property_label": "タイトル責任表示",
+            "property_id": 2330,
+            "property_label": "物的状態-長さ（L6-030）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-031": [
+        {
+            "@value": "170",
+            "is_public": true,
+            "property_id": 2331,
+            "property_label": "物的状態-幅（L6-031）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-035": [
+        {
+            "@value": "同",
+            "is_public": true,
+            "property_id": 2335,
+            "property_label": "物的状態-返（L6-035）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-036": [
+        {
+            "@value": "90",
+            "is_public": true,
+            "property_id": 2336,
+            "property_label": "物的状態-角度（L6-036）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-037": [
+        {
+            "@value": "なし",
+            "is_public": true,
+            "property_id": 2337,
+            "property_label": "物的状態-折（L6-037）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-038": [
+        {
+            "@value": "なし",
+            "is_public": true,
+            "property_id": 2338,
+            "property_label": "物的状態-面（L6-038）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-052": [
+        {
+            "@value": "自由記述媒体",
+            "is_public": true,
+            "property_id": 2352,
+            "property_label": "形態・形式情報-資源タイプ（L6-052）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-053": [
+        {
+            "@value": "98その他の内容",
+            "is_public": true,
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "薬の製法と使用法、効能が記述されている。蔵書印「初百斎蔵書□」がある。最終頁の左下に「東京下谷仲□第二号十一号地坪井信良」　「日習堂」の20×21の原稿用紙を使用している。タイトルは表紙題箋に書かれている。和綴じ本。手書きで書かれた本。",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-077": [
+        {
+            "@value": "ja",
+            "is_public": true,
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
+            "type": "literal"
+        }
+    ],
+    "ex:sort": [
+        {
+            "@value": "0002-0006-0002",
+            "is_public": true,
+            "property_id": 2838,
+            "property_label": "sort",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:42:05+00:00"
+        "@value": "2018-06-08T06:49:52+00:00"
     },
     "o:id": 11981,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35000",
+            "o:id": 35000
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53490",
+            "o:id": 53490
         }
     ],
-    "o:media": [
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32792",
-            "o:id": 32792
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32793",
-            "o:id": 32793
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32794",
-            "o:id": 32794
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32795",
-            "o:id": 32795
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32796",
-            "o:id": 32796
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32797",
-            "o:id": 32797
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32798",
-            "o:id": 32798
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32799",
-            "o:id": 32799
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32800",
-            "o:id": 32800
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32801",
-            "o:id": 32801
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32802",
-            "o:id": 32802
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32803",
-            "o:id": 32803
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32804",
-            "o:id": 32804
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32805",
-            "o:id": 32805
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32806",
-            "o:id": 32806
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32807",
-            "o:id": 32807
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32808",
-            "o:id": 32808
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32809",
-            "o:id": 32809
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32810",
-            "o:id": 32810
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32811",
-            "o:id": 32811
-        }
-    ],
+    "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T13:42:41+00:00"
+        "@value": "2020-11-20T01:32:37+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/57",
+        "o:id": 57
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "La Chine et les alliés (1900-1901). Par M. S.Saillens, M.",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "新薬四百九十品　第三百一品至第四百品∽2-6-2",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/19053",
+            "display_title": "坪井信道・信良関係資料02の箱",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 19053,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
 }

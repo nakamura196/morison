@@ -1,14 +1,14 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/289",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/289",
     "@type": "o:Property",
-    "o:comment": "メタデータのハーベスト元のデータベースに関する情報",
+    "o:comment": "当該情報資源が属する刊行物の通号",
     "o:id": 289,
-    "o:label": "Bibliographic Record Category",
-    "o:local_name": "bibRecordCategory",
-    "o:term": "dcndl:bibRecordCategory",
+    "o:label": "Issue",
+    "o:local_name": "issue",
+    "o:term": "dcndl:issue",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/8",
-        "o:id": 8
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
     }
 }

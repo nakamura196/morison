@@ -1,351 +1,278 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12335",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/12335",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-a-1550",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
             "type": "literal"
         }
     ],
-    "dcterms:date": [
+    "bibo:identifier": [
         {
-            "@value": "1913",
+            "@value": "4-5-04-02-02",
             "is_public": true,
-            "property_id": 7,
-            "property_label": "Date",
+            "property_id": 98,
+            "property_label": "identifier",
             "type": "literal"
         }
     ],
     "dcterms:identifier": [
         {
-            "@value": "00393a7e-cc0d-4f75-af82-6b454245f3a0",
+            "@value": "a0a24f19-0e96-4631-a438-4606672dbd51",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3596.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
             "type": "uri"
         }
     ],
-    "dcterms:spatial": [
-        {
-            "@id": "http://dbpedia.org/resource/Shanghai",
-            "is_public": true,
-            "property_id": 40,
-            "property_label": "Spatial Coverage",
-            "type": "uri"
-        }
-    ],
     "dcterms:title": [
         {
-            "@value": "Handbook of foreign etiquette. specially prepared for Chinese. *1King, Paton.",
+            "@value": "(坪井信良　墓石設計図の下書き1）墓碑銘の下書き∽4-5-04-02-02",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:format": [
+    "ex:custom_00029": [
         {
-            "@value": "35, 22 p. ; 17 cm.",
+            "@value": "単紙/単体",
             "is_public": true,
-            "property_id": 304,
-            "property_label": "形態的記述",
+            "property_id": 2420,
+            "property_label": "資源状態（CUSTOM_00029）",
             "type": "literal"
         }
     ],
-    "ex:heading1": [
+    "ex:custom_00031": [
         {
-            "@value": "King, Paton.",
+            "@value": "封筒番号 660　裏に構成図あり",
             "is_public": true,
-            "property_id": 305,
-            "property_label": "heading1",
+            "property_id": 2422,
+            "property_label": "備考（CUSTOM_00031）",
             "type": "literal"
         }
     ],
-    "ex:holding": [
+    "ex:l6-001": [
         {
-            "@value": "（記録なし）",
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
             "is_public": true,
-            "property_id": 306,
-            "property_label": "所蔵",
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
             "type": "literal"
         }
     ],
-    "ex:publication": [
+    "ex:l6-002": [
         {
-            "@value": "Shanghai, 1913.",
+            "@value": "2004（平成16）年旧坪井誠太郎邸から東京大学大学院情報学環学際情報学府図書室に移管",
             "is_public": true,
-            "property_id": 303,
-            "property_label": "出版事項",
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
             "type": "literal"
         }
     ],
-    "ex:references": [
+    "ex:l6-013": [
         {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=14&tg3=A&tg4=&tg5=",
+            "@value": "4",
             "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
+            "property_id": 2313,
+            "property_label": "箱（L6-013）",
             "type": "literal"
         }
     ],
-    "ex:tag2": [
+    "ex:l6-014": [
         {
-            "@value": "14. Customs & Manners",
+            "@value": "5",
             "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
+            "property_id": 2314,
+            "property_label": "群（L6-014）",
             "type": "literal"
         }
     ],
-    "ex:tag3": [
+    "ex:l6-015": [
         {
-            "@value": "A. General; Social Life; Etiquette",
+            "@value": "04",
             "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
+            "property_id": 2315,
+            "property_label": "体（L6-015）",
             "type": "literal"
         }
     ],
-    "ex:title": [
+    "ex:l6-016": [
         {
-            "@value": "Handbook of foreign etiquette. specially prepared for Chinese. *1",
+            "@value": "02",
             "is_public": true,
-            "property_id": 302,
-            "property_label": "タイトル責任表示",
+            "property_id": 2316,
+            "property_label": "部（L6-016）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-017": [
+        {
+            "@value": "02",
+            "is_public": true,
+            "property_id": 2317,
+            "property_label": "枝（L6-017）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-019": [
+        {
+            "@value": "(坪井信良　墓石設計図の下書き1）墓碑銘の下書き",
+            "is_public": true,
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-030": [
+        {
+            "@value": "246",
+            "is_public": true,
+            "property_id": 2330,
+            "property_label": "物的状態-長さ（L6-030）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-031": [
+        {
+            "@value": "328",
+            "is_public": true,
+            "property_id": 2331,
+            "property_label": "物的状態-幅（L6-031）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-052": [
+        {
+            "@value": "自由記述媒体",
+            "is_public": true,
+            "property_id": 2352,
+            "property_label": "形態・形式情報-資源タイプ（L6-052）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-053": [
+        {
+            "@value": "10メモ・草稿・スケッチ",
+            "is_public": true,
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-057": [
+        {
+            "@value": "坪井信良",
+            "is_public": true,
+            "property_id": 2357,
+            "property_label": "索引事項-人名（L6-057）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-077": [
+        {
+            "@value": "ja",
+            "is_public": true,
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-079": [
+        {
+            "@value": "著作権の保護期間満了",
+            "is_public": true,
+            "property_id": 2379,
+            "property_label": "著作権（L6-079）",
+            "type": "literal"
+        }
+    ],
+    "ex:sort": [
+        {
+            "@value": "0004-0005-0004-0002-0002",
+            "is_public": true,
+            "property_id": 2838,
+            "property_label": "sort",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:42:07+00:00"
+        "@value": "2018-06-08T06:49:57+00:00"
     },
     "o:id": 12335,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35000",
+            "o:id": 35000
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53489",
+            "o:id": 53489
         }
     ],
-    "o:media": [
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38142",
-            "o:id": 38142
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38143",
-            "o:id": 38143
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38144",
-            "o:id": 38144
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38145",
-            "o:id": 38145
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38146",
-            "o:id": 38146
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38147",
-            "o:id": 38147
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38148",
-            "o:id": 38148
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38149",
-            "o:id": 38149
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38150",
-            "o:id": 38150
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38151",
-            "o:id": 38151
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38152",
-            "o:id": 38152
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38153",
-            "o:id": 38153
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38154",
-            "o:id": 38154
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38155",
-            "o:id": 38155
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38156",
-            "o:id": 38156
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38157",
-            "o:id": 38157
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38158",
-            "o:id": 38158
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38159",
-            "o:id": 38159
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38160",
-            "o:id": 38160
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38161",
-            "o:id": 38161
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38162",
-            "o:id": 38162
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38163",
-            "o:id": 38163
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38164",
-            "o:id": 38164
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38165",
-            "o:id": 38165
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38166",
-            "o:id": 38166
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38167",
-            "o:id": 38167
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38168",
-            "o:id": 38168
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38169",
-            "o:id": 38169
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38170",
-            "o:id": 38170
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38171",
-            "o:id": 38171
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38172",
-            "o:id": 38172
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38173",
-            "o:id": 38173
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38174",
-            "o:id": 38174
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38175",
-            "o:id": 38175
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38176",
-            "o:id": 38176
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38177",
-            "o:id": 38177
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/38178",
-            "o:id": 38178
-        }
-    ],
+    "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T13:32:32+00:00"
+        "@value": "2020-11-20T01:33:39+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/84",
+        "o:id": 84
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "Handbook of foreign etiquette. specially prepared for Chinese. *1King, Paton.",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "(坪井信良　墓石設計図の下書き1）墓碑銘の下書き∽4-5-04-02-02",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/16578",
+            "display_title": "坪井正五郎関係資料04の箱",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 16578,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
 }

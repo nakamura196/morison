@@ -1,22 +1,31 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13009",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/13009",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-a-1715",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "02-083",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
             "type": "literal"
         }
     ],
     "dcterms:date": [
         {
-            "@value": "1907",
+            "@value": "1954年10月6日",
             "is_public": true,
             "property_id": 7,
             "property_label": "Date",
@@ -25,259 +34,124 @@
     ],
     "dcterms:identifier": [
         {
-            "@value": "14430332-e924-4fa4-94ce-fb8dc4cb81ed",
+            "@value": "49121f9e-6de0-49cb-b143-88660b3e2caf",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4270.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
             "type": "uri"
         }
     ],
-    "dcterms:spatial": [
-        {
-            "@id": "http://dbpedia.org/resource/Shanghai",
-            "is_public": true,
-            "property_id": 40,
-            "property_label": "Spatial Coverage",
-            "type": "uri"
-        }
-    ],
     "dcterms:title": [
         {
-            "@value": "Translation of the Chinese bankruptcy code of 1905. With an Editorial by J. H. Teesdale.Chang Nieh-yün.*1",
+            "@value": "ソ連と東独の印象(2)　人間味・官僚臭が並存　矛盾感ぜぬ反対要素∽02-083",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:format": [
+    "ex:l6-019": [
         {
-            "@value": "33 p. ; 21 cm.",
+            "@value": "ソ連と東独の印象(2)　人間味・官僚臭が並存　矛盾感ぜぬ反対要素",
             "is_public": true,
-            "property_id": 304,
-            "property_label": "形態的記述",
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
             "type": "literal"
         }
     ],
-    "ex:heading1": [
+    "ex:l6-068": [
         {
-            "@value": "Chang Nieh-yün.*1",
+            "@value": "ロンドン発　",
             "is_public": true,
-            "property_id": 305,
-            "property_label": "heading1",
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
             "type": "literal"
         }
     ],
-    "ex:holding": [
+    "ex:l6-069": [
         {
-            "@value": "（記録なし）",
+            "@value": "朝日新聞（朝日新聞社）",
             "is_public": true,
-            "property_id": 306,
-            "property_label": "所蔵",
+            "property_id": 2369,
+            "property_label": "抜き取り雑誌記述-雑誌名（L6-069）",
             "type": "literal"
         }
     ],
-    "ex:publication": [
+    "ex:l6-077": [
         {
-            "@value": "Shanghai, 1907.",
+            "@value": "ja",
             "is_public": true,
-            "property_id": 303,
-            "property_label": "出版事項",
-            "type": "literal"
-        }
-    ],
-    "ex:references": [
-        {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=17&tg3=E&tg4=&tg5=",
-            "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
-            "type": "literal"
-        }
-    ],
-    "ex:tag2": [
-        {
-            "@value": "17. Law",
-            "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
-            "type": "literal"
-        }
-    ],
-    "ex:tag3": [
-        {
-            "@value": "E. Commercial Law",
-            "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
-            "type": "literal"
-        }
-    ],
-    "ex:title": [
-        {
-            "@value": "Translation of the Chinese bankruptcy code of 1905. With an Editorial by J. H. Teesdale.",
-            "is_public": true,
-            "property_id": 302,
-            "property_label": "タイトル責任表示",
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:42:11+00:00"
+        "@value": "2018-06-08T06:50:07+00:00"
     },
     "o:id": 13009,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35008",
+            "o:id": 35008
         }
     ],
-    "o:media": [
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47001",
-            "o:id": 47001
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47002",
-            "o:id": 47002
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47003",
-            "o:id": 47003
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47004",
-            "o:id": 47004
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47005",
-            "o:id": 47005
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47006",
-            "o:id": 47006
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47007",
-            "o:id": 47007
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47008",
-            "o:id": 47008
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47009",
-            "o:id": 47009
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47010",
-            "o:id": 47010
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47011",
-            "o:id": 47011
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47012",
-            "o:id": 47012
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47013",
-            "o:id": 47013
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47014",
-            "o:id": 47014
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47015",
-            "o:id": 47015
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47016",
-            "o:id": 47016
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47017",
-            "o:id": 47017
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47018",
-            "o:id": 47018
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47019",
-            "o:id": 47019
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47020",
-            "o:id": 47020
-        }
-    ],
+    "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T13:32:22+00:00"
+        "@value": "2020-11-20T01:35:30+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/124",
+        "o:id": 124
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "Translation of the Chinese bankruptcy code of 1905. With an Editorial by J. H. Teesdale.Chang Nieh-yün.*1",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "ソ連と東独の印象(2)　人間味・官僚臭が並存　矛盾感ぜぬ反対要素∽02-083",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/24287",
+            "display_title": "森恭三著作集CD-ROM版目録",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 24287,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
 }

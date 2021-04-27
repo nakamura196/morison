@@ -1,22 +1,31 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13050",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/13050",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-a-3247",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "11-935",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
             "type": "literal"
         }
     ],
     "dcterms:date": [
         {
-            "@value": "1916",
+            "@value": "1988年3月発行",
             "is_public": true,
             "property_id": 7,
             "property_label": "Date",
@@ -25,34 +34,16 @@
     ],
     "dcterms:identifier": [
         {
-            "@value": "dbd49934-66fd-4ebf-9958-28440fe1ebd1",
+            "@value": "f5f618e2-ab8c-4012-bc4b-cb321e7dad4f",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4311.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
@@ -61,271 +52,106 @@
     ],
     "dcterms:title": [
         {
-            "@value": "Decennial anniversary brochure.Far Eastern American Bar Association. United States Court for China.",
+            "@value": "「アイ・ハブ・ダン・マイ・デューティー」∽11-935",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:format": [
+    "ex:l6-019": [
         {
-            "@value": "53 p. ; 22 cm.",
+            "@value": "「アイ・ハブ・ダン・マイ・デューティー」",
             "is_public": true,
-            "property_id": 304,
-            "property_label": "形態的記述",
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
             "type": "literal"
         }
     ],
-    "ex:heading1": [
+    "ex:l6-025": [
         {
-            "@value": "Far Eastern American Bar Association. United States Court for China.",
+            "@value": "p.111　マイクロフィルムなし",
             "is_public": true,
-            "property_id": 305,
-            "property_label": "heading1",
+            "property_id": 2325,
+            "property_label": "成立年代-備考（L6-025）",
             "type": "literal"
         }
     ],
-    "ex:holding": [
+    "ex:l6-069": [
         {
-            "@value": "（記録なし）",
+            "@value": "森妙子『森との人生ふたり旅』（『追想　森恭三記者』刊行事務局）",
             "is_public": true,
-            "property_id": 306,
-            "property_label": "所蔵",
+            "property_id": 2369,
+            "property_label": "抜き取り雑誌記述-雑誌名（L6-069）",
             "type": "literal"
         }
     ],
-    "ex:publication": [
+    "ex:l6-077": [
         {
-            "@value": "1916",
+            "@value": "ja",
             "is_public": true,
-            "property_id": 303,
-            "property_label": "出版事項",
-            "type": "literal"
-        }
-    ],
-    "ex:references": [
-        {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=17&tg3=H&tg4=b&tg5=",
-            "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
-            "type": "literal"
-        }
-    ],
-    "ex:tag2": [
-        {
-            "@value": "17. Law",
-            "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
-            "type": "literal"
-        }
-    ],
-    "ex:tag3": [
-        {
-            "@value": "H. International Law",
-            "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
-            "type": "literal"
-        }
-    ],
-    "ex:tag4": [
-        {
-            "@value": "b. Extraterritoriality; Consuhar Jurisdiction; Foreign Concession",
-            "is_public": true,
-            "property_id": 299,
-            "property_label": "分類4",
-            "type": "literal"
-        }
-    ],
-    "ex:title": [
-        {
-            "@value": "Decennial anniversary brochure.",
-            "is_public": true,
-            "property_id": 302,
-            "property_label": "タイトル責任表示",
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:42:12+00:00"
+        "@value": "2018-06-08T06:50:07+00:00"
     },
     "o:id": 13050,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35008",
+            "o:id": 35008
         }
     ],
-    "o:media": [
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47523",
-            "o:id": 47523
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47524",
-            "o:id": 47524
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47525",
-            "o:id": 47525
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47526",
-            "o:id": 47526
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47527",
-            "o:id": 47527
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47528",
-            "o:id": 47528
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47529",
-            "o:id": 47529
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47530",
-            "o:id": 47530
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47531",
-            "o:id": 47531
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47532",
-            "o:id": 47532
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47533",
-            "o:id": 47533
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47534",
-            "o:id": 47534
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47535",
-            "o:id": 47535
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47536",
-            "o:id": 47536
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47537",
-            "o:id": 47537
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47538",
-            "o:id": 47538
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47539",
-            "o:id": 47539
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47540",
-            "o:id": 47540
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47541",
-            "o:id": 47541
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47542",
-            "o:id": 47542
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47543",
-            "o:id": 47543
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47544",
-            "o:id": 47544
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47545",
-            "o:id": 47545
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47546",
-            "o:id": 47546
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47547",
-            "o:id": 47547
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47548",
-            "o:id": 47548
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47549",
-            "o:id": 47549
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47550",
-            "o:id": 47550
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47551",
-            "o:id": 47551
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47552",
-            "o:id": 47552
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47553",
-            "o:id": 47553
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47554",
-            "o:id": 47554
-        }
-    ],
+    "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T13:32:23+00:00"
+        "@value": "2020-11-20T01:35:47+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/124",
+        "o:id": 124
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "Decennial anniversary brochure.Far Eastern American Bar Association. United States Court for China.",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "「アイ・ハブ・ダン・マイ・デューティー」∽11-935",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/24287",
+            "display_title": "森恭三著作集CD-ROM版目録",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 24287,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
 }

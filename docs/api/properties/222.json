@@ -1,14 +1,14 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/222",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/222",
     "@type": "o:Property",
-    "o:comment": "別シリーズタイトル",
+    "o:comment": "Alternate Forms Available",
     "o:id": 222,
-    "o:label": "Series Alternative",
-    "o:local_name": "seriesAlternative",
-    "o:term": "dcndl:seriesAlternative",
+    "o:label": "Alternate Forms Available",
+    "o:local_name": "alternateFormsAvailable",
+    "o:term": "archiveshub:alternateFormsAvailable",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/8",
-        "o:id": 8
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
     }
 }

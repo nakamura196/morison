@@ -1,6 +1,6 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/49",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/49",
     "@type": "o:Property",
     "o:comment": "A legal document giving official permission to do something with the resource.",
     "o:id": 49,
@@ -8,7 +8,7 @@
     "o:local_name": "license",
     "o:term": "dcterms:license",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/1",
         "o:id": 1
     }
 }

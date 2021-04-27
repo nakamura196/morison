@@ -1,14 +1,14 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/284",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/284",
     "@type": "o:Property",
-    "o:comment": "Edition Creatorの読み又は翻字形",
+    "o:comment": "逐次刊行物の初号から終号までの巻次及び年月次",
     "o:id": 284,
-    "o:label": "Edition Creator Transcription",
-    "o:local_name": "editionCreatorTranscription",
-    "o:term": "dcndl:editionCreatorTranscription",
+    "o:label": "Volume Range",
+    "o:local_name": "volumeRange",
+    "o:term": "dcndl:volumeRange",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/8",
-        "o:id": 8
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
     }
 }

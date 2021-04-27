@@ -1,250 +1,157 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12501",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/12501",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-a-1567",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "02-450",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1957年8月19日",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
             "type": "literal"
         }
     ],
     "dcterms:identifier": [
         {
-            "@value": "e25f48b0-d0ed-4ba5-933f-7ed63c3362ad",
+            "@value": "e954b635-ed8a-45f9-8a53-652959d70271",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3762.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
             "type": "uri"
         }
     ],
-    "dcterms:spatial": [
-        {
-            "@id": "http://dbpedia.org/resource/Philadelphia",
-            "is_public": true,
-            "property_id": 40,
-            "property_label": "Spatial Coverage",
-            "type": "uri"
-        }
-    ],
     "dcterms:title": [
         {
-            "@value": "Chinese games with dice. Read...Culin, Stewart.",
+            "@value": "ドイツ経済に学ぶもの　繁栄へ一貫した政策　\"食うための輸出\"に懸命∽02-450",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:format": [
+    "ex:l6-019": [
         {
-            "@value": "21 p. ; 23 cm.",
+            "@value": "ドイツ経済に学ぶもの　繁栄へ一貫した政策　\"食うための輸出\"に懸命",
             "is_public": true,
-            "property_id": 304,
-            "property_label": "形態的記述",
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
             "type": "literal"
         }
     ],
-    "ex:heading1": [
+    "ex:l6-068": [
         {
-            "@value": "Culin, Stewart.",
+            "@value": "ロンドン発　",
             "is_public": true,
-            "property_id": 305,
-            "property_label": "heading1",
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
             "type": "literal"
         }
     ],
-    "ex:holding": [
+    "ex:l6-069": [
         {
-            "@value": "（記録なし）",
+            "@value": "朝日新聞（朝日新聞社）",
             "is_public": true,
-            "property_id": 306,
-            "property_label": "所蔵",
+            "property_id": 2369,
+            "property_label": "抜き取り雑誌記述-雑誌名（L6-069）",
             "type": "literal"
         }
     ],
-    "ex:publication": [
+    "ex:l6-077": [
         {
-            "@value": "Philadelphia, 1889.",
+            "@value": "ja",
             "is_public": true,
-            "property_id": 303,
-            "property_label": "出版事項",
-            "type": "literal"
-        }
-    ],
-    "ex:references": [
-        {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=14&tg3=Q&tg4=&tg5=",
-            "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
-            "type": "literal"
-        }
-    ],
-    "ex:tag2": [
-        {
-            "@value": "14. Customs & Manners",
-            "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
-            "type": "literal"
-        }
-    ],
-    "ex:tag3": [
-        {
-            "@value": "Q. Sports & Amusements",
-            "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
-            "type": "literal"
-        }
-    ],
-    "ex:title": [
-        {
-            "@value": "Chinese games with dice. Read...",
-            "is_public": true,
-            "property_id": 302,
-            "property_label": "タイトル責任表示",
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:42:08+00:00"
+        "@value": "2018-06-08T06:49:59+00:00"
     },
     "o:id": 12501,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35008",
+            "o:id": 35008
         }
     ],
-    "o:media": [
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40451",
-            "o:id": 40451
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40452",
-            "o:id": 40452
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40453",
-            "o:id": 40453
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40454",
-            "o:id": 40454
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40455",
-            "o:id": 40455
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40456",
-            "o:id": 40456
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40457",
-            "o:id": 40457
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40458",
-            "o:id": 40458
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40459",
-            "o:id": 40459
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40460",
-            "o:id": 40460
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40461",
-            "o:id": 40461
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40462",
-            "o:id": 40462
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40463",
-            "o:id": 40463
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40464",
-            "o:id": 40464
-        }
-    ],
+    "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T14:21:25+00:00"
+        "@value": "2020-11-20T01:34:16+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/124",
+        "o:id": 124
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "Chinese games with dice. Read...Culin, Stewart.",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "ドイツ経済に学ぶもの　繁栄へ一貫した政策　\"食うための輸出\"に懸命∽02-450",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/24287",
+            "display_title": "森恭三著作集CD-ROM版目録",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 24287,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
 }

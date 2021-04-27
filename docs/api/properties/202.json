@@ -1,14 +1,14 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/202",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/202",
     "@type": "o:Property",
-    "o:comment": null,
+    "o:comment": "The ISO 3166-1 code for the country of the repository.",
     "o:id": 202,
-    "o:label": "hasLists",
-    "o:local_name": "hasLists",
-    "o:term": "sc:hasLists",
+    "o:label": "Country Code",
+    "o:local_name": "countryCode",
+    "o:term": "archiveshub:countryCode",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/6",
-        "o:id": 6
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
     }
 }

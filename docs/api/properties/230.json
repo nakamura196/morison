@@ -1,14 +1,14 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/230",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/230",
     "@type": "o:Property",
-    "o:comment": "Creatorの別名又は異なる形",
+    "o:comment": "Other",
     "o:id": 230,
-    "o:label": "Creator Alternative",
-    "o:local_name": "creatorAlternative",
-    "o:term": "dcndl:creatorAlternative",
+    "o:label": "Other",
+    "o:local_name": "other",
+    "o:term": "archiveshub:other",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/8",
-        "o:id": 8
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
     }
 }

@@ -1,14 +1,14 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/254",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/254",
     "@type": "o:Property",
-    "o:comment": "当該情報資源をデジタル化した実体",
+    "o:comment": "A link from a Range to a Layer that provides the content resources of that Range",
     "o:id": 254,
-    "o:label": "Digitized Publisher",
-    "o:local_name": "digitizedPublisher",
-    "o:term": "dcndl:digitizedPublisher",
+    "o:label": "hasContentLayer",
+    "o:local_name": "hasContentLayer",
+    "o:term": "sc:hasContentLayer",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/8",
-        "o:id": 8
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/6",
+        "o:id": 6
     }
 }

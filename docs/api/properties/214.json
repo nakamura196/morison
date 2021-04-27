@@ -1,14 +1,14 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/214",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/214",
     "@type": "o:Property",
-    "o:comment": "A domain of the subject property.",
+    "o:comment": "Scope and Content",
     "o:id": 214,
-    "o:label": "domain",
-    "o:local_name": "domain",
-    "o:term": "rdfs:domain",
+    "o:label": "Scope and Content",
+    "o:local_name": "scopecontent",
+    "o:term": "archiveshub:scopecontent",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/7",
-        "o:id": 7
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
     }
 }

@@ -1,14 +1,14 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/242",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/242",
     "@type": "o:Property",
-    "o:comment": "逐次刊行物の刊行頻度",
+    "o:comment": "A number of items",
     "o:id": 242,
-    "o:label": "Publication Periodicity",
-    "o:local_name": "publicationPeriodicity",
-    "o:term": "dcndl:publicationPeriodicity",
+    "o:label": "Item",
+    "o:local_name": "item",
+    "o:term": "archiveshub:item",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/8",
-        "o:id": 8
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
     }
 }

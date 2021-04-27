@@ -1,398 +1,287 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13646",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/13646",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-a-2145",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "5_5_163",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1903/12/23",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
             "type": "literal"
         }
     ],
     "dcterms:identifier": [
         {
-            "@value": "72b23e76-7e6e-4cc7-b5c2-3570cfca23f4",
+            "@value": "c7399706-446f-4311-8534-26a7b7643fea",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4907.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
             "type": "uri"
         }
     ],
-    "dcterms:spatial": [
-        {
-            "@id": "http://dbpedia.org/resource/London",
-            "is_public": true,
-            "property_id": 40,
-            "property_label": "Spatial Coverage",
-            "type": "uri"
-        }
-    ],
     "dcterms:title": [
         {
-            "@value": "The Stanley Gibbons Philatelic hand-books. Shanghai. With notes and publishers' prices.Thornhill, W. B.",
+            "@value": "(手帳)∽5_5_163",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:format": [
+    "ex:custom_00029": [
         {
-            "@value": "76 p. ; 22 cm.",
+            "@value": "冊子",
             "is_public": true,
-            "property_id": 304,
-            "property_label": "形態的記述",
+            "property_id": 2420,
+            "property_label": "資源状態（CUSTOM_00029）",
             "type": "literal"
         }
     ],
-    "ex:heading1": [
+    "ex:custom_00030": [
         {
-            "@value": "Thornhill, W. B.",
+            "@value": "2004/08/30",
             "is_public": true,
-            "property_id": 305,
-            "property_label": "heading1",
+            "property_id": 2421,
+            "property_label": "調査年月日（CUSTOM_00030）",
             "type": "literal"
         }
     ],
-    "ex:holding": [
+    "ex:l6-001": [
         {
-            "@value": "（記録なし）",
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
             "is_public": true,
-            "property_id": 306,
-            "property_label": "所蔵",
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
             "type": "literal"
         }
     ],
-    "ex:publication": [
+    "ex:l6-002": [
         {
-            "@value": "London, 1895.",
+            "@value": "2004（平成16）年旧坪井誠太郎邸から東京大学大学院情報学環学際情報学府図書室に移管",
             "is_public": true,
-            "property_id": 303,
-            "property_label": "出版事項",
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
             "type": "literal"
         }
     ],
-    "ex:references": [
+    "ex:l6-013": [
         {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=21&tg3=G&tg4=&tg5=",
+            "@value": "5",
             "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
+            "property_id": 2313,
+            "property_label": "箱（L6-013）",
             "type": "literal"
         }
     ],
-    "ex:tag2": [
+    "ex:l6-014": [
         {
-            "@value": "21. Communication",
+            "@value": "5",
             "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
+            "property_id": 2314,
+            "property_label": "群（L6-014）",
             "type": "literal"
         }
     ],
-    "ex:tag3": [
+    "ex:l6-015": [
         {
-            "@value": "G. Post",
+            "@value": "163",
             "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
+            "property_id": 2315,
+            "property_label": "体（L6-015）",
             "type": "literal"
         }
     ],
-    "ex:title": [
+    "ex:l6-019": [
         {
-            "@value": "The Stanley Gibbons Philatelic hand-books. Shanghai. With notes and publishers\\' prices.",
+            "@value": "(手帳)",
             "is_public": true,
-            "property_id": 302,
-            "property_label": "タイトル責任表示",
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-030": [
+        {
+            "@value": "69",
+            "is_public": true,
+            "property_id": 2330,
+            "property_label": "物的状態-長さ（L6-030）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-031": [
+        {
+            "@value": "100",
+            "is_public": true,
+            "property_id": 2331,
+            "property_label": "物的状態-幅（L6-031）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-036": [
+        {
+            "@value": "180",
+            "is_public": true,
+            "property_id": 2336,
+            "property_label": "物的状態-角度（L6-036）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-050": [
+        {
+            "@value": "土田",
+            "is_public": true,
+            "property_id": 2350,
+            "property_label": "情報入力（L6-050）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-051": [
+        {
+            "@value": "土田",
+            "is_public": true,
+            "property_id": 2351,
+            "property_label": "情報分析（L6-051）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-052": [
+        {
+            "@value": "自由記述媒体",
+            "is_public": true,
+            "property_id": 2352,
+            "property_label": "形態・形式情報-資源タイプ（L6-052）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-053": [
+        {
+            "@value": "10メモ・草稿・スケッチ",
+            "is_public": true,
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "「第一リーダ釋」とあり。英語の短文を訳したものと思われる。",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-077": [
+        {
+            "@value": "ja",
+            "is_public": true,
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
+            "type": "literal"
+        }
+    ],
+    "ex:sort": [
+        {
+            "@value": "0005-0005-0163",
+            "is_public": true,
+            "property_id": 2838,
+            "property_label": "sort",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:42:16+00:00"
+        "@value": "2018-06-08T06:50:16+00:00"
     },
     "o:id": 13646,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35000",
+            "o:id": 35000
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53489",
+            "o:id": 53489
         }
     ],
-    "o:media": [
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56473",
-            "o:id": 56473
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56474",
-            "o:id": 56474
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56475",
-            "o:id": 56475
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56476",
-            "o:id": 56476
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56477",
-            "o:id": 56477
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56478",
-            "o:id": 56478
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56479",
-            "o:id": 56479
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56480",
-            "o:id": 56480
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56481",
-            "o:id": 56481
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56482",
-            "o:id": 56482
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56483",
-            "o:id": 56483
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56484",
-            "o:id": 56484
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56485",
-            "o:id": 56485
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56486",
-            "o:id": 56486
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56487",
-            "o:id": 56487
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56488",
-            "o:id": 56488
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56489",
-            "o:id": 56489
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56490",
-            "o:id": 56490
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56491",
-            "o:id": 56491
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56492",
-            "o:id": 56492
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56493",
-            "o:id": 56493
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56494",
-            "o:id": 56494
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56495",
-            "o:id": 56495
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56496",
-            "o:id": 56496
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56497",
-            "o:id": 56497
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56498",
-            "o:id": 56498
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56499",
-            "o:id": 56499
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56500",
-            "o:id": 56500
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56501",
-            "o:id": 56501
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56502",
-            "o:id": 56502
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56503",
-            "o:id": 56503
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56504",
-            "o:id": 56504
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56505",
-            "o:id": 56505
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56506",
-            "o:id": 56506
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56507",
-            "o:id": 56507
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56508",
-            "o:id": 56508
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56509",
-            "o:id": 56509
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56510",
-            "o:id": 56510
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56511",
-            "o:id": 56511
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56512",
-            "o:id": 56512
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56513",
-            "o:id": 56513
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56514",
-            "o:id": 56514
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56515",
-            "o:id": 56515
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56516",
-            "o:id": 56516
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56517",
-            "o:id": 56517
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56518",
-            "o:id": 56518
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56519",
-            "o:id": 56519
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56520",
-            "o:id": 56520
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56521",
-            "o:id": 56521
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56522",
-            "o:id": 56522
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/56523",
-            "o:id": 56523
-        }
-    ],
+    "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T13:48:34+00:00"
+        "@value": "2020-11-20T01:37:25+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/84",
+        "o:id": 84
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "The Stanley Gibbons Philatelic hand-books. Shanghai. With notes and publishers' prices.Thornhill, W. B.",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "(手帳)∽5_5_163",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/17096",
+            "display_title": "坪井正五郎関係資料05の箱",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 17096,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
 }

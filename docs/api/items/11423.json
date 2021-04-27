@@ -1,249 +1,157 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11423",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/11423",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-c-49",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "11-503",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1977年12月発行",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
             "type": "literal"
         }
     ],
     "dcterms:identifier": [
         {
-            "@value": "89e204bb-459e-4e0b-9bb8-04439c622d58",
+            "@value": "551aa1fc-fded-4d24-842b-a4c154521521",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2684.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
             "type": "uri"
         }
     ],
-    "dcterms:spatial": [
-        {
-            "@id": "http://dbpedia.org/resource/Beijing",
-            "is_public": true,
-            "property_id": 40,
-            "property_label": "Spatial Coverage",
-            "type": "uri"
-        }
-    ],
     "dcterms:title": [
         {
-            "@value": "Peking gazette. Vol. 1, no. 1. Sept. 9th, 1913.",
+            "@value": "議会制への信頼　［朝日ジャーナル巻頭言「風速計」　1969年12月21日号掲載］∽11-503",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:format": [
+    "ex:l6-019": [
         {
-            "@value": "26 p. ; 34 cm.",
+            "@value": "議会制への信頼　［朝日ジャーナル巻頭言「風速計」　1969年12月21日号掲載］",
             "is_public": true,
-            "property_id": 304,
-            "property_label": "形態的記述",
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
             "type": "literal"
         }
     ],
-    "ex:holding": [
+    "ex:l6-025": [
         {
-            "@value": "（記録なし）",
+            "@value": "p.34　マイクロフィルムなし",
             "is_public": true,
-            "property_id": 306,
-            "property_label": "所蔵",
+            "property_id": 2325,
+            "property_label": "成立年代-備考（L6-025）",
             "type": "literal"
         }
     ],
-    "ex:publication": [
+    "ex:l6-069": [
         {
-            "@value": "Peking, 1913.",
+            "@value": "森恭三『風速計（下）』　（朝日新聞社）",
             "is_public": true,
-            "property_id": 303,
-            "property_label": "出版事項",
+            "property_id": 2369,
+            "property_label": "抜き取り雑誌記述-雑誌名（L6-069）",
             "type": "literal"
         }
     ],
-    "ex:references": [
+    "ex:l6-077": [
         {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=E&tg4=&tg5=",
+            "@value": "ja",
             "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
-            "type": "literal"
-        }
-    ],
-    "ex:tag2": [
-        {
-            "@value": "7. History",
-            "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
-            "type": "literal"
-        }
-    ],
-    "ex:tag3": [
-        {
-            "@value": "E. Recent history",
-            "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
-            "type": "literal"
-        }
-    ],
-    "ex:title": [
-        {
-            "@value": "Peking gazette. Vol. 1, no. 1. Sept. 9th, 1913.",
-            "is_public": true,
-            "property_id": 302,
-            "property_label": "タイトル責任表示",
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:42:01+00:00"
+        "@value": "2018-06-08T06:49:44+00:00"
     },
     "o:id": 11423,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35008",
+            "o:id": 35008
         }
     ],
-    "o:media": [
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24372",
-            "o:id": 24372
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24373",
-            "o:id": 24373
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24374",
-            "o:id": 24374
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24375",
-            "o:id": 24375
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24376",
-            "o:id": 24376
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24377",
-            "o:id": 24377
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24378",
-            "o:id": 24378
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24379",
-            "o:id": 24379
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24380",
-            "o:id": 24380
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24381",
-            "o:id": 24381
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24382",
-            "o:id": 24382
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24383",
-            "o:id": 24383
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24384",
-            "o:id": 24384
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24385",
-            "o:id": 24385
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24386",
-            "o:id": 24386
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24387",
-            "o:id": 24387
-        }
-    ],
+    "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T13:44:32+00:00"
+        "@value": "2020-11-20T01:31:14+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/124",
+        "o:id": 124
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "Peking gazette. Vol. 1, no. 1. Sept. 9th, 1913.",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "議会制への信頼　［朝日ジャーナル巻頭言「風速計」　1969年12月21日号掲載］∽11-503",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/24287",
+            "display_title": "森恭三著作集CD-ROM版目録",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 24287,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
 }

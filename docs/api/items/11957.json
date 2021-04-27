@@ -1,298 +1,323 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11957",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/11957",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-b-998",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "11_15_5_2_30",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "//",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
             "type": "literal"
         }
     ],
     "dcterms:identifier": [
         {
-            "@value": "342f6063-71fd-4e45-893b-2145fdfe4141",
+            "@value": "9c41d67f-3be1-40a8-817f-e28730baf764",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3218.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
             "type": "uri"
         }
     ],
-    "dcterms:spatial": [
-        {
-            "@id": "http://dbpedia.org/resource/Paris",
-            "is_public": true,
-            "property_id": 40,
-            "property_label": "Spatial Coverage",
-            "type": "uri"
-        }
-    ],
     "dcterms:title": [
         {
-            "@value": "Le siège de la légation de France (Pékin, du 13 juin au 15 août, 1900).Matignon, J[ean] J[acque].",
+            "@value": "(メモ）∽11_15_5_2_30",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:format": [
+    "ex:custom_00030": [
         {
-            "@value": "47 p. ; 25 cm.",
+            "@value": "2005/07/11",
             "is_public": true,
-            "property_id": 304,
-            "property_label": "形態的記述",
+            "property_id": 2421,
+            "property_label": "調査年月日（CUSTOM_00030）",
             "type": "literal"
         }
     ],
-    "ex:heading1": [
+    "ex:l6-013": [
         {
-            "@value": "Matignon, J[ean] J[acque].",
+            "@value": "11",
             "is_public": true,
-            "property_id": 305,
-            "property_label": "heading1",
+            "property_id": 2313,
+            "property_label": "箱（L6-013）",
             "type": "literal"
         }
     ],
-    "ex:holding": [
+    "ex:l6-014": [
         {
-            "@value": "（記録なし）",
+            "@value": "15",
             "is_public": true,
-            "property_id": 306,
-            "property_label": "所蔵",
+            "property_id": 2314,
+            "property_label": "群（L6-014）",
             "type": "literal"
         }
     ],
-    "ex:publication": [
+    "ex:l6-015": [
         {
-            "@value": "Paris & Bordeaux, 1902.",
+            "@value": "5",
             "is_public": true,
-            "property_id": 303,
-            "property_label": "出版事項",
+            "property_id": 2315,
+            "property_label": "体（L6-015）",
             "type": "literal"
         }
     ],
-    "ex:references": [
+    "ex:l6-016": [
         {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=G&tg4=&tg5=",
+            "@value": "2",
             "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
+            "property_id": 2316,
+            "property_label": "部（L6-016）",
             "type": "literal"
         }
     ],
-    "ex:tag2": [
+    "ex:l6-017": [
         {
-            "@value": "7. History",
+            "@value": "30",
             "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
+            "property_id": 2317,
+            "property_label": "枝（L6-017）",
             "type": "literal"
         }
     ],
-    "ex:tag3": [
+    "ex:l6-019": [
         {
-            "@value": "G. The Boxer rising, 1900-01",
+            "@value": "(メモ）",
             "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
             "type": "literal"
         }
     ],
-    "ex:title": [
+    "ex:l6-030": [
         {
-            "@value": "Le siège de la légation de France (Pékin, du 13 juin au 15 août, 1900).",
+            "@value": "132",
             "is_public": true,
-            "property_id": 302,
-            "property_label": "タイトル責任表示",
+            "property_id": 2330,
+            "property_label": "物的状態-長さ（L6-030）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-031": [
+        {
+            "@value": "57",
+            "is_public": true,
+            "property_id": 2331,
+            "property_label": "物的状態-幅（L6-031）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-033": [
+        {
+            "@value": "136",
+            "is_public": true,
+            "property_id": 2333,
+            "property_label": "物的状態-縦（L6-033）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-034": [
+        {
+            "@value": "37",
+            "is_public": true,
+            "property_id": 2334,
+            "property_label": "物的状態-横（L6-034）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-035": [
+        {
+            "@value": "反",
+            "is_public": true,
+            "property_id": 2335,
+            "property_label": "物的状態-返（L6-035）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-036": [
+        {
+            "@value": "180",
+            "is_public": true,
+            "property_id": 2336,
+            "property_label": "物的状態-角度（L6-036）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-037": [
+        {
+            "@value": "一つ折り",
+            "is_public": true,
+            "property_id": 2337,
+            "property_label": "物的状態-折（L6-037）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-038": [
+        {
+            "@value": "右半面",
+            "is_public": true,
+            "property_id": 2338,
+            "property_label": "物的状態-面（L6-038）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-050": [
+        {
+            "@value": "伊藤",
+            "is_public": true,
+            "property_id": 2350,
+            "property_label": "情報入力（L6-050）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-051": [
+        {
+            "@value": "伊藤",
+            "is_public": true,
+            "property_id": 2351,
+            "property_label": "情報分析（L6-051）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-052": [
+        {
+            "@value": "自由記述媒体",
+            "is_public": true,
+            "property_id": 2352,
+            "property_label": "形態・形式情報-資源タイプ（L6-052）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-053": [
+        {
+            "@value": "10メモ・草稿・スケッチ",
+            "is_public": true,
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "「世界諸地方…」と書かれたメモ。",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-077": [
+        {
+            "@value": "ja",
+            "is_public": true,
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
+            "type": "literal"
+        }
+    ],
+    "ex:sort": [
+        {
+            "@value": "0011-0015-0005-0002-0030",
+            "is_public": true,
+            "property_id": 2838,
+            "property_label": "sort",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:42:05+00:00"
+        "@value": "2018-06-08T06:49:52+00:00"
     },
     "o:id": 11957,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35000",
+            "o:id": 35000
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53489",
+            "o:id": 53489
         }
     ],
-    "o:media": [
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32407",
-            "o:id": 32407
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32408",
-            "o:id": 32408
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32409",
-            "o:id": 32409
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32410",
-            "o:id": 32410
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32411",
-            "o:id": 32411
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32412",
-            "o:id": 32412
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32413",
-            "o:id": 32413
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32414",
-            "o:id": 32414
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32415",
-            "o:id": 32415
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32416",
-            "o:id": 32416
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32417",
-            "o:id": 32417
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32418",
-            "o:id": 32418
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32419",
-            "o:id": 32419
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32420",
-            "o:id": 32420
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32421",
-            "o:id": 32421
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32422",
-            "o:id": 32422
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32423",
-            "o:id": 32423
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32424",
-            "o:id": 32424
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32425",
-            "o:id": 32425
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32426",
-            "o:id": 32426
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32427",
-            "o:id": 32427
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32428",
-            "o:id": 32428
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32429",
-            "o:id": 32429
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32430",
-            "o:id": 32430
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32431",
-            "o:id": 32431
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32432",
-            "o:id": 32432
-        }
-    ],
+    "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T13:34:52+00:00"
+        "@value": "2020-11-20T01:32:37+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/84",
+        "o:id": 84
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "Le siège de la légation de France (Pékin, du 13 juin au 15 août, 1900).Matignon, J[ean] J[acque].",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "(メモ）∽11_15_5_2_30",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/26232",
+            "display_title": "坪井正五郎関係資料11の箱",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 26232,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
 }

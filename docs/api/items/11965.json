@@ -1,58 +1,40 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11965",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/11965",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-a-640",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
             "type": "literal"
         }
     ],
-    "dcterms:date": [
+    "bibo:identifier": [
         {
-            "@value": "1906",
+            "@value": "4-22-82",
             "is_public": true,
-            "property_id": 7,
-            "property_label": "Date",
+            "property_id": 98,
+            "property_label": "identifier",
             "type": "literal"
         }
     ],
     "dcterms:identifier": [
         {
-            "@value": "88650893-6f5f-474c-958e-4fcc6cd3cbd3",
+            "@value": "84861826-e3a5-42ce-af23-8256908fd1bc",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3226.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
@@ -61,162 +43,218 @@
     ],
     "dcterms:title": [
         {
-            "@value": "The humours of a siege.Norris, Frank L.",
+            "@value": "（スケッチ）∽4-22-82",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:format": [
+    "ex:custom_00029": [
         {
-            "@value": "pp. 650-657 ; 25 cm.",
+            "@value": "単紙/単体",
             "is_public": true,
-            "property_id": 304,
-            "property_label": "形態的記述",
+            "property_id": 2420,
+            "property_label": "資源状態（CUSTOM_00029）",
             "type": "literal"
         }
     ],
-    "ex:heading1": [
+    "ex:l6-001": [
         {
-            "@value": "Norris, Frank L.",
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
             "is_public": true,
-            "property_id": 305,
-            "property_label": "heading1",
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
             "type": "literal"
         }
     ],
-    "ex:holding": [
+    "ex:l6-002": [
         {
-            "@value": "（記録なし）",
+            "@value": "2004（平成16）年旧坪井誠太郎邸から東京大学大学院情報学環学際情報学府図書室に移管",
             "is_public": true,
-            "property_id": 306,
-            "property_label": "所蔵",
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
             "type": "literal"
         }
     ],
-    "ex:publication": [
+    "ex:l6-013": [
         {
-            "@value": "1906",
+            "@value": "4",
             "is_public": true,
-            "property_id": 303,
-            "property_label": "出版事項",
+            "property_id": 2313,
+            "property_label": "箱（L6-013）",
             "type": "literal"
         }
     ],
-    "ex:references": [
+    "ex:l6-014": [
         {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=G&tg4=&tg5=",
+            "@value": "22",
             "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
+            "property_id": 2314,
+            "property_label": "群（L6-014）",
             "type": "literal"
         }
     ],
-    "ex:tag2": [
+    "ex:l6-015": [
         {
-            "@value": "7. History",
+            "@value": "82",
             "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
+            "property_id": 2315,
+            "property_label": "体（L6-015）",
             "type": "literal"
         }
     ],
-    "ex:tag3": [
+    "ex:l6-019": [
         {
-            "@value": "G. The Boxer rising, 1900-01",
+            "@value": "（スケッチ）",
             "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
             "type": "literal"
         }
     ],
-    "ex:title": [
+    "ex:l6-030": [
         {
-            "@value": "The humours of a siege.",
+            "@value": "133",
             "is_public": true,
-            "property_id": 302,
-            "property_label": "タイトル責任表示",
+            "property_id": 2330,
+            "property_label": "物的状態-長さ（L6-030）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-031": [
+        {
+            "@value": "160",
+            "is_public": true,
+            "property_id": 2331,
+            "property_label": "物的状態-幅（L6-031）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-050": [
+        {
+            "@value": "大島",
+            "is_public": true,
+            "property_id": 2350,
+            "property_label": "情報入力（L6-050）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-051": [
+        {
+            "@value": "倉持",
+            "is_public": true,
+            "property_id": 2351,
+            "property_label": "情報分析（L6-051）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-052": [
+        {
+            "@value": "自由記述媒体",
+            "is_public": true,
+            "property_id": 2352,
+            "property_label": "形態・形式情報-資源タイプ（L6-052）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-053": [
+        {
+            "@value": "10メモ・草稿・スケッチ",
+            "is_public": true,
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "着色された細胞をスケッチしたもの。4-22-81とは別の物。",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-077": [
+        {
+            "@value": "en",
+            "is_public": true,
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
+            "type": "literal"
+        }
+    ],
+    "ex:sort": [
+        {
+            "@value": "0004-0022-0082",
+            "is_public": true,
+            "property_id": 2838,
+            "property_label": "sort",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:42:05+00:00"
+        "@value": "2018-06-08T06:49:52+00:00"
     },
     "o:id": 11965,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35000",
+            "o:id": 35000
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53489",
+            "o:id": 53489
         }
     ],
-    "o:media": [
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32522",
-            "o:id": 32522
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32523",
-            "o:id": 32523
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32524",
-            "o:id": 32524
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32525",
-            "o:id": 32525
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32526",
-            "o:id": 32526
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32527",
-            "o:id": 32527
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32528",
-            "o:id": 32528
-        }
-    ],
+    "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T13:53:51+00:00"
+        "@value": "2020-11-20T01:32:37+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/84",
+        "o:id": 84
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "The humours of a siege.Norris, Frank L.",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "（スケッチ）∽4-22-82",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/16578",
+            "display_title": "坪井正五郎関係資料04の箱",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 16578,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
 }

@@ -1,302 +1,206 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12929",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/12929",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-a-2620",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "6_2_3",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
             "type": "literal"
         }
     ],
     "dcterms:identifier": [
         {
-            "@value": "db22954b-bbb7-43b0-b70d-e9b982d9439a",
+            "@value": "11891728-fb18-480c-96ef-f1f410de9d86",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4190.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
             "type": "uri"
         }
     ],
-    "dcterms:spatial": [
-        {
-            "@id": "http://dbpedia.org/resource/Shanghai",
-            "is_public": true,
-            "property_id": 40,
-            "property_label": "Spatial Coverage",
-            "type": "uri"
-        }
-    ],
     "dcterms:title": [
         {
-            "@value": "A plan for the reform of the national salt administration.Chang Chγien.",
+            "@value": "和歌一括∽6_2_3",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:format": [
+    "ex:custom_00033": [
         {
-            "@value": "37 p. ; 22 cm.",
+            "@value": "束/括",
             "is_public": true,
-            "property_id": 304,
-            "property_label": "形態的記述",
+            "property_id": 2400,
+            "property_label": "資源状態（CUSTOM_00033）",
             "type": "literal"
         }
     ],
-    "ex:heading1": [
+    "ex:l6-001": [
         {
-            "@value": "Chang Chγien.",
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
             "is_public": true,
-            "property_id": 305,
-            "property_label": "heading1",
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
             "type": "literal"
         }
     ],
-    "ex:holding": [
+    "ex:l6-002": [
         {
-            "@value": "（記録なし）",
+            "@value": "2004（平成16）年旧坪井誠太郎邸から東京大学大学院情報学環学際情報学府図書室に移管",
             "is_public": true,
-            "property_id": 306,
-            "property_label": "所蔵",
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
             "type": "literal"
         }
     ],
-    "ex:publication": [
+    "ex:l6-013": [
         {
-            "@value": "Shanghai, 1913.",
+            "@value": "6",
             "is_public": true,
-            "property_id": 303,
-            "property_label": "出版事項",
+            "property_id": 2313,
+            "property_label": "箱（L6-013）",
             "type": "literal"
         }
     ],
-    "ex:references": [
+    "ex:l6-014": [
         {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=16&tg3=G&tg4=&tg5=",
+            "@value": "2",
             "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
+            "property_id": 2314,
+            "property_label": "群（L6-014）",
             "type": "literal"
         }
     ],
-    "ex:tag2": [
+    "ex:l6-015": [
         {
-            "@value": "16. Finance",
+            "@value": "3",
             "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
+            "property_id": 2315,
+            "property_label": "体（L6-015）",
             "type": "literal"
         }
     ],
-    "ex:tag3": [
+    "ex:l6-019": [
         {
-            "@value": "G. Gabelle; Salt Monopoly",
+            "@value": "和歌一括",
             "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
             "type": "literal"
         }
     ],
-    "ex:title": [
+    "ex:l6-052": [
         {
-            "@value": "A plan for the reform of the national salt administration.",
+            "@value": "自由記述媒体",
             "is_public": true,
-            "property_id": 302,
-            "property_label": "タイトル責任表示",
+            "property_id": 2352,
+            "property_label": "形態・形式情報-資源タイプ（L6-052）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-053": [
+        {
+            "@value": "08文芸一般",
+            "is_public": true,
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:sort": [
+        {
+            "@value": "0006-0002-0003",
+            "is_public": true,
+            "property_id": 2838,
+            "property_label": "sort",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:42:11+00:00"
+        "@value": "2018-06-08T06:50:05+00:00"
     },
     "o:id": 12929,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35000",
+            "o:id": 35000
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53490",
+            "o:id": 53490
         }
     ],
-    "o:media": [
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45477",
-            "o:id": 45477
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45478",
-            "o:id": 45478
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45479",
-            "o:id": 45479
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45480",
-            "o:id": 45480
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45481",
-            "o:id": 45481
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45482",
-            "o:id": 45482
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45483",
-            "o:id": 45483
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45484",
-            "o:id": 45484
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45485",
-            "o:id": 45485
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45486",
-            "o:id": 45486
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45487",
-            "o:id": 45487
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45488",
-            "o:id": 45488
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45489",
-            "o:id": 45489
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45490",
-            "o:id": 45490
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45491",
-            "o:id": 45491
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45492",
-            "o:id": 45492
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45493",
-            "o:id": 45493
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45494",
-            "o:id": 45494
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45495",
-            "o:id": 45495
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45496",
-            "o:id": 45496
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45497",
-            "o:id": 45497
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45498",
-            "o:id": 45498
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45499",
-            "o:id": 45499
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45500",
-            "o:id": 45500
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45501",
-            "o:id": 45501
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45502",
-            "o:id": 45502
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/45503",
-            "o:id": 45503
-        }
-    ],
+    "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T13:39:10+00:00"
+        "@value": "2020-11-20T01:35:12+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/57",
+        "o:id": 57
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "A plan for the reform of the national salt administration.Chang Chγien.",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "和歌一括∽6_2_3",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/13325",
+            "display_title": "坪井信道・信良関係資料06の箱",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 13325,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
 }

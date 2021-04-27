@@ -1,49 +1,58 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13512",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/13512",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-b-0162",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "H-13-3",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "bibo:numPages": [
+        {
+            "@value": "8",
+            "is_public": true,
+            "property_id": 106,
+            "property_label": "number of pages",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1869/5/",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
             "type": "literal"
         }
     ],
     "dcterms:identifier": [
         {
-            "@value": "e7d65d89-a577-4309-b586-d9c51739727c",
+            "@value": "f44ca07f-067b-47ba-bab0-eaf8d7f7786d",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4773.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
@@ -52,142 +61,287 @@
     ],
     "dcterms:title": [
         {
-            "@value": "China, and Chinese railway concessions.Cary, Clarence.",
+            "@value": "明治新聞　第6号　明治2年5月4日∽H-13-3",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:references": [
+    "ex:custom_00015": [
         {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=21&tg3=B&tg4=b&tg5=",
+            "@value": "完成・公刊形態",
             "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
+            "property_id": 2395,
+            "property_label": "過程（CUSTOM_00015）",
             "type": "literal"
         }
     ],
-    "ex:tag2": [
+    "ex:custom_00016": [
         {
-            "@value": "21. Communication",
+            "@value": "冊子/綴",
             "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
+            "property_id": 2396,
+            "property_label": "資源状態（CUSTOM_00016）",
             "type": "literal"
         }
     ],
-    "ex:tag3": [
+    "ex:l6-001": [
         {
-            "@value": "B. Communication by Land",
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
             "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
             "type": "literal"
         }
     ],
-    "ex:tag4": [
+    "ex:l6-002": [
         {
-            "@value": "b. Railway",
+            "@value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。2007年以降\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。",
             "is_public": true,
-            "property_id": 299,
-            "property_label": "分類4",
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-013": [
+        {
+            "@value": "H",
+            "is_public": true,
+            "property_id": 2313,
+            "property_label": "箱（L6-013）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-014": [
+        {
+            "@value": "13",
+            "is_public": true,
+            "property_id": 2314,
+            "property_label": "群（L6-014）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-015": [
+        {
+            "@value": "3",
+            "is_public": true,
+            "property_id": 2315,
+            "property_label": "体（L6-015）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-019": [
+        {
+            "@value": "明治新聞　第6号　明治2年5月4日",
+            "is_public": true,
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-028": [
+        {
+            "@value": "1",
+            "is_public": true,
+            "property_id": 2328,
+            "property_label": "物的状態-量（L6-028）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-030": [
+        {
+            "@value": "223",
+            "is_public": true,
+            "property_id": 2330,
+            "property_label": "物的状態-長さ（L6-030）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-031": [
+        {
+            "@value": "150",
+            "is_public": true,
+            "property_id": 2331,
+            "property_label": "物的状態-幅（L6-031）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-050": [
+        {
+            "@value": "ノ　ジュウン",
+            "is_public": true,
+            "property_id": 2350,
+            "property_label": "情報入力（L6-050）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-051": [
+        {
+            "@value": "ノ　ジュウン",
+            "is_public": true,
+            "property_id": 2351,
+            "property_label": "情報分析（L6-051）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-052": [
+        {
+            "@value": "新聞or雑誌",
+            "is_public": true,
+            "property_id": 2352,
+            "property_label": "形態・形式情報-資源タイプ（L6-052）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-053": [
+        {
+            "@value": "1逐次刊行-新聞類",
+            "is_public": true,
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-069": [
+        {
+            "@value": "明治新聞",
+            "is_public": true,
+            "property_id": 2369,
+            "property_label": "抜き取り雑誌記述-雑誌名（L6-069）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-071": [
+        {
+            "@value": "第6号",
+            "is_public": true,
+            "property_id": 2371,
+            "property_label": "抜き取り雑誌記述-巻/輯/編/年（Vol.)（L6-071）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-074": [
+        {
+            "@value": "大黒屋幸助",
+            "is_public": true,
+            "property_id": 2374,
+            "property_label": "出版者（L6-074）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-077": [
+        {
+            "@value": "ja",
+            "is_public": true,
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
+            "type": "literal"
+        }
+    ],
+    "ex:sort": [
+        {
+            "@value": "H-0013-0003",
+            "is_public": true,
+            "property_id": 2838,
+            "property_label": "sort",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:42:15+00:00"
+        "@value": "2018-06-08T06:50:14+00:00"
     },
     "o:id": 13512,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/34998",
+            "o:id": 34998
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53473",
+            "o:id": 53473
         }
     ],
     "o:media": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54024",
-            "o:id": 54024
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/33020",
+            "o:id": 33020
         },
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54025",
-            "o:id": 54025
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/33021",
+            "o:id": 33021
         },
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54026",
-            "o:id": 54026
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/33022",
+            "o:id": 33022
         },
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54027",
-            "o:id": 54027
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/33023",
+            "o:id": 33023
         },
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54028",
-            "o:id": 54028
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/33024",
+            "o:id": 33024
         },
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54029",
-            "o:id": 54029
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/33025",
+            "o:id": 33025
         },
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54030",
-            "o:id": 54030
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/33026",
+            "o:id": 33026
         },
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54031",
-            "o:id": 54031
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54032",
-            "o:id": 54032
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54033",
-            "o:id": 54033
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54034",
-            "o:id": 54034
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/33027",
+            "o:id": 33027
         }
     ],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T02:52:07+00:00"
+        "@value": "2020-11-20T01:36:47+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/56",
+        "o:id": 56
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "China, and Chinese railway concessions.Cary, Clarence.",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "明治新聞　第6号　明治2年5月4日∽H-13-3",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/19988",
+            "display_title": "小野秀雄研究資料Ｈ",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 19988,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": "https://dch.iii.u-tokyo.ac.jp/files/large/13512/1332840276313.jpg",
+        "medium": "https://dch.iii.u-tokyo.ac.jp/files/medium/13512/1332840276313.jpg",
+        "square": "https://dch.iii.u-tokyo.ac.jp/files/square/13512/1332840276313.jpg"
+    }
 }

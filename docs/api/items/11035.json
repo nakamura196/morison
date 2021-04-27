@@ -1,49 +1,49 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11035",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/11035",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-a-0074",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "03-003",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1959年3月18日",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
             "type": "literal"
         }
     ],
     "dcterms:identifier": [
         {
-            "@value": "af576a71-b26f-4f91-9fa9-02270c4cb487",
+            "@value": "747c051c-6554-4716-b86c-cd8e3a390dd9",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2296.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
@@ -52,306 +52,97 @@
     ],
     "dcterms:title": [
         {
-            "@value": "Po velikoi riekie Yan-tszy-tszyan.D'yakov, I. A.",
+            "@value": "\"世界はどう動く\"　森ヨーロッパ・中村アメリカ前総局長対談(3)　東の世界　自主性かなり認む　中ソの仲間割れはない∽03-003",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:references": [
+    "ex:l6-019": [
         {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=D&tg4=b&tg5=",
+            "@value": "\"世界はどう動く\"　森ヨーロッパ・中村アメリカ前総局長対談(3)　東の世界　自主性かなり認む　中ソの仲間割れはない",
             "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
             "type": "literal"
         }
     ],
-    "ex:tag2": [
+    "ex:l6-069": [
         {
-            "@value": "2. Geography",
+            "@value": "朝日新聞（朝日新聞社）",
             "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
+            "property_id": 2369,
+            "property_label": "抜き取り雑誌記述-雑誌名（L6-069）",
             "type": "literal"
         }
     ],
-    "ex:tag3": [
+    "ex:l6-077": [
         {
-            "@value": "D. Mountains & Rivers; Lakes & Canals",
+            "@value": "ja",
             "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
-            "type": "literal"
-        }
-    ],
-    "ex:tag4": [
-        {
-            "@value": "b. Rivers, Canals, & Lakes",
-            "is_public": true,
-            "property_id": 299,
-            "property_label": "分類4",
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:41:59+00:00"
+        "@value": "2018-06-08T06:49:39+00:00"
     },
     "o:id": 11035,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35008",
+            "o:id": 35008
         }
     ],
-    "o:media": [
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18576",
-            "o:id": 18576
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18577",
-            "o:id": 18577
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18578",
-            "o:id": 18578
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18579",
-            "o:id": 18579
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18580",
-            "o:id": 18580
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18581",
-            "o:id": 18581
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18582",
-            "o:id": 18582
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18583",
-            "o:id": 18583
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18584",
-            "o:id": 18584
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18585",
-            "o:id": 18585
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18586",
-            "o:id": 18586
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18587",
-            "o:id": 18587
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18588",
-            "o:id": 18588
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18589",
-            "o:id": 18589
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18590",
-            "o:id": 18590
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18591",
-            "o:id": 18591
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18592",
-            "o:id": 18592
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18593",
-            "o:id": 18593
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18594",
-            "o:id": 18594
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18595",
-            "o:id": 18595
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18596",
-            "o:id": 18596
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18597",
-            "o:id": 18597
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18598",
-            "o:id": 18598
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18599",
-            "o:id": 18599
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18600",
-            "o:id": 18600
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18601",
-            "o:id": 18601
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18602",
-            "o:id": 18602
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18603",
-            "o:id": 18603
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18604",
-            "o:id": 18604
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18605",
-            "o:id": 18605
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18606",
-            "o:id": 18606
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18607",
-            "o:id": 18607
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18608",
-            "o:id": 18608
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18609",
-            "o:id": 18609
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18610",
-            "o:id": 18610
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18611",
-            "o:id": 18611
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18612",
-            "o:id": 18612
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18613",
-            "o:id": 18613
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18614",
-            "o:id": 18614
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18615",
-            "o:id": 18615
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18616",
-            "o:id": 18616
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18617",
-            "o:id": 18617
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18618",
-            "o:id": 18618
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18619",
-            "o:id": 18619
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18620",
-            "o:id": 18620
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18621",
-            "o:id": 18621
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18622",
-            "o:id": 18622
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18623",
-            "o:id": 18623
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18624",
-            "o:id": 18624
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18625",
-            "o:id": 18625
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18626",
-            "o:id": 18626
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/18627",
-            "o:id": 18627
-        }
-    ],
+    "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T01:30:16+00:00"
+        "@value": "2020-11-20T01:30:22+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/124",
+        "o:id": 124
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "Po velikoi riekie Yan-tszy-tszyan.D'yakov, I. A.",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "\"世界はどう動く\"　森ヨーロッパ・中村アメリカ前総局長対談(3)　東の世界　自主性かなり認む　中ソの仲間割れはない∽03-003",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/24287",
+            "display_title": "森恭三著作集CD-ROM版目録",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 24287,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
 }

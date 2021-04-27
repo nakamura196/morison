@@ -1,6 +1,6 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/145",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/145",
     "@type": "o:Property",
     "o:comment": "The family name of some person.",
     "o:id": 145,
@@ -8,7 +8,7 @@
     "o:local_name": "familyName",
     "o:term": "foaf:familyName",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/4",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/4",
         "o:id": 4
     }
 }

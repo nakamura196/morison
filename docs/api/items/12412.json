@@ -1,361 +1,148 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12412",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/12412",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-a-1523",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "03-007",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1959年3月26日",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
             "type": "literal"
         }
     ],
     "dcterms:identifier": [
         {
-            "@value": "78e3b9e4-0ef7-47d6-92f1-14522adcea3f",
+            "@value": "347758a9-385f-4172-8084-39793173c659",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3673.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
             "type": "uri"
         }
     ],
-    "dcterms:spatial": [
-        {
-            "@id": "http://dbpedia.org/resource/Shanghai",
-            "is_public": true,
-            "property_id": 40,
-            "property_label": "Spatial Coverage",
-            "type": "uri"
-        }
-    ],
     "dcterms:title": [
         {
-            "@value": "Records of Women's Conference in China. November, 1900. Home life of Chinese women.",
+            "@value": "二つのマレー語国民（中）　内戦から自立政策へ　マレー共産党民衆から浮き上る∽03-007",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:format": [
+    "ex:l6-019": [
         {
-            "@value": "80 p. ; 25 cm.",
+            "@value": "二つのマレー語国民（中）　内戦から自立政策へ　マレー共産党民衆から浮き上る",
             "is_public": true,
-            "property_id": 304,
-            "property_label": "形態的記述",
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
             "type": "literal"
         }
     ],
-    "ex:holding": [
+    "ex:l6-069": [
         {
-            "@value": "（記録なし）",
+            "@value": "朝日新聞（朝日新聞社）",
             "is_public": true,
-            "property_id": 306,
-            "property_label": "所蔵",
+            "property_id": 2369,
+            "property_label": "抜き取り雑誌記述-雑誌名（L6-069）",
             "type": "literal"
         }
     ],
-    "ex:publication": [
+    "ex:l6-077": [
         {
-            "@value": "Shanghai, 1900.",
+            "@value": "ja",
             "is_public": true,
-            "property_id": 303,
-            "property_label": "出版事項",
-            "type": "literal"
-        }
-    ],
-    "ex:references": [
-        {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=14&tg3=G&tg4=&tg5=",
-            "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
-            "type": "literal"
-        }
-    ],
-    "ex:tag2": [
-        {
-            "@value": "14. Customs & Manners",
-            "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
-            "type": "literal"
-        }
-    ],
-    "ex:tag3": [
-        {
-            "@value": "G. Women",
-            "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
-            "type": "literal"
-        }
-    ],
-    "ex:title": [
-        {
-            "@value": "Records of Women\\'s Conference in China. November, 1900. Home life of Chinese women.",
-            "is_public": true,
-            "property_id": 302,
-            "property_label": "タイトル責任表示",
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:42:08+00:00"
+        "@value": "2018-06-08T06:49:58+00:00"
     },
     "o:id": 12412,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35008",
+            "o:id": 35008
         }
     ],
-    "o:media": [
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39134",
-            "o:id": 39134
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39135",
-            "o:id": 39135
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39136",
-            "o:id": 39136
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39137",
-            "o:id": 39137
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39138",
-            "o:id": 39138
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39139",
-            "o:id": 39139
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39140",
-            "o:id": 39140
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39141",
-            "o:id": 39141
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39142",
-            "o:id": 39142
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39143",
-            "o:id": 39143
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39144",
-            "o:id": 39144
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39145",
-            "o:id": 39145
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39146",
-            "o:id": 39146
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39147",
-            "o:id": 39147
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39148",
-            "o:id": 39148
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39149",
-            "o:id": 39149
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39150",
-            "o:id": 39150
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39151",
-            "o:id": 39151
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39152",
-            "o:id": 39152
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39153",
-            "o:id": 39153
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39154",
-            "o:id": 39154
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39155",
-            "o:id": 39155
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39156",
-            "o:id": 39156
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39157",
-            "o:id": 39157
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39158",
-            "o:id": 39158
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39159",
-            "o:id": 39159
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39160",
-            "o:id": 39160
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39161",
-            "o:id": 39161
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39162",
-            "o:id": 39162
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39163",
-            "o:id": 39163
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39164",
-            "o:id": 39164
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39165",
-            "o:id": 39165
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39166",
-            "o:id": 39166
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39167",
-            "o:id": 39167
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39168",
-            "o:id": 39168
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39169",
-            "o:id": 39169
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39170",
-            "o:id": 39170
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39171",
-            "o:id": 39171
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39172",
-            "o:id": 39172
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39173",
-            "o:id": 39173
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39174",
-            "o:id": 39174
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39175",
-            "o:id": 39175
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39176",
-            "o:id": 39176
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39177",
-            "o:id": 39177
-        }
-    ],
+    "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T13:40:07+00:00"
+        "@value": "2020-11-20T01:33:58+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/124",
+        "o:id": 124
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "Records of Women's Conference in China. November, 1900. Home life of Chinese women.",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "二つのマレー語国民（中）　内戦から自立政策へ　マレー共産党民衆から浮き上る∽03-007",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/24287",
+            "display_title": "森恭三著作集CD-ROM版目録",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 24287,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
 }

@@ -1,14 +1,14 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/211",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/211",
     "@type": "o:Property",
-    "o:comment": "The subject is a subproperty of a property.",
+    "o:comment": "The size of the archival resource.",
     "o:id": 211,
-    "o:label": "subPropertyOf",
-    "o:local_name": "subPropertyOf",
-    "o:term": "rdfs:subPropertyOf",
+    "o:label": "Extent",
+    "o:local_name": "extent",
+    "o:term": "archiveshub:extent",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/7",
-        "o:id": 7
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
     }
 }

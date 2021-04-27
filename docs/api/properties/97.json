@@ -1,6 +1,6 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/97",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/97",
     "@type": "o:Property",
     "o:comment": null,
     "o:id": 97,
@@ -8,7 +8,7 @@
     "o:local_name": "handle",
     "o:term": "bibo:handle",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/3",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/3",
         "o:id": 3
     }
 }

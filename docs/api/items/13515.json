@@ -1,22 +1,40 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13515",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/13515",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-c-346",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "H-4-5",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "bibo:numPages": [
+        {
+            "@value": "17",
+            "is_public": true,
+            "property_id": 106,
+            "property_label": "number of pages",
             "type": "literal"
         }
     ],
     "dcterms:date": [
         {
-            "@value": "1912",
+            "@value": "1868/4/24",
             "is_public": true,
             "property_id": 7,
             "property_label": "Date",
@@ -25,34 +43,16 @@
     ],
     "dcterms:identifier": [
         {
-            "@value": "e81a0d4c-1d54-4785-bac6-8b83b9652a69",
+            "@value": "066bf8ee-c6dd-4c5b-b39a-f7be21c46b61",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4776.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
@@ -61,274 +61,341 @@
     ],
     "dcterms:title": [
         {
-            "@value": "Chemin-de-fer Lung-Tsing-U-Hai Contrat d'emprunt.",
+            "@value": "内外新聞　第2　（慶応4年）閏4月24日∽H-4-5",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:format": [
+    "ex:custom_00015": [
         {
-            "@value": "33 p. ; 4 cm.",
+            "@value": "完成・公刊形態",
             "is_public": true,
-            "property_id": 304,
-            "property_label": "形態的記述",
+            "property_id": 2395,
+            "property_label": "過程（CUSTOM_00015）",
             "type": "literal"
         }
     ],
-    "ex:holding": [
+    "ex:custom_00016": [
         {
-            "@value": "（記録なし）",
+            "@value": "冊子/綴",
             "is_public": true,
-            "property_id": 306,
-            "property_label": "所蔵",
+            "property_id": 2396,
+            "property_label": "資源状態（CUSTOM_00016）",
             "type": "literal"
         }
     ],
-    "ex:publication": [
+    "ex:l6-001": [
         {
-            "@value": "Signé Sept. 24, 1912.",
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
             "is_public": true,
-            "property_id": 303,
-            "property_label": "出版事項",
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
             "type": "literal"
         }
     ],
-    "ex:references": [
+    "ex:l6-002": [
         {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=21&tg3=B&tg4=b&tg5=",
+            "@value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。2007年以降\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。",
             "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
             "type": "literal"
         }
     ],
-    "ex:tag2": [
+    "ex:l6-013": [
         {
-            "@value": "21. Communication",
+            "@value": "H",
             "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
+            "property_id": 2313,
+            "property_label": "箱（L6-013）",
             "type": "literal"
         }
     ],
-    "ex:tag3": [
+    "ex:l6-014": [
         {
-            "@value": "B. Communication by Land",
+            "@value": "4",
             "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
+            "property_id": 2314,
+            "property_label": "群（L6-014）",
             "type": "literal"
         }
     ],
-    "ex:tag4": [
+    "ex:l6-015": [
         {
-            "@value": "b. Railway",
+            "@value": "5",
             "is_public": true,
-            "property_id": 299,
-            "property_label": "分類4",
+            "property_id": 2315,
+            "property_label": "体（L6-015）",
             "type": "literal"
         }
     ],
-    "ex:title": [
+    "ex:l6-019": [
         {
-            "@value": "Chemin-de-fer Lung-Tsing-U-Hai Contrat d\\'emprunt.",
+            "@value": "内外新聞　第2　（慶応4年）閏4月24日",
             "is_public": true,
-            "property_id": 302,
-            "property_label": "タイトル責任表示",
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-028": [
+        {
+            "@value": "1",
+            "is_public": true,
+            "property_id": 2328,
+            "property_label": "物的状態-量（L6-028）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-030": [
+        {
+            "@value": "217",
+            "is_public": true,
+            "property_id": 2330,
+            "property_label": "物的状態-長さ（L6-030）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-031": [
+        {
+            "@value": "149",
+            "is_public": true,
+            "property_id": 2331,
+            "property_label": "物的状態-幅（L6-031）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-032": [
+        {
+            "@value": "3",
+            "is_public": true,
+            "property_id": 2332,
+            "property_label": "物的状態-高さ（L6-032）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-050": [
+        {
+            "@value": "ノ　ジュウン",
+            "is_public": true,
+            "property_id": 2350,
+            "property_label": "情報入力（L6-050）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-051": [
+        {
+            "@value": "ノ　ジュウン",
+            "is_public": true,
+            "property_id": 2351,
+            "property_label": "情報分析（L6-051）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-052": [
+        {
+            "@value": "新聞or雑誌",
+            "is_public": true,
+            "property_id": 2352,
+            "property_label": "形態・形式情報-資源タイプ（L6-052）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-053": [
+        {
+            "@value": "1逐次刊行-新聞類",
+            "is_public": true,
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "H-4-3の「内外新聞　第2」の部分と同じ内容。",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-069": [
+        {
+            "@value": "内外新聞",
+            "is_public": true,
+            "property_id": 2369,
+            "property_label": "抜き取り雑誌記述-雑誌名（L6-069）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-071": [
+        {
+            "@value": "第2",
+            "is_public": true,
+            "property_id": 2371,
+            "property_label": "抜き取り雑誌記述-巻/輯/編/年（Vol.)（L6-071）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-074": [
+        {
+            "@value": "知新館",
+            "is_public": true,
+            "property_id": 2374,
+            "property_label": "出版者（L6-074）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-077": [
+        {
+            "@value": "ja",
+            "is_public": true,
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
+            "type": "literal"
+        }
+    ],
+    "ex:sort": [
+        {
+            "@value": "H-0004-0005",
+            "is_public": true,
+            "property_id": 2838,
+            "property_label": "sort",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:42:15+00:00"
+        "@value": "2018-06-08T06:50:14+00:00"
     },
     "o:id": 13515,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/34998",
+            "o:id": 34998
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53473",
+            "o:id": 53473
         }
     ],
     "o:media": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54049",
-            "o:id": 54049
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/32440",
+            "o:id": 32440
         },
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54050",
-            "o:id": 54050
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/32441",
+            "o:id": 32441
         },
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54051",
-            "o:id": 54051
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/32442",
+            "o:id": 32442
         },
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54052",
-            "o:id": 54052
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/32443",
+            "o:id": 32443
         },
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54053",
-            "o:id": 54053
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/32444",
+            "o:id": 32444
         },
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54054",
-            "o:id": 54054
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/32445",
+            "o:id": 32445
         },
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54055",
-            "o:id": 54055
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/32446",
+            "o:id": 32446
         },
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54056",
-            "o:id": 54056
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/32447",
+            "o:id": 32447
         },
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54057",
-            "o:id": 54057
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/32448",
+            "o:id": 32448
         },
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54058",
-            "o:id": 54058
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/32449",
+            "o:id": 32449
         },
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54059",
-            "o:id": 54059
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/32450",
+            "o:id": 32450
         },
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54060",
-            "o:id": 54060
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/32451",
+            "o:id": 32451
         },
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54061",
-            "o:id": 54061
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/32452",
+            "o:id": 32452
         },
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54062",
-            "o:id": 54062
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/32453",
+            "o:id": 32453
         },
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54063",
-            "o:id": 54063
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/32454",
+            "o:id": 32454
         },
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54064",
-            "o:id": 54064
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/32455",
+            "o:id": 32455
         },
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54065",
-            "o:id": 54065
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54066",
-            "o:id": 54066
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54067",
-            "o:id": 54067
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54068",
-            "o:id": 54068
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54069",
-            "o:id": 54069
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54070",
-            "o:id": 54070
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54071",
-            "o:id": 54071
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54072",
-            "o:id": 54072
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54073",
-            "o:id": 54073
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54074",
-            "o:id": 54074
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54075",
-            "o:id": 54075
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54076",
-            "o:id": 54076
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54077",
-            "o:id": 54077
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54078",
-            "o:id": 54078
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54079",
-            "o:id": 54079
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54080",
-            "o:id": 54080
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54081",
-            "o:id": 54081
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54082",
-            "o:id": 54082
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54083",
-            "o:id": 54083
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/32456",
+            "o:id": 32456
         }
     ],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T14:31:45+00:00"
+        "@value": "2020-11-20T01:37:05+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/56",
+        "o:id": 56
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "Chemin-de-fer Lung-Tsing-U-Hai Contrat d'emprunt.",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "内外新聞　第2　（慶応4年）閏4月24日∽H-4-5",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/19988",
+            "display_title": "小野秀雄研究資料Ｈ",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 19988,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": "https://dch.iii.u-tokyo.ac.jp/files/large/13515/1332839875125.jpg",
+        "medium": "https://dch.iii.u-tokyo.ac.jp/files/medium/13515/1332839875125.jpg",
+        "square": "https://dch.iii.u-tokyo.ac.jp/files/square/13515/1332839875125.jpg"
+    }
 }

@@ -1,49 +1,49 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13263",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/13263",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-a-3392",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "I_4_66",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1934/11/15",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
             "type": "literal"
         }
     ],
     "dcterms:identifier": [
         {
-            "@value": "e188842e-b53e-4823-9c6d-96f349194d61",
+            "@value": "0ba9e512-7398-477b-a0a5-f040811d30c0",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4524.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
@@ -52,200 +52,308 @@
     ],
     "dcterms:title": [
         {
-            "@value": "Mining laws of the Republic of China, 1914.",
+            "@value": "現代新聞批判　第二十五号∽I_4_66",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:format": [
+    "ex:custom_00015": [
         {
-            "@value": "pp. 17 ; 23 cm.",
+            "@value": "その他の過程",
             "is_public": true,
-            "property_id": 304,
-            "property_label": "形態的記述",
+            "property_id": 2395,
+            "property_label": "過程（CUSTOM_00015）",
             "type": "literal"
         }
     ],
-    "ex:heading1": [
+    "ex:custom_00016": [
         {
-            "@value": "（記録なし）",
+            "@value": "冊子/綴",
             "is_public": true,
-            "property_id": 305,
-            "property_label": "heading1",
+            "property_id": 2396,
+            "property_label": "資源状態（CUSTOM_00016）",
             "type": "literal"
         }
     ],
-    "ex:holding": [
+    "ex:custom_00018": [
         {
-            "@value": "（記録なし）",
+            "@value": "M2階でG４の付箋あり。",
             "is_public": true,
-            "property_id": 306,
-            "property_label": "所蔵",
+            "property_id": 2398,
+            "property_label": "備考（CUSTOM_00018）",
             "type": "literal"
         }
     ],
-    "ex:publication": [
+    "ex:l6-001": [
         {
-            "@value": "pp. 17 ; 23 cm.",
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
             "is_public": true,
-            "property_id": 303,
-            "property_label": "出版事項",
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
             "type": "literal"
         }
     ],
-    "ex:references": [
+    "ex:l6-002": [
         {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=20&tg3=G&tg4=i&tg5=i1",
+            "@value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。2007年以降\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。",
             "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
             "type": "literal"
         }
     ],
-    "ex:tag2": [
+    "ex:l6-013": [
         {
-            "@value": "20. Economy and Industry",
+            "@value": "I",
             "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
+            "property_id": 2313,
+            "property_label": "箱（L6-013）",
             "type": "literal"
         }
     ],
-    "ex:tag3": [
+    "ex:l6-014": [
         {
-            "@value": "G. Industry",
+            "@value": "4",
             "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
+            "property_id": 2314,
+            "property_label": "群（L6-014）",
             "type": "literal"
         }
     ],
-    "ex:tag4": [
+    "ex:l6-015": [
         {
-            "@value": "i. Mining industry",
+            "@value": "66",
             "is_public": true,
-            "property_id": 299,
-            "property_label": "分類4",
+            "property_id": 2315,
+            "property_label": "体（L6-015）",
             "type": "literal"
         }
     ],
-    "ex:tag5": [
+    "ex:l6-019": [
         {
-            "@value": "i1. General",
+            "@value": "現代新聞批判　第二十五号",
             "is_public": true,
-            "property_id": 297,
-            "property_label": "分類5",
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
             "type": "literal"
         }
     ],
-    "ex:title": [
+    "ex:l6-021": [
         {
-            "@value": "Mining laws of the Republic of China, 1914.",
+            "@value": "昭和",
             "is_public": true,
-            "property_id": 302,
-            "property_label": "タイトル責任表示",
+            "property_id": 2321,
+            "property_label": "成立年代-元号（L6-021）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-022": [
+        {
+            "@value": "9",
+            "is_public": true,
+            "property_id": 2322,
+            "property_label": "成立年代-年（L6-022）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-023": [
+        {
+            "@value": "11",
+            "is_public": true,
+            "property_id": 2323,
+            "property_label": "成立年代-月（L6-023）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-024": [
+        {
+            "@value": "15",
+            "is_public": true,
+            "property_id": 2324,
+            "property_label": "成立年代-日（L6-024）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-030": [
+        {
+            "@value": "395",
+            "is_public": true,
+            "property_id": 2330,
+            "property_label": "物的状態-長さ（L6-030）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-031": [
+        {
+            "@value": "277",
+            "is_public": true,
+            "property_id": 2331,
+            "property_label": "物的状態-幅（L6-031）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-032": [
+        {
+            "@value": "1",
+            "is_public": true,
+            "property_id": 2332,
+            "property_label": "物的状態-高さ（L6-032）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-033": [
+        {
+            "@value": "197",
+            "is_public": true,
+            "property_id": 2333,
+            "property_label": "物的状態-縦（L6-033）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-034": [
+        {
+            "@value": "277",
+            "is_public": true,
+            "property_id": 2334,
+            "property_label": "物的状態-横（L6-034）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-050": [
+        {
+            "@value": "福  博充",
+            "is_public": true,
+            "property_id": 2350,
+            "property_label": "情報入力（L6-050）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-051": [
+        {
+            "@value": "福  博充",
+            "is_public": true,
+            "property_id": 2351,
+            "property_label": "情報分析（L6-051）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-052": [
+        {
+            "@value": "新聞or雑誌",
+            "is_public": true,
+            "property_id": 2352,
+            "property_label": "形態・形式情報-資源タイプ（L6-052）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-053": [
+        {
+            "@value": "02逐次刊行-雑誌類",
+            "is_public": true,
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "全12ページ。",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-074": [
+        {
+            "@value": "現代新聞批判社",
+            "is_public": true,
+            "property_id": 2374,
+            "property_label": "出版者（L6-074）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-077": [
+        {
+            "@value": "ja",
+            "is_public": true,
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
+            "type": "literal"
+        }
+    ],
+    "ex:sort": [
+        {
+            "@value": "I-0004-0066",
+            "is_public": true,
+            "property_id": 2838,
+            "property_label": "sort",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:42:13+00:00"
+        "@value": "2018-06-08T06:50:10+00:00"
     },
     "o:id": 13263,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/34998",
+            "o:id": 34998
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53473",
+            "o:id": 53473
         }
     ],
-    "o:media": [
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50828",
-            "o:id": 50828
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50829",
-            "o:id": 50829
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50830",
-            "o:id": 50830
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50831",
-            "o:id": 50831
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50832",
-            "o:id": 50832
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50833",
-            "o:id": 50833
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50834",
-            "o:id": 50834
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50835",
-            "o:id": 50835
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50836",
-            "o:id": 50836
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50837",
-            "o:id": 50837
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50838",
-            "o:id": 50838
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/50839",
-            "o:id": 50839
-        }
-    ],
+    "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T13:47:25+00:00"
+        "@value": "2020-11-20T01:36:08+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/56",
+        "o:id": 56
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "Mining laws of the Republic of China, 1914.",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "現代新聞批判　第二十五号∽I_4_66",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/8177",
+            "display_title": "小野秀雄研究資料Ｉ",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 8177,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
 }

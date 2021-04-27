@@ -1,14 +1,14 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/270",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/270",
     "@type": "o:Property",
-    "o:comment": "シリーズの巻次又は部編番号",
+    "o:comment": "Creatorの別名又は異なる形",
     "o:id": 270,
-    "o:label": "Series Volume",
-    "o:local_name": "seriesVolume",
-    "o:term": "dcndl:seriesVolume",
+    "o:label": "Creator Alternative",
+    "o:local_name": "creatorAlternative",
+    "o:term": "dcndl:creatorAlternative",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/8",
-        "o:id": 8
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
     }
 }

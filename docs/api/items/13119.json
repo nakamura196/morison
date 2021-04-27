@@ -1,375 +1,157 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13119",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/13119",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-a-1962",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "11-446",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1977年12月発行",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
             "type": "literal"
         }
     ],
     "dcterms:identifier": [
         {
-            "@value": "179887fa-1257-406f-abe4-36cfa7d19bc0",
+            "@value": "ec3f09e4-53b9-4edf-835a-973c6925753a",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4380.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
             "type": "uri"
         }
     ],
-    "dcterms:spatial": [
-        {
-            "@id": "http://dbpedia.org/resource/Shanghai",
-            "is_public": true,
-            "property_id": 40,
-            "property_label": "Spatial Coverage",
-            "type": "uri"
-        }
-    ],
     "dcterms:title": [
         {
-            "@value": "Report and accounts. 1910-1911.Central China Famine Relief Fund.",
+            "@value": "人種的偏見　［朝日ジャーナル巻頭言「風速計」　1968年3月17日号掲載］∽11-446",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:format": [
+    "ex:l6-019": [
         {
-            "@value": "52 p. ; 25 cm.",
+            "@value": "人種的偏見　［朝日ジャーナル巻頭言「風速計」　1968年3月17日号掲載］",
             "is_public": true,
-            "property_id": 304,
-            "property_label": "形態的記述",
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
             "type": "literal"
         }
     ],
-    "ex:heading1": [
+    "ex:l6-025": [
         {
-            "@value": "Central China Famine Relief Fund.",
+            "@value": "p.276　マイクロフィルムなし",
             "is_public": true,
-            "property_id": 305,
-            "property_label": "heading1",
+            "property_id": 2325,
+            "property_label": "成立年代-備考（L6-025）",
             "type": "literal"
         }
     ],
-    "ex:holding": [
+    "ex:l6-069": [
         {
-            "@value": "（記録なし）",
+            "@value": "森恭三『風速計（上）』　（朝日新聞社）",
             "is_public": true,
-            "property_id": 306,
-            "property_label": "所蔵",
+            "property_id": 2369,
+            "property_label": "抜き取り雑誌記述-雑誌名（L6-069）",
             "type": "literal"
         }
     ],
-    "ex:publication": [
+    "ex:l6-077": [
         {
-            "@value": "Shanghai, 1912.",
+            "@value": "ja",
             "is_public": true,
-            "property_id": 303,
-            "property_label": "出版事項",
-            "type": "literal"
-        }
-    ],
-    "ex:references": [
-        {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=20&tg3=B&tg4=f&tg5=",
-            "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
-            "type": "literal"
-        }
-    ],
-    "ex:tag2": [
-        {
-            "@value": "20. Economy and Industry",
-            "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
-            "type": "literal"
-        }
-    ],
-    "ex:tag3": [
-        {
-            "@value": "B. Agriculture",
-            "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
-            "type": "literal"
-        }
-    ],
-    "ex:tag4": [
-        {
-            "@value": "f. Famine & famine relief works",
-            "is_public": true,
-            "property_id": 299,
-            "property_label": "分類4",
-            "type": "literal"
-        }
-    ],
-    "ex:title": [
-        {
-            "@value": "Report and accounts. 1910-1911.",
-            "is_public": true,
-            "property_id": 302,
-            "property_label": "タイトル責任表示",
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:42:12+00:00"
+        "@value": "2018-06-08T06:50:08+00:00"
     },
     "o:id": 13119,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35008",
+            "o:id": 35008
         }
     ],
-    "o:media": [
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48635",
-            "o:id": 48635
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48636",
-            "o:id": 48636
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48637",
-            "o:id": 48637
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48638",
-            "o:id": 48638
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48639",
-            "o:id": 48639
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48640",
-            "o:id": 48640
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48641",
-            "o:id": 48641
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48642",
-            "o:id": 48642
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48643",
-            "o:id": 48643
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48644",
-            "o:id": 48644
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48645",
-            "o:id": 48645
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48646",
-            "o:id": 48646
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48647",
-            "o:id": 48647
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48648",
-            "o:id": 48648
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48649",
-            "o:id": 48649
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48650",
-            "o:id": 48650
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48651",
-            "o:id": 48651
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48652",
-            "o:id": 48652
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48653",
-            "o:id": 48653
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48654",
-            "o:id": 48654
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48655",
-            "o:id": 48655
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48656",
-            "o:id": 48656
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48657",
-            "o:id": 48657
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48658",
-            "o:id": 48658
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48659",
-            "o:id": 48659
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48660",
-            "o:id": 48660
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48661",
-            "o:id": 48661
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48662",
-            "o:id": 48662
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48663",
-            "o:id": 48663
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48664",
-            "o:id": 48664
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48665",
-            "o:id": 48665
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48666",
-            "o:id": 48666
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48667",
-            "o:id": 48667
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48668",
-            "o:id": 48668
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48669",
-            "o:id": 48669
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48670",
-            "o:id": 48670
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48671",
-            "o:id": 48671
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48672",
-            "o:id": 48672
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48673",
-            "o:id": 48673
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48674",
-            "o:id": 48674
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48675",
-            "o:id": 48675
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48676",
-            "o:id": 48676
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/48677",
-            "o:id": 48677
-        }
-    ],
+    "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T13:32:44+00:00"
+        "@value": "2020-11-20T01:35:48+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/124",
+        "o:id": 124
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "Report and accounts. 1910-1911.Central China Famine Relief Fund.",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "人種的偏見　［朝日ジャーナル巻頭言「風速計」　1968年3月17日号掲載］∽11-446",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/24287",
+            "display_title": "森恭三著作集CD-ROM版目録",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 24287,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
 }

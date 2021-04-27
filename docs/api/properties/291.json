@@ -1,14 +1,14 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/291",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/291",
     "@type": "o:Property",
-    "o:comment": "書誌レコード作成のステータス",
+    "o:comment": "当該情報資源の属する刊行物名",
     "o:id": 291,
-    "o:label": "Cataloguing Status",
-    "o:local_name": "cataloguingStatus",
-    "o:term": "dcndl:cataloguingStatus",
+    "o:label": "Publication Name",
+    "o:local_name": "publicationName",
+    "o:term": "dcndl:publicationName",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/8",
-        "o:id": 8
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
     }
 }

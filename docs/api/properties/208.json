@@ -1,14 +1,14 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/208",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/208",
     "@type": "o:Property",
-    "o:comment": "A link from a Manifest or Sequence to the Canvas that the rendering agent should initialize their view with.",
+    "o:comment": "The end date, represented as a typed literal, of a time interval during which the archival resource was created or accumulated.",
     "o:id": 208,
-    "o:label": "hasStartCanvas",
-    "o:local_name": "hasStartCanvas",
-    "o:term": "sc:hasStartCanvas",
+    "o:label": "Date created or accumulated (end)",
+    "o:local_name": "dateCreatedAccumulatedEnd",
+    "o:term": "archiveshub:dateCreatedAccumulatedEnd",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/6",
-        "o:id": 6
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
     }
 }

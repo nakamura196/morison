@@ -1,14 +1,14 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/249",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/249",
     "@type": "o:Property",
-    "o:comment": "当該情報資源が属する刊行物の通号",
+    "o:comment": null,
     "o:id": 249,
-    "o:label": "Issue",
-    "o:local_name": "issue",
-    "o:term": "dcndl:issue",
+    "o:label": "hasCollections",
+    "o:local_name": "hasCollections",
+    "o:term": "sc:hasCollections",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/8",
-        "o:id": 8
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/6",
+        "o:id": 6
     }
 }

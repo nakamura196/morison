@@ -1,49 +1,49 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13597",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/13597",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-b-0871",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "02-245",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1956年1月28日",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
             "type": "literal"
         }
     ],
     "dcterms:identifier": [
         {
-            "@value": "4190be0f-86d2-425d-bcc0-add22e3fa3a1",
+            "@value": "0751d5d2-a2ae-4ef3-bbd4-f2d683fd330d",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4858.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
@@ -52,157 +52,106 @@
     ],
     "dcterms:title": [
         {
-            "@value": "The wonderful canals of China.King, F. H.",
+            "@value": "中東の情勢を探る　本社欧州総局座談会(5)　ソ連の\"経済攻勢\"　日本人も現実を視よ∽02-245",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:references": [
+    "ex:l6-019": [
         {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=21&tg3=C&tg4=&tg5=",
+            "@value": "中東の情勢を探る　本社欧州総局座談会(5)　ソ連の\"経済攻勢\"　日本人も現実を視よ",
             "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
             "type": "literal"
         }
     ],
-    "ex:tag2": [
+    "ex:l6-068": [
         {
-            "@value": "21. Communication",
+            "@value": "ロンドン発　",
             "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
             "type": "literal"
         }
     ],
-    "ex:tag3": [
+    "ex:l6-069": [
         {
-            "@value": "C. Communication by Sea; Ships & Vessels; Ports & Harbours",
+            "@value": "朝日新聞（朝日新聞社）",
             "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
+            "property_id": 2369,
+            "property_label": "抜き取り雑誌記述-雑誌名（L6-069）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-077": [
+        {
+            "@value": "ja",
+            "is_public": true,
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:42:15+00:00"
+        "@value": "2018-06-08T06:50:15+00:00"
     },
     "o:id": 13597,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35008",
+            "o:id": 35008
         }
     ],
-    "o:media": [
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55336",
-            "o:id": 55336
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55337",
-            "o:id": 55337
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55338",
-            "o:id": 55338
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55339",
-            "o:id": 55339
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55340",
-            "o:id": 55340
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55341",
-            "o:id": 55341
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55342",
-            "o:id": 55342
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55343",
-            "o:id": 55343
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55344",
-            "o:id": 55344
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55345",
-            "o:id": 55345
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55346",
-            "o:id": 55346
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55347",
-            "o:id": 55347
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55348",
-            "o:id": 55348
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55349",
-            "o:id": 55349
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55350",
-            "o:id": 55350
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55351",
-            "o:id": 55351
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/55352",
-            "o:id": 55352
-        }
-    ],
+    "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T00:59:11+00:00"
+        "@value": "2020-11-20T01:37:06+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/124",
+        "o:id": 124
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "The wonderful canals of China.King, F. H.",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "中東の情勢を探る　本社欧州総局座談会(5)　ソ連の\"経済攻勢\"　日本人も現実を視よ∽02-245",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/24287",
+            "display_title": "森恭三著作集CD-ROM版目録",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 24287,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
 }

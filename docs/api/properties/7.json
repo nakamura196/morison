@@ -1,6 +1,6 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/7",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/7",
     "@type": "o:Property",
     "o:comment": "A point or period of time associated with an event in the lifecycle of the resource.",
     "o:id": 7,
@@ -8,7 +8,7 @@
     "o:local_name": "date",
     "o:term": "dcterms:date",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/1",
         "o:id": 1
     }
 }

@@ -1,49 +1,40 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13405",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/13405",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-b-0341",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "4-14-70",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
             "type": "literal"
         }
     ],
     "dcterms:identifier": [
         {
-            "@value": "3c306ef2-6f89-40af-a85e-ff2ee7ba9d7a",
+            "@value": "2d8bcfa1-52cb-4343-83df-407bf76b7d2f",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4666.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
@@ -52,126 +43,209 @@
     ],
     "dcterms:title": [
         {
-            "@value": "How America got into China (\"The Trade of the World\" papers) Inside history of the diplomacy by which the United States achieved an equal opportiunity for Trade with China.McCormick, Frederick.",
+            "@value": "(正五郎年譜カード 　1897）∽4-14-70",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:references": [
+    "ex:custom_00029": [
         {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=20&tg3=H&tg4=c&tg5=",
+            "@value": "単紙/単体",
             "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
+            "property_id": 2420,
+            "property_label": "資源状態（CUSTOM_00029）",
             "type": "literal"
         }
     ],
-    "ex:tag2": [
+    "ex:l6-001": [
         {
-            "@value": "20. Economy and Industry",
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
             "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
             "type": "literal"
         }
     ],
-    "ex:tag3": [
+    "ex:l6-002": [
         {
-            "@value": "H. Commerce",
+            "@value": "2004（平成16）年旧坪井誠太郎邸から東京大学大学院情報学環学際情報学府図書室に移管",
             "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
             "type": "literal"
         }
     ],
-    "ex:tag4": [
+    "ex:l6-013": [
         {
-            "@value": "c. Foreign trade",
+            "@value": "4",
             "is_public": true,
-            "property_id": 299,
-            "property_label": "分類4",
+            "property_id": 2313,
+            "property_label": "箱（L6-013）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-014": [
+        {
+            "@value": "14",
+            "is_public": true,
+            "property_id": 2314,
+            "property_label": "群（L6-014）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-015": [
+        {
+            "@value": "70",
+            "is_public": true,
+            "property_id": 2315,
+            "property_label": "体（L6-015）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-019": [
+        {
+            "@value": "(正五郎年譜カード 　1897）",
+            "is_public": true,
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-030": [
+        {
+            "@value": "100",
+            "is_public": true,
+            "property_id": 2330,
+            "property_label": "物的状態-長さ（L6-030）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-031": [
+        {
+            "@value": "150",
+            "is_public": true,
+            "property_id": 2331,
+            "property_label": "物的状態-幅（L6-031）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-052": [
+        {
+            "@value": "自由記述媒体",
+            "is_public": true,
+            "property_id": 2352,
+            "property_label": "形態・形式情報-資源タイプ（L6-052）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-053": [
+        {
+            "@value": "10メモ・草稿・スケッチ",
+            "is_public": true,
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-057": [
+        {
+            "@value": "坪井正五郎",
+            "is_public": true,
+            "property_id": 2357,
+            "property_label": "索引事項-人名（L6-057）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "坪井正五郎の生誕から大正元年までの年譜が書かれたカード。",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-077": [
+        {
+            "@value": "ja",
+            "is_public": true,
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
+            "type": "literal"
+        }
+    ],
+    "ex:sort": [
+        {
+            "@value": "0004-0014-0070",
+            "is_public": true,
+            "property_id": 2838,
+            "property_label": "sort",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:42:14+00:00"
+        "@value": "2018-06-08T06:50:12+00:00"
     },
     "o:id": 13405,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35000",
+            "o:id": 35000
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53489",
+            "o:id": 53489
         }
     ],
-    "o:media": [
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52695",
-            "o:id": 52695
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52696",
-            "o:id": 52696
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52697",
-            "o:id": 52697
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52698",
-            "o:id": 52698
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52699",
-            "o:id": 52699
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52700",
-            "o:id": 52700
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52701",
-            "o:id": 52701
-        }
-    ],
+    "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T00:52:31+00:00"
+        "@value": "2020-11-20T01:36:45+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/84",
+        "o:id": 84
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "How America got into China (\"The Trade of the World\" papers) Inside history of the diplomacy by which the United States achieved an equal opportiunity for Trade with China.McCormick, Frederick.",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "(正五郎年譜カード 　1897）∽4-14-70",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/16578",
+            "display_title": "坪井正五郎関係資料04の箱",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 16578,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
 }

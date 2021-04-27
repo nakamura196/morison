@@ -1,6 +1,6 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/3",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/3",
     "@type": "o:Property",
     "o:comment": "The topic of the resource.",
     "o:id": 3,
@@ -8,7 +8,7 @@
     "o:local_name": "subject",
     "o:term": "dcterms:subject",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/1",
         "o:id": 1
     }
 }

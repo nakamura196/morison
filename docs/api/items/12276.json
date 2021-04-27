@@ -1,272 +1,157 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12276",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/12276",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-b-1100",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "11-464",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1977年12月発行",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
             "type": "literal"
         }
     ],
     "dcterms:identifier": [
         {
-            "@value": "00b71c60-22d2-4968-baef-d60cdc478f91",
+            "@value": "13f0be87-8b85-46b4-9020-41f4b8d93637",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3537.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
             "type": "uri"
         }
     ],
-    "dcterms:spatial": [
-        {
-            "@id": "http://dbpedia.org/resource/Paris",
-            "is_public": true,
-            "property_id": 40,
-            "property_label": "Spatial Coverage",
-            "type": "uri"
-        }
-    ],
     "dcterms:title": [
         {
-            "@value": "L'Église Catholique et la Liberté Religieuse dans l'Empire Chinois.Guasco, Alexandre.",
+            "@value": "ルール　［朝日ジャーナル巻頭言「風速計」　1968年9月22日号掲載］∽11-464",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:format": [
+    "ex:l6-019": [
         {
-            "@value": "23 p. ; 24 cm.",
+            "@value": "ルール　［朝日ジャーナル巻頭言「風速計」　1968年9月22日号掲載］",
             "is_public": true,
-            "property_id": 304,
-            "property_label": "形態的記述",
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
             "type": "literal"
         }
     ],
-    "ex:heading1": [
+    "ex:l6-025": [
         {
-            "@value": "Guasco, Alexandre.",
+            "@value": "p.294　マイクロフィルムなし",
             "is_public": true,
-            "property_id": 305,
-            "property_label": "heading1",
+            "property_id": 2325,
+            "property_label": "成立年代-備考（L6-025）",
             "type": "literal"
         }
     ],
-    "ex:holding": [
+    "ex:l6-069": [
         {
-            "@value": "（記録なし）",
+            "@value": "森恭三『風速計（上）』　（朝日新聞社）",
             "is_public": true,
-            "property_id": 306,
-            "property_label": "所蔵",
+            "property_id": 2369,
+            "property_label": "抜き取り雑誌記述-雑誌名（L6-069）",
             "type": "literal"
         }
     ],
-    "ex:publication": [
+    "ex:l6-077": [
         {
-            "@value": "Paris, 1900.",
+            "@value": "ja",
             "is_public": true,
-            "property_id": 303,
-            "property_label": "出版事項",
-            "type": "literal"
-        }
-    ],
-    "ex:references": [
-        {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=10&tg3=E&tg4=c&tg5=c1",
-            "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
-            "type": "literal"
-        }
-    ],
-    "ex:tag2": [
-        {
-            "@value": "10. Religion",
-            "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
-            "type": "literal"
-        }
-    ],
-    "ex:tag3": [
-        {
-            "@value": "E. Christianity",
-            "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
-            "type": "literal"
-        }
-    ],
-    "ex:tag4": [
-        {
-            "@value": "c. Roman Catholic",
-            "is_public": true,
-            "property_id": 299,
-            "property_label": "分類4",
-            "type": "literal"
-        }
-    ],
-    "ex:tag5": [
-        {
-            "@value": "c1. General",
-            "is_public": true,
-            "property_id": 297,
-            "property_label": "分類5",
-            "type": "literal"
-        }
-    ],
-    "ex:title": [
-        {
-            "@value": "L\\'Église Catholique et la Liberté Religieuse dans l\\'Empire Chinois.",
-            "is_public": true,
-            "property_id": 302,
-            "property_label": "タイトル責任表示",
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:42:07+00:00"
+        "@value": "2018-06-08T06:49:56+00:00"
     },
     "o:id": 12276,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35008",
+            "o:id": 35008
         }
     ],
-    "o:media": [
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37064",
-            "o:id": 37064
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37065",
-            "o:id": 37065
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37066",
-            "o:id": 37066
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37067",
-            "o:id": 37067
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37068",
-            "o:id": 37068
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37069",
-            "o:id": 37069
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37070",
-            "o:id": 37070
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37071",
-            "o:id": 37071
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37072",
-            "o:id": 37072
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37073",
-            "o:id": 37073
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37074",
-            "o:id": 37074
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37075",
-            "o:id": 37075
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37076",
-            "o:id": 37076
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37077",
-            "o:id": 37077
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/37078",
-            "o:id": 37078
-        }
-    ],
+    "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T13:38:46+00:00"
+        "@value": "2020-11-20T01:33:38+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/124",
+        "o:id": 124
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "L'Église Catholique et la Liberté Religieuse dans l'Empire Chinois.Guasco, Alexandre.",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "ルール　［朝日ジャーナル巻頭言「風速計」　1968年9月22日号掲載］∽11-464",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/24287",
+            "display_title": "森恭三著作集CD-ROM版目録",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 24287,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
 }

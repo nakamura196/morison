@@ -1,6 +1,6 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/21",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/21",
     "@type": "o:Property",
     "o:comment": "Date (often a range) of validity of a resource.",
     "o:id": 21,
@@ -8,7 +8,7 @@
     "o:local_name": "valid",
     "o:term": "dcterms:valid",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/1",
         "o:id": 1
     }
 }

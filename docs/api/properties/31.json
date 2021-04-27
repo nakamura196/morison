@@ -1,6 +1,6 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/31",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/31",
     "@type": "o:Property",
     "o:comment": "A related resource that requires the described resource to support its function, delivery, or coherence.",
     "o:id": 31,
@@ -8,7 +8,7 @@
     "o:local_name": "isRequiredBy",
     "o:term": "dcterms:isRequiredBy",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/1",
         "o:id": 1
     }
 }

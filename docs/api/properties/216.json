@@ -1,14 +1,14 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/216",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/216",
     "@type": "o:Property",
-    "o:comment": "Further information about the subject resource.",
+    "o:comment": "Accruals",
     "o:id": 216,
-    "o:label": "seeAlso",
-    "o:local_name": "seeAlso",
-    "o:term": "rdfs:seeAlso",
+    "o:label": "Accruals",
+    "o:local_name": "accruals",
+    "o:term": "archiveshub:accruals",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/7",
-        "o:id": 7
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
     }
 }

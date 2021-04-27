@@ -1,14 +1,14 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/201",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/201",
     "@type": "o:Property",
-    "o:comment": "A string containing an attribution description that must be displayed when using the resource",
+    "o:comment": "Members",
     "o:id": 201,
-    "o:label": "attributionLabel",
-    "o:local_name": "attributionLabel",
-    "o:term": "sc:attributionLabel",
+    "o:label": "Members",
+    "o:local_name": "members",
+    "o:term": "archiveshub:members",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/6",
-        "o:id": 6
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
     }
 }

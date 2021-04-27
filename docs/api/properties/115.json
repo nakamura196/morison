@@ -1,6 +1,6 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/115",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/115",
     "@type": "o:Property",
     "o:comment": "A section number",
     "o:id": 115,
@@ -8,7 +8,7 @@
     "o:local_name": "section",
     "o:term": "bibo:section",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/3",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/3",
         "o:id": 3
     }
 }

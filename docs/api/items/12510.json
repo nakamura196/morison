@@ -1,418 +1,287 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12510",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/12510",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-a-1568",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "11_20_10_1",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "//",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
             "type": "literal"
         }
     ],
     "dcterms:identifier": [
         {
-            "@value": "a1033a99-6edb-4ebf-abe1-19e60795f036",
+            "@value": "43f6831e-0183-47cc-8fde-54a073be2776",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3771.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
             "type": "uri"
         }
     ],
-    "dcterms:spatial": [
-        {
-            "@id": "http://dbpedia.org/resource/Shanghai",
-            "is_public": true,
-            "property_id": 40,
-            "property_label": "Spatial Coverage",
-            "type": "uri"
-        }
-    ],
     "dcterms:title": [
         {
-            "@value": "Seven stars, a Chinese chess ending with three hundred variations. Arranged.Kliene, Charles.",
+            "@value": "龍の事∽11_20_10_1",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:format": [
+    "ex:custom_00030": [
         {
-            "@value": "x, 88 p. ; 22 cm.",
+            "@value": "2005/07/28",
             "is_public": true,
-            "property_id": 304,
-            "property_label": "形態的記述",
+            "property_id": 2421,
+            "property_label": "調査年月日（CUSTOM_00030）",
             "type": "literal"
         }
     ],
-    "ex:heading1": [
+    "ex:l6-013": [
         {
-            "@value": "Kliene, Charles.",
+            "@value": "11",
             "is_public": true,
-            "property_id": 305,
-            "property_label": "heading1",
+            "property_id": 2313,
+            "property_label": "箱（L6-013）",
             "type": "literal"
         }
     ],
-    "ex:holding": [
+    "ex:l6-014": [
         {
-            "@value": "（記録なし）",
+            "@value": "20",
             "is_public": true,
-            "property_id": 306,
-            "property_label": "所蔵",
+            "property_id": 2314,
+            "property_label": "群（L6-014）",
             "type": "literal"
         }
     ],
-    "ex:publication": [
+    "ex:l6-015": [
         {
-            "@value": "Shanghai, 1916.",
+            "@value": "10",
             "is_public": true,
-            "property_id": 303,
-            "property_label": "出版事項",
+            "property_id": 2315,
+            "property_label": "体（L6-015）",
             "type": "literal"
         }
     ],
-    "ex:references": [
+    "ex:l6-016": [
         {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=14&tg3=Q&tg4=&tg5=",
+            "@value": "1",
             "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
+            "property_id": 2316,
+            "property_label": "部（L6-016）",
             "type": "literal"
         }
     ],
-    "ex:tag2": [
+    "ex:l6-019": [
         {
-            "@value": "14. Customs & Manners",
+            "@value": "龍の事",
             "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
             "type": "literal"
         }
     ],
-    "ex:tag3": [
+    "ex:l6-030": [
         {
-            "@value": "Q. Sports & Amusements",
+            "@value": "169",
             "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
+            "property_id": 2330,
+            "property_label": "物的状態-長さ（L6-030）",
             "type": "literal"
         }
     ],
-    "ex:title": [
+    "ex:l6-031": [
         {
-            "@value": "Seven stars, a Chinese chess ending with three hundred variations. Arranged.",
+            "@value": "71",
             "is_public": true,
-            "property_id": 302,
-            "property_label": "タイトル責任表示",
+            "property_id": 2331,
+            "property_label": "物的状態-幅（L6-031）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-035": [
+        {
+            "@value": "同",
+            "is_public": true,
+            "property_id": 2335,
+            "property_label": "物的状態-返（L6-035）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-036": [
+        {
+            "@value": "90",
+            "is_public": true,
+            "property_id": 2336,
+            "property_label": "物的状態-角度（L6-036）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-037": [
+        {
+            "@value": "なし",
+            "is_public": true,
+            "property_id": 2337,
+            "property_label": "物的状態-折（L6-037）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-050": [
+        {
+            "@value": "研谷",
+            "is_public": true,
+            "property_id": 2350,
+            "property_label": "情報入力（L6-050）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-051": [
+        {
+            "@value": "研谷",
+            "is_public": true,
+            "property_id": 2351,
+            "property_label": "情報分析（L6-051）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-052": [
+        {
+            "@value": "封筒or袋",
+            "is_public": true,
+            "property_id": 2352,
+            "property_label": "形態・形式情報-資源タイプ（L6-052）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-053": [
+        {
+            "@value": "98その他の内容",
+            "is_public": true,
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "龍の事について書かれた書類の入った封筒。",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-077": [
+        {
+            "@value": "ja",
+            "is_public": true,
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
+            "type": "literal"
+        }
+    ],
+    "ex:sort": [
+        {
+            "@value": "0011-0020-0010-0001",
+            "is_public": true,
+            "property_id": 2838,
+            "property_label": "sort",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:42:08+00:00"
+        "@value": "2018-06-08T06:50:00+00:00"
     },
     "o:id": 12510,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35000",
+            "o:id": 35000
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53489",
+            "o:id": 53489
         }
     ],
-    "o:media": [
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40579",
-            "o:id": 40579
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40580",
-            "o:id": 40580
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40581",
-            "o:id": 40581
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40582",
-            "o:id": 40582
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40583",
-            "o:id": 40583
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40584",
-            "o:id": 40584
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40585",
-            "o:id": 40585
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40586",
-            "o:id": 40586
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40587",
-            "o:id": 40587
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40588",
-            "o:id": 40588
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40589",
-            "o:id": 40589
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40590",
-            "o:id": 40590
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40591",
-            "o:id": 40591
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40592",
-            "o:id": 40592
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40593",
-            "o:id": 40593
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40594",
-            "o:id": 40594
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40595",
-            "o:id": 40595
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40596",
-            "o:id": 40596
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40597",
-            "o:id": 40597
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40598",
-            "o:id": 40598
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40599",
-            "o:id": 40599
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40600",
-            "o:id": 40600
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40601",
-            "o:id": 40601
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40602",
-            "o:id": 40602
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40603",
-            "o:id": 40603
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40604",
-            "o:id": 40604
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40605",
-            "o:id": 40605
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40606",
-            "o:id": 40606
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40607",
-            "o:id": 40607
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40608",
-            "o:id": 40608
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40609",
-            "o:id": 40609
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40610",
-            "o:id": 40610
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40611",
-            "o:id": 40611
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40612",
-            "o:id": 40612
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40613",
-            "o:id": 40613
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40614",
-            "o:id": 40614
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40615",
-            "o:id": 40615
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40616",
-            "o:id": 40616
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40617",
-            "o:id": 40617
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40618",
-            "o:id": 40618
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40619",
-            "o:id": 40619
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40620",
-            "o:id": 40620
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40621",
-            "o:id": 40621
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40622",
-            "o:id": 40622
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40623",
-            "o:id": 40623
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40624",
-            "o:id": 40624
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40625",
-            "o:id": 40625
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40626",
-            "o:id": 40626
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40627",
-            "o:id": 40627
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40628",
-            "o:id": 40628
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40629",
-            "o:id": 40629
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40630",
-            "o:id": 40630
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40631",
-            "o:id": 40631
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40632",
-            "o:id": 40632
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40633",
-            "o:id": 40633
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/40634",
-            "o:id": 40634
-        }
-    ],
+    "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T14:03:22+00:00"
+        "@value": "2020-11-20T01:34:16+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/84",
+        "o:id": 84
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "Seven stars, a Chinese chess ending with three hundred variations. Arranged.Kliene, Charles.",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "龍の事∽11_20_10_1",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/26232",
+            "display_title": "坪井正五郎関係資料11の箱",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 26232,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
 }

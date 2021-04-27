@@ -1,14 +1,14 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/277",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/277",
     "@type": "o:Property",
-    "o:comment": "Alternative Volumeの読み又は翻字形",
+    "o:comment": "当該情報資源を採取・保存した日",
     "o:id": 277,
-    "o:label": "Alternative Volume Transcription",
-    "o:local_name": "alternativeVolumeTranscription",
-    "o:term": "dcndl:alternativeVolumeTranscription",
+    "o:label": "Date Captured",
+    "o:local_name": "dateCaptured",
+    "o:term": "dcndl:dateCaptured",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/8",
-        "o:id": 8
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
     }
 }

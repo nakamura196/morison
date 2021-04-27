@@ -1,14 +1,14 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/257",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/257",
     "@type": "o:Property",
-    "o:comment": "参照先に関係のあるメタデータを持つ",
+    "o:comment": "A link from a Manifest or Sequence to the Canvas that the rendering agent should initialize their view with.",
     "o:id": 257,
-    "o:label": "Record",
-    "o:local_name": "record",
-    "o:term": "dcndl:record",
+    "o:label": "hasStartCanvas",
+    "o:local_name": "hasStartCanvas",
+    "o:term": "sc:hasStartCanvas",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/8",
-        "o:id": 8
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/6",
+        "o:id": 6
     }
 }

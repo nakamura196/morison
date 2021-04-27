@@ -1,350 +1,323 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11247",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/11247",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-a-751",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "5_9_79_2_2-24",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "//",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
             "type": "literal"
         }
     ],
     "dcterms:identifier": [
         {
-            "@value": "1132afa6-476f-4005-9ca6-4687a6b7a7b9",
+            "@value": "41f27a4a-7da9-456c-a1ea-b04554b69502",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2508.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
             "type": "uri"
         }
     ],
-    "dcterms:spatial": [
-        {
-            "@id": "http://dbpedia.org/resource/Hong_Kong",
-            "is_public": true,
-            "property_id": 40,
-            "property_label": "Spatial Coverage",
-            "type": "uri"
-        }
-    ],
     "dcterms:title": [
         {
-            "@value": "The visions of Hung-Siu-tshuen and origin of the Kwang-si insurrection.Hamberg, Theodore.",
+            "@value": "（メモ）∽5_9_79_2_2-24",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:format": [
+    "ex:custom_00029": [
         {
-            "@value": "63 p. ; 22 cm.",
+            "@value": "単紙/単体",
             "is_public": true,
-            "property_id": 304,
-            "property_label": "形態的記述",
+            "property_id": 2420,
+            "property_label": "資源状態（CUSTOM_00029）",
             "type": "literal"
         }
     ],
-    "ex:heading1": [
+    "ex:custom_00030": [
         {
-            "@value": "Hamberg, Theodore.",
+            "@value": "2004/11/02",
             "is_public": true,
-            "property_id": 305,
-            "property_label": "heading1",
+            "property_id": 2421,
+            "property_label": "調査年月日（CUSTOM_00030）",
             "type": "literal"
         }
     ],
-    "ex:holding": [
+    "ex:l6-001": [
         {
-            "@value": "（記録なし）",
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
             "is_public": true,
-            "property_id": 306,
-            "property_label": "所蔵",
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
             "type": "literal"
         }
     ],
-    "ex:publication": [
+    "ex:l6-002": [
         {
-            "@value": "Hong Kong, 1854.",
+            "@value": "2004（平成16）年旧坪井誠太郎邸から東京大学大学院情報学環学際情報学府図書室に移管",
             "is_public": true,
-            "property_id": 303,
-            "property_label": "出版事項",
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
             "type": "literal"
         }
     ],
-    "ex:references": [
+    "ex:l6-013": [
         {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=D&tg4=&tg5=",
+            "@value": "5",
             "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
+            "property_id": 2313,
+            "property_label": "箱（L6-013）",
             "type": "literal"
         }
     ],
-    "ex:tag2": [
+    "ex:l6-014": [
         {
-            "@value": "7. History",
+            "@value": "9",
             "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
+            "property_id": 2314,
+            "property_label": "群（L6-014）",
             "type": "literal"
         }
     ],
-    "ex:tag3": [
+    "ex:l6-015": [
         {
-            "@value": "D. Modern history",
+            "@value": "79",
             "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
+            "property_id": 2315,
+            "property_label": "体（L6-015）",
             "type": "literal"
         }
     ],
-    "ex:title": [
+    "ex:l6-016": [
         {
-            "@value": "The visions of Hung-Siu-tshuen and origin of the Kwang-si insurrection.",
+            "@value": "2",
             "is_public": true,
-            "property_id": 302,
-            "property_label": "タイトル責任表示",
+            "property_id": 2316,
+            "property_label": "部（L6-016）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-017": [
+        {
+            "@value": "2-24",
+            "is_public": true,
+            "property_id": 2317,
+            "property_label": "枝（L6-017）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-019": [
+        {
+            "@value": "（メモ）",
+            "is_public": true,
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-030": [
+        {
+            "@value": "136",
+            "is_public": true,
+            "property_id": 2330,
+            "property_label": "物的状態-長さ（L6-030）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-031": [
+        {
+            "@value": "100",
+            "is_public": true,
+            "property_id": 2331,
+            "property_label": "物的状態-幅（L6-031）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-035": [
+        {
+            "@value": "反",
+            "is_public": true,
+            "property_id": 2335,
+            "property_label": "物的状態-返（L6-035）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-036": [
+        {
+            "@value": "90",
+            "is_public": true,
+            "property_id": 2336,
+            "property_label": "物的状態-角度（L6-036）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-037": [
+        {
+            "@value": "なし",
+            "is_public": true,
+            "property_id": 2337,
+            "property_label": "物的状態-折（L6-037）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-050": [
+        {
+            "@value": "山根",
+            "is_public": true,
+            "property_id": 2350,
+            "property_label": "情報入力（L6-050）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-051": [
+        {
+            "@value": "山根",
+            "is_public": true,
+            "property_id": 2351,
+            "property_label": "情報分析（L6-051）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-052": [
+        {
+            "@value": "自由記述媒体",
+            "is_public": true,
+            "property_id": 2352,
+            "property_label": "形態・形式情報-資源タイプ（L6-052）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-053": [
+        {
+            "@value": "10メモ・草稿・スケッチ",
+            "is_public": true,
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "右上に「R  衣」と書かれたメモ。「防寒　体つつむ男女わからぬ　上衣　肩からくるぶしに至る　blueのbrown　靴　ながぐつ　制服　好む」とあり。",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-077": [
+        {
+            "@value": "ja,en",
+            "is_public": true,
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
+            "type": "literal"
+        }
+    ],
+    "ex:sort": [
+        {
+            "@value": "0005-0009-0079-0002-0002-0024",
+            "is_public": true,
+            "property_id": 2838,
+            "property_label": "sort",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:42:00+00:00"
+        "@value": "2018-06-08T06:49:42+00:00"
     },
     "o:id": 11247,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35000",
+            "o:id": 35000
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53489",
+            "o:id": 53489
         }
     ],
-    "o:media": [
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22061",
-            "o:id": 22061
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22062",
-            "o:id": 22062
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22063",
-            "o:id": 22063
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22064",
-            "o:id": 22064
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22065",
-            "o:id": 22065
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22066",
-            "o:id": 22066
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22067",
-            "o:id": 22067
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22068",
-            "o:id": 22068
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22069",
-            "o:id": 22069
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22070",
-            "o:id": 22070
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22071",
-            "o:id": 22071
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22072",
-            "o:id": 22072
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22073",
-            "o:id": 22073
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22074",
-            "o:id": 22074
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22075",
-            "o:id": 22075
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22076",
-            "o:id": 22076
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22077",
-            "o:id": 22077
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22078",
-            "o:id": 22078
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22079",
-            "o:id": 22079
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22080",
-            "o:id": 22080
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22081",
-            "o:id": 22081
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22082",
-            "o:id": 22082
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22083",
-            "o:id": 22083
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22084",
-            "o:id": 22084
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22085",
-            "o:id": 22085
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22086",
-            "o:id": 22086
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22087",
-            "o:id": 22087
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22088",
-            "o:id": 22088
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22089",
-            "o:id": 22089
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22090",
-            "o:id": 22090
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22091",
-            "o:id": 22091
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22092",
-            "o:id": 22092
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22093",
-            "o:id": 22093
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22094",
-            "o:id": 22094
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22095",
-            "o:id": 22095
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22096",
-            "o:id": 22096
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22097",
-            "o:id": 22097
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22098",
-            "o:id": 22098
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/22099",
-            "o:id": 22099
-        }
-    ],
+    "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T13:41:25+00:00"
+        "@value": "2020-11-20T01:30:41+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/84",
+        "o:id": 84
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "The visions of Hung-Siu-tshuen and origin of the Kwang-si insurrection.Hamberg, Theodore.",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "（メモ）∽5_9_79_2_2-24",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/17096",
+            "display_title": "坪井正五郎関係資料05の箱",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 17096,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
 }

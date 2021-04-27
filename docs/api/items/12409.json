@@ -1,414 +1,323 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12409",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/12409",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-a-1532",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "I_4_27_42",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "//",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
             "type": "literal"
         }
     ],
     "dcterms:identifier": [
         {
-            "@value": "eb7b4dab-8ce2-487e-9318-f43c20f61157",
+            "@value": "96df6fa5-871e-4f23-9eab-40ce41733116",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3670.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
             "type": "uri"
         }
     ],
-    "dcterms:spatial": [
-        {
-            "@id": "http://dbpedia.org/resource/Tokyo",
-            "is_public": true,
-            "property_id": 40,
-            "property_label": "Spatial Coverage",
-            "type": "uri"
-        }
-    ],
     "dcterms:title": [
         {
-            "@value": "Chinese ladies at home.MacLean, Margaret.",
+            "@value": "「米国新聞史論　50」の記事∽I_4_27_42",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:format": [
+    "ex:custom_00015": [
         {
-            "@value": "102 p. ; 19 cm.",
+            "@value": "その他の過程",
             "is_public": true,
-            "property_id": 304,
-            "property_label": "形態的記述",
+            "property_id": 2395,
+            "property_label": "過程（CUSTOM_00015）",
             "type": "literal"
         }
     ],
-    "ex:heading1": [
+    "ex:custom_00016": [
         {
-            "@value": "MacLean, Margaret.",
+            "@value": "単紙/単体",
             "is_public": true,
-            "property_id": 305,
-            "property_label": "heading1",
+            "property_id": 2396,
+            "property_label": "資源状態（CUSTOM_00016）",
             "type": "literal"
         }
     ],
-    "ex:holding": [
+    "ex:custom_00018": [
         {
-            "@value": "（記録なし）",
+            "@value": "M2階でG４の付箋あり。",
             "is_public": true,
-            "property_id": 306,
-            "property_label": "所蔵",
+            "property_id": 2398,
+            "property_label": "備考（CUSTOM_00018）",
             "type": "literal"
         }
     ],
-    "ex:publication": [
+    "ex:l6-001": [
         {
-            "@value": "Tokyo, 1906.",
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
             "is_public": true,
-            "property_id": 303,
-            "property_label": "出版事項",
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
             "type": "literal"
         }
     ],
-    "ex:references": [
+    "ex:l6-002": [
         {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=14&tg3=G&tg4=&tg5=",
+            "@value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。2007年以降\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。",
             "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
             "type": "literal"
         }
     ],
-    "ex:tag2": [
+    "ex:l6-013": [
         {
-            "@value": "14. Customs & Manners",
+            "@value": "I",
             "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
+            "property_id": 2313,
+            "property_label": "箱（L6-013）",
             "type": "literal"
         }
     ],
-    "ex:tag3": [
+    "ex:l6-014": [
         {
-            "@value": "G. Women",
+            "@value": "4",
             "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
+            "property_id": 2314,
+            "property_label": "群（L6-014）",
             "type": "literal"
         }
     ],
-    "ex:title": [
+    "ex:l6-015": [
         {
-            "@value": "Chinese ladies at home.",
+            "@value": "27",
             "is_public": true,
-            "property_id": 302,
-            "property_label": "タイトル責任表示",
+            "property_id": 2315,
+            "property_label": "体（L6-015）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-016": [
+        {
+            "@value": "42",
+            "is_public": true,
+            "property_id": 2316,
+            "property_label": "部（L6-016）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-019": [
+        {
+            "@value": "「米国新聞史論　50」の記事",
+            "is_public": true,
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-027": [
+        {
+            "@value": "小野秀雄",
+            "is_public": true,
+            "property_id": 2327,
+            "property_label": "作成（L6-027）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-030": [
+        {
+            "@value": "265",
+            "is_public": true,
+            "property_id": 2330,
+            "property_label": "物的状態-長さ（L6-030）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-031": [
+        {
+            "@value": "113",
+            "is_public": true,
+            "property_id": 2331,
+            "property_label": "物的状態-幅（L6-031）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-033": [
+        {
+            "@value": "304",
+            "is_public": true,
+            "property_id": 2333,
+            "property_label": "物的状態-縦（L6-033）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-034": [
+        {
+            "@value": "212",
+            "is_public": true,
+            "property_id": 2334,
+            "property_label": "物的状態-横（L6-034）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-050": [
+        {
+            "@value": "福  博充",
+            "is_public": true,
+            "property_id": 2350,
+            "property_label": "情報入力（L6-050）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-051": [
+        {
+            "@value": "福  博充",
+            "is_public": true,
+            "property_id": 2351,
+            "property_label": "情報分析（L6-051）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-052": [
+        {
+            "@value": "その他の印刷紙",
+            "is_public": true,
+            "property_id": 2352,
+            "property_label": "形態・形式情報-資源タイプ（L6-052）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-053": [
+        {
+            "@value": "05研究論考・講義・学術研究内容",
+            "is_public": true,
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "新聞研究所の用紙に糊づけされている。「戦後の新聞界とサンの新經営者」が見出し",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-077": [
+        {
+            "@value": "ja",
+            "is_public": true,
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
+            "type": "literal"
+        }
+    ],
+    "ex:sort": [
+        {
+            "@value": "I-0004-0027-0042",
+            "is_public": true,
+            "property_id": 2838,
+            "property_label": "sort",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:42:08+00:00"
+        "@value": "2018-06-08T06:49:58+00:00"
     },
     "o:id": 12409,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/34998",
+            "o:id": 34998
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53473",
+            "o:id": 53473
         }
     ],
-    "o:media": [
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39069",
-            "o:id": 39069
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39070",
-            "o:id": 39070
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39071",
-            "o:id": 39071
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39072",
-            "o:id": 39072
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39073",
-            "o:id": 39073
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39074",
-            "o:id": 39074
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39075",
-            "o:id": 39075
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39076",
-            "o:id": 39076
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39077",
-            "o:id": 39077
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39078",
-            "o:id": 39078
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39079",
-            "o:id": 39079
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39080",
-            "o:id": 39080
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39081",
-            "o:id": 39081
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39082",
-            "o:id": 39082
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39083",
-            "o:id": 39083
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39084",
-            "o:id": 39084
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39085",
-            "o:id": 39085
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39086",
-            "o:id": 39086
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39087",
-            "o:id": 39087
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39088",
-            "o:id": 39088
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39089",
-            "o:id": 39089
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39090",
-            "o:id": 39090
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39091",
-            "o:id": 39091
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39092",
-            "o:id": 39092
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39093",
-            "o:id": 39093
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39094",
-            "o:id": 39094
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39095",
-            "o:id": 39095
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39096",
-            "o:id": 39096
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39097",
-            "o:id": 39097
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39098",
-            "o:id": 39098
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39099",
-            "o:id": 39099
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39100",
-            "o:id": 39100
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39101",
-            "o:id": 39101
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39102",
-            "o:id": 39102
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39103",
-            "o:id": 39103
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39104",
-            "o:id": 39104
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39105",
-            "o:id": 39105
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39106",
-            "o:id": 39106
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39107",
-            "o:id": 39107
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39108",
-            "o:id": 39108
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39109",
-            "o:id": 39109
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39110",
-            "o:id": 39110
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39111",
-            "o:id": 39111
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39112",
-            "o:id": 39112
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39113",
-            "o:id": 39113
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39114",
-            "o:id": 39114
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39115",
-            "o:id": 39115
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39116",
-            "o:id": 39116
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39117",
-            "o:id": 39117
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39118",
-            "o:id": 39118
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39119",
-            "o:id": 39119
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39120",
-            "o:id": 39120
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39121",
-            "o:id": 39121
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39122",
-            "o:id": 39122
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39123",
-            "o:id": 39123
-        }
-    ],
+    "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T13:39:59+00:00"
+        "@value": "2020-11-20T01:33:58+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/56",
+        "o:id": 56
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "Chinese ladies at home.MacLean, Margaret.",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "「米国新聞史論　50」の記事∽I_4_27_42",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/8177",
+            "display_title": "小野秀雄研究資料Ｉ",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 8177,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
 }

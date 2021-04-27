@@ -1,42 +1,75 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/media/35009",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/35009",
     "@type": "o:Media",
-    "data": [],
+    "data": {
+        "dimensions": {
+            "large": {
+                "height": 800,
+                "width": 534
+            },
+            "medium": {
+                "height": 200,
+                "width": 133
+            },
+            "original": {
+                "height": 7360,
+                "width": 4912
+            },
+            "square": {
+                "height": 200,
+                "width": 200
+            }
+        }
+    },
+    "dcterms:title": [
+        {
+            "@value": "4面",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T14:53:50+00:00"
+        "@value": "2018-08-30T00:09:10+00:00"
     },
-    "o:filename": "12142/P-III-b-0370_0002.jpg",
+    "o:filename": "757/nihonitomonoshimpo1_0089.jpg",
     "o:id": 35009,
     "o:ingester": "url",
     "o:is_public": true,
     "o:item": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/items/12142",
-        "o:id": 12142
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/757",
+        "o:id": 757
     },
     "o:lang": null,
     "o:media_type": "image/jpeg",
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T14:53:50+00:00"
+        "@value": "2018-08-30T00:10:02+00:00"
     },
-    "o:original_url": "http://localhost:8882/d_omekas/toyo/files/original/12142/P-III-b-0370_0002.jpg",
+    "o:original_url": "https://dch.iii.u-tokyo.ac.jp/files/original/757/nihonitomonoshimpo1_0089.jpg",
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:renderer": "file",
     "o:resource_class": null,
     "o:resource_template": null,
-    "o:sha256": "ad2e6c052e778646b0789fb14f616ab0d473e794766a6f4d9df5a3723f30383a",
-    "o:size": null,
-    "o:source": "http://124.33.215.236/morisonp2015/10ReligionAEc/P-III-b-0370_0002.jpg",
+    "o:sha256": "6948f041e7f734712b5c8894fb433a037c4943a62885cdd6cf3ad4c2c6f3868e",
+    "o:size": 6703401,
+    "o:source": "https://webpark5032.sakura.ne.jp/tmp/itomono/nihonitomonoshimpo1_0089.jpg",
     "o:thumbnail": null,
     "o:thumbnail_urls": {
-        "large": "http://localhost:8882/d_omekas/toyo/files/large/12142/P-III-b-0370_0002.jpg",
-        "medium": "http://localhost:8882/d_omekas/toyo/files/medium/12142/P-III-b-0370_0002.jpg",
-        "square": "http://localhost:8882/d_omekas/toyo/files/square/12142/P-III-b-0370_0002.jpg"
+        "large": "https://dch.iii.u-tokyo.ac.jp/files/large/757/nihonitomonoshimpo1_0089.jpg",
+        "medium": "https://dch.iii.u-tokyo.ac.jp/files/medium/757/nihonitomonoshimpo1_0089.jpg",
+        "square": "https://dch.iii.u-tokyo.ac.jp/files/square/757/nihonitomonoshimpo1_0089.jpg"
     },
-    "o:title": null
+    "o:title": "4面",
+    "thumbnail_display_urls": {
+        "large": "https://dch.iii.u-tokyo.ac.jp/files/large/757/nihonitomonoshimpo1_0089.jpg",
+        "medium": "https://dch.iii.u-tokyo.ac.jp/files/medium/757/nihonitomonoshimpo1_0089.jpg",
+        "square": "https://dch.iii.u-tokyo.ac.jp/files/square/757/nihonitomonoshimpo1_0089.jpg"
+    }
 }

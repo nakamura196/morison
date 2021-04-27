@@ -1,49 +1,49 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/10957",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/10957",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-b-0927",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "11-016",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1959年08月発行",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
             "type": "literal"
         }
     ],
     "dcterms:identifier": [
         {
-            "@value": "fd0f5d22-76c9-48e4-b87c-2e5c8318095b",
+            "@value": "5d753d2b-d86b-4b52-8692-72a5bd5a841c",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2218.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
@@ -52,238 +52,106 @@
     ],
     "dcterms:title": [
         {
-            "@value": "Du fleuve bleu au fleuve jaune.Rousset, Léon.",
+            "@value": "在欧通信 東欧の異端・ユーゴスラビア（1958年12月）∽11-016",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:references": [
+    "ex:l6-019": [
         {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=C&tg4=b&tg5=",
+            "@value": "在欧通信 東欧の異端・ユーゴスラビア（1958年12月）",
             "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
             "type": "literal"
         }
     ],
-    "ex:tag2": [
+    "ex:l6-025": [
         {
-            "@value": "2. Geography",
+            "@value": "p.152　マイクロフィルムなし",
             "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
+            "property_id": 2325,
+            "property_label": "成立年代-備考（L6-025）",
             "type": "literal"
         }
     ],
-    "ex:tag3": [
+    "ex:l6-069": [
         {
-            "@value": "C. Local topography & Travels",
+            "@value": "森恭三『ヨーロッパ通信』（みすず書房）",
             "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
+            "property_id": 2369,
+            "property_label": "抜き取り雑誌記述-雑誌名（L6-069）",
             "type": "literal"
         }
     ],
-    "ex:tag4": [
+    "ex:l6-077": [
         {
-            "@value": "b. Central China",
+            "@value": "ja",
             "is_public": true,
-            "property_id": 299,
-            "property_label": "分類4",
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:41:58+00:00"
+        "@value": "2018-06-08T06:49:38+00:00"
     },
     "o:id": 10957,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35008",
+            "o:id": 35008
         }
     ],
-    "o:media": [
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17319",
-            "o:id": 17319
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17320",
-            "o:id": 17320
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17321",
-            "o:id": 17321
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17322",
-            "o:id": 17322
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17323",
-            "o:id": 17323
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17324",
-            "o:id": 17324
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17325",
-            "o:id": 17325
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17326",
-            "o:id": 17326
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17327",
-            "o:id": 17327
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17328",
-            "o:id": 17328
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17329",
-            "o:id": 17329
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17330",
-            "o:id": 17330
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17331",
-            "o:id": 17331
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17332",
-            "o:id": 17332
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17333",
-            "o:id": 17333
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17334",
-            "o:id": 17334
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17335",
-            "o:id": 17335
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17336",
-            "o:id": 17336
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17337",
-            "o:id": 17337
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17338",
-            "o:id": 17338
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17339",
-            "o:id": 17339
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17340",
-            "o:id": 17340
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17341",
-            "o:id": 17341
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17342",
-            "o:id": 17342
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17343",
-            "o:id": 17343
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17344",
-            "o:id": 17344
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17345",
-            "o:id": 17345
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17346",
-            "o:id": 17346
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17347",
-            "o:id": 17347
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17348",
-            "o:id": 17348
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17349",
-            "o:id": 17349
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17350",
-            "o:id": 17350
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17351",
-            "o:id": 17351
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17352",
-            "o:id": 17352
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17353",
-            "o:id": 17353
-        }
-    ],
+    "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T04:16:52+00:00"
+        "@value": "2020-11-20T01:30:05+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/124",
+        "o:id": 124
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "Du fleuve bleu au fleuve jaune.Rousset, Léon.",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "在欧通信 東欧の異端・ユーゴスラビア（1958年12月）∽11-016",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/24287",
+            "display_title": "森恭三著作集CD-ROM版目録",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 24287,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
 }

@@ -1,14 +1,14 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/259",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/259",
     "@type": "o:Property",
-    "o:comment": "請求記号",
+    "o:comment": "読み又は翻字形",
     "o:id": 259,
-    "o:label": "Call Number",
-    "o:local_name": "callNumber",
-    "o:term": "dcndl:callNumber",
+    "o:label": "Transcription",
+    "o:local_name": "transcription",
+    "o:term": "dcndl:transcription",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/8",
-        "o:id": 8
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
     }
 }

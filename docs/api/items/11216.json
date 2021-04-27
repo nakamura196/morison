@@ -1,49 +1,49 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11216",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/11216",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-a-2576",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "06-402",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1968年5月5日号",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
             "type": "literal"
         }
     ],
     "dcterms:identifier": [
         {
-            "@value": "053f92b1-2057-4249-aa2b-f02854256a6b",
+            "@value": "f6c616c6-b209-4ee4-b40b-1069d42de517",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2477.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
@@ -52,190 +52,97 @@
     ],
     "dcterms:title": [
         {
-            "@value": "The Chinese crisis. [Review based on]: -1. The 'overland' to China. By A. R. Colquhoun. London, 1900. -2. La rénovation de l'Asie. By P. Leroy-Beaulieu. Paris, 1900. -3. China, the long-lived empire. By E. R. Scidmore. N. Y., 1900. -4. Village life in China. By A. H. Smith. N.Y. , 1900. -5. The attaché in Peking. By A. B. Freeman--mitford. London, 1900. -6. Personal narrative of occurrences during Lord Elgin's second embassy to China in 1860. By H. B. Loch. 3. ed. London, 1900. -7. Correspondence on the affairs of China(Foreign Office Blue-books, no. 1, 2, 3; 1900.) 1900.",
+            "@value": "ベトナムの民族意識　∽06-402",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:format": [
+    "ex:l6-019": [
         {
-            "@value": "pp. 542-564 ; 22 cm.",
+            "@value": "ベトナムの民族意識　",
             "is_public": true,
-            "property_id": 304,
-            "property_label": "形態的記述",
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
             "type": "literal"
         }
     ],
-    "ex:heading1": [
+    "ex:l6-069": [
         {
-            "@value": "（記録なし）",
+            "@value": "速報先見経済（清話会）",
             "is_public": true,
-            "property_id": 305,
-            "property_label": "heading1",
+            "property_id": 2369,
+            "property_label": "抜き取り雑誌記述-雑誌名（L6-069）",
             "type": "literal"
         }
     ],
-    "ex:holding": [
+    "ex:l6-077": [
         {
-            "@value": "（記録なし）",
+            "@value": "ja",
             "is_public": true,
-            "property_id": 306,
-            "property_label": "所蔵",
-            "type": "literal"
-        }
-    ],
-    "ex:publication": [
-        {
-            "@value": "pp. 542-564 ; 22 cm.",
-            "is_public": true,
-            "property_id": 303,
-            "property_label": "出版事項",
-            "type": "literal"
-        }
-    ],
-    "ex:references": [
-        {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=D&tg4=&tg5=",
-            "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
-            "type": "literal"
-        }
-    ],
-    "ex:tag2": [
-        {
-            "@value": "7. History",
-            "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
-            "type": "literal"
-        }
-    ],
-    "ex:tag3": [
-        {
-            "@value": "D. Modern history",
-            "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
-            "type": "literal"
-        }
-    ],
-    "ex:title": [
-        {
-            "@value": "The Chinese crisis. [Review based on]: -1. The \\'overland\\' to China. By A. R. Colquhoun. London, 1900. -2. La rénovation de l\\'Asie. By P. Leroy-Beaulieu. Paris, 1900. -3. China, the long-lived empire. By E. R. Scidmore. N. Y., 1900. -4. Village life in China. By A. H. Smith. N.Y. , 1900. -5. The attaché in Peking. By A. B. Freeman--mitford. London, 1900. -6. Personal narrative of occurrences during Lord Elgin\\'s second embassy to China in 1860. By H. B. Loch. 3. ed. London, 1900. -7. Correspondence on the affairs of China(Foreign Office Blue-books, no. 1, 2, 3; 1900.) 1900.",
-            "is_public": true,
-            "property_id": 302,
-            "property_label": "タイトル責任表示",
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:42:00+00:00"
+        "@value": "2018-06-08T06:49:41+00:00"
     },
     "o:id": 11216,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35008",
+            "o:id": 35008
         }
     ],
-    "o:media": [
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21683",
-            "o:id": 21683
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21684",
-            "o:id": 21684
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21685",
-            "o:id": 21685
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21686",
-            "o:id": 21686
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21687",
-            "o:id": 21687
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21688",
-            "o:id": 21688
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21689",
-            "o:id": 21689
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21690",
-            "o:id": 21690
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21691",
-            "o:id": 21691
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21692",
-            "o:id": 21692
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21693",
-            "o:id": 21693
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21694",
-            "o:id": 21694
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21695",
-            "o:id": 21695
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21696",
-            "o:id": 21696
-        }
-    ],
+    "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T13:32:27+00:00"
+        "@value": "2020-11-20T01:30:41+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/124",
+        "o:id": 124
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "The Chinese crisis. [Review based on]: -1. The 'overland' to China. By A. R. Colquhoun. London, 1900. -2. La rénovation de l'Asie. By P. Leroy-Beaulieu. Paris, 1900. -3. China, the long-lived empire. By E. R. Scidmore. N. Y., 1900. -4. Village life in China. By A. H. Smith. N.Y. , 1900. -5. The attaché in Peking. By A. B. Freeman--mitford. London, 1900. -6. Personal narrative of occurrences during Lord Elgin's second embassy to China in 1860. By H. B. Loch. 3. ed. London, 1900. -7. Correspondence on the affairs of China(Foreign Office Blue-books, no. 1, 2, 3; 1900.) 1900.",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "ベトナムの民族意識　∽06-402",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/24287",
+            "display_title": "森恭三著作集CD-ROM版目録",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 24287,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
 }

@@ -1,14 +1,14 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/234",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/234",
     "@type": "o:Property",
-    "o:comment": "当該情報資源が属する版",
+    "o:comment": "Epithet",
     "o:id": 234,
-    "o:label": "Edition",
-    "o:local_name": "edition",
-    "o:term": "dcndl:edition",
+    "o:label": "Epithet",
+    "o:local_name": "epithet",
+    "o:term": "archiveshub:epithet",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/8",
-        "o:id": 8
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
     }
 }

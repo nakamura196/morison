@@ -1,6 +1,6 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/52",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/52",
     "@type": "o:Property",
     "o:comment": "A process, used to engender knowledge, attitudes and skills, that the described resource is designed to support.",
     "o:id": 52,
@@ -8,7 +8,7 @@
     "o:local_name": "instructionalMethod",
     "o:term": "dcterms:instructionalMethod",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/1",
         "o:id": 1
     }
 }

@@ -1,14 +1,14 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/236",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/236",
     "@type": "o:Property",
-    "o:comment": "出版地・頒布地",
+    "o:comment": "A number of metres",
     "o:id": 236,
-    "o:label": "Publication Place",
-    "o:local_name": "publicationPlace",
-    "o:term": "dcndl:publicationPlace",
+    "o:label": "Metre",
+    "o:local_name": "metre",
+    "o:term": "archiveshub:metre",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/8",
-        "o:id": 8
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
     }
 }

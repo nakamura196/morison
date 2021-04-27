@@ -1,338 +1,332 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12616",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/12616",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-a-1681",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "I_4_55_67",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1895/11/5",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
             "type": "literal"
         }
     ],
     "dcterms:identifier": [
         {
-            "@value": "9486595e-e05c-426c-b086-b3b9d8d45f1f",
+            "@value": "8dec931a-ca14-4c00-9aaf-3b7aff53c858",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3877.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
             "type": "uri"
         }
     ],
-    "dcterms:spatial": [
-        {
-            "@id": "http://dbpedia.org/resource/Boston",
-            "is_public": true,
-            "property_id": 40,
-            "property_label": "Spatial Coverage",
-            "type": "uri"
-        }
-    ],
     "dcterms:title": [
         {
-            "@value": "An essay on the opium trade. Including a sketch of its history, extent, effects, etc., as carried on in India and China.Allen, Nathan.",
+            "@value": "官報　能久親王国葬の件の記事∽I_4_55_67",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:format": [
+    "ex:custom_00015": [
         {
-            "@value": "68 p. ; 24 cm.",
+            "@value": "その他の過程",
             "is_public": true,
-            "property_id": 304,
-            "property_label": "形態的記述",
+            "property_id": 2395,
+            "property_label": "過程（CUSTOM_00015）",
             "type": "literal"
         }
     ],
-    "ex:heading1": [
+    "ex:custom_00016": [
         {
-            "@value": "Allen, Nathan.",
+            "@value": "単紙/単体",
             "is_public": true,
-            "property_id": 305,
-            "property_label": "heading1",
+            "property_id": 2396,
+            "property_label": "資源状態（CUSTOM_00016）",
             "type": "literal"
         }
     ],
-    "ex:holding": [
+    "ex:custom_00018": [
         {
-            "@value": "（記録なし）",
+            "@value": "M2階でG４の付箋あり。",
             "is_public": true,
-            "property_id": 306,
-            "property_label": "所蔵",
+            "property_id": 2398,
+            "property_label": "備考（CUSTOM_00018）",
             "type": "literal"
         }
     ],
-    "ex:publication": [
+    "ex:l6-001": [
         {
-            "@value": "Boston, 1850.",
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
             "is_public": true,
-            "property_id": 303,
-            "property_label": "出版事項",
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
             "type": "literal"
         }
     ],
-    "ex:references": [
+    "ex:l6-002": [
         {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=14&tg3=W2&tg4=&tg5=",
+            "@value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。2007年以降\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。",
             "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
             "type": "literal"
         }
     ],
-    "ex:tag2": [
+    "ex:l6-013": [
         {
-            "@value": "14. Customs & Manners",
+            "@value": "I",
             "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
+            "property_id": 2313,
+            "property_label": "箱（L6-013）",
             "type": "literal"
         }
     ],
-    "ex:tag3": [
+    "ex:l6-014": [
         {
-            "@value": "W2. Opium",
+            "@value": "4",
             "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
+            "property_id": 2314,
+            "property_label": "群（L6-014）",
             "type": "literal"
         }
     ],
-    "ex:title": [
+    "ex:l6-015": [
         {
-            "@value": "An essay on the opium trade. Including a sketch of its history, extent, effects, etc., as carried on in India and China.",
+            "@value": "55",
             "is_public": true,
-            "property_id": 302,
-            "property_label": "タイトル責任表示",
+            "property_id": 2315,
+            "property_label": "体（L6-015）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-016": [
+        {
+            "@value": "67",
+            "is_public": true,
+            "property_id": 2316,
+            "property_label": "部（L6-016）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-019": [
+        {
+            "@value": "官報　能久親王国葬の件の記事",
+            "is_public": true,
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-021": [
+        {
+            "@value": "明治",
+            "is_public": true,
+            "property_id": 2321,
+            "property_label": "成立年代-元号（L6-021）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-022": [
+        {
+            "@value": "28",
+            "is_public": true,
+            "property_id": 2322,
+            "property_label": "成立年代-年（L6-022）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-023": [
+        {
+            "@value": "11",
+            "is_public": true,
+            "property_id": 2323,
+            "property_label": "成立年代-月（L6-023）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-024": [
+        {
+            "@value": "5",
+            "is_public": true,
+            "property_id": 2324,
+            "property_label": "成立年代-日（L6-024）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-030": [
+        {
+            "@value": "92",
+            "is_public": true,
+            "property_id": 2330,
+            "property_label": "物的状態-長さ（L6-030）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-031": [
+        {
+            "@value": "149",
+            "is_public": true,
+            "property_id": 2331,
+            "property_label": "物的状態-幅（L6-031）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-050": [
+        {
+            "@value": "福  博充",
+            "is_public": true,
+            "property_id": 2350,
+            "property_label": "情報入力（L6-050）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-051": [
+        {
+            "@value": "福  博充",
+            "is_public": true,
+            "property_id": 2351,
+            "property_label": "情報分析（L6-051）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-052": [
+        {
+            "@value": "新聞or雑誌",
+            "is_public": true,
+            "property_id": 2352,
+            "property_label": "形態・形式情報-資源タイプ（L6-052）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-053": [
+        {
+            "@value": "01逐次刊行-新聞類",
+            "is_public": true,
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "勅令、閣令、告示の３つ",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-077": [
+        {
+            "@value": "ja",
+            "is_public": true,
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
+            "type": "literal"
+        }
+    ],
+    "ex:sort": [
+        {
+            "@value": "I-0004-0055-0067",
+            "is_public": true,
+            "property_id": 2838,
+            "property_label": "sort",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:42:09+00:00"
+        "@value": "2018-06-08T06:50:01+00:00"
     },
     "o:id": 12616,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/34998",
+            "o:id": 34998
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53473",
+            "o:id": 53473
         }
     ],
-    "o:media": [
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41908",
-            "o:id": 41908
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41909",
-            "o:id": 41909
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41910",
-            "o:id": 41910
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41911",
-            "o:id": 41911
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41912",
-            "o:id": 41912
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41913",
-            "o:id": 41913
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41914",
-            "o:id": 41914
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41915",
-            "o:id": 41915
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41916",
-            "o:id": 41916
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41917",
-            "o:id": 41917
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41918",
-            "o:id": 41918
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41919",
-            "o:id": 41919
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41920",
-            "o:id": 41920
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41921",
-            "o:id": 41921
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41922",
-            "o:id": 41922
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41923",
-            "o:id": 41923
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41924",
-            "o:id": 41924
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41925",
-            "o:id": 41925
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41926",
-            "o:id": 41926
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41927",
-            "o:id": 41927
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41928",
-            "o:id": 41928
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41929",
-            "o:id": 41929
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41930",
-            "o:id": 41930
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41931",
-            "o:id": 41931
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41932",
-            "o:id": 41932
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41933",
-            "o:id": 41933
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41934",
-            "o:id": 41934
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41935",
-            "o:id": 41935
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41936",
-            "o:id": 41936
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41937",
-            "o:id": 41937
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41938",
-            "o:id": 41938
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41939",
-            "o:id": 41939
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41940",
-            "o:id": 41940
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41941",
-            "o:id": 41941
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41942",
-            "o:id": 41942
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41943",
-            "o:id": 41943
-        }
-    ],
+    "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T14:12:58+00:00"
+        "@value": "2020-11-20T01:34:35+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/56",
+        "o:id": 56
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "An essay on the opium trade. Including a sketch of its history, extent, effects, etc., as carried on in India and China.Allen, Nathan.",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "官報　能久親王国葬の件の記事∽I_4_55_67",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/8177",
+            "display_title": "小野秀雄研究資料Ｉ",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 8177,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
 }

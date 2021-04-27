@@ -1,335 +1,148 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11725",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/11725",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-b-550",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "06-302",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1971年8月11日号",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
             "type": "literal"
         }
     ],
     "dcterms:identifier": [
         {
-            "@value": "d9aac0d7-b5a7-4e38-9e84-90d0db8fc968",
+            "@value": "e841ee76-c12e-4575-a396-bbbf059f3f7c",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2986.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
             "type": "uri"
         }
     ],
-    "dcterms:spatial": [
-        {
-            "@id": "http://dbpedia.org/resource/Paris",
-            "is_public": true,
-            "property_id": 40,
-            "property_label": "Spatial Coverage",
-            "type": "uri"
-        }
-    ],
     "dcterms:title": [
         {
-            "@value": "Les Français à Changhai en 1853-1855. Episodes du siège de Changhai par les impériaux. Par M. Arthur Millac.[Imbault-Huart, Camille].",
+            "@value": "アジアの中の日本(1)中国　［「文化大革命」の役割、毛沢東の「矛盾論」］∽06-302",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:format": [
+    "ex:l6-019": [
         {
-            "@value": "53 p. ; 24 cm.",
+            "@value": "アジアの中の日本(1)中国　［「文化大革命」の役割、毛沢東の「矛盾論」］",
             "is_public": true,
-            "property_id": 304,
-            "property_label": "形態的記述",
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
             "type": "literal"
         }
     ],
-    "ex:heading1": [
+    "ex:l6-069": [
         {
-            "@value": "[Imbault-Huart, Camille].",
+            "@value": "週刊朝日ゼミナール（朝日新聞社）",
             "is_public": true,
-            "property_id": 305,
-            "property_label": "heading1",
+            "property_id": 2369,
+            "property_label": "抜き取り雑誌記述-雑誌名（L6-069）",
             "type": "literal"
         }
     ],
-    "ex:holding": [
+    "ex:l6-077": [
         {
-            "@value": "（記録なし）",
+            "@value": "ja",
             "is_public": true,
-            "property_id": 306,
-            "property_label": "所蔵",
-            "type": "literal"
-        }
-    ],
-    "ex:publication": [
-        {
-            "@value": "Paris, 1884.",
-            "is_public": true,
-            "property_id": 303,
-            "property_label": "出版事項",
-            "type": "literal"
-        }
-    ],
-    "ex:references": [
-        {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=F&tg4=g&tg5=",
-            "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
-            "type": "literal"
-        }
-    ],
-    "ex:tag2": [
-        {
-            "@value": "7. History",
-            "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
-            "type": "literal"
-        }
-    ],
-    "ex:tag3": [
-        {
-            "@value": "F. Foreign relations",
-            "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
-            "type": "literal"
-        }
-    ],
-    "ex:tag4": [
-        {
-            "@value": "g. France",
-            "is_public": true,
-            "property_id": 299,
-            "property_label": "分類4",
-            "type": "literal"
-        }
-    ],
-    "ex:title": [
-        {
-            "@value": "Les Français à Changhai en 1853-1855. Episodes du siège de Changhai par les impériaux. Par M. Arthur Millac.",
-            "is_public": true,
-            "property_id": 302,
-            "property_label": "タイトル責任表示",
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:42:03+00:00"
+        "@value": "2018-06-08T06:49:49+00:00"
     },
     "o:id": 11725,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35008",
+            "o:id": 35008
         }
     ],
-    "o:media": [
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29114",
-            "o:id": 29114
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29115",
-            "o:id": 29115
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29116",
-            "o:id": 29116
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29117",
-            "o:id": 29117
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29118",
-            "o:id": 29118
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29119",
-            "o:id": 29119
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29120",
-            "o:id": 29120
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29121",
-            "o:id": 29121
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29122",
-            "o:id": 29122
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29123",
-            "o:id": 29123
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29124",
-            "o:id": 29124
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29125",
-            "o:id": 29125
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29126",
-            "o:id": 29126
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29127",
-            "o:id": 29127
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29128",
-            "o:id": 29128
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29129",
-            "o:id": 29129
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29130",
-            "o:id": 29130
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29131",
-            "o:id": 29131
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29132",
-            "o:id": 29132
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29133",
-            "o:id": 29133
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29134",
-            "o:id": 29134
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29135",
-            "o:id": 29135
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29136",
-            "o:id": 29136
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29137",
-            "o:id": 29137
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29138",
-            "o:id": 29138
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29139",
-            "o:id": 29139
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29140",
-            "o:id": 29140
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29141",
-            "o:id": 29141
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29142",
-            "o:id": 29142
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29143",
-            "o:id": 29143
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29144",
-            "o:id": 29144
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29145",
-            "o:id": 29145
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29146",
-            "o:id": 29146
-        }
-    ],
+    "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T13:53:01+00:00"
+        "@value": "2020-11-20T01:32:03+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/124",
+        "o:id": 124
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "Les Français à Changhai en 1853-1855. Episodes du siège de Changhai par les impériaux. Par M. Arthur Millac.[Imbault-Huart, Camille].",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "アジアの中の日本(1)中国　［「文化大革命」の役割、毛沢東の「矛盾論」］∽06-302",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/24287",
+            "display_title": "森恭三著作集CD-ROM版目録",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 24287,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
 }

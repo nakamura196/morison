@@ -1,49 +1,49 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11335",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/11335",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-b-1147",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "13_1",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "//",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
             "type": "literal"
         }
     ],
     "dcterms:identifier": [
         {
-            "@value": "b53bc7f4-6b36-4738-b07f-5c0aabb6cd66",
+            "@value": "93e2f5ec-a2d1-41d3-b31d-8cb6470b8034",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2596.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
@@ -52,199 +52,191 @@
     ],
     "dcterms:title": [
         {
-            "@value": "Vdovstvuiushchaya Imperatritsa Tsy-si i Imperator Guan-siuĭ / Ya. Ya. Brandt.Brandt, Ya. Ya.",
+            "@value": "(ダンボール箱)∽13_1",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:format": [
+    "ex:custom_00030": [
         {
-            "@value": "16 p. ; 26 cm",
+            "@value": "2005/08/26",
             "is_public": true,
-            "property_id": 304,
-            "property_label": "形態的記述",
+            "property_id": 2421,
+            "property_label": "調査年月日（CUSTOM_00030）",
             "type": "literal"
         }
     ],
-    "ex:gyosyo": [
+    "ex:l6-001": [
         {
-            "@value": "(Ottisk iz 1-go no. jurnala O-va Russkikh Orîentalistov \"Vêstnik Azîi\")",
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
             "is_public": true,
-            "property_id": 307,
-            "property_label": "叢書名",
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
             "type": "literal"
         }
     ],
-    "ex:heading1": [
+    "ex:l6-002": [
         {
-            "@value": "Brandt, Ya. Ya.",
+            "@value": "2004（平成16）年旧坪井誠太郎邸から東京大学大学院情報学環学際情報学府図書室に移管",
             "is_public": true,
-            "property_id": 305,
-            "property_label": "heading1",
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
             "type": "literal"
         }
     ],
-    "ex:holding": [
+    "ex:l6-013": [
         {
-            "@value": "（記録なし）",
+            "@value": "13",
             "is_public": true,
-            "property_id": 306,
-            "property_label": "所蔵",
+            "property_id": 2313,
+            "property_label": "箱（L6-013）",
             "type": "literal"
         }
     ],
-    "ex:publication": [
+    "ex:l6-014": [
         {
-            "@value": "Kharbin : Russko-Kitaĭsko-Mongol\\'skaya tip. gaz. \"Iuan\\'-dun-bao\", 1909.",
+            "@value": "1",
             "is_public": true,
-            "property_id": 303,
-            "property_label": "出版事項",
+            "property_id": 2314,
+            "property_label": "群（L6-014）",
             "type": "literal"
         }
     ],
-    "ex:references": [
+    "ex:l6-019": [
         {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=E&tg4=&tg5=",
+            "@value": "(ダンボール箱)",
             "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
             "type": "literal"
         }
     ],
-    "ex:tag2": [
+    "ex:l6-030": [
         {
-            "@value": "7. History",
+            "@value": "469",
             "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
+            "property_id": 2330,
+            "property_label": "物的状態-長さ（L6-030）",
             "type": "literal"
         }
     ],
-    "ex:tag3": [
+    "ex:l6-031": [
         {
-            "@value": "E. Recent history",
+            "@value": "330",
             "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
+            "property_id": 2331,
+            "property_label": "物的状態-幅（L6-031）",
             "type": "literal"
         }
     ],
-    "ex:title": [
+    "ex:l6-032": [
         {
-            "@value": "Vdovstvuiushchaya Imperatritsa Tsy-si i Imperator Guan-siuĭ / Ya. Ya. Brandt.",
+            "@value": "186",
             "is_public": true,
-            "property_id": 302,
-            "property_label": "タイトル責任表示",
+            "property_id": 2332,
+            "property_label": "物的状態-高さ（L6-032）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-052": [
+        {
+            "@value": "包装",
+            "is_public": true,
+            "property_id": 2352,
+            "property_label": "形態・形式情報-資源タイプ（L6-052）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-053": [
+        {
+            "@value": "99包紙・仕切りなど",
+            "is_public": true,
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "以下13-1全体が入っているダンボール箱。",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:sort": [
+        {
+            "@value": "0013-0001",
+            "is_public": true,
+            "property_id": 2838,
+            "property_label": "sort",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:42:01+00:00"
+        "@value": "2018-06-08T06:49:43+00:00"
     },
     "o:id": 11335,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35000",
+            "o:id": 35000
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53489",
+            "o:id": 53489
         }
     ],
-    "o:media": [
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23271",
-            "o:id": 23271
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23272",
-            "o:id": 23272
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23273",
-            "o:id": 23273
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23274",
-            "o:id": 23274
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23275",
-            "o:id": 23275
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23276",
-            "o:id": 23276
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23277",
-            "o:id": 23277
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23278",
-            "o:id": 23278
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23279",
-            "o:id": 23279
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23280",
-            "o:id": 23280
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23281",
-            "o:id": 23281
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23282",
-            "o:id": 23282
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23283",
-            "o:id": 23283
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23284",
-            "o:id": 23284
-        }
-    ],
+    "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T13:47:53+00:00"
+        "@value": "2020-11-20T01:30:58+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/84",
+        "o:id": 84
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "Vdovstvuiushchaya Imperatritsa Tsy-si i Imperator Guan-siuĭ / Ya. Ya. Brandt.Brandt, Ya. Ya.",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "(ダンボール箱)∽13_1",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/8534",
+            "display_title": "坪井正五郎関係資料13の箱",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 8534,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
 }

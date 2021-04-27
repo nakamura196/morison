@@ -1,14 +1,14 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/240",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/240",
     "@type": "o:Property",
-    "o:comment": "販売価格",
+    "o:comment": "A number of volumes",
     "o:id": 240,
-    "o:label": "Price",
-    "o:local_name": "price",
-    "o:term": "dcndl:price",
+    "o:label": "Volume",
+    "o:local_name": "volume",
+    "o:term": "archiveshub:volume",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/8",
-        "o:id": 8
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
     }
 }

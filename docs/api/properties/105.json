@@ -1,6 +1,6 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/105",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/105",
     "@type": "o:Property",
     "o:comment": "A description (often numeric) that locates an item within a containing document or collection.",
     "o:id": 105,
@@ -8,7 +8,7 @@
     "o:local_name": "locator",
     "o:term": "bibo:locator",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/3",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/3",
         "o:id": 3
     }
 }

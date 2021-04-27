@@ -1,6 +1,6 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/135",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/135",
     "@type": "o:Property",
     "o:comment": "An ICQ chat ID",
     "o:id": 135,
@@ -8,7 +8,7 @@
     "o:local_name": "icqChatID",
     "o:term": "foaf:icqChatID",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/4",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/4",
         "o:id": 4
     }
 }

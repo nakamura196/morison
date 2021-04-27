@@ -1,14 +1,14 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/306",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/306",
     "@type": "o:Property",
-    "o:comment": "",
+    "o:comment": "Titleの読み又は翻字形",
     "o:id": 306,
-    "o:label": "所蔵",
-    "o:local_name": "holding",
-    "o:term": "ex:holding",
+    "o:label": "Title Transcription",
+    "o:local_name": "titleTranscription",
+    "o:term": "dcndl:titleTranscription",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/9",
-        "o:id": 9
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
     }
 }

@@ -1,14 +1,14 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/283",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/283",
     "@type": "o:Property",
-    "o:comment": "Volume Creatorの読み又は翻字形",
+    "o:comment": "逐次刊行物の刊行状態",
     "o:id": 283,
-    "o:label": "Volume Creator Transcription",
-    "o:local_name": "volumeCreatorTranscription",
-    "o:term": "dcndl:volumeCreatorTranscription",
+    "o:label": "Publication Status",
+    "o:local_name": "publicationStatus",
+    "o:term": "dcndl:publicationStatus",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/8",
-        "o:id": 8
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
     }
 }

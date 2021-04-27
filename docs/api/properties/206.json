@@ -1,14 +1,14 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/206",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/206",
     "@type": "o:Property",
-    "o:comment": "A hint to a user agent as to how to render the resource",
+    "o:comment": "The date, represented as a typed literal, of a time interval during which the archival resource was created or accumulated.",
     "o:id": 206,
-    "o:label": "viewingHint",
-    "o:local_name": "viewingHint",
-    "o:term": "sc:viewingHint",
+    "o:label": "Date created or accumulated",
+    "o:local_name": "dateCreatedAccumulated",
+    "o:term": "archiveshub:dateCreatedAccumulated",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/6",
-        "o:id": 6
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
     }
 }

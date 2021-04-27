@@ -1,49 +1,49 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/10806",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/10806",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-a-0195",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "03-099",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1965年6月3日",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
             "type": "literal"
         }
     ],
     "dcterms:identifier": [
         {
-            "@value": "7fdb80e6-c41e-4fec-b0fa-14602c53d076",
+            "@value": "ddf6a3ee-0b7f-462d-98a7-605469277882",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2067.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
@@ -52,250 +52,97 @@
     ],
     "dcterms:title": [
         {
-            "@value": "Huit jours à Pékin en 1865.Beaumont, Olivier de.",
+            "@value": "ソ連の印象（上）　もはや逆流はすまい　自由に示すその人間性∽03-099",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:references": [
+    "ex:l6-019": [
         {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=C&tg4=a&tg5=",
+            "@value": "ソ連の印象（上）　もはや逆流はすまい　自由に示すその人間性",
             "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
             "type": "literal"
         }
     ],
-    "ex:tag2": [
+    "ex:l6-069": [
         {
-            "@value": "2. Geography",
+            "@value": "朝日新聞夕刊（朝日新聞社）",
             "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
+            "property_id": 2369,
+            "property_label": "抜き取り雑誌記述-雑誌名（L6-069）",
             "type": "literal"
         }
     ],
-    "ex:tag3": [
+    "ex:l6-077": [
         {
-            "@value": "C. Local topography & Travels",
+            "@value": "ja",
             "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
-            "type": "literal"
-        }
-    ],
-    "ex:tag4": [
-        {
-            "@value": "a. North China",
-            "is_public": true,
-            "property_id": 299,
-            "property_label": "分類4",
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:41:57+00:00"
+        "@value": "2018-06-08T06:49:36+00:00"
     },
     "o:id": 10806,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35008",
+            "o:id": 35008
         }
     ],
-    "o:media": [
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14527",
-            "o:id": 14527
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14528",
-            "o:id": 14528
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14529",
-            "o:id": 14529
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14530",
-            "o:id": 14530
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14531",
-            "o:id": 14531
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14532",
-            "o:id": 14532
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14533",
-            "o:id": 14533
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14534",
-            "o:id": 14534
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14535",
-            "o:id": 14535
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14536",
-            "o:id": 14536
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14537",
-            "o:id": 14537
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14538",
-            "o:id": 14538
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14539",
-            "o:id": 14539
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14540",
-            "o:id": 14540
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14541",
-            "o:id": 14541
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14542",
-            "o:id": 14542
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14543",
-            "o:id": 14543
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14544",
-            "o:id": 14544
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14545",
-            "o:id": 14545
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14546",
-            "o:id": 14546
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14547",
-            "o:id": 14547
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14548",
-            "o:id": 14548
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14549",
-            "o:id": 14549
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14550",
-            "o:id": 14550
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14551",
-            "o:id": 14551
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14552",
-            "o:id": 14552
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14553",
-            "o:id": 14553
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14554",
-            "o:id": 14554
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14555",
-            "o:id": 14555
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14556",
-            "o:id": 14556
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14557",
-            "o:id": 14557
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14558",
-            "o:id": 14558
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14559",
-            "o:id": 14559
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14560",
-            "o:id": 14560
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14561",
-            "o:id": 14561
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14562",
-            "o:id": 14562
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14563",
-            "o:id": 14563
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14564",
-            "o:id": 14564
-        }
-    ],
+    "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T01:00:27+00:00"
+        "@value": "2020-11-20T01:29:48+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/124",
+        "o:id": 124
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "Huit jours à Pékin en 1865.Beaumont, Olivier de.",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "ソ連の印象（上）　もはや逆流はすまい　自由に示すその人間性∽03-099",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/24287",
+            "display_title": "森恭三著作集CD-ROM版目録",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 24287,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
 }

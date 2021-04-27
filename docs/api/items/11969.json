@@ -1,22 +1,31 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11969",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/11969",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-b-1000",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "02-064",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
             "type": "literal"
         }
     ],
     "dcterms:date": [
         {
-            "@value": "1902",
+            "@value": "1954年8月5日",
             "is_public": true,
             "property_id": 7,
             "property_label": "Date",
@@ -25,34 +34,16 @@
     ],
     "dcterms:identifier": [
         {
-            "@value": "137e1fca-a9e0-40e3-bb25-bf77532217ee",
+            "@value": "e3036fc3-e8ad-4eb5-b742-30fa32e7bd61",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3230.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
@@ -61,342 +52,106 @@
     ],
     "dcterms:title": [
         {
-            "@value": "Conférence sur la Chine, faite à Fontenay-le-Comte, à M. M. les officiers du 137e régiment d'infanterie, le 15 février, 1902. (Le Chapitre II a été traité en conférence par le lieutenant Strauss). Fortenay-le-Comte.Prouteaux, capit.",
+            "@value": "農業博でにぎわうモスクワ　\"世界\"と結ぶ祭り　会場から九キロに警戒線∽02-064",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:format": [
+    "ex:l6-019": [
         {
-            "@value": "83 p. ; 25 cm.",
+            "@value": "農業博でにぎわうモスクワ　\"世界\"と結ぶ祭り　会場から九キロに警戒線",
             "is_public": true,
-            "property_id": 304,
-            "property_label": "形態的記述",
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
             "type": "literal"
         }
     ],
-    "ex:heading1": [
+    "ex:l6-068": [
         {
-            "@value": "Prouteaux, capit.",
+            "@value": "モスクワ発　",
             "is_public": true,
-            "property_id": 305,
-            "property_label": "heading1",
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
             "type": "literal"
         }
     ],
-    "ex:holding": [
+    "ex:l6-069": [
         {
-            "@value": "（記録なし）",
+            "@value": "朝日新聞（朝日新聞社）",
             "is_public": true,
-            "property_id": 306,
-            "property_label": "所蔵",
+            "property_id": 2369,
+            "property_label": "抜き取り雑誌記述-雑誌名（L6-069）",
             "type": "literal"
         }
     ],
-    "ex:publication": [
+    "ex:l6-077": [
         {
-            "@value": "1902",
+            "@value": "ja",
             "is_public": true,
-            "property_id": 303,
-            "property_label": "出版事項",
-            "type": "literal"
-        }
-    ],
-    "ex:references": [
-        {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=G&tg4=&tg5=",
-            "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
-            "type": "literal"
-        }
-    ],
-    "ex:tag2": [
-        {
-            "@value": "7. History",
-            "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
-            "type": "literal"
-        }
-    ],
-    "ex:tag3": [
-        {
-            "@value": "G. The Boxer rising, 1900-01",
-            "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
-            "type": "literal"
-        }
-    ],
-    "ex:title": [
-        {
-            "@value": "Conférence sur la Chine, faite à Fontenay-le-Comte, à M. M. les officiers du 137e régiment d\\'infanterie, le 15 février, 1902. (Le Chapitre II a été traité en conférence par le lieutenant Strauss). Fortenay-le-Comte.",
-            "is_public": true,
-            "property_id": 302,
-            "property_label": "タイトル責任表示",
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:42:05+00:00"
+        "@value": "2018-06-08T06:49:52+00:00"
     },
     "o:id": 11969,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35008",
+            "o:id": 35008
         }
     ],
-    "o:media": [
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32582",
-            "o:id": 32582
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32583",
-            "o:id": 32583
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32584",
-            "o:id": 32584
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32585",
-            "o:id": 32585
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32586",
-            "o:id": 32586
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32587",
-            "o:id": 32587
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32588",
-            "o:id": 32588
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32589",
-            "o:id": 32589
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32590",
-            "o:id": 32590
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32591",
-            "o:id": 32591
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32592",
-            "o:id": 32592
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32593",
-            "o:id": 32593
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32594",
-            "o:id": 32594
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32595",
-            "o:id": 32595
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32596",
-            "o:id": 32596
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32597",
-            "o:id": 32597
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32598",
-            "o:id": 32598
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32599",
-            "o:id": 32599
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32600",
-            "o:id": 32600
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32601",
-            "o:id": 32601
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32602",
-            "o:id": 32602
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32603",
-            "o:id": 32603
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32604",
-            "o:id": 32604
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32605",
-            "o:id": 32605
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32606",
-            "o:id": 32606
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32607",
-            "o:id": 32607
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32608",
-            "o:id": 32608
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32609",
-            "o:id": 32609
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32610",
-            "o:id": 32610
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32611",
-            "o:id": 32611
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32612",
-            "o:id": 32612
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32613",
-            "o:id": 32613
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32614",
-            "o:id": 32614
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32615",
-            "o:id": 32615
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32616",
-            "o:id": 32616
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32617",
-            "o:id": 32617
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32618",
-            "o:id": 32618
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32619",
-            "o:id": 32619
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32620",
-            "o:id": 32620
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32621",
-            "o:id": 32621
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32622",
-            "o:id": 32622
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32623",
-            "o:id": 32623
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32624",
-            "o:id": 32624
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32625",
-            "o:id": 32625
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32626",
-            "o:id": 32626
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32627",
-            "o:id": 32627
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32628",
-            "o:id": 32628
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32629",
-            "o:id": 32629
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32630",
-            "o:id": 32630
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32631",
-            "o:id": 32631
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32632",
-            "o:id": 32632
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/32633",
-            "o:id": 32633
-        }
-    ],
+    "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T13:48:04+00:00"
+        "@value": "2020-11-20T01:32:37+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/124",
+        "o:id": 124
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "Conférence sur la Chine, faite à Fontenay-le-Comte, à M. M. les officiers du 137e régiment d'infanterie, le 15 février, 1902. (Le Chapitre II a été traité en conférence par le lieutenant Strauss). Fortenay-le-Comte.Prouteaux, capit.",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "農業博でにぎわうモスクワ　\"世界\"と結ぶ祭り　会場から九キロに警戒線∽02-064",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/24287",
+            "display_title": "森恭三著作集CD-ROM版目録",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 24287,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
 }

@@ -1,14 +1,14 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/205",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/205",
     "@type": "o:Property",
-    "o:comment": "A link from a Range to a Layer that provides the content resources of that Range",
+    "o:comment": "The date, represented as a string, of a time interval during which the archival resource was created or accumulated.",
     "o:id": 205,
-    "o:label": "hasContentLayer",
-    "o:local_name": "hasContentLayer",
-    "o:term": "sc:hasContentLayer",
+    "o:label": "Date created or accumulated",
+    "o:local_name": "dateCreatedAccumulatedString",
+    "o:term": "archiveshub:dateCreatedAccumulatedString",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/6",
-        "o:id": 6
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
     }
 }

@@ -1,6 +1,6 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/184",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/184",
     "@type": "o:Property",
     "o:comment": "A string expressing what the user is happy for the general public (normally) to know about their current activity.",
     "o:id": 184,
@@ -8,7 +8,7 @@
     "o:local_name": "status",
     "o:term": "foaf:status",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/4",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/4",
         "o:id": 4
     }
 }

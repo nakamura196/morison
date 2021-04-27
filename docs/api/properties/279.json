@@ -1,14 +1,14 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/279",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/279",
     "@type": "o:Property",
-    "o:comment": "Creatorの読み又は翻字形",
+    "o:comment": "資料種別",
     "o:id": 279,
-    "o:label": "Creator Transcription",
-    "o:local_name": "creatorTranscription",
-    "o:term": "dcndl:creatorTranscription",
+    "o:label": "Material Type",
+    "o:local_name": "materialType",
+    "o:term": "dcndl:materialType",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/8",
-        "o:id": 8
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
     }
 }

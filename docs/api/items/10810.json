@@ -1,49 +1,49 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/10810",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/10810",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-a-0169",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "項番:43 資料No.865",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "bibo:numPages": [
+        {
+            "@value": "1",
+            "is_public": true,
+            "property_id": 106,
+            "property_label": "number of pages",
             "type": "literal"
         }
     ],
     "dcterms:identifier": [
         {
-            "@value": "af6920d3-4b92-42eb-b8fd-28577e08a75c",
+            "@value": "463b19c3-f76d-49a3-b620-df1a19b869ea",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2071.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
@@ -52,302 +52,191 @@
     ],
     "dcterms:title": [
         {
-            "@value": "The territory of Wei-hai-wei. A descriptive guide and handbook with maps and illustrations. A historical note and appendix.Bruce-Mitford, C. E. (C. E. Beer).",
+            "@value": "東京日々新聞 ∽項番:43 資料No.865",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:references": [
+    "ex:custom_00023": [
         {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=C&tg4=a&tg5=",
+            "@value": "摂州住吉郡平野ノ郷ハ大坂天王寺より東の方五／十丁余の処に在り高五千六百石の大邑にて其支邑／に新在家と云ふ所あり此村の賃家に増田歓四郎と／云ふ富農あり前年会いて藩俟より命ぜられて農兵の／長たり故に銃剣の衛を善くせり然るに先月下旬の／事が一夜強盗四人あり手に白刃を振（ふ）りて乱入／せしかバ歓四郎が父某ハ驚（おど）ろき起（おき）て密（ひそ）かに戸外（おもて）に這出（はいいで）んとせしを一賊刀背にて之レを打つ歓四郎そ／の音を聞て父ハ斬られたりと思ひ直（すぐ）に跳（は）ね起きて／赤手にて飛（と）び掛（かか）かり忽（たち）まち賊の刀を奪（うば）ひ取り四人と／撃（う）ち合（あ）ひ一賊の片小■（かたこひん）を切り落し余賊に数多（あまた）手（て）／を負（お）ハせけれバ賊等ほふほふの体にて這出し外によ／り盗み来りし品物とも切り落して去れり歓四郎も／浅手なれども数ヶ所の傷を■れも然るに賊等ハ翌／日忽まち大坂にて捕縛せられたちと云ふ ",
             "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
+            "property_id": 2418,
+            "property_label": "元記事原文（CUSTOM_00023）",
             "type": "literal"
         }
     ],
-    "ex:tag2": [
+    "ex:l6-001": [
         {
-            "@value": "2. Geography",
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
             "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
             "type": "literal"
         }
     ],
-    "ex:tag3": [
+    "ex:l6-002": [
         {
-            "@value": "C. Local topography & Travels",
+            "@value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、2007年以降\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。",
             "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
             "type": "literal"
         }
     ],
-    "ex:tag4": [
+    "ex:l6-019": [
         {
-            "@value": "a. North China",
+            "@value": "東京日々新聞 ",
             "is_public": true,
-            "property_id": 299,
-            "property_label": "分類4",
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-027": [
+        {
+            "@value": "絵師:恵斎芳幾,彫師:渡辺彫栄",
+            "is_public": true,
+            "property_id": 2327,
+            "property_label": "作成（L6-027）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-046": [
+        {
+            "@value": "デジタル化済",
+            "is_public": true,
+            "property_id": 2346,
+            "property_label": "デジタルデータ関連-デジタル化の有無（L6-046）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-053": [
+        {
+            "@value": "01逐次刊行-新聞類",
+            "is_public": true,
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "農兵長の手並に凶賊潰走(読み下し文_括弧なし:摂州天王寺の東、平野の郷の支村、新在家と／云ふ所に住る増田観四郎ハ旧藩の／頃農兵の長にて銃剣［金へんに刀］の術を／善せり。然るに甲戌／十月下旬、主人の／芸術を白浪／等手に手に刃を振／ひらめかし、／乱入たる／数名を／相手に／無刀の憤闘／左右にわたり、／彼が刃を奪取て／多勢に手痍を負／ハせければ。兇賊大に僻易／して。他より盗来つたる品をも遺失て逃／去しが。翌日忽地阪府にて。一同／捕縛せられしとぞ／木挽坊隠士／転々堂述 )",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-074": [
+        {
+            "@value": "人形町具足屋 ",
+            "is_public": true,
+            "property_id": 2374,
+            "property_label": "出版者（L6-074）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-077": [
+        {
+            "@value": "ja",
+            "is_public": true,
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-079": [
+        {
+            "@value": "機関による制作・発行・発表より50年以上経過",
+            "is_public": true,
+            "property_id": 2379,
+            "property_label": "著作権（L6-079）",
+            "type": "literal"
+        }
+    ],
+    "ex:sort": [
+        {
+            "@value": "0043-0865",
+            "is_public": true,
+            "property_id": 2838,
+            "property_label": "sort",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:41:57+00:00"
+        "@value": "2018-06-08T06:49:36+00:00"
     },
     "o:id": 10810,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/34998",
+            "o:id": 34998
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53464",
+            "o:id": 53464
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53472",
+            "o:id": 53472
         }
     ],
     "o:media": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14602",
-            "o:id": 14602
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14603",
-            "o:id": 14603
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14604",
-            "o:id": 14604
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14605",
-            "o:id": 14605
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14606",
-            "o:id": 14606
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14607",
-            "o:id": 14607
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14608",
-            "o:id": 14608
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14609",
-            "o:id": 14609
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14610",
-            "o:id": 14610
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14611",
-            "o:id": 14611
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14612",
-            "o:id": 14612
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14613",
-            "o:id": 14613
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14614",
-            "o:id": 14614
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14615",
-            "o:id": 14615
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14616",
-            "o:id": 14616
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14617",
-            "o:id": 14617
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14618",
-            "o:id": 14618
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14619",
-            "o:id": 14619
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14620",
-            "o:id": 14620
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14621",
-            "o:id": 14621
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14622",
-            "o:id": 14622
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14623",
-            "o:id": 14623
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14624",
-            "o:id": 14624
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14625",
-            "o:id": 14625
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14626",
-            "o:id": 14626
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14627",
-            "o:id": 14627
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14628",
-            "o:id": 14628
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14629",
-            "o:id": 14629
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14630",
-            "o:id": 14630
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14631",
-            "o:id": 14631
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14632",
-            "o:id": 14632
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14633",
-            "o:id": 14633
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14634",
-            "o:id": 14634
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14635",
-            "o:id": 14635
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14636",
-            "o:id": 14636
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14637",
-            "o:id": 14637
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14638",
-            "o:id": 14638
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14639",
-            "o:id": 14639
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14640",
-            "o:id": 14640
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14641",
-            "o:id": 14641
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14642",
-            "o:id": 14642
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14643",
-            "o:id": 14643
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14644",
-            "o:id": 14644
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14645",
-            "o:id": 14645
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14646",
-            "o:id": 14646
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14647",
-            "o:id": 14647
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14648",
-            "o:id": 14648
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14649",
-            "o:id": 14649
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14650",
-            "o:id": 14650
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14651",
-            "o:id": 14651
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14652",
-            "o:id": 14652
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/33575",
+            "o:id": 33575
         }
     ],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T04:06:45+00:00"
+        "@value": "2020-11-20T01:29:48+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/83",
+        "o:id": 83
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "The territory of Wei-hai-wei. A descriptive guide and handbook with maps and illustrations. A historical note and appendix.Bruce-Mitford, C. E. (C. E. Beer).",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "東京日々新聞 ∽項番:43 資料No.865",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/13343",
+            "display_title": "小野秀雄コレクション新聞錦絵",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 13343,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": "https://dch.iii.u-tokyo.ac.jp/files/large/10810/1333099061955.jpg",
+        "medium": "https://dch.iii.u-tokyo.ac.jp/files/medium/10810/1333099061955.jpg",
+        "square": "https://dch.iii.u-tokyo.ac.jp/files/square/10810/1333099061955.jpg"
+    }
 }

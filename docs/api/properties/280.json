@@ -1,14 +1,14 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/280",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/280",
     "@type": "o:Property",
-    "o:comment": "Creator Alternativeの読み又は翻字形",
+    "o:comment": "販売価格",
     "o:id": 280,
-    "o:label": "Creator Alternative Transcription",
-    "o:local_name": "creatorAlternativeTranscription",
-    "o:term": "dcndl:creatorAlternativeTranscription",
+    "o:label": "Price",
+    "o:local_name": "price",
+    "o:term": "dcndl:price",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/8",
-        "o:id": 8
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
     }
 }

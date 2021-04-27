@@ -1,270 +1,278 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11113",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/11113",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-a-583",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "4-3-36",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
             "type": "literal"
         }
     ],
     "dcterms:identifier": [
         {
-            "@value": "4c77c9d3-f3c1-4686-bf67-45fccee32fd4",
+            "@value": "5fcb9876-f4ce-4be1-82ef-5ad375b361f7",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2374.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
             "type": "uri"
         }
     ],
-    "dcterms:spatial": [
-        {
-            "@id": "http://dbpedia.org/resource/Shanghai",
-            "is_public": true,
-            "property_id": 40,
-            "property_label": "Spatial Coverage",
-            "type": "uri"
-        }
-    ],
     "dcterms:title": [
         {
-            "@value": "Synopsis of Chinese history and \"Friedly books\" on Far Cathay.Ayscough, Florence, comp.",
+            "@value": "人類学講義　第参回　∽4-3-36",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:format": [
+    "ex:custom_00029": [
         {
-            "@value": "33 p. ; 22cm.",
+            "@value": "冊子体",
             "is_public": true,
-            "property_id": 304,
-            "property_label": "形態的記述",
+            "property_id": 2420,
+            "property_label": "資源状態（CUSTOM_00029）",
             "type": "literal"
         }
     ],
-    "ex:heading1": [
+    "ex:custom_00031": [
         {
-            "@value": "Ayscough, Florence, comp.",
+            "@value": "封筒番号 634",
             "is_public": true,
-            "property_id": 305,
-            "property_label": "heading1",
+            "property_id": 2422,
+            "property_label": "備考（CUSTOM_00031）",
             "type": "literal"
         }
     ],
-    "ex:holding": [
+    "ex:l6-001": [
         {
-            "@value": "（記録なし）",
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
             "is_public": true,
-            "property_id": 306,
-            "property_label": "所蔵",
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
             "type": "literal"
         }
     ],
-    "ex:publication": [
+    "ex:l6-002": [
         {
-            "@value": "Shanghai, 1916.",
+            "@value": "2004（平成16）年旧坪井誠太郎邸から東京大学大学院情報学環学際情報学府図書室に移管",
             "is_public": true,
-            "property_id": 303,
-            "property_label": "出版事項",
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
             "type": "literal"
         }
     ],
-    "ex:references": [
+    "ex:l6-013": [
         {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=A&tg4=&tg5=",
+            "@value": "4",
             "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
+            "property_id": 2313,
+            "property_label": "箱（L6-013）",
             "type": "literal"
         }
     ],
-    "ex:tag2": [
+    "ex:l6-014": [
         {
-            "@value": "7. History",
+            "@value": "3",
             "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
+            "property_id": 2314,
+            "property_label": "群（L6-014）",
             "type": "literal"
         }
     ],
-    "ex:tag3": [
+    "ex:l6-015": [
         {
-            "@value": "A. General history; Collected essays",
+            "@value": "36",
             "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
+            "property_id": 2315,
+            "property_label": "体（L6-015）",
             "type": "literal"
         }
     ],
-    "ex:title": [
+    "ex:l6-019": [
         {
-            "@value": "Synopsis of Chinese history and \"Friedly books\" on Far Cathay.",
+            "@value": "人類学講義　第参回　",
             "is_public": true,
-            "property_id": 302,
-            "property_label": "タイトル責任表示",
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-027": [
+        {
+            "@value": "理学博士　坪井正五郎先生　述",
+            "is_public": true,
+            "property_id": 2327,
+            "property_label": "作成（L6-027）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-030": [
+        {
+            "@value": "248",
+            "is_public": true,
+            "property_id": 2330,
+            "property_label": "物的状態-長さ（L6-030）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-031": [
+        {
+            "@value": "170",
+            "is_public": true,
+            "property_id": 2331,
+            "property_label": "物的状態-幅（L6-031）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-052": [
+        {
+            "@value": "自由記述媒体",
+            "is_public": true,
+            "property_id": 2352,
+            "property_label": "形態・形式情報-資源タイプ（L6-052）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-053": [
+        {
+            "@value": "05学術研究論文・書籍・講義録",
+            "is_public": true,
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-057": [
+        {
+            "@value": "坪井正五郎",
+            "is_public": true,
+            "property_id": 2357,
+            "property_label": "索引事項-人名（L6-057）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "人類学に関する講義の口述筆記。",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-077": [
+        {
+            "@value": "ja　",
+            "is_public": true,
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-079": [
+        {
+            "@value": "著作権の保護期間満了",
+            "is_public": true,
+            "property_id": 2379,
+            "property_label": "著作権（L6-079）",
+            "type": "literal"
+        }
+    ],
+    "ex:sort": [
+        {
+            "@value": "0004-0003-0036",
+            "is_public": true,
+            "property_id": 2838,
+            "property_label": "sort",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:41:59+00:00"
+        "@value": "2018-06-08T06:49:40+00:00"
     },
     "o:id": 11113,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35000",
+            "o:id": 35000
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53489",
+            "o:id": 53489
         }
     ],
-    "o:media": [
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19904",
-            "o:id": 19904
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19905",
-            "o:id": 19905
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19906",
-            "o:id": 19906
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19907",
-            "o:id": 19907
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19908",
-            "o:id": 19908
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19909",
-            "o:id": 19909
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19910",
-            "o:id": 19910
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19911",
-            "o:id": 19911
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19912",
-            "o:id": 19912
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19913",
-            "o:id": 19913
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19914",
-            "o:id": 19914
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19915",
-            "o:id": 19915
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19916",
-            "o:id": 19916
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19917",
-            "o:id": 19917
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19918",
-            "o:id": 19918
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19919",
-            "o:id": 19919
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19920",
-            "o:id": 19920
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19921",
-            "o:id": 19921
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/19922",
-            "o:id": 19922
-        }
-    ],
+    "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T13:33:05+00:00"
+        "@value": "2020-11-20T01:30:24+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/84",
+        "o:id": 84
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "Synopsis of Chinese history and \"Friedly books\" on Far Cathay.Ayscough, Florence, comp.",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "人類学講義　第参回　∽4-3-36",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/16578",
+            "display_title": "坪井正五郎関係資料04の箱",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 16578,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
 }

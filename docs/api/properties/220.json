@@ -1,14 +1,14 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/220",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/220",
     "@type": "o:Property",
-    "o:comment": "別タイトル",
+    "o:comment": "Other Finding Aids",
     "o:id": 220,
-    "o:label": "Alternative",
-    "o:local_name": "alternative",
-    "o:term": "dcndl:alternative",
+    "o:label": "Other Finding Aids",
+    "o:local_name": "otherFindingAids",
+    "o:term": "archiveshub:otherFindingAids",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/8",
-        "o:id": 8
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
     }
 }

@@ -1,6 +1,6 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/129",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/129",
     "@type": "o:Property",
     "o:comment": "A location that something is based near, for some broadly human notion of near.",
     "o:id": 129,
@@ -8,7 +8,7 @@
     "o:local_name": "based_near",
     "o:term": "foaf:based_near",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/4",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/4",
         "o:id": 4
     }
 }

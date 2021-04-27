@@ -1,14 +1,14 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/265",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/265",
     "@type": "o:Property",
-    "o:comment": "出版者の所在に関する情報",
+    "o:comment": "多巻ものの各巻タイトル又は逐次刊行物の部編名",
     "o:id": 265,
-    "o:label": "Location",
-    "o:local_name": "location",
-    "o:term": "dcndl:location",
+    "o:label": "Volume Title",
+    "o:local_name": "volumeTitle",
+    "o:term": "dcndl:volumeTitle",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/8",
-        "o:id": 8
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
     }
 }

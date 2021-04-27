@@ -1,22 +1,31 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13016",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/13016",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-a-1713",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "03-045",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
             "type": "literal"
         }
     ],
     "dcterms:date": [
         {
-            "@value": "1905",
+            "@value": "1960年11月13日",
             "is_public": true,
             "property_id": 7,
             "property_label": "Date",
@@ -25,298 +34,115 @@
     ],
     "dcterms:identifier": [
         {
-            "@value": "4d6141d3-6820-4b57-8a5a-7b9827736506",
+            "@value": "1abf93ef-0bfb-4143-bcb9-d8ff60727233",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4277.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
             "type": "uri"
         }
     ],
-    "dcterms:spatial": [
-        {
-            "@id": "http://dbpedia.org/resource/Shanghai",
-            "is_public": true,
-            "property_id": 40,
-            "property_label": "Spatial Coverage",
-            "type": "uri"
-        }
-    ],
     "dcterms:title": [
         {
-            "@value": "Proposals for amending the provisional regulations governing the registration of trade marks. Eng. version.",
+            "@value": "三党首テレビ討論をきいて　公約は裏づけが大切　中立・議会主義の論議に不満∽03-045",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:format": [
+    "ex:l6-019": [
         {
-            "@value": "53 p. ; 22 cm.",
+            "@value": "三党首テレビ討論をきいて　公約は裏づけが大切　中立・議会主義の論議に不満",
             "is_public": true,
-            "property_id": 304,
-            "property_label": "形態的記述",
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
             "type": "literal"
         }
     ],
-    "ex:holding": [
+    "ex:l6-069": [
         {
-            "@value": "（記録なし）",
+            "@value": "朝日新聞（朝日新聞社）",
             "is_public": true,
-            "property_id": 306,
-            "property_label": "所蔵",
+            "property_id": 2369,
+            "property_label": "抜き取り雑誌記述-雑誌名（L6-069）",
             "type": "literal"
         }
     ],
-    "ex:publication": [
+    "ex:l6-077": [
         {
-            "@value": "Shanghai, 1905.",
+            "@value": "ja",
             "is_public": true,
-            "property_id": 303,
-            "property_label": "出版事項",
-            "type": "literal"
-        }
-    ],
-    "ex:references": [
-        {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=17&tg3=F&tg4=&tg5=",
-            "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
-            "type": "literal"
-        }
-    ],
-    "ex:tag2": [
-        {
-            "@value": "17. Law",
-            "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
-            "type": "literal"
-        }
-    ],
-    "ex:tag3": [
-        {
-            "@value": "F. Other Laws",
-            "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
-            "type": "literal"
-        }
-    ],
-    "ex:title": [
-        {
-            "@value": "Proposals for amending the provisional regulations governing the registration of trade marks. Eng. version.",
-            "is_public": true,
-            "property_id": 302,
-            "property_label": "タイトル責任表示",
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:42:12+00:00"
+        "@value": "2018-06-08T06:50:07+00:00"
     },
     "o:id": 13016,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35008",
+            "o:id": 35008
         }
     ],
-    "o:media": [
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47136",
-            "o:id": 47136
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47137",
-            "o:id": 47137
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47138",
-            "o:id": 47138
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47139",
-            "o:id": 47139
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47140",
-            "o:id": 47140
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47141",
-            "o:id": 47141
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47142",
-            "o:id": 47142
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47143",
-            "o:id": 47143
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47144",
-            "o:id": 47144
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47145",
-            "o:id": 47145
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47146",
-            "o:id": 47146
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47147",
-            "o:id": 47147
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47148",
-            "o:id": 47148
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47149",
-            "o:id": 47149
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47150",
-            "o:id": 47150
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47151",
-            "o:id": 47151
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47152",
-            "o:id": 47152
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47153",
-            "o:id": 47153
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47154",
-            "o:id": 47154
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47155",
-            "o:id": 47155
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47156",
-            "o:id": 47156
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47157",
-            "o:id": 47157
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47158",
-            "o:id": 47158
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47159",
-            "o:id": 47159
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47160",
-            "o:id": 47160
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47161",
-            "o:id": 47161
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47162",
-            "o:id": 47162
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47163",
-            "o:id": 47163
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47164",
-            "o:id": 47164
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47165",
-            "o:id": 47165
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47166",
-            "o:id": 47166
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/47167",
-            "o:id": 47167
-        }
-    ],
+    "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T13:51:46+00:00"
+        "@value": "2020-11-20T01:35:30+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/124",
+        "o:id": 124
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "Proposals for amending the provisional regulations governing the registration of trade marks. Eng. version.",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "三党首テレビ討論をきいて　公約は裏づけが大切　中立・議会主義の論議に不満∽03-045",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/24287",
+            "display_title": "森恭三著作集CD-ROM版目録",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 24287,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
 }

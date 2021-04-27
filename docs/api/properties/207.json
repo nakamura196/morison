@@ -1,14 +1,14 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/207",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/207",
     "@type": "o:Property",
-    "o:comment": "An rdf:List of label/value pairs providing descriptive metadata about the resource, intended for human audience",
+    "o:comment": "The start date, represented as a typed literal, of a time interval during which the archival resource was created or accumulated.",
     "o:id": 207,
-    "o:label": "metadataLabels",
-    "o:local_name": "metadataLabels",
-    "o:term": "sc:metadataLabels",
+    "o:label": "Date created or accumulated (start)",
+    "o:local_name": "dateCreatedAccumulatedStart",
+    "o:term": "archiveshub:dateCreatedAccumulatedStart",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/6",
-        "o:id": 6
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
     }
 }

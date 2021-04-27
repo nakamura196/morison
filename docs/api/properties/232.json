@@ -1,14 +1,14 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/232",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/232",
     "@type": "o:Property",
-    "o:comment": "単行書の構成レベルの各著作に著作責任を持つ実体",
+    "o:comment": "The forename of a person who is the focus of the concept",
     "o:id": 232,
-    "o:label": "Part Creator",
-    "o:local_name": "partCreator",
-    "o:term": "dcndl:partCreator",
+    "o:label": "Forename",
+    "o:local_name": "forename",
+    "o:term": "archiveshub:forename",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/8",
-        "o:id": 8
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
     }
 }

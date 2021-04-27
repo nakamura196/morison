@@ -1,14 +1,14 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/258",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/258",
     "@type": "o:Property",
-    "o:comment": "当該情報資源の保有者",
+    "o:comment": "References the sc:ViewingDirection that defines the direction that the resource should be viewed in",
     "o:id": 258,
-    "o:label": "Holding Agent",
-    "o:local_name": "holdingAgent",
-    "o:term": "dcndl:holdingAgent",
+    "o:label": "viewingDirection",
+    "o:local_name": "viewingDirection",
+    "o:term": "sc:viewingDirection",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/8",
-        "o:id": 8
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/6",
+        "o:id": 6
     }
 }

@@ -1,14 +1,14 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/310",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/310",
     "@type": "o:Property",
-    "o:comment": "",
+    "o:comment": "シリーズの巻次又は部編番号",
     "o:id": 310,
-    "o:label": "heading2",
-    "o:local_name": "heading2",
-    "o:term": "ex:heading2",
+    "o:label": "Series Volume",
+    "o:local_name": "seriesVolume",
+    "o:term": "dcndl:seriesVolume",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/9",
-        "o:id": 9
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
     }
 }

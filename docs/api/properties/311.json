@@ -1,14 +1,14 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/311",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/311",
     "@type": "o:Property",
-    "o:comment": "",
+    "o:comment": "Series Volumeの読み又は翻字形",
     "o:id": 311,
-    "o:label": "heading3",
-    "o:local_name": "heading3",
-    "o:term": "ex:heading3",
+    "o:label": "Series Volume Transcription",
+    "o:local_name": "seriesVolumeTranscription",
+    "o:term": "dcndl:seriesVolumeTranscription",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/9",
-        "o:id": 9
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
     }
 }

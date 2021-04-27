@@ -1,14 +1,14 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/294",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/294",
     "@type": "o:Property",
-    "o:comment": "をも見よ参照（本名）",
+    "o:comment": "当該情報資源をデジタル化した実体",
     "o:id": 294,
-    "o:label": "Real Name",
-    "o:local_name": "realName",
-    "o:term": "dcndl:realName",
+    "o:label": "Digitized Publisher",
+    "o:local_name": "digitizedPublisher",
+    "o:term": "dcndl:digitizedPublisher",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/8",
-        "o:id": 8
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
     }
 }

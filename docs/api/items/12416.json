@@ -1,22 +1,31 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12416",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/12416",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-a-1529",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "03-193",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
             "type": "literal"
         }
     ],
     "dcterms:date": [
         {
-            "@value": "1900",
+            "@value": "1974年1月3日",
             "is_public": true,
             "property_id": 7,
             "property_label": "Date",
@@ -25,34 +34,16 @@
     ],
     "dcterms:identifier": [
         {
-            "@value": "111f2dee-4534-4c06-a05b-0c39abd549fa",
+            "@value": "db5b6c11-dd75-4335-b85e-96bfd7e76765",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3677.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
@@ -61,213 +52,97 @@
     ],
     "dcterms:title": [
         {
-            "@value": "T'ien Tsu Hui (Natural Feet Society). *1 Third report for 1899.",
+            "@value": "世界の中の日本　明日の進路を探る　海外総局長座談会　中東戦争が転機に　消費抑え発想転換　相互依存を根底に　国際歩調に足並み∽03-193",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:format": [
+    "ex:l6-019": [
         {
-            "@value": "38 p. ; 24 cm.",
+            "@value": "世界の中の日本　明日の進路を探る　海外総局長座談会　中東戦争が転機に　消費抑え発想転換　相互依存を根底に　国際歩調に足並み",
             "is_public": true,
-            "property_id": 304,
-            "property_label": "形態的記述",
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
             "type": "literal"
         }
     ],
-    "ex:holding": [
+    "ex:l6-069": [
         {
-            "@value": "（記録なし）",
+            "@value": "朝日新聞（朝日新聞社）",
             "is_public": true,
-            "property_id": 306,
-            "property_label": "所蔵",
+            "property_id": 2369,
+            "property_label": "抜き取り雑誌記述-雑誌名（L6-069）",
             "type": "literal"
         }
     ],
-    "ex:publication": [
+    "ex:l6-077": [
         {
-            "@value": "1900",
+            "@value": "ja",
             "is_public": true,
-            "property_id": 303,
-            "property_label": "出版事項",
-            "type": "literal"
-        }
-    ],
-    "ex:references": [
-        {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=14&tg3=G&tg4=&tg5=",
-            "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
-            "type": "literal"
-        }
-    ],
-    "ex:tag2": [
-        {
-            "@value": "14. Customs & Manners",
-            "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
-            "type": "literal"
-        }
-    ],
-    "ex:tag3": [
-        {
-            "@value": "G. Women",
-            "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
-            "type": "literal"
-        }
-    ],
-    "ex:title": [
-        {
-            "@value": "T\\'ien Tsu Hui (Natural Feet Society). *1 Third report for 1899.",
-            "is_public": true,
-            "property_id": 302,
-            "property_label": "タイトル責任表示",
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:42:08+00:00"
+        "@value": "2018-06-08T06:49:58+00:00"
     },
     "o:id": 12416,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35008",
+            "o:id": 35008
         }
     ],
-    "o:media": [
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39238",
-            "o:id": 39238
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39239",
-            "o:id": 39239
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39240",
-            "o:id": 39240
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39241",
-            "o:id": 39241
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39242",
-            "o:id": 39242
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39243",
-            "o:id": 39243
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39244",
-            "o:id": 39244
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39245",
-            "o:id": 39245
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39246",
-            "o:id": 39246
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39247",
-            "o:id": 39247
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39248",
-            "o:id": 39248
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39249",
-            "o:id": 39249
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39250",
-            "o:id": 39250
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39251",
-            "o:id": 39251
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39252",
-            "o:id": 39252
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39253",
-            "o:id": 39253
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39254",
-            "o:id": 39254
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39255",
-            "o:id": 39255
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39256",
-            "o:id": 39256
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39257",
-            "o:id": 39257
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39258",
-            "o:id": 39258
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/39259",
-            "o:id": 39259
-        }
-    ],
+    "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T14:33:34+00:00"
+        "@value": "2020-11-20T01:33:58+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/124",
+        "o:id": 124
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "T'ien Tsu Hui (Natural Feet Society). *1 Third report for 1899.",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "世界の中の日本　明日の進路を探る　海外総局長座談会　中東戦争が転機に　消費抑え発想転換　相互依存を根底に　国際歩調に足並み∽03-193",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/24287",
+            "display_title": "森恭三著作集CD-ROM版目録",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 24287,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
 }

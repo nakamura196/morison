@@ -1,14 +1,14 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/275",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/275",
     "@type": "o:Property",
-    "o:comment": "Volume Titleの読み又は翻字形",
+    "o:comment": "当該情報資源が属する版に対し著作責任を持つ実体",
     "o:id": 275,
-    "o:label": "Volume Title Transcription",
-    "o:local_name": "volumeTitleTranscription",
-    "o:term": "dcndl:volumeTitleTranscription",
+    "o:label": "Edition Creator",
+    "o:local_name": "editionCreator",
+    "o:term": "dcndl:editionCreator",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/8",
-        "o:id": 8
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
     }
 }

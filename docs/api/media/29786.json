@@ -1,42 +1,66 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/media/29786",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29786",
     "@type": "o:Media",
-    "data": [],
+    "data": {
+        "dimensions": {
+            "large": {
+                "height": 800,
+                "width": 541
+            },
+            "medium": {
+                "height": 200,
+                "width": 135
+            },
+            "original": {
+                "height": 1000,
+                "width": 676
+            },
+            "square": {
+                "height": 200,
+                "width": 200
+            }
+        }
+    },
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T11:54:21+00:00"
+        "@value": "2018-06-08T07:11:13+00:00"
     },
-    "o:filename": "11773/P-III-a-0895_020.jpg",
+    "o:filename": "17734/1332747850056.jpg",
     "o:id": 29786,
     "o:ingester": "url",
     "o:is_public": true,
     "o:item": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/items/11773",
-        "o:id": 11773
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/17734",
+        "o:id": 17734
     },
     "o:lang": null,
     "o:media_type": "image/jpeg",
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T11:54:21+00:00"
+        "@value": "2018-06-08T07:11:13+00:00"
     },
-    "o:original_url": "http://localhost:8882/d_omekas/toyo/files/original/11773/P-III-a-0895_020.jpg",
+    "o:original_url": "https://dch.iii.u-tokyo.ac.jp/files/original/17734/1332747850056.jpg",
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:renderer": "file",
     "o:resource_class": null,
     "o:resource_template": null,
-    "o:sha256": "c61eb3e7c4785fa71c61248fb6b366a9504f2af6a490952718498055ae547f84",
+    "o:sha256": "550bac4c21fd4c9fcc868e82f7432a4c8f9f4ada0badd2c49b8c3ca646cbdbaa",
     "o:size": null,
-    "o:source": "http://124.33.215.236/morisonp2015/openimage_III_7/P-III-a-0895_020.jpg",
+    "o:source": "http://webpark5032.sakura.ne.jp/images/large/1332747850056.jpg",
     "o:thumbnail": null,
     "o:thumbnail_urls": {
-        "large": "http://localhost:8882/d_omekas/toyo/files/large/11773/P-III-a-0895_020.jpg",
-        "medium": "http://localhost:8882/d_omekas/toyo/files/medium/11773/P-III-a-0895_020.jpg",
-        "square": "http://localhost:8882/d_omekas/toyo/files/square/11773/P-III-a-0895_020.jpg"
+        "large": "https://dch.iii.u-tokyo.ac.jp/files/large/17734/1332747850056.jpg",
+        "medium": "https://dch.iii.u-tokyo.ac.jp/files/medium/17734/1332747850056.jpg",
+        "square": "https://dch.iii.u-tokyo.ac.jp/files/square/17734/1332747850056.jpg"
     },
-    "o:title": null
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dch.iii.u-tokyo.ac.jp/files/large/17734/1332747850056.jpg",
+        "medium": "https://dch.iii.u-tokyo.ac.jp/files/medium/17734/1332747850056.jpg",
+        "square": "https://dch.iii.u-tokyo.ac.jp/files/square/17734/1332747850056.jpg"
+    }
 }

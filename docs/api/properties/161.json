@@ -1,6 +1,6 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/161",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/161",
     "@type": "o:Property",
     "o:comment": "A homepage of a school attended by the person.",
     "o:id": 161,
@@ -8,7 +8,7 @@
     "o:local_name": "schoolHomepage",
     "o:term": "foaf:schoolHomepage",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/4",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/4",
         "o:id": 4
     }
 }

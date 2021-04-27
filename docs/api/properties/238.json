@@ -1,14 +1,14 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/238",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/238",
     "@type": "o:Property",
-    "o:comment": "原文の言語",
+    "o:comment": "A number of folders",
     "o:id": 238,
-    "o:label": "Original Language",
-    "o:local_name": "originalLanguage",
-    "o:term": "dcndl:originalLanguage",
+    "o:label": "Folder",
+    "o:local_name": "folder",
+    "o:term": "archiveshub:folder",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/8",
-        "o:id": 8
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
     }
 }

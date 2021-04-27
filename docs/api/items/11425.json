@@ -1,22 +1,31 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11425",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/11425",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-b-828",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "06-124",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
             "type": "literal"
         }
     ],
     "dcterms:date": [
         {
-            "@value": "1916",
+            "@value": "1968年10月号",
             "is_public": true,
             "property_id": 7,
             "property_label": "Date",
@@ -25,34 +34,16 @@
     ],
     "dcterms:identifier": [
         {
-            "@value": "fef0b0e2-f5bf-4c76-b082-76bad6ed4f59",
+            "@value": "f0491c96-e052-41f3-b696-7f037c7bb729",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2686.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
@@ -61,253 +52,97 @@
     ],
     "dcterms:title": [
         {
-            "@value": "The \"People's will\". An exposure of the political intrigues at Peking against the Republic of China. By Authority of the Republican Government of China.\"Rebellion to tyrants is obedience to God\".",
+            "@value": "自由化と民族自決に揺らぐ大国主義　∽06-124",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:format": [
+    "ex:l6-019": [
         {
-            "@value": "29, 20p. ; 25 cm.",
+            "@value": "自由化と民族自決に揺らぐ大国主義　",
             "is_public": true,
-            "property_id": 304,
-            "property_label": "形態的記述",
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
             "type": "literal"
         }
     ],
-    "ex:holding": [
+    "ex:l6-069": [
         {
-            "@value": "（記録なし）",
+            "@value": "朝日ソノラマ（朝日ソノラマ）",
             "is_public": true,
-            "property_id": 306,
-            "property_label": "所蔵",
+            "property_id": 2369,
+            "property_label": "抜き取り雑誌記述-雑誌名（L6-069）",
             "type": "literal"
         }
     ],
-    "ex:publication": [
+    "ex:l6-077": [
         {
-            "@value": "1916",
+            "@value": "ja",
             "is_public": true,
-            "property_id": 303,
-            "property_label": "出版事項",
-            "type": "literal"
-        }
-    ],
-    "ex:references": [
-        {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=E&tg4=&tg5=",
-            "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
-            "type": "literal"
-        }
-    ],
-    "ex:tag2": [
-        {
-            "@value": "7. History",
-            "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
-            "type": "literal"
-        }
-    ],
-    "ex:tag3": [
-        {
-            "@value": "E. Recent history",
-            "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
-            "type": "literal"
-        }
-    ],
-    "ex:title": [
-        {
-            "@value": "The \"People\\'s will\". An exposure of the political intrigues at Peking against the Republic of China. By Authority of the Republican Government of China.\"Rebellion to tyrants is obedience to God\".",
-            "is_public": true,
-            "property_id": 302,
-            "property_label": "タイトル責任表示",
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:42:01+00:00"
+        "@value": "2018-06-08T06:49:44+00:00"
     },
     "o:id": 11425,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35008",
+            "o:id": 35008
         }
     ],
-    "o:media": [
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24404",
-            "o:id": 24404
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24405",
-            "o:id": 24405
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24406",
-            "o:id": 24406
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24407",
-            "o:id": 24407
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24408",
-            "o:id": 24408
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24409",
-            "o:id": 24409
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24410",
-            "o:id": 24410
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24411",
-            "o:id": 24411
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24412",
-            "o:id": 24412
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24413",
-            "o:id": 24413
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24414",
-            "o:id": 24414
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24415",
-            "o:id": 24415
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24416",
-            "o:id": 24416
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24417",
-            "o:id": 24417
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24418",
-            "o:id": 24418
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24419",
-            "o:id": 24419
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24420",
-            "o:id": 24420
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24421",
-            "o:id": 24421
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24422",
-            "o:id": 24422
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24423",
-            "o:id": 24423
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24424",
-            "o:id": 24424
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24425",
-            "o:id": 24425
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24426",
-            "o:id": 24426
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24427",
-            "o:id": 24427
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24428",
-            "o:id": 24428
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24429",
-            "o:id": 24429
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24430",
-            "o:id": 24430
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24431",
-            "o:id": 24431
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24432",
-            "o:id": 24432
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24433",
-            "o:id": 24433
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24434",
-            "o:id": 24434
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24435",
-            "o:id": 24435
-        }
-    ],
+    "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T13:33:39+00:00"
+        "@value": "2020-11-20T01:31:14+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/124",
+        "o:id": 124
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "The \"People's will\". An exposure of the political intrigues at Peking against the Republic of China. By Authority of the Republican Government of China.\"Rebellion to tyrants is obedience to God\".",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "自由化と民族自決に揺らぐ大国主義　∽06-124",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/24287",
+            "display_title": "森恭三著作集CD-ROM版目録",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 24287,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
 }

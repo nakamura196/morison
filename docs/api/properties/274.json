@@ -1,14 +1,14 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/274",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/274",
     "@type": "o:Property",
-    "o:comment": "Part Titleの読み又は翻字形",
+    "o:comment": "当該情報資源が属する版",
     "o:id": 274,
-    "o:label": "Part Title Transcription",
-    "o:local_name": "partTitleTranscription",
-    "o:term": "dcndl:partTitleTranscription",
+    "o:label": "Edition",
+    "o:local_name": "edition",
+    "o:term": "dcndl:edition",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/8",
-        "o:id": 8
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
     }
 }

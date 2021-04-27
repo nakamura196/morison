@@ -1,49 +1,49 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/10989",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/10989",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-a-0266",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "3_26_13_3",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "//",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
             "type": "literal"
         }
     ],
     "dcterms:identifier": [
         {
-            "@value": "b5c6da52-811a-4b49-b872-d9c9d53f16b7",
+            "@value": "b59ad87f-c41c-46e2-ab48-b1722b7a385f",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2250.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
@@ -52,250 +52,326 @@
     ],
     "dcterms:title": [
         {
-            "@value": "Notes de voyage en Chine Centrale : d'Amoy à Hankao, à travers le Fou-kien le Kiang-si, le Hou-nan et le Hou-pé (avec itinéraire).Rocher, [Emile].",
+            "@value": "響き言葉（雑誌切抜）1∽3_26_13_3",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:references": [
+    "ex:custom_00029": [
         {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=C&tg4=c&tg5=",
+            "@value": "単紙/単体",
             "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
+            "property_id": 2420,
+            "property_label": "資源状態（CUSTOM_00029）",
             "type": "literal"
         }
     ],
-    "ex:tag2": [
+    "ex:custom_00030": [
         {
-            "@value": "2. Geography",
+            "@value": "2005/06/06",
             "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
+            "property_id": 2421,
+            "property_label": "調査年月日（CUSTOM_00030）",
             "type": "literal"
         }
     ],
-    "ex:tag3": [
+    "ex:l6-001": [
         {
-            "@value": "C. Local topography & Travels",
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
             "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
             "type": "literal"
         }
     ],
-    "ex:tag4": [
+    "ex:l6-002": [
         {
-            "@value": "c. South China",
+            "@value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。2007年以降\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。",
             "is_public": true,
-            "property_id": 299,
-            "property_label": "分類4",
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-013": [
+        {
+            "@value": "3",
+            "is_public": true,
+            "property_id": 2313,
+            "property_label": "箱（L6-013）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-014": [
+        {
+            "@value": "26",
+            "is_public": true,
+            "property_id": 2314,
+            "property_label": "群（L6-014）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-015": [
+        {
+            "@value": "13",
+            "is_public": true,
+            "property_id": 2315,
+            "property_label": "体（L6-015）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-016": [
+        {
+            "@value": "3",
+            "is_public": true,
+            "property_id": 2316,
+            "property_label": "部（L6-016）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-019": [
+        {
+            "@value": "響き言葉（雑誌切抜）1",
+            "is_public": true,
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-027": [
+        {
+            "@value": "坪井正五郎",
+            "is_public": true,
+            "property_id": 2327,
+            "property_label": "作成（L6-027）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-030": [
+        {
+            "@value": "239",
+            "is_public": true,
+            "property_id": 2330,
+            "property_label": "物的状態-長さ（L6-030）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-031": [
+        {
+            "@value": "156",
+            "is_public": true,
+            "property_id": 2331,
+            "property_label": "物的状態-幅（L6-031）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-033": [
+        {
+            "@value": "139",
+            "is_public": true,
+            "property_id": 2333,
+            "property_label": "物的状態-縦（L6-033）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-034": [
+        {
+            "@value": "175",
+            "is_public": true,
+            "property_id": 2334,
+            "property_label": "物的状態-横（L6-034）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-035": [
+        {
+            "@value": "同",
+            "is_public": true,
+            "property_id": 2335,
+            "property_label": "物的状態-返（L6-035）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-036": [
+        {
+            "@value": "270",
+            "is_public": true,
+            "property_id": 2336,
+            "property_label": "物的状態-角度（L6-036）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-037": [
+        {
+            "@value": "一つ折り",
+            "is_public": true,
+            "property_id": 2337,
+            "property_label": "物的状態-折（L6-037）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-038": [
+        {
+            "@value": "上半面",
+            "is_public": true,
+            "property_id": 2338,
+            "property_label": "物的状態-面（L6-038）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-050": [
+        {
+            "@value": "伊藤",
+            "is_public": true,
+            "property_id": 2350,
+            "property_label": "情報入力（L6-050）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-051": [
+        {
+            "@value": "伊藤",
+            "is_public": true,
+            "property_id": 2351,
+            "property_label": "情報分析（L6-051）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-052": [
+        {
+            "@value": "新聞or雑誌",
+            "is_public": true,
+            "property_id": 2352,
+            "property_label": "形態・形式情報-資源タイプ（L6-052）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-053": [
+        {
+            "@value": "05学術研究論文・書籍・講義録",
+            "is_public": true,
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "ロンドン在住のおり, 外から聞こえてくる声を聞いての雑記。",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-069": [
+        {
+            "@value": "東洋學藝雑誌, 東洋学芸雑誌",
+            "is_public": true,
+            "property_id": 2369,
+            "property_label": "抜き取り雑誌記述-雑誌名（L6-069）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-072": [
+        {
+            "@value": "105",
+            "is_public": true,
+            "property_id": 2372,
+            "property_label": "抜き取り雑誌記述-号(No.)（L6-072）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-073": [
+        {
+            "@value": "315",
+            "is_public": true,
+            "property_id": 2373,
+            "property_label": "抜き取り雑誌記述-頁/面（L6-073）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-079": [
+        {
+            "@value": "著作権の保護期間満了",
+            "is_public": true,
+            "property_id": 2379,
+            "property_label": "著作権（L6-079）",
+            "type": "literal"
+        }
+    ],
+    "ex:sort": [
+        {
+            "@value": "0003-0026-0013-0003",
+            "is_public": true,
+            "property_id": 2838,
+            "property_label": "sort",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:41:58+00:00"
+        "@value": "2018-06-08T06:49:38+00:00"
     },
     "o:id": 10989,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35000",
+            "o:id": 35000
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53489",
+            "o:id": 53489
         }
     ],
-    "o:media": [
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17815",
-            "o:id": 17815
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17816",
-            "o:id": 17816
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17817",
-            "o:id": 17817
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17818",
-            "o:id": 17818
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17819",
-            "o:id": 17819
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17820",
-            "o:id": 17820
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17821",
-            "o:id": 17821
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17822",
-            "o:id": 17822
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17823",
-            "o:id": 17823
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17824",
-            "o:id": 17824
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17825",
-            "o:id": 17825
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17826",
-            "o:id": 17826
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17827",
-            "o:id": 17827
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17828",
-            "o:id": 17828
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17829",
-            "o:id": 17829
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17830",
-            "o:id": 17830
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17831",
-            "o:id": 17831
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17832",
-            "o:id": 17832
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17833",
-            "o:id": 17833
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17834",
-            "o:id": 17834
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17835",
-            "o:id": 17835
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17836",
-            "o:id": 17836
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17837",
-            "o:id": 17837
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17838",
-            "o:id": 17838
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17839",
-            "o:id": 17839
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17840",
-            "o:id": 17840
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17841",
-            "o:id": 17841
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17842",
-            "o:id": 17842
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17843",
-            "o:id": 17843
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17844",
-            "o:id": 17844
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17845",
-            "o:id": 17845
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17846",
-            "o:id": 17846
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17847",
-            "o:id": 17847
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17848",
-            "o:id": 17848
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17849",
-            "o:id": 17849
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17850",
-            "o:id": 17850
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17851",
-            "o:id": 17851
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/17852",
-            "o:id": 17852
-        }
-    ],
+    "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T01:33:59+00:00"
+        "@value": "2020-11-20T01:30:06+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/84",
+        "o:id": 84
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "Notes de voyage en Chine Centrale : d'Amoy à Hankao, à travers le Fou-kien le Kiang-si, le Hou-nan et le Hou-pé (avec itinéraire).Rocher, [Emile].",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "響き言葉（雑誌切抜）1∽3_26_13_3",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/17616",
+            "display_title": "坪井正五郎関係資料03の箱",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 17616,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
 }

@@ -1,14 +1,14 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/223",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/223",
     "@type": "o:Property",
-    "o:comment": "単行書の構成レベルに相当する情報",
+    "o:comment": "Related Material",
     "o:id": 223,
-    "o:label": "Part Information",
-    "o:local_name": "partInformation",
-    "o:term": "dcndl:partInformation",
+    "o:label": "Related Material",
+    "o:local_name": "relatedMaterial",
+    "o:term": "archiveshub:relatedMaterial",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/8",
-        "o:id": 8
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
     }
 }

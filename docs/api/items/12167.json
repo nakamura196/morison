@@ -1,22 +1,31 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12167",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/12167",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-a-2430",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "11-175",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
             "type": "literal"
         }
     ],
     "dcterms:date": [
         {
-            "@value": "1892",
+            "@value": "1967年9月発行",
             "is_public": true,
             "property_id": 7,
             "property_label": "Date",
@@ -25,327 +34,124 @@
     ],
     "dcterms:identifier": [
         {
-            "@value": "3db4a1d2-e8e7-4c66-a23d-b1d832308d1c",
+            "@value": "be8a114c-e366-4714-905a-5e0bf5a47d50",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3428.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
             "type": "uri"
         }
     ],
-    "dcterms:spatial": [
-        {
-            "@id": "http://dbpedia.org/resource/London",
-            "is_public": true,
-            "property_id": 40,
-            "property_label": "Spatial Coverage",
-            "type": "uri"
-        }
-    ],
     "dcterms:title": [
         {
-            "@value": "Suh-ki-li-lih-kiu. The Suhrillekha or 'friendly letter', written by Lung shu (Nâgârjuna), and addressed to King Sadvaha. Tr. fr. the Chinese ed. of I-tsing. By the late Rev. Samuel Beal. With Chinese text.Nāgārjuna.",
+            "@value": "ジャングル歩道　第4章折りにふれて　（37年11月14日）∽11-175",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:format": [
+    "ex:l6-019": [
         {
-            "@value": "51, 12 p. ; 22 cm.",
+            "@value": "ジャングル歩道　第4章折りにふれて　（37年11月14日）",
             "is_public": true,
-            "property_id": 304,
-            "property_label": "形態的記述",
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
             "type": "literal"
         }
     ],
-    "ex:heading1": [
+    "ex:l6-025": [
         {
-            "@value": "Nāgārjuna.",
+            "@value": "p.267　マイクロフィルムなし",
             "is_public": true,
-            "property_id": 305,
-            "property_label": "heading1",
+            "property_id": 2325,
+            "property_label": "成立年代-備考（L6-025）",
             "type": "literal"
         }
     ],
-    "ex:holding": [
+    "ex:l6-069": [
         {
-            "@value": "（記録なし）",
+            "@value": "森恭三『続日本を考える』（廣済堂出版）",
             "is_public": true,
-            "property_id": 306,
-            "property_label": "所蔵",
+            "property_id": 2369,
+            "property_label": "抜き取り雑誌記述-雑誌名（L6-069）",
             "type": "literal"
         }
     ],
-    "ex:publication": [
+    "ex:l6-077": [
         {
-            "@value": "London, 1892.",
+            "@value": "ja",
             "is_public": true,
-            "property_id": 303,
-            "property_label": "出版事項",
-            "type": "literal"
-        }
-    ],
-    "ex:references": [
-        {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=10&tg3=D&tg4=&tg5=",
-            "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
-            "type": "literal"
-        }
-    ],
-    "ex:tag2": [
-        {
-            "@value": "10. Religion",
-            "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
-            "type": "literal"
-        }
-    ],
-    "ex:tag3": [
-        {
-            "@value": "D. Buddhism in China",
-            "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
-            "type": "literal"
-        }
-    ],
-    "ex:title": [
-        {
-            "@value": "Suh-ki-li-lih-kiu. The Suhrillekha or \\'friendly letter\\', written by Lung shu (Nâgârjuna), and addressed to King Sadvaha. Tr. fr. the Chinese ed. of I-tsing. By the late Rev. Samuel Beal. With Chinese text.",
-            "is_public": true,
-            "property_id": 302,
-            "property_label": "タイトル責任表示",
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:42:06+00:00"
+        "@value": "2018-06-08T06:49:55+00:00"
     },
     "o:id": 12167,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35008",
+            "o:id": 35008
         }
     ],
-    "o:media": [
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35397",
-            "o:id": 35397
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35398",
-            "o:id": 35398
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35399",
-            "o:id": 35399
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35400",
-            "o:id": 35400
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35401",
-            "o:id": 35401
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35402",
-            "o:id": 35402
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35403",
-            "o:id": 35403
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35404",
-            "o:id": 35404
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35405",
-            "o:id": 35405
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35406",
-            "o:id": 35406
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35407",
-            "o:id": 35407
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35408",
-            "o:id": 35408
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35409",
-            "o:id": 35409
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35410",
-            "o:id": 35410
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35411",
-            "o:id": 35411
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35412",
-            "o:id": 35412
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35413",
-            "o:id": 35413
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35414",
-            "o:id": 35414
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35415",
-            "o:id": 35415
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35416",
-            "o:id": 35416
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35417",
-            "o:id": 35417
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35418",
-            "o:id": 35418
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35419",
-            "o:id": 35419
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35420",
-            "o:id": 35420
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35421",
-            "o:id": 35421
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35422",
-            "o:id": 35422
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35423",
-            "o:id": 35423
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35424",
-            "o:id": 35424
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35425",
-            "o:id": 35425
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35426",
-            "o:id": 35426
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35427",
-            "o:id": 35427
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35428",
-            "o:id": 35428
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35429",
-            "o:id": 35429
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35430",
-            "o:id": 35430
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35431",
-            "o:id": 35431
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35432",
-            "o:id": 35432
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35433",
-            "o:id": 35433
-        }
-    ],
+    "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T13:32:11+00:00"
+        "@value": "2020-11-20T01:33:16+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/124",
+        "o:id": 124
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "Suh-ki-li-lih-kiu. The Suhrillekha or 'friendly letter', written by Lung shu (Nâgârjuna), and addressed to King Sadvaha. Tr. fr. the Chinese ed. of I-tsing. By the late Rev. Samuel Beal. With Chinese text.Nāgārjuna.",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "ジャングル歩道　第4章折りにふれて　（37年11月14日）∽11-175",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/24287",
+            "display_title": "森恭三著作集CD-ROM版目録",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 24287,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
 }

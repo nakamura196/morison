@@ -1,375 +1,215 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12779",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/12779",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-a-1691",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
             "type": "literal"
         }
     ],
-    "dcterms:date": [
+    "bibo:identifier": [
         {
-            "@value": "1913",
+            "@value": "項番:138 資料No.100",
             "is_public": true,
-            "property_id": 7,
-            "property_label": "Date",
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "bibo:numPages": [
+        {
+            "@value": "1",
+            "is_public": true,
+            "property_id": 106,
+            "property_label": "number of pages",
             "type": "literal"
         }
     ],
     "dcterms:identifier": [
         {
-            "@value": "603e52c4-832a-4436-9491-4e2ef1eafa9c",
+            "@value": "d0db68ed-a729-486c-862c-d12141ae1836",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4040.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
             "type": "uri"
         }
     ],
-    "dcterms:spatial": [
-        {
-            "@id": "http://dbpedia.org/resource/Ipoh",
-            "is_public": true,
-            "property_id": 40,
-            "property_label": "Spatial Coverage",
-            "type": "uri"
-        }
-    ],
     "dcterms:title": [
         {
-            "@value": "Opium smoking among the Chinese. *1.Stirling, W. G.",
+            "@value": "読売新聞∽項番:138 資料No.100",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:format": [
+    "ex:l6-001": [
         {
-            "@value": "33 . ; 18 cm.",
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
             "is_public": true,
-            "property_id": 304,
-            "property_label": "形態的記述",
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
             "type": "literal"
         }
     ],
-    "ex:heading1": [
+    "ex:l6-002": [
         {
-            "@value": "Stirling, W. G.",
+            "@value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、1944年以降\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。",
             "is_public": true,
-            "property_id": 305,
-            "property_label": "heading1",
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
             "type": "literal"
         }
     ],
-    "ex:holding": [
+    "ex:l6-019": [
         {
-            "@value": "（記録なし）",
+            "@value": "読売新聞",
             "is_public": true,
-            "property_id": 306,
-            "property_label": "所蔵",
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
             "type": "literal"
         }
     ],
-    "ex:publication": [
+    "ex:l6-027": [
         {
-            "@value": "Ipoh, 1913.",
+            "@value": "絵師:",
             "is_public": true,
-            "property_id": 303,
-            "property_label": "出版事項",
+            "property_id": 2327,
+            "property_label": "作成（L6-027）",
             "type": "literal"
         }
     ],
-    "ex:references": [
+    "ex:l6-028": [
         {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=14&tg3=W2&tg4=&tg5=",
+            "@value": "        彫師:",
             "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
+            "property_id": 2328,
+            "property_label": "物的状態-量（L6-028）",
             "type": "literal"
         }
     ],
-    "ex:tag2": [
+    "ex:l6-046": [
         {
-            "@value": "14. Customs & Manners",
+            "@value": "デジタル化済",
             "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
+            "property_id": 2346,
+            "property_label": "デジタルデータ関連-デジタル化の有無（L6-046）",
             "type": "literal"
         }
     ],
-    "ex:tag3": [
+    "ex:l6-068": [
         {
-            "@value": "W2. Opium",
+            "@value": "狐つきの娘にポルダーガイスト現象発生(読み下し文_括弧なし:浅草山谷ほり人力車ひき富五郎と／いふもののむすめおふdi あさ／くさたんぼへんに用たしに／ゆき夕かたうちへ／かへるときぶん／あしといふほどなく／むすめのからたへ石を／しきりとなぐるかない／のものにハすこしもあた／らずあたりてもいたくも／なし又さらハちに／あたりてもこわれず／これやふしぎといふ／うちむすめハ／むちうになり／いろいろと口／はしるこれハ／きつねの／つきしなる／かとしゆしゆ／きとうし／やう／やくおち／つきしとぞ )",
             "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
             "type": "literal"
         }
     ],
-    "ex:title": [
+    "ex:l6-074": [
         {
-            "@value": "Opium smoking among the Chinese. *1.",
+            "@value": "前田喜次郎",
             "is_public": true,
-            "property_id": 302,
-            "property_label": "タイトル責任表示",
+            "property_id": 2374,
+            "property_label": "出版者（L6-074）",
+            "type": "literal"
+        }
+    ],
+    "ex:sort": [
+        {
+            "@value": "0138-0100",
+            "is_public": true,
+            "property_id": 2838,
+            "property_label": "sort",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:42:10+00:00"
+        "@value": "2018-06-08T06:50:03+00:00"
     },
     "o:id": 12779,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/34998",
+            "o:id": 34998
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53464",
+            "o:id": 53464
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53472",
+            "o:id": 53472
         }
     ],
     "o:media": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43762",
-            "o:id": 43762
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43763",
-            "o:id": 43763
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43764",
-            "o:id": 43764
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43765",
-            "o:id": 43765
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43766",
-            "o:id": 43766
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43767",
-            "o:id": 43767
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43768",
-            "o:id": 43768
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43769",
-            "o:id": 43769
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43770",
-            "o:id": 43770
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43771",
-            "o:id": 43771
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43772",
-            "o:id": 43772
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43773",
-            "o:id": 43773
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43774",
-            "o:id": 43774
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43775",
-            "o:id": 43775
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43776",
-            "o:id": 43776
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43777",
-            "o:id": 43777
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43778",
-            "o:id": 43778
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43779",
-            "o:id": 43779
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43780",
-            "o:id": 43780
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43781",
-            "o:id": 43781
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43782",
-            "o:id": 43782
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43783",
-            "o:id": 43783
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43784",
-            "o:id": 43784
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43785",
-            "o:id": 43785
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43786",
-            "o:id": 43786
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43787",
-            "o:id": 43787
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43788",
-            "o:id": 43788
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43789",
-            "o:id": 43789
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43790",
-            "o:id": 43790
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43791",
-            "o:id": 43791
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43792",
-            "o:id": 43792
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43793",
-            "o:id": 43793
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43794",
-            "o:id": 43794
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43795",
-            "o:id": 43795
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43796",
-            "o:id": 43796
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43797",
-            "o:id": 43797
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43798",
-            "o:id": 43798
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43799",
-            "o:id": 43799
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43800",
-            "o:id": 43800
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43801",
-            "o:id": 43801
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43802",
-            "o:id": 43802
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43803",
-            "o:id": 43803
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/43804",
-            "o:id": 43804
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/33657",
+            "o:id": 33657
         }
     ],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T13:32:26+00:00"
+        "@value": "2020-11-20T01:34:54+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/83",
+        "o:id": 83
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "Opium smoking among the Chinese. *1.Stirling, W. G.",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "読売新聞∽項番:138 資料No.100",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/13343",
+            "display_title": "小野秀雄コレクション新聞錦絵",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 13343,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": "https://dch.iii.u-tokyo.ac.jp/files/large/12779/1333099106500.jpg",
+        "medium": "https://dch.iii.u-tokyo.ac.jp/files/medium/12779/1333099106500.jpg",
+        "square": "https://dch.iii.u-tokyo.ac.jp/files/square/12779/1333099106500.jpg"
+    }
 }

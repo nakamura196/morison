@@ -1,314 +1,287 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11157",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/11157",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-a-3192",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "11_11_4_2_3－2－2－1",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "//",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
             "type": "literal"
         }
     ],
     "dcterms:identifier": [
         {
-            "@value": "fcaa4221-23b5-4f6f-8943-b28cc33cfbb4",
+            "@value": "55fc6e64-8447-46fc-bae6-439863e62d6a",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2418.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
             "type": "uri"
         }
     ],
-    "dcterms:spatial": [
-        {
-            "@id": "http://dbpedia.org/resource/Berlin",
-            "is_public": true,
-            "property_id": 40,
-            "property_label": "Spatial Coverage",
-            "type": "uri"
-        }
-    ],
     "dcterms:title": [
         {
-            "@value": "Mu Wang und die Königen von Saba.Forke, A.",
+            "@value": "（勾玉絵図）∽11_11_4_2_3－2－2－1",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:format": [
+    "ex:custom_00030": [
         {
-            "@value": "pp. 117-172 ; 24 cm.",
+            "@value": "2005/07/05",
             "is_public": true,
-            "property_id": 304,
-            "property_label": "形態的記述",
+            "property_id": 2421,
+            "property_label": "調査年月日（CUSTOM_00030）",
             "type": "literal"
         }
     ],
-    "ex:heading1": [
+    "ex:l6-013": [
         {
-            "@value": "Forke, A.",
+            "@value": "11",
             "is_public": true,
-            "property_id": 305,
-            "property_label": "heading1",
+            "property_id": 2313,
+            "property_label": "箱（L6-013）",
             "type": "literal"
         }
     ],
-    "ex:holding": [
+    "ex:l6-014": [
         {
-            "@value": "（記録なし）",
+            "@value": "11",
             "is_public": true,
-            "property_id": 306,
-            "property_label": "所蔵",
+            "property_id": 2314,
+            "property_label": "群（L6-014）",
             "type": "literal"
         }
     ],
-    "ex:publication": [
+    "ex:l6-015": [
         {
-            "@value": "Berlin, 1904.",
+            "@value": "4",
             "is_public": true,
-            "property_id": 303,
-            "property_label": "出版事項",
+            "property_id": 2315,
+            "property_label": "体（L6-015）",
             "type": "literal"
         }
     ],
-    "ex:references": [
+    "ex:l6-016": [
         {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=B&tg4=&tg5=",
+            "@value": "2",
             "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
+            "property_id": 2316,
+            "property_label": "部（L6-016）",
             "type": "literal"
         }
     ],
-    "ex:tag2": [
+    "ex:l6-017": [
         {
-            "@value": "7. History",
+            "@value": "3－2－2－1",
             "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
+            "property_id": 2317,
+            "property_label": "枝（L6-017）",
             "type": "literal"
         }
     ],
-    "ex:tag3": [
+    "ex:l6-019": [
         {
-            "@value": "B. Ancient history",
+            "@value": "（勾玉絵図）",
             "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
             "type": "literal"
         }
     ],
-    "ex:title": [
+    "ex:l6-030": [
         {
-            "@value": "Mu Wang und die Königen von Saba.",
+            "@value": "135",
             "is_public": true,
-            "property_id": 302,
-            "property_label": "タイトル責任表示",
+            "property_id": 2330,
+            "property_label": "物的状態-長さ（L6-030）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-031": [
+        {
+            "@value": "68",
+            "is_public": true,
+            "property_id": 2331,
+            "property_label": "物的状態-幅（L6-031）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-035": [
+        {
+            "@value": "反",
+            "is_public": true,
+            "property_id": 2335,
+            "property_label": "物的状態-返（L6-035）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-036": [
+        {
+            "@value": "90",
+            "is_public": true,
+            "property_id": 2336,
+            "property_label": "物的状態-角度（L6-036）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-037": [
+        {
+            "@value": "なし",
+            "is_public": true,
+            "property_id": 2337,
+            "property_label": "物的状態-折（L6-037）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-050": [
+        {
+            "@value": "伊藤",
+            "is_public": true,
+            "property_id": 2350,
+            "property_label": "情報入力（L6-050）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-051": [
+        {
+            "@value": "伊藤",
+            "is_public": true,
+            "property_id": 2351,
+            "property_label": "情報分析（L6-051）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-052": [
+        {
+            "@value": "自由記述媒体",
+            "is_public": true,
+            "property_id": 2352,
+            "property_label": "形態・形式情報-資源タイプ（L6-052）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-053": [
+        {
+            "@value": "10メモ・草稿・スケッチ",
+            "is_public": true,
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "勾玉が描かれた絵。",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:sort": [
+        {
+            "@value": "0011-0011-0004-0002-3－2－2－1",
+            "is_public": true,
+            "property_id": 2838,
+            "property_label": "sort",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:42:00+00:00"
+        "@value": "2018-06-08T06:49:40+00:00"
     },
     "o:id": 11157,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35000",
+            "o:id": 35000
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53489",
+            "o:id": 53489
         }
     ],
-    "o:media": [
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20508",
-            "o:id": 20508
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20509",
-            "o:id": 20509
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20510",
-            "o:id": 20510
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20511",
-            "o:id": 20511
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20512",
-            "o:id": 20512
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20513",
-            "o:id": 20513
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20514",
-            "o:id": 20514
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20515",
-            "o:id": 20515
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20516",
-            "o:id": 20516
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20517",
-            "o:id": 20517
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20518",
-            "o:id": 20518
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20519",
-            "o:id": 20519
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20520",
-            "o:id": 20520
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20521",
-            "o:id": 20521
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20522",
-            "o:id": 20522
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20523",
-            "o:id": 20523
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20524",
-            "o:id": 20524
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20525",
-            "o:id": 20525
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20526",
-            "o:id": 20526
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20527",
-            "o:id": 20527
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20528",
-            "o:id": 20528
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20529",
-            "o:id": 20529
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20530",
-            "o:id": 20530
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20531",
-            "o:id": 20531
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20532",
-            "o:id": 20532
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20533",
-            "o:id": 20533
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20534",
-            "o:id": 20534
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20535",
-            "o:id": 20535
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20536",
-            "o:id": 20536
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/20537",
-            "o:id": 20537
-        }
-    ],
+    "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T14:12:33+00:00"
+        "@value": "2020-11-20T01:30:40+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/84",
+        "o:id": 84
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "Mu Wang und die Königen von Saba.Forke, A.",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "（勾玉絵図）∽11_11_4_2_3－2－2－1",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/26232",
+            "display_title": "坪井正五郎関係資料11の箱",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 26232,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
 }

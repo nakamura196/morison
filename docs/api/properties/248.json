@@ -1,14 +1,14 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/248",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/248",
     "@type": "o:Property",
-    "o:comment": "当該情報資源の作成者に博士号を授与した大学名",
+    "o:comment": null,
     "o:id": 248,
-    "o:label": "Degree Grantor",
-    "o:local_name": "degreeGrantor",
-    "o:term": "dcndl:degreeGrantor",
+    "o:label": "hasAnnotations",
+    "o:local_name": "hasAnnotations",
+    "o:term": "sc:hasAnnotations",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/8",
-        "o:id": 8
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/6",
+        "o:id": 6
     }
 }

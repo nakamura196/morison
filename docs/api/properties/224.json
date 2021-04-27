@@ -1,14 +1,14 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/224",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/224",
     "@type": "o:Property",
-    "o:comment": "単行書の構成レベルに相当する各著作のタイトル",
+    "o:comment": "Bibliography",
     "o:id": 224,
-    "o:label": "Part Title",
-    "o:local_name": "partTitle",
-    "o:term": "dcndl:partTitle",
+    "o:label": "Bibliography",
+    "o:local_name": "bibliography",
+    "o:term": "archiveshub:bibliography",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/8",
-        "o:id": 8
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
     }
 }

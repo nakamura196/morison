@@ -1,22 +1,31 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12576",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/12576",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-a-1599",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "03-219",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
             "type": "literal"
         }
     ],
     "dcterms:date": [
         {
-            "@value": "1903",
+            "@value": "1995年3月30日",
             "is_public": true,
             "property_id": 7,
             "property_label": "Date",
@@ -25,323 +34,115 @@
     ],
     "dcterms:identifier": [
         {
-            "@value": "04e0cd34-2bbf-4aca-ad18-a61c459fa305",
+            "@value": "b0d1112a-8b5e-44cf-a3c2-529ecacb2d1e",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3837.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
             "type": "uri"
         }
     ],
-    "dcterms:spatial": [
-        {
-            "@id": "http://dbpedia.org/resource/Shanghai",
-            "is_public": true,
-            "property_id": 40,
-            "property_label": "Spatial Coverage",
-            "type": "uri"
-        }
-    ],
     "dcterms:title": [
         {
-            "@value": "Officers, members and rules...Shanghai Club.",
+            "@value": "戦後50年　わたしの国　森恭三日記　22　戦果発表に国民有頂天　広い意味の戦争考えねば∽03-219",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:format": [
+    "ex:l6-019": [
         {
-            "@value": "64 p. ; 17 cm.",
+            "@value": "戦後50年　わたしの国　森恭三日記　22　戦果発表に国民有頂天　広い意味の戦争考えねば",
             "is_public": true,
-            "property_id": 304,
-            "property_label": "形態的記述",
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
             "type": "literal"
         }
     ],
-    "ex:heading1": [
+    "ex:l6-069": [
         {
-            "@value": "Shanghai Club.",
+            "@value": "朝日新聞（朝日新聞社）",
             "is_public": true,
-            "property_id": 305,
-            "property_label": "heading1",
+            "property_id": 2369,
+            "property_label": "抜き取り雑誌記述-雑誌名（L6-069）",
             "type": "literal"
         }
     ],
-    "ex:holding": [
+    "ex:l6-077": [
         {
-            "@value": "（記録なし）",
+            "@value": "ja",
             "is_public": true,
-            "property_id": 306,
-            "property_label": "所蔵",
-            "type": "literal"
-        }
-    ],
-    "ex:publication": [
-        {
-            "@value": "[Shanghai.], 1903.",
-            "is_public": true,
-            "property_id": 303,
-            "property_label": "出版事項",
-            "type": "literal"
-        }
-    ],
-    "ex:references": [
-        {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=14&tg3=S&tg4=&tg5=",
-            "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
-            "type": "literal"
-        }
-    ],
-    "ex:tag2": [
-        {
-            "@value": "14. Customs & Manners",
-            "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
-            "type": "literal"
-        }
-    ],
-    "ex:tag3": [
-        {
-            "@value": "S. Association & Club",
-            "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
-            "type": "literal"
-        }
-    ],
-    "ex:title": [
-        {
-            "@value": "Officers, members and rules...",
-            "is_public": true,
-            "property_id": 302,
-            "property_label": "タイトル責任表示",
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:42:09+00:00"
+        "@value": "2018-06-08T06:50:01+00:00"
     },
     "o:id": 12576,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35008",
+            "o:id": 35008
         }
     ],
-    "o:media": [
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41381",
-            "o:id": 41381
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41382",
-            "o:id": 41382
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41383",
-            "o:id": 41383
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41384",
-            "o:id": 41384
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41385",
-            "o:id": 41385
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41386",
-            "o:id": 41386
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41387",
-            "o:id": 41387
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41388",
-            "o:id": 41388
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41389",
-            "o:id": 41389
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41390",
-            "o:id": 41390
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41391",
-            "o:id": 41391
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41392",
-            "o:id": 41392
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41393",
-            "o:id": 41393
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41394",
-            "o:id": 41394
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41395",
-            "o:id": 41395
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41396",
-            "o:id": 41396
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41397",
-            "o:id": 41397
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41398",
-            "o:id": 41398
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41399",
-            "o:id": 41399
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41400",
-            "o:id": 41400
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41401",
-            "o:id": 41401
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41402",
-            "o:id": 41402
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41403",
-            "o:id": 41403
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41404",
-            "o:id": 41404
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41405",
-            "o:id": 41405
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41406",
-            "o:id": 41406
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41407",
-            "o:id": 41407
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41408",
-            "o:id": 41408
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41409",
-            "o:id": 41409
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41410",
-            "o:id": 41410
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41411",
-            "o:id": 41411
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41412",
-            "o:id": 41412
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41413",
-            "o:id": 41413
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41414",
-            "o:id": 41414
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41415",
-            "o:id": 41415
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/41416",
-            "o:id": 41416
-        }
-    ],
+    "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T14:27:14+00:00"
+        "@value": "2020-11-20T01:34:17+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/124",
+        "o:id": 124
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "Officers, members and rules...Shanghai Club.",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "戦後50年　わたしの国　森恭三日記　22　戦果発表に国民有頂天　広い意味の戦争考えねば∽03-219",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/24287",
+            "display_title": "森恭三著作集CD-ROM版目録",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 24287,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
 }

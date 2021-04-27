@@ -1,58 +1,40 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12118",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/12118",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-a-1190",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
             "type": "literal"
         }
     ],
-    "dcterms:date": [
+    "bibo:identifier": [
         {
-            "@value": "1893",
+            "@value": "4-21-10-2-2-17",
             "is_public": true,
-            "property_id": 7,
-            "property_label": "Date",
+            "property_id": 98,
+            "property_label": "identifier",
             "type": "literal"
         }
     ],
     "dcterms:identifier": [
         {
-            "@value": "5f3d9e94-b009-4224-8d86-2dcb4088c6d7",
+            "@value": "cdd1ac0c-d361-4571-88ce-7914f8eed2b1",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3379.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
@@ -61,206 +43,227 @@
     ],
     "dcterms:title": [
         {
-            "@value": "The religion of the Chinese people.Harlez, Charles Joseph de.",
+            "@value": "(メモ)Targam∽4-21-10-2-2-17",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:format": [
+    "ex:custom_00029": [
         {
-            "@value": "pp. 646-676 ; 24 cm.",
+            "@value": "単紙/単体",
             "is_public": true,
-            "property_id": 304,
-            "property_label": "形態的記述",
+            "property_id": 2420,
+            "property_label": "資源状態（CUSTOM_00029）",
             "type": "literal"
         }
     ],
-    "ex:heading1": [
+    "ex:l6-001": [
         {
-            "@value": "Harlez, Charles Joseph de.",
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
             "is_public": true,
-            "property_id": 305,
-            "property_label": "heading1",
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
             "type": "literal"
         }
     ],
-    "ex:holding": [
+    "ex:l6-002": [
         {
-            "@value": "（記録なし）",
+            "@value": "2004（平成16）年旧坪井誠太郎邸から東京大学大学院情報学環学際情報学府図書室に移管",
             "is_public": true,
-            "property_id": 306,
-            "property_label": "所蔵",
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
             "type": "literal"
         }
     ],
-    "ex:publication": [
+    "ex:l6-013": [
         {
-            "@value": "1893",
+            "@value": "4",
             "is_public": true,
-            "property_id": 303,
-            "property_label": "出版事項",
+            "property_id": 2313,
+            "property_label": "箱（L6-013）",
             "type": "literal"
         }
     ],
-    "ex:references": [
+    "ex:l6-014": [
         {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=10&tg3=A&tg4=&tg5=",
+            "@value": "21",
             "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
+            "property_id": 2314,
+            "property_label": "群（L6-014）",
             "type": "literal"
         }
     ],
-    "ex:tag2": [
+    "ex:l6-015": [
         {
-            "@value": "10. Religion",
+            "@value": "10",
             "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
+            "property_id": 2315,
+            "property_label": "体（L6-015）",
             "type": "literal"
         }
     ],
-    "ex:tag3": [
+    "ex:l6-016": [
         {
-            "@value": "A. General",
+            "@value": "2",
             "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
+            "property_id": 2316,
+            "property_label": "部（L6-016）",
             "type": "literal"
         }
     ],
-    "ex:title": [
+    "ex:l6-017": [
         {
-            "@value": "The religion of the Chinese people.",
+            "@value": "2-17",
             "is_public": true,
-            "property_id": 302,
-            "property_label": "タイトル責任表示",
+            "property_id": 2317,
+            "property_label": "枝（L6-017）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-019": [
+        {
+            "@value": "(メモ)Targam",
+            "is_public": true,
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-030": [
+        {
+            "@value": "102",
+            "is_public": true,
+            "property_id": 2330,
+            "property_label": "物的状態-長さ（L6-030）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-031": [
+        {
+            "@value": "130",
+            "is_public": true,
+            "property_id": 2331,
+            "property_label": "物的状態-幅（L6-031）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-050": [
+        {
+            "@value": "山根",
+            "is_public": true,
+            "property_id": 2350,
+            "property_label": "情報入力（L6-050）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-051": [
+        {
+            "@value": "土田",
+            "is_public": true,
+            "property_id": 2351,
+            "property_label": "情報分析（L6-051）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-052": [
+        {
+            "@value": "自由記述媒体",
+            "is_public": true,
+            "property_id": 2352,
+            "property_label": "形態・形式情報-資源タイプ（L6-052）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-053": [
+        {
+            "@value": "10メモ・草稿・スケッチ",
+            "is_public": true,
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-077": [
+        {
+            "@value": "en",
+            "is_public": true,
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
+            "type": "literal"
+        }
+    ],
+    "ex:sort": [
+        {
+            "@value": "0004-0021-0010-0002-0002-0017",
+            "is_public": true,
+            "property_id": 2838,
+            "property_label": "sort",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:42:06+00:00"
+        "@value": "2018-06-08T06:49:54+00:00"
     },
     "o:id": 12118,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35000",
+            "o:id": 35000
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53489",
+            "o:id": 53489
         }
     ],
-    "o:media": [
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34661",
-            "o:id": 34661
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34662",
-            "o:id": 34662
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34663",
-            "o:id": 34663
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34664",
-            "o:id": 34664
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34665",
-            "o:id": 34665
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34666",
-            "o:id": 34666
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34667",
-            "o:id": 34667
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34668",
-            "o:id": 34668
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34669",
-            "o:id": 34669
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34670",
-            "o:id": 34670
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34671",
-            "o:id": 34671
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34672",
-            "o:id": 34672
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34673",
-            "o:id": 34673
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34674",
-            "o:id": 34674
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34675",
-            "o:id": 34675
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34676",
-            "o:id": 34676
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34677",
-            "o:id": 34677
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34678",
-            "o:id": 34678
-        }
-    ],
+    "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T13:32:45+00:00"
+        "@value": "2020-11-20T01:32:56+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/84",
+        "o:id": 84
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "The religion of the Chinese people.Harlez, Charles Joseph de.",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "(メモ)Targam∽4-21-10-2-2-17",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/16578",
+            "display_title": "坪井正五郎関係資料04の箱",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 16578,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
 }

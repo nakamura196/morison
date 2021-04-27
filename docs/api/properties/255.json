@@ -1,14 +1,14 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/255",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/255",
     "@type": "o:Property",
-    "o:comment": "当該情報資源をデジタル化した日付",
+    "o:comment": "A hint to a user agent as to how to render the resource",
     "o:id": 255,
-    "o:label": "Date Digitized",
-    "o:local_name": "dateDigitized",
-    "o:term": "dcndl:dateDigitized",
+    "o:label": "viewingHint",
+    "o:local_name": "viewingHint",
+    "o:term": "sc:viewingHint",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/8",
-        "o:id": 8
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/6",
+        "o:id": 6
     }
 }

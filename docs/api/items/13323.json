@@ -1,470 +1,301 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13323",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/13323",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-c-295",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "98",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "bibo:numPages": [
+        {
+            "@value": "1",
+            "is_public": true,
+            "property_id": 106,
+            "property_label": "number of pages",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1918",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
             "type": "literal"
         }
     ],
     "dcterms:identifier": [
         {
-            "@value": "b6e902bd-31be-4cb4-b6b5-fa580d59a24a",
+            "@value": "b1dfd7d3-5ae6-4fba-ac94-a14a96d3848e",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4584.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
             "type": "uri"
         }
     ],
-    "dcterms:spatial": [
-        {
-            "@id": "http://dbpedia.org/resource/Shanghai",
-            "is_public": true,
-            "property_id": 40,
-            "property_label": "Spatial Coverage",
-            "type": "uri"
-        }
-    ],
     "dcterms:title": [
         {
-            "@value": "British Chamber of Commerce journal. New ser. No. 1-2.",
+            "@value": "あなたは100％アメリカ人ですか？∽98",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:format": [
+    "ex:custom_00036": [
         {
-            "@value": "72 p. ; 34 cm.",
+            "@value": "募債",
             "is_public": true,
-            "property_id": 304,
-            "property_label": "形態的記述",
+            "property_id": 2403,
+            "property_label": "内容分類（CUSTOM_00036）",
             "type": "literal"
         }
     ],
-    "ex:holding": [
+    "ex:custom_00037": [
         {
-            "@value": "（記録なし）",
+            "@value": "アメリカ",
             "is_public": true,
-            "property_id": 306,
-            "property_label": "所蔵",
+            "property_id": 2404,
+            "property_label": "制作国（CUSTOM_00037）",
             "type": "literal"
         }
     ],
-    "ex:publication": [
+    "ex:custom_00038": [
         {
-            "@value": "Shanghai, 1919.",
+            "@value": "U.S. Treaasury Department",
             "is_public": true,
-            "property_id": 303,
-            "property_label": "出版事項",
+            "property_id": 2405,
+            "property_label": "クライアント（CUSTOM_00038）",
             "type": "literal"
         }
     ],
-    "ex:references": [
+    "ex:custom_00039": [
         {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=20&tg3=H&tg4=a&tg5=",
+            "@value": "平版",
             "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
+            "property_id": 2406,
+            "property_label": "版式（CUSTOM_00039）",
             "type": "literal"
         }
     ],
-    "ex:tag2": [
+    "ex:custom_00040": [
         {
-            "@value": "20. Economy and Industry",
+            "@value": "描画石版",
             "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
+            "property_id": 2407,
+            "property_label": "版式詳細（CUSTOM_00040）",
             "type": "literal"
         }
     ],
-    "ex:tag3": [
+    "ex:custom_00041": [
         {
-            "@value": "H. Commerce",
+            "@value": "-",
             "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
+            "property_id": 2408,
+            "property_label": "版式備考（CUSTOM_00041）",
             "type": "literal"
         }
     ],
-    "ex:tag4": [
+    "ex:custom_00042": [
         {
-            "@value": "a. General",
+            "@value": "4色  ",
             "is_public": true,
-            "property_id": 299,
-            "property_label": "分類4",
+            "property_id": 2409,
+            "property_label": "色数（CUSTOM_00042）",
             "type": "literal"
         }
     ],
-    "ex:title": [
+    "ex:custom_00043": [
         {
-            "@value": "British Chamber of Commerce journal. New ser. No. 1-2.",
+            "@value": "赤、藍、墨、グレー",
             "is_public": true,
-            "property_id": 302,
-            "property_label": "タイトル責任表示",
+            "property_id": 2410,
+            "property_label": "色名（CUSTOM_00043）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-001": [
+        {
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
+            "is_public": true,
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-002": [
+        {
+            "@value": "外務省情報部が収集・所蔵していた資料で、旧新聞研究所の何初彦教授によって収集・受け入れられた資料。",
+            "is_public": true,
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-019": [
+        {
+            "@value": "あなたは100％アメリカ人ですか？",
+            "is_public": true,
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-027": [
+        {
+            "@value": "Stern",
+            "is_public": true,
+            "property_id": 2327,
+            "property_label": "作成（L6-027）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-030": [
+        {
+            "@value": "755",
+            "is_public": true,
+            "property_id": 2330,
+            "property_label": "物的状態-長さ（L6-030）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-031": [
+        {
+            "@value": "502",
+            "is_public": true,
+            "property_id": 2331,
+            "property_label": "物的状態-幅（L6-031）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-046": [
+        {
+            "@value": "デジタル化済",
+            "is_public": true,
+            "property_id": 2346,
+            "property_label": "デジタルデータ関連-デジタル化の有無（L6-046）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-053": [
+        {
+            "@value": "13絵画・版画・ポスター・図案・地図・書画",
+            "is_public": true,
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "Are you 100% American?Prove it!Buy U.S. Government Bonds.Third Liberty LoanU.S. Treasury will pay interest every six months.（あなたは100％アメリカ人ですか？証明してください！第3回自由公債、合衆国公債を購入しましょう。アメリカ財務省が利子を半年ごとに支払います。）",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-075": [
+        {
+            "@value": "印刷所:Sackett &amp; Wilhelms Corp N.Y.",
+            "is_public": true,
+            "property_id": 2375,
+            "property_label": "寄与者（L6-075）",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:42:14+00:00"
+        "@value": "2018-06-08T06:50:11+00:00"
     },
     "o:id": 13323,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35001",
+            "o:id": 35001
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/61213",
+            "o:id": 61213
         }
     ],
     "o:media": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51497",
-            "o:id": 51497
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51498",
-            "o:id": 51498
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51499",
-            "o:id": 51499
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51500",
-            "o:id": 51500
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51501",
-            "o:id": 51501
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51502",
-            "o:id": 51502
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51503",
-            "o:id": 51503
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51504",
-            "o:id": 51504
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51505",
-            "o:id": 51505
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51506",
-            "o:id": 51506
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51507",
-            "o:id": 51507
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51508",
-            "o:id": 51508
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51509",
-            "o:id": 51509
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51510",
-            "o:id": 51510
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51511",
-            "o:id": 51511
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51512",
-            "o:id": 51512
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51513",
-            "o:id": 51513
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51514",
-            "o:id": 51514
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51515",
-            "o:id": 51515
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51516",
-            "o:id": 51516
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51517",
-            "o:id": 51517
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51518",
-            "o:id": 51518
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51519",
-            "o:id": 51519
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51520",
-            "o:id": 51520
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51521",
-            "o:id": 51521
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51522",
-            "o:id": 51522
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51523",
-            "o:id": 51523
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51524",
-            "o:id": 51524
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51525",
-            "o:id": 51525
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51526",
-            "o:id": 51526
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51527",
-            "o:id": 51527
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51528",
-            "o:id": 51528
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51529",
-            "o:id": 51529
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51530",
-            "o:id": 51530
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51531",
-            "o:id": 51531
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51532",
-            "o:id": 51532
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51533",
-            "o:id": 51533
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51534",
-            "o:id": 51534
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51535",
-            "o:id": 51535
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51536",
-            "o:id": 51536
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51537",
-            "o:id": 51537
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51538",
-            "o:id": 51538
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51539",
-            "o:id": 51539
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51540",
-            "o:id": 51540
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51541",
-            "o:id": 51541
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51542",
-            "o:id": 51542
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51543",
-            "o:id": 51543
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51544",
-            "o:id": 51544
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51545",
-            "o:id": 51545
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51546",
-            "o:id": 51546
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51547",
-            "o:id": 51547
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51548",
-            "o:id": 51548
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51549",
-            "o:id": 51549
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51550",
-            "o:id": 51550
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51551",
-            "o:id": 51551
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51552",
-            "o:id": 51552
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51553",
-            "o:id": 51553
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51554",
-            "o:id": 51554
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51555",
-            "o:id": 51555
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51556",
-            "o:id": 51556
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51557",
-            "o:id": 51557
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51558",
-            "o:id": 51558
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51559",
-            "o:id": 51559
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51560",
-            "o:id": 51560
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51561",
-            "o:id": 51561
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51562",
-            "o:id": 51562
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51563",
-            "o:id": 51563
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51564",
-            "o:id": 51564
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/51565",
-            "o:id": 51565
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/30148",
+            "o:id": 30148
         }
     ],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T14:01:45+00:00"
+        "@value": "2020-11-20T01:36:27+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/62",
+        "o:id": 62
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "British Chamber of Commerce journal. New ser. No. 1-2.",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "あなたは100％アメリカ人ですか？∽98",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/29175",
+            "display_title": "第1次世界大戦期プロパガンダポスターコレクション",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 29175,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": "https://dch.iii.u-tokyo.ac.jp/files/large/13323/1332748017314.jpg",
+        "medium": "https://dch.iii.u-tokyo.ac.jp/files/medium/13323/1332748017314.jpg",
+        "square": "https://dch.iii.u-tokyo.ac.jp/files/square/13323/1332748017314.jpg"
+    }
 }

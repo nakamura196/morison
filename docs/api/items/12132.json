@@ -1,22 +1,31 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12132",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/12132",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-a-2372",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "11-553",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
             "type": "literal"
         }
     ],
     "dcterms:date": [
         {
-            "@value": "1860",
+            "@value": "1977年12月発行",
             "is_public": true,
             "property_id": 7,
             "property_label": "Date",
@@ -25,34 +34,16 @@
     ],
     "dcterms:identifier": [
         {
-            "@value": "634b0f80-8b43-4de0-849a-f9176309ef00",
+            "@value": "fcf1b6b5-556b-4bf4-ae22-ad17a1f2701b",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3393.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
@@ -61,250 +52,106 @@
     ],
     "dcterms:title": [
         {
-            "@value": "Lettre inédite du P. Prémare sur le monothéisme des Chinois. Pub... par G. Pauthier.Prémare, J[oseph Henri de].",
+            "@value": "「過保護」　［朝日ジャーナル巻頭言「風速計」　1971年7月2日号掲載］∽11-553",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:format": [
+    "ex:l6-019": [
         {
-            "@value": "pp. 100-124, 248-269 ; 23 cm.",
+            "@value": "「過保護」　［朝日ジャーナル巻頭言「風速計」　1971年7月2日号掲載］",
             "is_public": true,
-            "property_id": 304,
-            "property_label": "形態的記述",
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
             "type": "literal"
         }
     ],
-    "ex:heading1": [
+    "ex:l6-025": [
         {
-            "@value": "Prémare, J[oseph Henri de].",
+            "@value": "p.92　マイクロフィルムなし",
             "is_public": true,
-            "property_id": 305,
-            "property_label": "heading1",
+            "property_id": 2325,
+            "property_label": "成立年代-備考（L6-025）",
             "type": "literal"
         }
     ],
-    "ex:holding": [
+    "ex:l6-069": [
         {
-            "@value": "（記録なし）",
+            "@value": "森恭三『風速計（下）』　（朝日新聞社）",
             "is_public": true,
-            "property_id": 306,
-            "property_label": "所蔵",
+            "property_id": 2369,
+            "property_label": "抜き取り雑誌記述-雑誌名（L6-069）",
             "type": "literal"
         }
     ],
-    "ex:publication": [
+    "ex:l6-077": [
         {
-            "@value": "1860",
+            "@value": "ja",
             "is_public": true,
-            "property_id": 303,
-            "property_label": "出版事項",
-            "type": "literal"
-        }
-    ],
-    "ex:references": [
-        {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=10&tg3=A&tg4=&tg5=",
-            "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
-            "type": "literal"
-        }
-    ],
-    "ex:tag2": [
-        {
-            "@value": "10. Religion",
-            "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
-            "type": "literal"
-        }
-    ],
-    "ex:tag3": [
-        {
-            "@value": "A. General",
-            "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
-            "type": "literal"
-        }
-    ],
-    "ex:title": [
-        {
-            "@value": "Lettre inédite du P. Prémare sur le monothéisme des Chinois. Pub... par G. Pauthier.",
-            "is_public": true,
-            "property_id": 302,
-            "property_label": "タイトル責任表示",
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:42:06+00:00"
+        "@value": "2018-06-08T06:49:54+00:00"
     },
     "o:id": 12132,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35008",
+            "o:id": 35008
         }
     ],
-    "o:media": [
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34873",
-            "o:id": 34873
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34874",
-            "o:id": 34874
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34875",
-            "o:id": 34875
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34876",
-            "o:id": 34876
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34877",
-            "o:id": 34877
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34878",
-            "o:id": 34878
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34879",
-            "o:id": 34879
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34880",
-            "o:id": 34880
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34881",
-            "o:id": 34881
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34882",
-            "o:id": 34882
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34883",
-            "o:id": 34883
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34884",
-            "o:id": 34884
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34885",
-            "o:id": 34885
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34886",
-            "o:id": 34886
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34887",
-            "o:id": 34887
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34888",
-            "o:id": 34888
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34889",
-            "o:id": 34889
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34890",
-            "o:id": 34890
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34891",
-            "o:id": 34891
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34892",
-            "o:id": 34892
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34893",
-            "o:id": 34893
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34894",
-            "o:id": 34894
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34895",
-            "o:id": 34895
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34896",
-            "o:id": 34896
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34897",
-            "o:id": 34897
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34898",
-            "o:id": 34898
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34899",
-            "o:id": 34899
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34900",
-            "o:id": 34900
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/34901",
-            "o:id": 34901
-        }
-    ],
+    "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T14:16:03+00:00"
+        "@value": "2020-11-20T01:32:57+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/124",
+        "o:id": 124
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "Lettre inédite du P. Prémare sur le monothéisme des Chinois. Pub... par G. Pauthier.Prémare, J[oseph Henri de].",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "「過保護」　［朝日ジャーナル巻頭言「風速計」　1971年7月2日号掲載］∽11-553",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/24287",
+            "display_title": "森恭三著作集CD-ROM版目録",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 24287,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
 }

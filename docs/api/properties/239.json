@@ -1,14 +1,14 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/239",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/239",
     "@type": "o:Property",
-    "o:comment": "資料種別",
+    "o:comment": "A number of envelopes",
     "o:id": 239,
-    "o:label": "Material Type",
-    "o:local_name": "materialType",
-    "o:term": "dcndl:materialType",
+    "o:label": "Envelope",
+    "o:local_name": "envelope",
+    "o:term": "archiveshub:envelope",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/8",
-        "o:id": 8
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
     }
 }

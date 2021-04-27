@@ -1,14 +1,14 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/227",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/227",
     "@type": "o:Property",
-    "o:comment": "別タイトル部編番号",
+    "o:comment": "Name",
     "o:id": 227,
-    "o:label": "Alternative Volume",
-    "o:local_name": "alternativeVolume",
-    "o:term": "dcndl:alternativeVolume",
+    "o:label": "Name",
+    "o:local_name": "name",
+    "o:term": "archiveshub:name",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/8",
-        "o:id": 8
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
     }
 }

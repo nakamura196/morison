@@ -1,429 +1,301 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11391",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/11391",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-a-737",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "267",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "bibo:numPages": [
+        {
+            "@value": "1",
+            "is_public": true,
+            "property_id": 106,
+            "property_label": "number of pages",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "-  ",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
             "type": "literal"
         }
     ],
     "dcterms:identifier": [
         {
-            "@value": "b50e1703-802b-436c-b202-24242ab461df",
+            "@value": "78c95723-fc82-41ee-a98b-5215c630b260",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2652.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
             "type": "uri"
         }
     ],
-    "dcterms:spatial": [
-        {
-            "@id": "http://dbpedia.org/resource/Shanghai",
-            "is_public": true,
-            "property_id": 40,
-            "property_label": "Spatial Coverage",
-            "type": "uri"
-        }
-    ],
     "dcterms:title": [
         {
-            "@value": "Important documents relating to China's revolution. With Eng. tr.",
+            "@value": "犠牲者たちの在るところ∽267",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:format": [
+    "ex:custom_00036": [
         {
-            "@value": "106 p. ; 19 cm.",
+            "@value": "募金",
             "is_public": true,
-            "property_id": 304,
-            "property_label": "形態的記述",
+            "property_id": 2403,
+            "property_label": "内容分類（CUSTOM_00036）",
             "type": "literal"
         }
     ],
-    "ex:holding": [
+    "ex:custom_00037": [
         {
-            "@value": "（記録なし）",
+            "@value": "アメリカ",
             "is_public": true,
-            "property_id": 306,
-            "property_label": "所蔵",
+            "property_id": 2404,
+            "property_label": "制作国（CUSTOM_00037）",
             "type": "literal"
         }
     ],
-    "ex:publication": [
+    "ex:custom_00038": [
         {
-            "@value": "Shanghai, 1912.",
+            "@value": "American Committee for Relief in The Near East",
             "is_public": true,
-            "property_id": 303,
-            "property_label": "出版事項",
+            "property_id": 2405,
+            "property_label": "クライアント（CUSTOM_00038）",
             "type": "literal"
         }
     ],
-    "ex:references": [
+    "ex:custom_00039": [
         {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=E&tg4=&tg5=",
+            "@value": "凸版",
             "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
+            "property_id": 2406,
+            "property_label": "版式（CUSTOM_00039）",
             "type": "literal"
         }
     ],
-    "ex:tag2": [
+    "ex:custom_00040": [
         {
-            "@value": "7. History",
+            "@value": "線画凸版",
             "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
+            "property_id": 2407,
+            "property_label": "版式詳細（CUSTOM_00040）",
             "type": "literal"
         }
     ],
-    "ex:tag3": [
+    "ex:custom_00041": [
         {
-            "@value": "E. Recent history",
+            "@value": "-",
             "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
+            "property_id": 2408,
+            "property_label": "版式備考（CUSTOM_00041）",
             "type": "literal"
         }
     ],
-    "ex:title": [
+    "ex:custom_00042": [
         {
-            "@value": "Important documents relating to China\\'s revolution. With Eng. tr.",
+            "@value": "3色  ",
             "is_public": true,
-            "property_id": 302,
-            "property_label": "タイトル責任表示",
+            "property_id": 2409,
+            "property_label": "色数（CUSTOM_00042）",
+            "type": "literal"
+        }
+    ],
+    "ex:custom_00043": [
+        {
+            "@value": "赤、墨、みず浅葱",
+            "is_public": true,
+            "property_id": 2410,
+            "property_label": "色名（CUSTOM_00043）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-001": [
+        {
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
+            "is_public": true,
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-002": [
+        {
+            "@value": "外務省情報部が収集・所蔵していた資料で、旧新聞研究所の何初彦教授によって収集・受け入れられた資料。",
+            "is_public": true,
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-019": [
+        {
+            "@value": "犠牲者たちの在るところ",
+            "is_public": true,
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-027": [
+        {
+            "@value": "-",
+            "is_public": true,
+            "property_id": 2327,
+            "property_label": "作成（L6-027）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-030": [
+        {
+            "@value": "531",
+            "is_public": true,
+            "property_id": 2330,
+            "property_label": "物的状態-長さ（L6-030）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-031": [
+        {
+            "@value": "706",
+            "is_public": true,
+            "property_id": 2331,
+            "property_label": "物的状態-幅（L6-031）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-046": [
+        {
+            "@value": "デジタル化済",
+            "is_public": true,
+            "property_id": 2346,
+            "property_label": "デジタルデータ関連-デジタル化の有無（L6-046）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-053": [
+        {
+            "@value": "13絵画・版画・ポスター・図案・地図・書画",
+            "is_public": true,
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "Number of Square miles-10,395,881Non-Moslems (Christians chiefly) living in these countries in 1914-8,105,000Died of Massacre and Starvation-1,000,000Save the Survivors-3,950,000 Starving PeopleAmerican Committee for Relief in the Near East1 Madison Ave., New York CityCleveland H. Dodge, TreasurerWhere the Victims Are Campaign for $30,000,000.（犠牲者たちの在るところ生存者を救え-395万の人々が飢えている）",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-075": [
+        {
+            "@value": "印刷所:-",
+            "is_public": true,
+            "property_id": 2375,
+            "property_label": "寄与者（L6-075）",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:42:01+00:00"
+        "@value": "2018-06-08T06:49:44+00:00"
     },
     "o:id": 11391,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35001",
+            "o:id": 35001
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/61213",
+            "o:id": 61213
         }
     ],
     "o:media": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23938",
-            "o:id": 23938
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23939",
-            "o:id": 23939
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23940",
-            "o:id": 23940
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23941",
-            "o:id": 23941
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23942",
-            "o:id": 23942
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23943",
-            "o:id": 23943
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23944",
-            "o:id": 23944
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23945",
-            "o:id": 23945
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23946",
-            "o:id": 23946
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23947",
-            "o:id": 23947
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23948",
-            "o:id": 23948
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23949",
-            "o:id": 23949
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23950",
-            "o:id": 23950
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23951",
-            "o:id": 23951
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23952",
-            "o:id": 23952
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23953",
-            "o:id": 23953
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23954",
-            "o:id": 23954
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23955",
-            "o:id": 23955
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23956",
-            "o:id": 23956
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23957",
-            "o:id": 23957
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23958",
-            "o:id": 23958
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23959",
-            "o:id": 23959
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23960",
-            "o:id": 23960
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23961",
-            "o:id": 23961
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23962",
-            "o:id": 23962
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23963",
-            "o:id": 23963
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23964",
-            "o:id": 23964
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23965",
-            "o:id": 23965
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23966",
-            "o:id": 23966
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23967",
-            "o:id": 23967
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23968",
-            "o:id": 23968
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23969",
-            "o:id": 23969
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23970",
-            "o:id": 23970
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23971",
-            "o:id": 23971
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23972",
-            "o:id": 23972
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23973",
-            "o:id": 23973
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23974",
-            "o:id": 23974
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23975",
-            "o:id": 23975
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23976",
-            "o:id": 23976
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23977",
-            "o:id": 23977
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23978",
-            "o:id": 23978
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23979",
-            "o:id": 23979
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23980",
-            "o:id": 23980
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23981",
-            "o:id": 23981
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23982",
-            "o:id": 23982
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23983",
-            "o:id": 23983
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23984",
-            "o:id": 23984
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23985",
-            "o:id": 23985
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23986",
-            "o:id": 23986
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23987",
-            "o:id": 23987
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23988",
-            "o:id": 23988
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23989",
-            "o:id": 23989
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23990",
-            "o:id": 23990
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23991",
-            "o:id": 23991
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23992",
-            "o:id": 23992
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23993",
-            "o:id": 23993
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23994",
-            "o:id": 23994
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23995",
-            "o:id": 23995
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23996",
-            "o:id": 23996
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23997",
-            "o:id": 23997
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23998",
-            "o:id": 23998
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/30220",
+            "o:id": 30220
         }
     ],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T13:36:53+00:00"
+        "@value": "2020-11-20T01:31:14+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/62",
+        "o:id": 62
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "Important documents relating to China's revolution. With Eng. tr.",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "犠牲者たちの在るところ∽267",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/29175",
+            "display_title": "第1次世界大戦期プロパガンダポスターコレクション",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 29175,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": "https://dch.iii.u-tokyo.ac.jp/files/large/11391/1332748050806.jpg",
+        "medium": "https://dch.iii.u-tokyo.ac.jp/files/medium/11391/1332748050806.jpg",
+        "square": "https://dch.iii.u-tokyo.ac.jp/files/square/11391/1332748050806.jpg"
+    }
 }

@@ -1,22 +1,40 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12148",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/12148",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-a-1037",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "535",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "bibo:numPages": [
+        {
+            "@value": "1",
+            "is_public": true,
+            "property_id": 106,
+            "property_label": "number of pages",
             "type": "literal"
         }
     ],
     "dcterms:date": [
         {
-            "@value": "1921",
+            "@value": "-  ",
             "is_public": true,
             "property_id": 7,
             "property_label": "Date",
@@ -25,34 +43,16 @@
     ],
     "dcterms:identifier": [
         {
-            "@value": "01489786-d8d8-449d-b001-59e192c7d74f",
+            "@value": "0da4831b-5aea-4418-b539-dafbaca06ef6",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3409.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
@@ -61,178 +61,223 @@
     ],
     "dcterms:title": [
         {
-            "@value": "Le culte de Confucius sous la République chinoise (1911-1922).Doré, Henri.",
+            "@value": "アラスの戦いにてドイツ軍退却∽535",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:format": [
+    "ex:custom_00036": [
         {
-            "@value": "pp. 433-448 ; 23 cm.",
+            "@value": "その他",
             "is_public": true,
-            "property_id": 304,
-            "property_label": "形態的記述",
+            "property_id": 2403,
+            "property_label": "内容分類（CUSTOM_00036）",
             "type": "literal"
         }
     ],
-    "ex:heading1": [
+    "ex:custom_00037": [
         {
-            "@value": "Doré, Henri.",
+            "@value": "カナダ",
             "is_public": true,
-            "property_id": 305,
-            "property_label": "heading1",
+            "property_id": 2404,
+            "property_label": "制作国（CUSTOM_00037）",
             "type": "literal"
         }
     ],
-    "ex:holding": [
+    "ex:custom_00038": [
         {
-            "@value": "（記録なし）",
+            "@value": "-",
             "is_public": true,
-            "property_id": 306,
-            "property_label": "所蔵",
+            "property_id": 2405,
+            "property_label": "クライアント（CUSTOM_00038）",
             "type": "literal"
         }
     ],
-    "ex:publication": [
+    "ex:custom_00039": [
         {
-            "@value": "1921",
+            "@value": "平版",
             "is_public": true,
-            "property_id": 303,
-            "property_label": "出版事項",
+            "property_id": 2406,
+            "property_label": "版式（CUSTOM_00039）",
             "type": "literal"
         }
     ],
-    "ex:references": [
+    "ex:custom_00040": [
         {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=10&tg3=B&tg4=&tg5=",
+            "@value": "描画石版",
             "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
+            "property_id": 2407,
+            "property_label": "版式詳細（CUSTOM_00040）",
             "type": "literal"
         }
     ],
-    "ex:tag2": [
+    "ex:custom_00041": [
         {
-            "@value": "10. Religion",
+            "@value": "-",
             "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
+            "property_id": 2408,
+            "property_label": "版式備考（CUSTOM_00041）",
             "type": "literal"
         }
     ],
-    "ex:tag3": [
+    "ex:custom_00042": [
         {
-            "@value": "B. Confucianism (as religion)",
+            "@value": "2色  ",
             "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
+            "property_id": 2409,
+            "property_label": "色数（CUSTOM_00042）",
             "type": "literal"
         }
     ],
-    "ex:title": [
+    "ex:custom_00043": [
         {
-            "@value": "Le culte de Confucius sous la République chinoise (1911-1922).",
+            "@value": "赤、藍",
             "is_public": true,
-            "property_id": 302,
-            "property_label": "タイトル責任表示",
+            "property_id": 2410,
+            "property_label": "色名（CUSTOM_00043）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-001": [
+        {
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
+            "is_public": true,
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-002": [
+        {
+            "@value": "外務省情報部が収集・所蔵していた資料で、旧新聞研究所の何初彦教授によって収集・受け入れられた資料。",
+            "is_public": true,
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-019": [
+        {
+            "@value": "アラスの戦いにてドイツ軍退却",
+            "is_public": true,
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-027": [
+        {
+            "@value": "-",
+            "is_public": true,
+            "property_id": 2327,
+            "property_label": "作成（L6-027）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-046": [
+        {
+            "@value": "デジタル化済",
+            "is_public": true,
+            "property_id": 2346,
+            "property_label": "デジタルデータ関連-デジタル化の有無（L6-046）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-053": [
+        {
+            "@value": "13絵画・版画・ポスター・図案・地図・書画",
+            "is_public": true,
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "The Retreat of the Germans from the Battle of Arras ShowingCanadians at Vimy RidgeBritish war office proceeds for Canadian Patriotic Funds.Militia and DefenceCanadaMinister’s OfficeOttawa, Aug. 24th, 1917.I would be glad if every man and woman in Canada were to see these pictures --- the most vividly interesting series that has vet come from the war zone. They cannot fail to be a source of inspiration to all who see them, illustrating as they do the unfailing cheerfulness, the indomitable spirit and the resourcefulness of our Canadian soldiers in all the difficult and trying conditions of modern warfare.A. E. Kemp,Minister of Militia and Defence.Authorized by British War OfficeCinema CommitteeApproved by Dept. Militia and DefenceCanadaBy special arrangement with Independent Film Supply CompanyMontreal Toronto St. John Winnipeg Vancouver（アラスの戦いにてドイツ軍退却「ヴィミィ・リッジのカナダ人」英国陸軍省　収益金はカナダ愛国基金へ充てられます英国陸軍省映画委員会認可国防省[Dept. of Military and defense]承認モントリオール、トロント、セント・ジョーン、ウィニペグ、ヴァンクーヴァー）",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-075": [
+        {
+            "@value": "印刷所:-",
+            "is_public": true,
+            "property_id": 2375,
+            "property_label": "寄与者（L6-075）",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:42:06+00:00"
+        "@value": "2018-06-08T06:49:54+00:00"
     },
     "o:id": 12148,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35001",
+            "o:id": 35001
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/61213",
+            "o:id": 61213
         }
     ],
     "o:media": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35106",
-            "o:id": 35106
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35107",
-            "o:id": 35107
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35108",
-            "o:id": 35108
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35109",
-            "o:id": 35109
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35110",
-            "o:id": 35110
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35111",
-            "o:id": 35111
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35112",
-            "o:id": 35112
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35113",
-            "o:id": 35113
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35114",
-            "o:id": 35114
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35115",
-            "o:id": 35115
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35116",
-            "o:id": 35116
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29970",
+            "o:id": 29970
         }
     ],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T14:15:33+00:00"
+        "@value": "2020-11-20T01:33:16+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/62",
+        "o:id": 62
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "Le culte de Confucius sous la République chinoise (1911-1922).Doré, Henri.",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "アラスの戦いにてドイツ軍退却∽535",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/29175",
+            "display_title": "第1次世界大戦期プロパガンダポスターコレクション",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 29175,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": "https://dch.iii.u-tokyo.ac.jp/files/large/12148/1332747935537.jpg",
+        "medium": "https://dch.iii.u-tokyo.ac.jp/files/medium/12148/1332747935537.jpg",
+        "square": "https://dch.iii.u-tokyo.ac.jp/files/square/12148/1332747935537.jpg"
+    }
 }

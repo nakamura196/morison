@@ -1,14 +1,14 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/301",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/301",
     "@type": "o:Property",
-    "o:comment": "",
+    "o:comment": "所蔵する逐次刊行物の巻次・年月次",
     "o:id": 301,
-    "o:label": "分類3",
-    "o:local_name": "tag3",
-    "o:term": "ex:tag3",
+    "o:label": "Holding Issues",
+    "o:local_name": "holdingIssues",
+    "o:term": "dcndl:holdingIssues",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/9",
-        "o:id": 9
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
     }
 }

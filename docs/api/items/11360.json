@@ -1,58 +1,40 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11360",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/11360",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-b-68",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
             "type": "literal"
         }
     ],
-    "dcterms:date": [
+    "bibo:identifier": [
         {
-            "@value": "1911",
+            "@value": "2-6-9",
             "is_public": true,
-            "property_id": 7,
-            "property_label": "Date",
+            "property_id": 98,
+            "property_label": "identifier",
             "type": "literal"
         }
     ],
     "dcterms:identifier": [
         {
-            "@value": "7bb28651-2fe8-44c2-beb1-1305d4071d67",
+            "@value": "eea7c98b-532e-475c-a612-8343a1c6e3bf",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2621.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
@@ -61,669 +43,227 @@
     ],
     "dcterms:title": [
         {
-            "@value": "Diary of the revolution.",
+            "@value": "ストルムボイシング水政学下巻第四編∽2-6-9",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:format": [
+    "ex:custom_00033": [
         {
-            "@value": "2 v. (in 1.) ; 24 cm.",
+            "@value": "冊子/綴",
             "is_public": true,
-            "property_id": 304,
-            "property_label": "形態的記述",
+            "property_id": 2400,
+            "property_label": "資源状態（CUSTOM_00033）",
             "type": "literal"
         }
     ],
-    "ex:holding": [
+    "ex:l6-001": [
         {
-            "@value": "（記録なし）",
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
             "is_public": true,
-            "property_id": 306,
-            "property_label": "所蔵",
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
             "type": "literal"
         }
     ],
-    "ex:publication": [
+    "ex:l6-013": [
         {
-            "@value": "1911",
+            "@value": "2",
             "is_public": true,
-            "property_id": 303,
-            "property_label": "出版事項",
+            "property_id": 2313,
+            "property_label": "箱（L6-013）",
             "type": "literal"
         }
     ],
-    "ex:references": [
+    "ex:l6-014": [
         {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=E&tg4=&tg5=",
+            "@value": "6",
             "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
+            "property_id": 2314,
+            "property_label": "群（L6-014）",
             "type": "literal"
         }
     ],
-    "ex:tag2": [
+    "ex:l6-015": [
         {
-            "@value": "7. History",
+            "@value": "9",
             "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
+            "property_id": 2315,
+            "property_label": "体（L6-015）",
             "type": "literal"
         }
     ],
-    "ex:tag3": [
+    "ex:l6-019": [
         {
-            "@value": "E. Recent history",
+            "@value": "ストルムボイシング水政学下巻第四編",
             "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
             "type": "literal"
         }
     ],
-    "ex:title": [
+    "ex:l6-030": [
         {
-            "@value": "Diary of the revolution.",
+            "@value": "240",
             "is_public": true,
-            "property_id": 302,
-            "property_label": "タイトル責任表示",
+            "property_id": 2330,
+            "property_label": "物的状態-長さ（L6-030）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-031": [
+        {
+            "@value": "160",
+            "is_public": true,
+            "property_id": 2331,
+            "property_label": "物的状態-幅（L6-031）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-035": [
+        {
+            "@value": "同",
+            "is_public": true,
+            "property_id": 2335,
+            "property_label": "物的状態-返（L6-035）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-036": [
+        {
+            "@value": "２７０",
+            "is_public": true,
+            "property_id": 2336,
+            "property_label": "物的状態-角度（L6-036）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-037": [
+        {
+            "@value": "なし",
+            "is_public": true,
+            "property_id": 2337,
+            "property_label": "物的状態-折（L6-037）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-038": [
+        {
+            "@value": "なし",
+            "is_public": true,
+            "property_id": 2338,
+            "property_label": "物的状態-面（L6-038）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-052": [
+        {
+            "@value": "自由記述媒体",
+            "is_public": true,
+            "property_id": 2352,
+            "property_label": "形態・形式情報-資源タイプ（L6-052）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-053": [
+        {
+            "@value": "05学術研究論文・書籍・講義録",
+            "is_public": true,
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "水利、海運などに関する書。特に諸港の実態について記述。写本。",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-077": [
+        {
+            "@value": "ja",
+            "is_public": true,
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
+            "type": "literal"
+        }
+    ],
+    "ex:sort": [
+        {
+            "@value": "0002-0006-0009",
+            "is_public": true,
+            "property_id": 2838,
+            "property_label": "sort",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:42:01+00:00"
+        "@value": "2018-06-08T06:49:43+00:00"
     },
     "o:id": 11360,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35000",
+            "o:id": 35000
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53490",
+            "o:id": 53490
         }
     ],
-    "o:media": [
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23518",
-            "o:id": 23518
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23519",
-            "o:id": 23519
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23520",
-            "o:id": 23520
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23521",
-            "o:id": 23521
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23522",
-            "o:id": 23522
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23523",
-            "o:id": 23523
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23524",
-            "o:id": 23524
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23525",
-            "o:id": 23525
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23526",
-            "o:id": 23526
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23527",
-            "o:id": 23527
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23528",
-            "o:id": 23528
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23529",
-            "o:id": 23529
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23530",
-            "o:id": 23530
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23531",
-            "o:id": 23531
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23532",
-            "o:id": 23532
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23533",
-            "o:id": 23533
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23534",
-            "o:id": 23534
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23535",
-            "o:id": 23535
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23536",
-            "o:id": 23536
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23537",
-            "o:id": 23537
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23538",
-            "o:id": 23538
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23539",
-            "o:id": 23539
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23540",
-            "o:id": 23540
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23541",
-            "o:id": 23541
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23542",
-            "o:id": 23542
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23543",
-            "o:id": 23543
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23544",
-            "o:id": 23544
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23545",
-            "o:id": 23545
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23546",
-            "o:id": 23546
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23547",
-            "o:id": 23547
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23548",
-            "o:id": 23548
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23549",
-            "o:id": 23549
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23550",
-            "o:id": 23550
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23551",
-            "o:id": 23551
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23552",
-            "o:id": 23552
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23553",
-            "o:id": 23553
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23554",
-            "o:id": 23554
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23555",
-            "o:id": 23555
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23556",
-            "o:id": 23556
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23557",
-            "o:id": 23557
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23558",
-            "o:id": 23558
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23559",
-            "o:id": 23559
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23560",
-            "o:id": 23560
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23561",
-            "o:id": 23561
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23562",
-            "o:id": 23562
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23563",
-            "o:id": 23563
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23564",
-            "o:id": 23564
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23565",
-            "o:id": 23565
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23566",
-            "o:id": 23566
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23567",
-            "o:id": 23567
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23568",
-            "o:id": 23568
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23569",
-            "o:id": 23569
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23570",
-            "o:id": 23570
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23571",
-            "o:id": 23571
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23572",
-            "o:id": 23572
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23573",
-            "o:id": 23573
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23574",
-            "o:id": 23574
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23575",
-            "o:id": 23575
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23576",
-            "o:id": 23576
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23577",
-            "o:id": 23577
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23578",
-            "o:id": 23578
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23579",
-            "o:id": 23579
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23580",
-            "o:id": 23580
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23581",
-            "o:id": 23581
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23582",
-            "o:id": 23582
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23583",
-            "o:id": 23583
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23584",
-            "o:id": 23584
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23585",
-            "o:id": 23585
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23586",
-            "o:id": 23586
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23587",
-            "o:id": 23587
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23588",
-            "o:id": 23588
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23589",
-            "o:id": 23589
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23590",
-            "o:id": 23590
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23591",
-            "o:id": 23591
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23592",
-            "o:id": 23592
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23593",
-            "o:id": 23593
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23594",
-            "o:id": 23594
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23595",
-            "o:id": 23595
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23596",
-            "o:id": 23596
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23597",
-            "o:id": 23597
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23598",
-            "o:id": 23598
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23599",
-            "o:id": 23599
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23600",
-            "o:id": 23600
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23601",
-            "o:id": 23601
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23602",
-            "o:id": 23602
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23603",
-            "o:id": 23603
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23604",
-            "o:id": 23604
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23605",
-            "o:id": 23605
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23606",
-            "o:id": 23606
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23607",
-            "o:id": 23607
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23608",
-            "o:id": 23608
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23609",
-            "o:id": 23609
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23610",
-            "o:id": 23610
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23611",
-            "o:id": 23611
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23612",
-            "o:id": 23612
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23613",
-            "o:id": 23613
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23614",
-            "o:id": 23614
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23615",
-            "o:id": 23615
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23616",
-            "o:id": 23616
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23617",
-            "o:id": 23617
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23618",
-            "o:id": 23618
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23619",
-            "o:id": 23619
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23620",
-            "o:id": 23620
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23621",
-            "o:id": 23621
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23622",
-            "o:id": 23622
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23623",
-            "o:id": 23623
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23624",
-            "o:id": 23624
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23625",
-            "o:id": 23625
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23626",
-            "o:id": 23626
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23627",
-            "o:id": 23627
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23628",
-            "o:id": 23628
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23629",
-            "o:id": 23629
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23630",
-            "o:id": 23630
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23631",
-            "o:id": 23631
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23632",
-            "o:id": 23632
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23633",
-            "o:id": 23633
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23634",
-            "o:id": 23634
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23635",
-            "o:id": 23635
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23636",
-            "o:id": 23636
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23637",
-            "o:id": 23637
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23638",
-            "o:id": 23638
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23639",
-            "o:id": 23639
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23640",
-            "o:id": 23640
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23641",
-            "o:id": 23641
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23642",
-            "o:id": 23642
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23643",
-            "o:id": 23643
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23644",
-            "o:id": 23644
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23645",
-            "o:id": 23645
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23646",
-            "o:id": 23646
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23647",
-            "o:id": 23647
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23648",
-            "o:id": 23648
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23649",
-            "o:id": 23649
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23650",
-            "o:id": 23650
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23651",
-            "o:id": 23651
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23652",
-            "o:id": 23652
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/23653",
-            "o:id": 23653
-        }
-    ],
+    "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T13:36:09+00:00"
+        "@value": "2020-11-20T01:31:13+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/57",
+        "o:id": 57
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "Diary of the revolution.",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "ストルムボイシング水政学下巻第四編∽2-6-9",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/19053",
+            "display_title": "坪井信道・信良関係資料02の箱",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 19053,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
 }

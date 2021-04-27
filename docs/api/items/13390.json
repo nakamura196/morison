@@ -1,49 +1,49 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13390",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/13390",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-a-2072",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "13_1_15_1",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "//",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
             "type": "literal"
         }
     ],
     "dcterms:identifier": [
         {
-            "@value": "96c2aa62-7f6a-4d36-a744-2842a8dbe1a2",
+            "@value": "f7f8445d-1187-415a-8ec9-7ec1911db77c",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4651.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
@@ -52,231 +52,218 @@
     ],
     "dcterms:title": [
         {
-            "@value": "Free Trade with China: Review based upon: -1. A letter to the Right Hon. Charles Grant. By Charles Marjoribanks. 1833. -2. Papers relating to the ship Amherst. 1833. -3. Papers relating to the affairs of the East India Company. 1833. -4. Corrected report of the speeches of Sir George Staunton on the China trade. 1833. -5. Observations on the China trade. By Sir J. B. Urmston. 1833.",
+            "@value": "(ビニール袋)∽13_1_15_1",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:format": [
+    "ex:custom_00030": [
         {
-            "@value": "pp. 430-468 ; 22 cm.",
+            "@value": "2005/08/30",
             "is_public": true,
-            "property_id": 304,
-            "property_label": "形態的記述",
+            "property_id": 2421,
+            "property_label": "調査年月日（CUSTOM_00030）",
             "type": "literal"
         }
     ],
-    "ex:heading1": [
+    "ex:l6-001": [
         {
-            "@value": "（記録なし）",
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
             "is_public": true,
-            "property_id": 305,
-            "property_label": "heading1",
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
             "type": "literal"
         }
     ],
-    "ex:holding": [
+    "ex:l6-002": [
         {
-            "@value": "（記録なし）",
+            "@value": "2004（平成16）年旧坪井誠太郎邸から東京大学大学院情報学環学際情報学府図書室に移管",
             "is_public": true,
-            "property_id": 306,
-            "property_label": "所蔵",
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
             "type": "literal"
         }
     ],
-    "ex:publication": [
+    "ex:l6-013": [
         {
-            "@value": "pp. 430-468 ; 22 cm.",
+            "@value": "13",
             "is_public": true,
-            "property_id": 303,
-            "property_label": "出版事項",
+            "property_id": 2313,
+            "property_label": "箱（L6-013）",
             "type": "literal"
         }
     ],
-    "ex:references": [
+    "ex:l6-014": [
         {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=20&tg3=H&tg4=c&tg5=",
+            "@value": "1",
             "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
+            "property_id": 2314,
+            "property_label": "群（L6-014）",
             "type": "literal"
         }
     ],
-    "ex:tag2": [
+    "ex:l6-015": [
         {
-            "@value": "20. Economy and Industry",
+            "@value": "15",
             "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
+            "property_id": 2315,
+            "property_label": "体（L6-015）",
             "type": "literal"
         }
     ],
-    "ex:tag3": [
+    "ex:l6-016": [
         {
-            "@value": "H. Commerce",
+            "@value": "1",
             "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
+            "property_id": 2316,
+            "property_label": "部（L6-016）",
             "type": "literal"
         }
     ],
-    "ex:tag4": [
+    "ex:l6-019": [
         {
-            "@value": "c. Foreign trade",
+            "@value": "(ビニール袋)",
             "is_public": true,
-            "property_id": 299,
-            "property_label": "分類4",
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
             "type": "literal"
         }
     ],
-    "ex:title": [
+    "ex:l6-030": [
         {
-            "@value": "Free Trade with China: Review based upon: -1. A letter to the Right Hon. Charles Grant. By Charles Marjoribanks. 1833. -2. Papers relating to the ship Amherst. 1833. -3. Papers relating to the affairs of the East India Company. 1833. -4. Corrected report of the speeches of Sir George Staunton on the China trade. 1833. -5. Observations on the China trade. By Sir J. B. Urmston. 1833.",
+            "@value": "279",
             "is_public": true,
-            "property_id": 302,
-            "property_label": "タイトル責任表示",
+            "property_id": 2330,
+            "property_label": "物的状態-長さ（L6-030）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-031": [
+        {
+            "@value": "151",
+            "is_public": true,
+            "property_id": 2331,
+            "property_label": "物的状態-幅（L6-031）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-050": [
+        {
+            "@value": "松田",
+            "is_public": true,
+            "property_id": 2350,
+            "property_label": "情報入力（L6-050）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-051": [
+        {
+            "@value": "松田",
+            "is_public": true,
+            "property_id": 2351,
+            "property_label": "情報分析（L6-051）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-052": [
+        {
+            "@value": "その他",
+            "is_public": true,
+            "property_id": 2352,
+            "property_label": "形態・形式情報-資源タイプ（L6-052）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-053": [
+        {
+            "@value": "99包紙・仕切りなど",
+            "is_public": true,
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "資料を包んであった袋。",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:sort": [
+        {
+            "@value": "0013-0001-0015-0001",
+            "is_public": true,
+            "property_id": 2838,
+            "property_label": "sort",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:42:14+00:00"
+        "@value": "2018-06-08T06:50:12+00:00"
     },
     "o:id": 13390,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35000",
+            "o:id": 35000
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53489",
+            "o:id": 53489
         }
     ],
-    "o:media": [
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52479",
-            "o:id": 52479
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52480",
-            "o:id": 52480
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52481",
-            "o:id": 52481
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52482",
-            "o:id": 52482
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52483",
-            "o:id": 52483
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52484",
-            "o:id": 52484
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52485",
-            "o:id": 52485
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52486",
-            "o:id": 52486
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52487",
-            "o:id": 52487
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52488",
-            "o:id": 52488
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52489",
-            "o:id": 52489
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52490",
-            "o:id": 52490
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52491",
-            "o:id": 52491
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52492",
-            "o:id": 52492
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52493",
-            "o:id": 52493
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52494",
-            "o:id": 52494
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52495",
-            "o:id": 52495
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52496",
-            "o:id": 52496
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52497",
-            "o:id": 52497
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52498",
-            "o:id": 52498
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52499",
-            "o:id": 52499
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/52500",
-            "o:id": 52500
-        }
-    ],
+    "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T13:35:39+00:00"
+        "@value": "2020-11-20T01:36:28+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/84",
+        "o:id": 84
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "Free Trade with China: Review based upon: -1. A letter to the Right Hon. Charles Grant. By Charles Marjoribanks. 1833. -2. Papers relating to the ship Amherst. 1833. -3. Papers relating to the affairs of the East India Company. 1833. -4. Corrected report of the speeches of Sir George Staunton on the China trade. 1833. -5. Observations on the China trade. By Sir J. B. Urmston. 1833.",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "(ビニール袋)∽13_1_15_1",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/8534",
+            "display_title": "坪井正五郎関係資料13の箱",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 8534,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
 }

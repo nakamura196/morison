@@ -1,246 +1,233 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/12172",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/12172",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-a-3451",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "100",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "bibo:numPages": [
+        {
+            "@value": "1",
+            "is_public": true,
+            "property_id": 106,
+            "property_label": "number of pages",
             "type": "literal"
         }
     ],
     "dcterms:identifier": [
         {
-            "@value": "b7fbbf6f-ea84-48f1-9f73-b013a74b50f1",
+            "@value": "bf955789-1219-4957-9bca-28d1cd59fb18",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3433.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
             "type": "uri"
         }
     ],
-    "dcterms:spatial": [
-        {
-            "@id": "http://dbpedia.org/resource/Neuchâtel",
-            "is_public": true,
-            "property_id": 40,
-            "property_label": "Spatial Coverage",
-            "type": "uri"
-        }
-    ],
     "dcterms:title": [
         {
-            "@value": "La pénétration du Bouddisme dams la tradition philosophique chinoise.Demiéville, Paul.",
+            "@value": "三田・田町辺大火（仮）∽100",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:format": [
+    "ex:l6-001": [
         {
-            "@value": "pp. 1-38 ; 24 cm.",
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
             "is_public": true,
-            "property_id": 304,
-            "property_label": "形態的記述",
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
             "type": "literal"
         }
     ],
-    "ex:heading1": [
+    "ex:l6-002": [
         {
-            "@value": "Demiéville, Paul.",
+            "@value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、2007年以降\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。",
             "is_public": true,
-            "property_id": 305,
-            "property_label": "heading1",
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
             "type": "literal"
         }
     ],
-    "ex:holding": [
+    "ex:l6-019": [
         {
-            "@value": "（記録なし）",
+            "@value": "三田・田町辺大火（仮）",
             "is_public": true,
-            "property_id": 306,
-            "property_label": "所蔵",
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
             "type": "literal"
         }
     ],
-    "ex:publication": [
+    "ex:l6-045": [
         {
-            "@value": "Neuchatel, 1956.",
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
             "is_public": true,
-            "property_id": 303,
-            "property_label": "出版事項",
+            "property_id": 2345,
+            "property_label": "関係資料-所蔵機関（L6-045）",
             "type": "literal"
         }
     ],
-    "ex:references": [
+    "ex:l6-046": [
         {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=10&tg3=D&tg4=&tg5=",
+            "@value": "デジタル化済",
             "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
+            "property_id": 2346,
+            "property_label": "デジタルデータ関連-デジタル化の有無（L6-046）",
             "type": "literal"
         }
     ],
-    "ex:tag2": [
+    "ex:l6-049": [
         {
-            "@value": "10. Religion",
+            "@value": "東京大学大学院情報学環図書室",
             "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
+            "property_id": 2349,
+            "property_label": "デジタルデータ関連-デジタルデータの収蔵場所（L6-049）",
             "type": "literal"
         }
     ],
-    "ex:tag3": [
+    "ex:l6-050": [
         {
-            "@value": "D. Buddhism in China",
+            "@value": "田中",
             "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
+            "property_id": 2350,
+            "property_label": "情報入力（L6-050）",
             "type": "literal"
         }
     ],
-    "ex:title": [
+    "ex:l6-053": [
         {
-            "@value": "La pénétration du Bouddisme dams la tradition philosophique chinoise.",
+            "@value": "03報道・ニュース",
             "is_public": true,
-            "property_id": 302,
-            "property_label": "タイトル責任表示",
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "南部遠江様下本村町近辺不残焼仙台様同／坂両側残る土屋采女様下焼向側残る又一口は／日ケ窪通宮下町新網代地十番辺不残焼一本松／坂下町焼善福寺残る松平中務様保科様／是より平一面ニ成三田飛新門前甲斐守様中／黒田加ゐ様半焼小山織田様島津様前町屋／寺焼有馬様会津様青木様ハ残る三田寺町／焼る一口ハ三田弐丁目同朋町通新町札之辻久留／島様焼しり火ニて芝田町二丁目迄田町蔵屋敷／不残焼三丁目より九丁目迄焼牛町車町高輪北／町サツマ様前留一口ハひぢり坂下三田三丁目通松平／紀伊様下寺々不残焼伊皿子台町芝台町／細川様魚らん辺寺々町共焼さぎの森辺松平／市正様下白銀伊達紀伊守様下上杉様毛利／左京様下不残五六丁目少々裏有馬熊五郎様留／一口は樹木谷清正公焼向角高野寺残る松平／丹波様九鬼様ニ本榎通寺々不残大和守様有馬様／本多豊後様此外屋敷奥平下水野下留／猿町品川台町ニて留夜四ツ時頃ニしつまりけり／よふよふ人々安との思ひをなしけり／一赤羽根川岸通り御すくい小屋弐ケ所立／｛後欠｝ ",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-077": [
+        {
+            "@value": "ja",
+            "is_public": true,
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
+            "type": "literal"
+        }
+    ],
+    "ex:sort": [
+        {
+            "@value": "0000-0100",
+            "is_public": true,
+            "property_id": 2838,
+            "property_label": "sort",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:42:06+00:00"
+        "@value": "2018-06-08T06:49:55+00:00"
     },
     "o:id": 12172,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/34998",
+            "o:id": 34998
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53463",
+            "o:id": 53463
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53472",
+            "o:id": 53472
         }
     ],
     "o:media": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35486",
-            "o:id": 35486
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35487",
-            "o:id": 35487
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35488",
-            "o:id": 35488
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35489",
-            "o:id": 35489
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35490",
-            "o:id": 35490
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35491",
-            "o:id": 35491
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35492",
-            "o:id": 35492
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35493",
-            "o:id": 35493
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35494",
-            "o:id": 35494
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35495",
-            "o:id": 35495
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35496",
-            "o:id": 35496
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35497",
-            "o:id": 35497
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/35498",
-            "o:id": 35498
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/media/29448",
+            "o:id": 29448
         }
     ],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T13:52:52+00:00"
+        "@value": "2020-11-20T01:33:16+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/82",
+        "o:id": 82
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "La pénétration du Bouddisme dams la tradition philosophique chinoise.Demiéville, Paul.",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "三田・田町辺大火（仮）∽100",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/11723",
+            "display_title": "小野秀雄コレクションかわら版",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 11723,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": "https://dch.iii.u-tokyo.ac.jp/files/large/12172/1332321354227.jpg",
+        "medium": "https://dch.iii.u-tokyo.ac.jp/files/medium/12172/1332321354227.jpg",
+        "square": "https://dch.iii.u-tokyo.ac.jp/files/square/12172/1332321354227.jpg"
+    }
 }

@@ -1,49 +1,49 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/10927",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/10927",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-a-0242",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "11_14_2_2_14",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "//",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
             "type": "literal"
         }
     ],
     "dcterms:identifier": [
         {
-            "@value": "b720b3bf-4622-4d06-904f-25c3e7a650fe",
+            "@value": "3dacb9e6-3a35-4b49-b40d-a0f0f160133b",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2188.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
@@ -52,214 +52,272 @@
     ],
     "dcterms:title": [
         {
-            "@value": "Guide to Shanghai issued by the Astor House.",
+            "@value": "(原稿)∽11_14_2_2_14",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:references": [
+    "ex:custom_00030": [
         {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=C&tg4=b&tg5=",
+            "@value": "2005/07/08",
             "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
+            "property_id": 2421,
+            "property_label": "調査年月日（CUSTOM_00030）",
             "type": "literal"
         }
     ],
-    "ex:tag2": [
+    "ex:l6-013": [
         {
-            "@value": "2. Geography",
+            "@value": "11",
             "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
+            "property_id": 2313,
+            "property_label": "箱（L6-013）",
             "type": "literal"
         }
     ],
-    "ex:tag3": [
+    "ex:l6-014": [
         {
-            "@value": "C. Local topography & Travels",
+            "@value": "14",
             "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
+            "property_id": 2314,
+            "property_label": "群（L6-014）",
             "type": "literal"
         }
     ],
-    "ex:tag4": [
+    "ex:l6-015": [
         {
-            "@value": "b. Central China",
+            "@value": "2",
             "is_public": true,
-            "property_id": 299,
-            "property_label": "分類4",
+            "property_id": 2315,
+            "property_label": "体（L6-015）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-016": [
+        {
+            "@value": "2",
+            "is_public": true,
+            "property_id": 2316,
+            "property_label": "部（L6-016）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-017": [
+        {
+            "@value": "14",
+            "is_public": true,
+            "property_id": 2317,
+            "property_label": "枝（L6-017）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-019": [
+        {
+            "@value": "(原稿)",
+            "is_public": true,
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-030": [
+        {
+            "@value": "353",
+            "is_public": true,
+            "property_id": 2330,
+            "property_label": "物的状態-長さ（L6-030）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-031": [
+        {
+            "@value": "329",
+            "is_public": true,
+            "property_id": 2331,
+            "property_label": "物的状態-幅（L6-031）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-033": [
+        {
+            "@value": "195",
+            "is_public": true,
+            "property_id": 2333,
+            "property_label": "物的状態-縦（L6-033）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-034": [
+        {
+            "@value": "100",
+            "is_public": true,
+            "property_id": 2334,
+            "property_label": "物的状態-横（L6-034）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-035": [
+        {
+            "@value": "反",
+            "is_public": true,
+            "property_id": 2335,
+            "property_label": "物的状態-返（L6-035）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-036": [
+        {
+            "@value": "90",
+            "is_public": true,
+            "property_id": 2336,
+            "property_label": "物的状態-角度（L6-036）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-037": [
+        {
+            "@value": "二つ以上他",
+            "is_public": true,
+            "property_id": 2337,
+            "property_label": "物的状態-折（L6-037）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-038": [
+        {
+            "@value": "最右",
+            "is_public": true,
+            "property_id": 2338,
+            "property_label": "物的状態-面（L6-038）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-050": [
+        {
+            "@value": "土田",
+            "is_public": true,
+            "property_id": 2350,
+            "property_label": "情報入力（L6-050）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-051": [
+        {
+            "@value": "土田",
+            "is_public": true,
+            "property_id": 2351,
+            "property_label": "情報分析（L6-051）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-052": [
+        {
+            "@value": "自由記述媒体",
+            "is_public": true,
+            "property_id": 2352,
+            "property_label": "形態・形式情報-資源タイプ（L6-052）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-053": [
+        {
+            "@value": "05学術研究論文・書籍・講義録",
+            "is_public": true,
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "「結縄, 書契の例」と題された論文の原稿の続き。諸民族における結縄と書契の例を挙げている。",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-077": [
+        {
+            "@value": "ja",
+            "is_public": true,
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
+            "type": "literal"
+        }
+    ],
+    "ex:sort": [
+        {
+            "@value": "0011-0014-0002-0002-0014",
+            "is_public": true,
+            "property_id": 2838,
+            "property_label": "sort",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:41:58+00:00"
+        "@value": "2018-06-08T06:49:37+00:00"
     },
     "o:id": 10927,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35000",
+            "o:id": 35000
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53489",
+            "o:id": 53489
         }
     ],
-    "o:media": [
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16777",
-            "o:id": 16777
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16778",
-            "o:id": 16778
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16779",
-            "o:id": 16779
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16780",
-            "o:id": 16780
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16781",
-            "o:id": 16781
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16782",
-            "o:id": 16782
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16783",
-            "o:id": 16783
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16784",
-            "o:id": 16784
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16785",
-            "o:id": 16785
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16786",
-            "o:id": 16786
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16787",
-            "o:id": 16787
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16788",
-            "o:id": 16788
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16789",
-            "o:id": 16789
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16790",
-            "o:id": 16790
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16791",
-            "o:id": 16791
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16792",
-            "o:id": 16792
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16793",
-            "o:id": 16793
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16794",
-            "o:id": 16794
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16795",
-            "o:id": 16795
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16796",
-            "o:id": 16796
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16797",
-            "o:id": 16797
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16798",
-            "o:id": 16798
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16799",
-            "o:id": 16799
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16800",
-            "o:id": 16800
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16801",
-            "o:id": 16801
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16802",
-            "o:id": 16802
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16803",
-            "o:id": 16803
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16804",
-            "o:id": 16804
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/16805",
-            "o:id": 16805
-        }
-    ],
+    "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T03:41:49+00:00"
+        "@value": "2020-11-20T01:30:05+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/84",
+        "o:id": 84
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "Guide to Shanghai issued by the Astor House.",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "(原稿)∽11_14_2_2_14",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/26232",
+            "display_title": "坪井正五郎関係資料11の箱",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 26232,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
 }

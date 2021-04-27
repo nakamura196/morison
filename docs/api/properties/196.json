@@ -1,14 +1,14 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/196",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/196",
     "@type": "o:Property",
-    "o:comment": null,
+    "o:comment": "An agent responsible for the creation or accumulation of the archival resource.",
     "o:id": 196,
-    "o:label": "hasSequences",
-    "o:local_name": "hasSequences",
-    "o:term": "sc:hasSequences",
+    "o:label": "Origination",
+    "o:local_name": "origination",
+    "o:term": "archiveshub:origination",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/6",
-        "o:id": 6
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
     }
 }

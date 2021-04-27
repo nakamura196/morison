@@ -1,22 +1,31 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11912",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/11912",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-a-1109",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "5_18_161",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
             "type": "literal"
         }
     ],
     "dcterms:date": [
         {
-            "@value": "1907",
+            "@value": "//",
             "is_public": true,
             "property_id": 7,
             "property_label": "Date",
@@ -25,395 +34,290 @@
     ],
     "dcterms:identifier": [
         {
-            "@value": "4d1ebd29-f11a-4615-b547-a8f5465dcec7",
+            "@value": "9ea73892-17e4-4182-a882-6adcd5a02805",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3173.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
             "type": "uri"
         }
     ],
-    "dcterms:spatial": [
-        {
-            "@id": "http://dbpedia.org/resource/Bern",
-            "is_public": true,
-            "property_id": 40,
-            "property_label": "Spatial Coverage",
-            "type": "uri"
-        }
-    ],
     "dcterms:title": [
         {
-            "@value": "Diplomatischer Verkehr zwischen den grossen Mächten aus Anlass der chinesischen Wirren in den Jahren 1900-1901 auf Grund der diplomatischen Akten dargestellt. Inaug.-Diss. ...Bordukow, Michael.",
+            "@value": "(雑誌抜き取り綴りの束一括)∽5_18_161",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:format": [
+    "ex:custom_00029": [
         {
-            "@value": "96 p. ; 23 cm.",
+            "@value": "束/括",
             "is_public": true,
-            "property_id": 304,
-            "property_label": "形態的記述",
+            "property_id": 2420,
+            "property_label": "資源状態（CUSTOM_00029）",
             "type": "literal"
         }
     ],
-    "ex:heading1": [
+    "ex:custom_00030": [
         {
-            "@value": "Bordukow, Michael.",
+            "@value": "2005/02/04",
             "is_public": true,
-            "property_id": 305,
-            "property_label": "heading1",
+            "property_id": 2421,
+            "property_label": "調査年月日（CUSTOM_00030）",
             "type": "literal"
         }
     ],
-    "ex:holding": [
+    "ex:l6-001": [
         {
-            "@value": "（記録なし）",
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
             "is_public": true,
-            "property_id": 306,
-            "property_label": "所蔵",
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
             "type": "literal"
         }
     ],
-    "ex:publication": [
+    "ex:l6-002": [
         {
-            "@value": "Bern, 1907.",
+            "@value": "2004（平成16）年旧坪井誠太郎邸から東京大学大学院情報学環学際情報学府図書室に移管",
             "is_public": true,
-            "property_id": 303,
-            "property_label": "出版事項",
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
             "type": "literal"
         }
     ],
-    "ex:references": [
+    "ex:l6-013": [
         {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=G&tg4=&tg5=",
+            "@value": "5",
             "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
+            "property_id": 2313,
+            "property_label": "箱（L6-013）",
             "type": "literal"
         }
     ],
-    "ex:tag2": [
+    "ex:l6-014": [
         {
-            "@value": "7. History",
+            "@value": "18",
             "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
+            "property_id": 2314,
+            "property_label": "群（L6-014）",
             "type": "literal"
         }
     ],
-    "ex:tag3": [
+    "ex:l6-015": [
         {
-            "@value": "G. The Boxer rising, 1900-01",
+            "@value": "161",
             "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
+            "property_id": 2315,
+            "property_label": "体（L6-015）",
             "type": "literal"
         }
     ],
-    "ex:title": [
+    "ex:l6-019": [
         {
-            "@value": "Diplomatischer Verkehr zwischen den grossen Mächten aus Anlass der chinesischen Wirren in den Jahren 1900-1901 auf Grund der diplomatischen Akten dargestellt. Inaug.-Diss. ...",
+            "@value": "(雑誌抜き取り綴りの束一括)",
             "is_public": true,
-            "property_id": 302,
-            "property_label": "タイトル責任表示",
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-030": [
+        {
+            "@value": "257",
+            "is_public": true,
+            "property_id": 2330,
+            "property_label": "物的状態-長さ（L6-030）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-031": [
+        {
+            "@value": "193",
+            "is_public": true,
+            "property_id": 2331,
+            "property_label": "物的状態-幅（L6-031）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-035": [
+        {
+            "@value": "反",
+            "is_public": true,
+            "property_id": 2335,
+            "property_label": "物的状態-返（L6-035）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-036": [
+        {
+            "@value": "180",
+            "is_public": true,
+            "property_id": 2336,
+            "property_label": "物的状態-角度（L6-036）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-037": [
+        {
+            "@value": "なし",
+            "is_public": true,
+            "property_id": 2337,
+            "property_label": "物的状態-折（L6-037）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-050": [
+        {
+            "@value": "山下",
+            "is_public": true,
+            "property_id": 2350,
+            "property_label": "情報入力（L6-050）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-051": [
+        {
+            "@value": "山下",
+            "is_public": true,
+            "property_id": 2351,
+            "property_label": "情報分析（L6-051）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-052": [
+        {
+            "@value": "その他の印刷紙",
+            "is_public": true,
+            "property_id": 2352,
+            "property_label": "形態・形式情報-資源タイプ（L6-052）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-053": [
+        {
+            "@value": "05学術研究論文・書籍・講義録",
+            "is_public": true,
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "「人類学の効用」(東京人類学雑誌122), 「人類学の目的と人類学の研究材料」(理学界1-1), 「人類学の実体と人類学なる名称」(遷喬9), 「人類学の定義に関する意見」(東京人類学会雑誌177), 「人類学の範囲」(東京人類学雑誌121), 「人類学と近似諸学との区別」(東京人類学会雑誌101), 「人類学の部門に関する意見」(東京人類学会雑誌114), 「人類学研究の趣意」(東洋学芸雑誌140), 「人類学真正の性質」(太陽6-1)が綴じられている。",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-069": [
+        {
+            "@value": "東京人類學雑誌, 東京人類学雑誌",
+            "is_public": true,
+            "property_id": 2369,
+            "property_label": "抜き取り雑誌記述-雑誌名（L6-069）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-072": [
+        {
+            "@value": "122",
+            "is_public": true,
+            "property_id": 2372,
+            "property_label": "抜き取り雑誌記述-号(No.)（L6-072）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-077": [
+        {
+            "@value": "ja,en",
+            "is_public": true,
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
+            "type": "literal"
+        }
+    ],
+    "ex:sort": [
+        {
+            "@value": "0005-0018-0161",
+            "is_public": true,
+            "property_id": 2838,
+            "property_label": "sort",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:42:04+00:00"
+        "@value": "2018-06-08T06:49:51+00:00"
     },
     "o:id": 11912,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35000",
+            "o:id": 35000
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53489",
+            "o:id": 53489
         }
     ],
-    "o:media": [
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31705",
-            "o:id": 31705
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31706",
-            "o:id": 31706
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31707",
-            "o:id": 31707
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31708",
-            "o:id": 31708
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31709",
-            "o:id": 31709
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31710",
-            "o:id": 31710
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31711",
-            "o:id": 31711
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31712",
-            "o:id": 31712
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31713",
-            "o:id": 31713
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31714",
-            "o:id": 31714
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31715",
-            "o:id": 31715
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31716",
-            "o:id": 31716
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31717",
-            "o:id": 31717
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31718",
-            "o:id": 31718
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31719",
-            "o:id": 31719
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31720",
-            "o:id": 31720
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31721",
-            "o:id": 31721
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31722",
-            "o:id": 31722
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31723",
-            "o:id": 31723
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31724",
-            "o:id": 31724
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31725",
-            "o:id": 31725
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31726",
-            "o:id": 31726
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31727",
-            "o:id": 31727
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31728",
-            "o:id": 31728
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31729",
-            "o:id": 31729
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31730",
-            "o:id": 31730
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31731",
-            "o:id": 31731
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31732",
-            "o:id": 31732
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31733",
-            "o:id": 31733
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31734",
-            "o:id": 31734
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31735",
-            "o:id": 31735
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31736",
-            "o:id": 31736
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31737",
-            "o:id": 31737
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31738",
-            "o:id": 31738
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31739",
-            "o:id": 31739
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31740",
-            "o:id": 31740
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31741",
-            "o:id": 31741
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31742",
-            "o:id": 31742
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31743",
-            "o:id": 31743
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31744",
-            "o:id": 31744
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31745",
-            "o:id": 31745
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31746",
-            "o:id": 31746
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31747",
-            "o:id": 31747
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31748",
-            "o:id": 31748
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31749",
-            "o:id": 31749
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31750",
-            "o:id": 31750
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31751",
-            "o:id": 31751
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31752",
-            "o:id": 31752
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31753",
-            "o:id": 31753
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31754",
-            "o:id": 31754
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31755",
-            "o:id": 31755
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31756",
-            "o:id": 31756
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31757",
-            "o:id": 31757
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31758",
-            "o:id": 31758
-        }
-    ],
+    "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T13:32:32+00:00"
+        "@value": "2020-11-20T01:32:20+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/84",
+        "o:id": 84
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "Diplomatischer Verkehr zwischen den grossen Mächten aus Anlass der chinesischen Wirren in den Jahren 1900-1901 auf Grund der diplomatischen Akten dargestellt. Inaug.-Diss. ...Bordukow, Michael.",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "(雑誌抜き取り綴りの束一括)∽5_18_161",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/17096",
+            "display_title": "坪井正五郎関係資料05の箱",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 17096,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
 }

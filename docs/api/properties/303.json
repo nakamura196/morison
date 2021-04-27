@@ -1,14 +1,14 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/303",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/303",
     "@type": "o:Property",
-    "o:comment": "",
+    "o:comment": "当該情報資源のメタデータ記述に採用した目録規則",
     "o:id": 303,
-    "o:label": "出版事項",
-    "o:local_name": "publication",
-    "o:term": "ex:publication",
+    "o:label": "Cataloging Rule",
+    "o:local_name": "catalogingRule",
+    "o:term": "dcndl:catalogingRule",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/9",
-        "o:id": 9
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
     }
 }

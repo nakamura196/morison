@@ -1,14 +1,14 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/226",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/226",
     "@type": "o:Property",
-    "o:comment": "巻次又は部編番号",
+    "o:comment": "Processing",
     "o:id": 226,
-    "o:label": "Volume",
-    "o:local_name": "volume",
-    "o:term": "dcndl:volume",
+    "o:label": "Processing",
+    "o:local_name": "processing",
+    "o:term": "archiveshub:processing",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/8",
-        "o:id": 8
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/5",
+        "o:id": 5
     }
 }

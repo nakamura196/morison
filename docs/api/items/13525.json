@@ -1,382 +1,157 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/13525",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/13525",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-a-1977",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "09-055",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1992年1月発行",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
             "type": "literal"
         }
     ],
     "dcterms:identifier": [
         {
-            "@value": "2d739ca5-8d23-441b-83f0-56d36ec80bad",
+            "@value": "9f369887-da10-4984-9f77-f2004337cb5f",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr4786.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
             "type": "uri"
         }
     ],
-    "dcterms:spatial": [
-        {
-            "@id": "http://dbpedia.org/resource/Tianjin",
-            "is_public": true,
-            "property_id": 40,
-            "property_label": "Spatial Coverage",
-            "type": "uri"
-        }
-    ],
     "dcterms:title": [
         {
-            "@value": "The Chinese government railways. Overland route China & Japan. Time tables and general information. Sept. 1916 and until further notice.",
+            "@value": "ある特派員の回想　　　　∽09-055",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:format": [
+    "ex:l6-019": [
         {
-            "@value": "82 p. ; 19 cm.",
+            "@value": "ある特派員の回想　　　　",
             "is_public": true,
-            "property_id": 304,
-            "property_label": "形態的記述",
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
             "type": "literal"
         }
     ],
-    "ex:holding": [
+    "ex:l6-025": [
         {
-            "@value": "（記録なし）",
+            "@value": "森恭三経歴記事、森恭三への人物評・懐旧談など　CD-ROM非収録",
             "is_public": true,
-            "property_id": 306,
-            "property_label": "所蔵",
+            "property_id": 2325,
+            "property_label": "成立年代-備考（L6-025）",
             "type": "literal"
         }
     ],
-    "ex:publication": [
+    "ex:l6-069": [
         {
-            "@value": "Tientsin, 1916.",
+            "@value": "岸本重陳氏著・岩波ジュニア新書『新聞の読みかた』（岩波書店）",
             "is_public": true,
-            "property_id": 303,
-            "property_label": "出版事項",
+            "property_id": 2369,
+            "property_label": "抜き取り雑誌記述-雑誌名（L6-069）",
             "type": "literal"
         }
     ],
-    "ex:references": [
+    "ex:l6-077": [
         {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=21&tg3=B&tg4=b&tg5=",
+            "@value": "ja",
             "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
-            "type": "literal"
-        }
-    ],
-    "ex:tag2": [
-        {
-            "@value": "21. Communication",
-            "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
-            "type": "literal"
-        }
-    ],
-    "ex:tag3": [
-        {
-            "@value": "B. Communication by Land",
-            "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
-            "type": "literal"
-        }
-    ],
-    "ex:tag4": [
-        {
-            "@value": "b. Railway",
-            "is_public": true,
-            "property_id": 299,
-            "property_label": "分類4",
-            "type": "literal"
-        }
-    ],
-    "ex:title": [
-        {
-            "@value": "The Chinese government railways. Overland route China & Japan. Time tables and general information. Sept. 1916 and until further notice.",
-            "is_public": true,
-            "property_id": 302,
-            "property_label": "タイトル責任表示",
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:42:15+00:00"
+        "@value": "2018-06-08T06:50:14+00:00"
     },
     "o:id": 13525,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35008",
+            "o:id": 35008
         }
     ],
-    "o:media": [
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54286",
-            "o:id": 54286
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54287",
-            "o:id": 54287
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54288",
-            "o:id": 54288
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54289",
-            "o:id": 54289
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54290",
-            "o:id": 54290
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54291",
-            "o:id": 54291
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54292",
-            "o:id": 54292
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54293",
-            "o:id": 54293
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54294",
-            "o:id": 54294
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54295",
-            "o:id": 54295
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54296",
-            "o:id": 54296
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54297",
-            "o:id": 54297
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54298",
-            "o:id": 54298
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54299",
-            "o:id": 54299
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54300",
-            "o:id": 54300
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54301",
-            "o:id": 54301
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54302",
-            "o:id": 54302
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54303",
-            "o:id": 54303
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54304",
-            "o:id": 54304
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54305",
-            "o:id": 54305
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54306",
-            "o:id": 54306
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54307",
-            "o:id": 54307
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54308",
-            "o:id": 54308
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54309",
-            "o:id": 54309
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54310",
-            "o:id": 54310
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54311",
-            "o:id": 54311
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54312",
-            "o:id": 54312
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54313",
-            "o:id": 54313
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54314",
-            "o:id": 54314
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54315",
-            "o:id": 54315
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54316",
-            "o:id": 54316
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54317",
-            "o:id": 54317
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54318",
-            "o:id": 54318
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54319",
-            "o:id": 54319
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54320",
-            "o:id": 54320
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54321",
-            "o:id": 54321
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54322",
-            "o:id": 54322
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54323",
-            "o:id": 54323
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54324",
-            "o:id": 54324
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54325",
-            "o:id": 54325
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54326",
-            "o:id": 54326
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54327",
-            "o:id": 54327
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54328",
-            "o:id": 54328
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54329",
-            "o:id": 54329
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54330",
-            "o:id": 54330
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54331",
-            "o:id": 54331
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/54332",
-            "o:id": 54332
-        }
-    ],
+    "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T13:33:56+00:00"
+        "@value": "2020-11-20T01:37:05+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/124",
+        "o:id": 124
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "The Chinese government railways. Overland route China & Japan. Time tables and general information. Sept. 1916 and until further notice.",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "ある特派員の回想　　　　∽09-055",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/24287",
+            "display_title": "森恭三著作集CD-ROM版目録",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 24287,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
 }

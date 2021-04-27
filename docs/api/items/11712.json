@@ -1,22 +1,31 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11712",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/11712",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-a-3260",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "5_5_108_5_4",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
             "type": "literal"
         }
     ],
     "dcterms:date": [
         {
-            "@value": "1911",
+            "@value": "//",
             "is_public": true,
             "property_id": 7,
             "property_label": "Date",
@@ -25,34 +34,16 @@
     ],
     "dcterms:identifier": [
         {
-            "@value": "02d5296a-8fbd-473d-80b8-35b163245c42",
+            "@value": "db63c41e-12ce-452b-95db-603218614640",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2973.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
@@ -61,343 +52,272 @@
     ],
     "dcterms:title": [
         {
-            "@value": "La mission de M. le chevalier d'Entrecasteaux à Canton, en 1787, d'après les archives du ministère des affaires etrangeres.Cordier, Henri.",
+            "@value": "（メモ）∽5_5_108_5_4",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:format": [
+    "ex:custom_00029": [
         {
-            "@value": "pp. 407-446 ; 25 cm.",
+            "@value": "単紙/単体",
             "is_public": true,
-            "property_id": 304,
-            "property_label": "形態的記述",
+            "property_id": 2420,
+            "property_label": "資源状態（CUSTOM_00029）",
             "type": "literal"
         }
     ],
-    "ex:heading1": [
+    "ex:custom_00030": [
         {
-            "@value": "Cordier, Henri.",
+            "@value": "2004/08/23",
             "is_public": true,
-            "property_id": 305,
-            "property_label": "heading1",
+            "property_id": 2421,
+            "property_label": "調査年月日（CUSTOM_00030）",
             "type": "literal"
         }
     ],
-    "ex:holding": [
+    "ex:l6-001": [
         {
-            "@value": "（記録なし）",
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
             "is_public": true,
-            "property_id": 306,
-            "property_label": "所蔵",
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
             "type": "literal"
         }
     ],
-    "ex:publication": [
+    "ex:l6-002": [
         {
-            "@value": "1911",
+            "@value": "2004（平成16）年旧坪井誠太郎邸から東京大学大学院情報学環学際情報学府図書室に移管",
             "is_public": true,
-            "property_id": 303,
-            "property_label": "出版事項",
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
             "type": "literal"
         }
     ],
-    "ex:references": [
+    "ex:l6-013": [
         {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=F&tg4=g&tg5=",
+            "@value": "5",
             "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
+            "property_id": 2313,
+            "property_label": "箱（L6-013）",
             "type": "literal"
         }
     ],
-    "ex:tag2": [
+    "ex:l6-014": [
         {
-            "@value": "7. History",
+            "@value": "5",
             "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
+            "property_id": 2314,
+            "property_label": "群（L6-014）",
             "type": "literal"
         }
     ],
-    "ex:tag3": [
+    "ex:l6-015": [
         {
-            "@value": "F. Foreign relations",
+            "@value": "108",
             "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
+            "property_id": 2315,
+            "property_label": "体（L6-015）",
             "type": "literal"
         }
     ],
-    "ex:tag4": [
+    "ex:l6-016": [
         {
-            "@value": "g. France",
+            "@value": "5",
             "is_public": true,
-            "property_id": 299,
-            "property_label": "分類4",
+            "property_id": 2316,
+            "property_label": "部（L6-016）",
             "type": "literal"
         }
     ],
-    "ex:title": [
+    "ex:l6-017": [
         {
-            "@value": "La mission de M. le chevalier d\\'Entrecasteaux à Canton, en 1787, d\\'après les archives du ministère des affaires etrangeres.",
+            "@value": "4",
             "is_public": true,
-            "property_id": 302,
-            "property_label": "タイトル責任表示",
+            "property_id": 2317,
+            "property_label": "枝（L6-017）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-019": [
+        {
+            "@value": "（メモ）",
+            "is_public": true,
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-030": [
+        {
+            "@value": "230",
+            "is_public": true,
+            "property_id": 2330,
+            "property_label": "物的状態-長さ（L6-030）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-031": [
+        {
+            "@value": "210",
+            "is_public": true,
+            "property_id": 2331,
+            "property_label": "物的状態-幅（L6-031）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-033": [
+        {
+            "@value": "120",
+            "is_public": true,
+            "property_id": 2333,
+            "property_label": "物的状態-縦（L6-033）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-034": [
+        {
+            "@value": "210",
+            "is_public": true,
+            "property_id": 2334,
+            "property_label": "物的状態-横（L6-034）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-036": [
+        {
+            "@value": "180",
+            "is_public": true,
+            "property_id": 2336,
+            "property_label": "物的状態-角度（L6-036）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-050": [
+        {
+            "@value": "土田",
+            "is_public": true,
+            "property_id": 2350,
+            "property_label": "情報入力（L6-050）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-051": [
+        {
+            "@value": "土田",
+            "is_public": true,
+            "property_id": 2351,
+            "property_label": "情報分析（L6-051）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-052": [
+        {
+            "@value": "自由記述媒体",
+            "is_public": true,
+            "property_id": 2352,
+            "property_label": "形態・形式情報-資源タイプ（L6-052）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-053": [
+        {
+            "@value": "10メモ・草稿・スケッチ",
+            "is_public": true,
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "各地の人種の測定表。「jawa」などの文字が見られる。",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-077": [
+        {
+            "@value": "ja,en",
+            "is_public": true,
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
+            "type": "literal"
+        }
+    ],
+    "ex:sort": [
+        {
+            "@value": "0005-0005-0108-0005-0004",
+            "is_public": true,
+            "property_id": 2838,
+            "property_label": "sort",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:42:03+00:00"
+        "@value": "2018-06-08T06:49:48+00:00"
     },
     "o:id": 11712,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35000",
+            "o:id": 35000
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53489",
+            "o:id": 53489
         }
     ],
-    "o:media": [
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28831",
-            "o:id": 28831
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28832",
-            "o:id": 28832
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28833",
-            "o:id": 28833
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28834",
-            "o:id": 28834
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28835",
-            "o:id": 28835
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28836",
-            "o:id": 28836
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28837",
-            "o:id": 28837
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28838",
-            "o:id": 28838
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28839",
-            "o:id": 28839
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28840",
-            "o:id": 28840
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28841",
-            "o:id": 28841
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28842",
-            "o:id": 28842
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28843",
-            "o:id": 28843
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28844",
-            "o:id": 28844
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28845",
-            "o:id": 28845
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28846",
-            "o:id": 28846
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28847",
-            "o:id": 28847
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28848",
-            "o:id": 28848
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28849",
-            "o:id": 28849
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28850",
-            "o:id": 28850
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28851",
-            "o:id": 28851
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28852",
-            "o:id": 28852
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28853",
-            "o:id": 28853
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28854",
-            "o:id": 28854
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28855",
-            "o:id": 28855
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28985",
-            "o:id": 28985
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28986",
-            "o:id": 28986
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28987",
-            "o:id": 28987
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28988",
-            "o:id": 28988
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28989",
-            "o:id": 28989
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28990",
-            "o:id": 28990
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28991",
-            "o:id": 28991
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28992",
-            "o:id": 28992
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28993",
-            "o:id": 28993
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28994",
-            "o:id": 28994
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28995",
-            "o:id": 28995
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28996",
-            "o:id": 28996
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28997",
-            "o:id": 28997
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28998",
-            "o:id": 28998
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/28999",
-            "o:id": 28999
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29000",
-            "o:id": 29000
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29001",
-            "o:id": 29001
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29002",
-            "o:id": 29002
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29003",
-            "o:id": 29003
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29004",
-            "o:id": 29004
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29005",
-            "o:id": 29005
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29006",
-            "o:id": 29006
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29007",
-            "o:id": 29007
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29008",
-            "o:id": 29008
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/29009",
-            "o:id": 29009
-        }
-    ],
+    "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T13:36:40+00:00"
+        "@value": "2020-11-20T01:32:03+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/84",
+        "o:id": 84
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "La mission de M. le chevalier d'Entrecasteaux à Canton, en 1787, d'après les archives du ministère des affaires etrangeres.Cordier, Henri.",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "（メモ）∽5_5_108_5_4",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/17096",
+            "display_title": "坪井正五郎関係資料05の箱",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 17096,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
 }

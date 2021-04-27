@@ -1,14 +1,14 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/properties/281",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/properties/281",
     "@type": "o:Property",
-    "o:comment": "Series Creatorの読み又は翻字形",
+    "o:comment": "原資料の識別子",
     "o:id": 281,
-    "o:label": "Series Creator Transcription",
-    "o:local_name": "seriesCreatorTranscription",
-    "o:term": "dcndl:seriesCreatorTranscription",
+    "o:label": "Source Identifier",
+    "o:local_name": "sourceIdentifier",
+    "o:term": "dcndl:sourceIdentifier",
     "o:vocabulary": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/vocabularies/8",
-        "o:id": 8
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/vocabularies/7",
+        "o:id": 7
     }
 }

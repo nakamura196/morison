@@ -1,49 +1,49 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11634",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/11634",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-b-3",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "11-539",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1977年12月発行",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
             "type": "literal"
         }
     ],
     "dcterms:identifier": [
         {
-            "@value": "4eded300-709f-4e0d-9b6d-760f526cf329",
+            "@value": "e8a37234-69ab-43d0-b053-62ae51575323",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2895.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
@@ -52,315 +52,106 @@
     ],
     "dcterms:title": [
         {
-            "@value": "Report of the Missionary Conference held in Shanghai, May 1890.",
+            "@value": "狂気と正気の間　［朝日ジャーナル巻頭言「風速計」　1971年1月1／8日号掲載］∽11-539",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:format": [
+    "ex:l6-019": [
         {
-            "@value": "79 p. ; 26 cm.",
+            "@value": "狂気と正気の間　［朝日ジャーナル巻頭言「風速計」　1971年1月1／8日号掲載］",
             "is_public": true,
-            "property_id": 304,
-            "property_label": "形態的記述",
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
             "type": "literal"
         }
     ],
-    "ex:heading1": [
+    "ex:l6-025": [
         {
-            "@value": "（記録なし）",
+            "@value": "p.78　マイクロフィルムなし",
             "is_public": true,
-            "property_id": 305,
-            "property_label": "heading1",
+            "property_id": 2325,
+            "property_label": "成立年代-備考（L6-025）",
             "type": "literal"
         }
     ],
-    "ex:holding": [
+    "ex:l6-069": [
         {
-            "@value": "（記録なし）",
+            "@value": "森恭三『風速計（下）』　（朝日新聞社）",
             "is_public": true,
-            "property_id": 306,
-            "property_label": "所蔵",
+            "property_id": 2369,
+            "property_label": "抜き取り雑誌記述-雑誌名（L6-069）",
             "type": "literal"
         }
     ],
-    "ex:publication": [
+    "ex:l6-077": [
         {
-            "@value": "79 p. ; 26 cm.",
+            "@value": "ja",
             "is_public": true,
-            "property_id": 303,
-            "property_label": "出版事項",
-            "type": "literal"
-        }
-    ],
-    "ex:references": [
-        {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=F&tg4=e&tg5=",
-            "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
-            "type": "literal"
-        }
-    ],
-    "ex:tag2": [
-        {
-            "@value": "7. History",
-            "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
-            "type": "literal"
-        }
-    ],
-    "ex:tag3": [
-        {
-            "@value": "F. Foreign relations",
-            "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
-            "type": "literal"
-        }
-    ],
-    "ex:tag4": [
-        {
-            "@value": "e. Great-Britain",
-            "is_public": true,
-            "property_id": 299,
-            "property_label": "分類4",
-            "type": "literal"
-        }
-    ],
-    "ex:title": [
-        {
-            "@value": "Report of the Missionary Conference held in Shanghai, May 1890.",
-            "is_public": true,
-            "property_id": 302,
-            "property_label": "タイトル責任表示",
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:42:03+00:00"
+        "@value": "2018-06-08T06:49:47+00:00"
     },
     "o:id": 11634,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35008",
+            "o:id": 35008
         }
     ],
-    "o:media": [
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27527",
-            "o:id": 27527
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27528",
-            "o:id": 27528
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27529",
-            "o:id": 27529
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27530",
-            "o:id": 27530
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27531",
-            "o:id": 27531
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27532",
-            "o:id": 27532
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27533",
-            "o:id": 27533
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27534",
-            "o:id": 27534
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27535",
-            "o:id": 27535
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27536",
-            "o:id": 27536
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27537",
-            "o:id": 27537
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27538",
-            "o:id": 27538
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27539",
-            "o:id": 27539
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27540",
-            "o:id": 27540
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27541",
-            "o:id": 27541
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27542",
-            "o:id": 27542
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27543",
-            "o:id": 27543
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27544",
-            "o:id": 27544
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27545",
-            "o:id": 27545
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27546",
-            "o:id": 27546
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27547",
-            "o:id": 27547
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27548",
-            "o:id": 27548
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27549",
-            "o:id": 27549
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27550",
-            "o:id": 27550
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27551",
-            "o:id": 27551
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27552",
-            "o:id": 27552
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27553",
-            "o:id": 27553
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27554",
-            "o:id": 27554
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27555",
-            "o:id": 27555
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27556",
-            "o:id": 27556
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27557",
-            "o:id": 27557
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27558",
-            "o:id": 27558
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27559",
-            "o:id": 27559
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27560",
-            "o:id": 27560
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27561",
-            "o:id": 27561
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27562",
-            "o:id": 27562
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27563",
-            "o:id": 27563
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27564",
-            "o:id": 27564
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27565",
-            "o:id": 27565
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27566",
-            "o:id": 27566
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27567",
-            "o:id": 27567
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27568",
-            "o:id": 27568
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/27569",
-            "o:id": 27569
-        }
-    ],
+    "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T13:33:55+00:00"
+        "@value": "2020-11-20T01:31:47+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/124",
+        "o:id": 124
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "Report of the Missionary Conference held in Shanghai, May 1890.",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "狂気と正気の間　［朝日ジャーナル巻頭言「風速計」　1971年1月1／8日号掲載］∽11-539",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/24287",
+            "display_title": "森恭三著作集CD-ROM版目録",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 24287,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
 }

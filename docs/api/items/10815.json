@@ -1,49 +1,49 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/10815",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/10815",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-a-0137",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "G-4-2-2-45",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1886/6/19",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
             "type": "literal"
         }
     ],
     "dcterms:identifier": [
         {
-            "@value": "50a7f617-27ca-4849-8d2f-3a0668835c40",
+            "@value": "29aeb03b-dcd8-462a-9735-965d077cd79d",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2076.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
@@ -52,354 +52,317 @@
     ],
     "dcterms:title": [
         {
-            "@value": "Cook's handbook for tourists to Peking, Tientsin, Shan-hai-kwan, Mukden, Dalny, Port Arthur, and Seoul.",
+            "@value": "朝日新聞　明治19年6月19日∽G-4-2-2-45",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:references": [
+    "ex:custom_00016": [
         {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=2&tg3=C&tg4=a&tg5=",
+            "@value": "完成・公刊形態",
             "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
+            "property_id": 2396,
+            "property_label": "資源状態（CUSTOM_00016）",
             "type": "literal"
         }
     ],
-    "ex:tag2": [
+    "ex:custom_00017": [
         {
-            "@value": "2. Geography",
+            "@value": "冊子/綴",
             "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
+            "property_id": 2397,
+            "property_label": "調査年月日（CUSTOM_00017）",
             "type": "literal"
         }
     ],
-    "ex:tag3": [
+    "ex:l6-001": [
         {
-            "@value": "C. Local topography & Travels",
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
             "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
             "type": "literal"
         }
     ],
-    "ex:tag4": [
+    "ex:l6-002": [
         {
-            "@value": "a. North China",
+            "@value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。2007年以降\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。",
             "is_public": true,
-            "property_id": 299,
-            "property_label": "分類4",
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-013": [
+        {
+            "@value": "G　",
+            "is_public": true,
+            "property_id": 2313,
+            "property_label": "箱（L6-013）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-014": [
+        {
+            "@value": "4",
+            "is_public": true,
+            "property_id": 2314,
+            "property_label": "群（L6-014）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-015": [
+        {
+            "@value": "2",
+            "is_public": true,
+            "property_id": 2315,
+            "property_label": "体（L6-015）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-016": [
+        {
+            "@value": "2",
+            "is_public": true,
+            "property_id": 2316,
+            "property_label": "部（L6-016）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-017": [
+        {
+            "@value": "45",
+            "is_public": true,
+            "property_id": 2317,
+            "property_label": "枝（L6-017）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-019": [
+        {
+            "@value": "朝日新聞　明治19年6月19日",
+            "is_public": true,
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-021": [
+        {
+            "@value": "明治",
+            "is_public": true,
+            "property_id": 2321,
+            "property_label": "成立年代-元号（L6-021）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-022": [
+        {
+            "@value": "19",
+            "is_public": true,
+            "property_id": 2322,
+            "property_label": "成立年代-年（L6-022）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-023": [
+        {
+            "@value": "6",
+            "is_public": true,
+            "property_id": 2323,
+            "property_label": "成立年代-月（L6-023）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-024": [
+        {
+            "@value": "19",
+            "is_public": true,
+            "property_id": 2324,
+            "property_label": "成立年代-日（L6-024）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-027": [
+        {
+            "@value": "村山龍平",
+            "is_public": true,
+            "property_id": 2327,
+            "property_label": "作成（L6-027）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-028": [
+        {
+            "@value": "1",
+            "is_public": true,
+            "property_id": 2328,
+            "property_label": "物的状態-量（L6-028）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-030": [
+        {
+            "@value": "515",
+            "is_public": true,
+            "property_id": 2330,
+            "property_label": "物的状態-長さ（L6-030）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-031": [
+        {
+            "@value": "373",
+            "is_public": true,
+            "property_id": 2331,
+            "property_label": "物的状態-幅（L6-031）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-050": [
+        {
+            "@value": "新藤　雄介",
+            "is_public": true,
+            "property_id": 2350,
+            "property_label": "情報入力（L6-050）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-051": [
+        {
+            "@value": "新藤　雄介",
+            "is_public": true,
+            "property_id": 2351,
+            "property_label": "情報分析（L6-051）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-052": [
+        {
+            "@value": "新聞or雑誌",
+            "is_public": true,
+            "property_id": 2352,
+            "property_label": "形態・形式情報-資源タイプ（L6-052）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-053": [
+        {
+            "@value": "01逐次刊行-新聞類",
+            "is_public": true,
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-069": [
+        {
+            "@value": "朝日新聞",
+            "is_public": true,
+            "property_id": 2369,
+            "property_label": "抜き取り雑誌記述-雑誌名（L6-069）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-072": [
+        {
+            "@value": "明治19年6月19日",
+            "is_public": true,
+            "property_id": 2372,
+            "property_label": "抜き取り雑誌記述-号(No.)（L6-072）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-074": [
+        {
+            "@value": "朝日新聞社",
+            "is_public": true,
+            "property_id": 2374,
+            "property_label": "出版者（L6-074）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-077": [
+        {
+            "@value": "ja",
+            "is_public": true,
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
+            "type": "literal"
+        }
+    ],
+    "ex:sort": [
+        {
+            "@value": "G-0004-0002-0002-0045",
+            "is_public": true,
+            "property_id": 2838,
+            "property_label": "sort",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:41:57+00:00"
+        "@value": "2018-06-08T06:49:36+00:00"
     },
     "o:id": 10815,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/34998",
+            "o:id": 34998
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53473",
+            "o:id": 53473
         }
     ],
-    "o:media": [
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14735",
-            "o:id": 14735
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14736",
-            "o:id": 14736
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14737",
-            "o:id": 14737
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14738",
-            "o:id": 14738
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14739",
-            "o:id": 14739
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14740",
-            "o:id": 14740
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14741",
-            "o:id": 14741
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14742",
-            "o:id": 14742
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14743",
-            "o:id": 14743
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14744",
-            "o:id": 14744
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14745",
-            "o:id": 14745
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14746",
-            "o:id": 14746
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14747",
-            "o:id": 14747
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14748",
-            "o:id": 14748
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14749",
-            "o:id": 14749
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14750",
-            "o:id": 14750
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14751",
-            "o:id": 14751
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14752",
-            "o:id": 14752
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14753",
-            "o:id": 14753
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14754",
-            "o:id": 14754
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14755",
-            "o:id": 14755
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14756",
-            "o:id": 14756
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14757",
-            "o:id": 14757
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14758",
-            "o:id": 14758
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14759",
-            "o:id": 14759
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14760",
-            "o:id": 14760
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14761",
-            "o:id": 14761
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14762",
-            "o:id": 14762
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14763",
-            "o:id": 14763
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14764",
-            "o:id": 14764
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14765",
-            "o:id": 14765
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14766",
-            "o:id": 14766
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14767",
-            "o:id": 14767
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14768",
-            "o:id": 14768
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14769",
-            "o:id": 14769
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14770",
-            "o:id": 14770
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14771",
-            "o:id": 14771
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14772",
-            "o:id": 14772
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14773",
-            "o:id": 14773
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14774",
-            "o:id": 14774
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14775",
-            "o:id": 14775
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14776",
-            "o:id": 14776
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14777",
-            "o:id": 14777
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14778",
-            "o:id": 14778
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14779",
-            "o:id": 14779
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14780",
-            "o:id": 14780
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14781",
-            "o:id": 14781
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14782",
-            "o:id": 14782
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14783",
-            "o:id": 14783
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14784",
-            "o:id": 14784
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14785",
-            "o:id": 14785
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14786",
-            "o:id": 14786
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14787",
-            "o:id": 14787
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14788",
-            "o:id": 14788
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14789",
-            "o:id": 14789
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14790",
-            "o:id": 14790
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14791",
-            "o:id": 14791
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14792",
-            "o:id": 14792
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14793",
-            "o:id": 14793
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14794",
-            "o:id": 14794
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14795",
-            "o:id": 14795
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14796",
-            "o:id": 14796
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14797",
-            "o:id": 14797
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/14798",
-            "o:id": 14798
-        }
-    ],
+    "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T01:40:56+00:00"
+        "@value": "2020-11-20T01:29:49+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/56",
+        "o:id": 56
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "Cook's handbook for tourists to Peking, Tientsin, Shan-hai-kwan, Mukden, Dalny, Port Arthur, and Seoul.",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "朝日新聞　明治19年6月19日∽G-4-2-2-45",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/16119",
+            "display_title": "小野秀雄研究資料Ｇ",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 16119,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
 }

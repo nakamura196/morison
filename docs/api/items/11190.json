@@ -1,22 +1,31 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11190",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/11190",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-a-598",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "5_5_177_2_1-9",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
             "type": "literal"
         }
     ],
     "dcterms:date": [
         {
-            "@value": "1875",
+            "@value": "//",
             "is_public": true,
             "property_id": 7,
             "property_label": "Date",
@@ -25,34 +34,16 @@
     ],
     "dcterms:identifier": [
         {
-            "@value": "6ec681de-b597-497b-bed1-e07a6ca6f0bf",
+            "@value": "7690a431-26ee-45a7-8093-4d573806bd47",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2451.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
@@ -61,314 +52,299 @@
     ],
     "dcterms:title": [
         {
-            "@value": "Ungewöhnliche Erscheinungen und Zufälle in China um die Zeiten der südlichen Sung.Pfizmaier, August.",
+            "@value": "(メモ)∽5_5_177_2_1-9",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:format": [
+    "ex:custom_00029": [
         {
-            "@value": "pp. 361-440 ; 25 cm.",
+            "@value": "単紙/単体",
             "is_public": true,
-            "property_id": 304,
-            "property_label": "形態的記述",
+            "property_id": 2420,
+            "property_label": "資源状態（CUSTOM_00029）",
             "type": "literal"
         }
     ],
-    "ex:heading1": [
+    "ex:custom_00030": [
         {
-            "@value": "Pfizmaier, August.",
+            "@value": "2004/09/14",
             "is_public": true,
-            "property_id": 305,
-            "property_label": "heading1",
+            "property_id": 2421,
+            "property_label": "調査年月日（CUSTOM_00030）",
             "type": "literal"
         }
     ],
-    "ex:holding": [
+    "ex:l6-001": [
         {
-            "@value": "（記録なし）",
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
             "is_public": true,
-            "property_id": 306,
-            "property_label": "所蔵",
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
             "type": "literal"
         }
     ],
-    "ex:publication": [
+    "ex:l6-002": [
         {
-            "@value": "1875",
+            "@value": "2004（平成16）年旧坪井誠太郎邸から東京大学大学院情報学環学際情報学府図書室に移管",
             "is_public": true,
-            "property_id": 303,
-            "property_label": "出版事項",
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
             "type": "literal"
         }
     ],
-    "ex:references": [
+    "ex:l6-013": [
         {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=C&tg4=&tg5=",
+            "@value": "5",
             "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
+            "property_id": 2313,
+            "property_label": "箱（L6-013）",
             "type": "literal"
         }
     ],
-    "ex:tag2": [
+    "ex:l6-014": [
         {
-            "@value": "7. History",
+            "@value": "5",
             "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
+            "property_id": 2314,
+            "property_label": "群（L6-014）",
             "type": "literal"
         }
     ],
-    "ex:tag3": [
+    "ex:l6-015": [
         {
-            "@value": "C. Mediaeval history",
+            "@value": "177",
             "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
+            "property_id": 2315,
+            "property_label": "体（L6-015）",
             "type": "literal"
         }
     ],
-    "ex:title": [
+    "ex:l6-016": [
         {
-            "@value": "Ungewöhnliche Erscheinungen und Zufälle in China um die Zeiten der südlichen Sung.",
+            "@value": "2",
             "is_public": true,
-            "property_id": 302,
-            "property_label": "タイトル責任表示",
+            "property_id": 2316,
+            "property_label": "部（L6-016）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-017": [
+        {
+            "@value": "1-9",
+            "is_public": true,
+            "property_id": 2317,
+            "property_label": "枝（L6-017）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-019": [
+        {
+            "@value": "(メモ)",
+            "is_public": true,
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-030": [
+        {
+            "@value": "125",
+            "is_public": true,
+            "property_id": 2330,
+            "property_label": "物的状態-長さ（L6-030）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-031": [
+        {
+            "@value": "86",
+            "is_public": true,
+            "property_id": 2331,
+            "property_label": "物的状態-幅（L6-031）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-033": [
+        {
+            "@value": "133",
+            "is_public": true,
+            "property_id": 2333,
+            "property_label": "物的状態-縦（L6-033）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-034": [
+        {
+            "@value": "52",
+            "is_public": true,
+            "property_id": 2334,
+            "property_label": "物的状態-横（L6-034）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-035": [
+        {
+            "@value": "反",
+            "is_public": true,
+            "property_id": 2335,
+            "property_label": "物的状態-返（L6-035）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-036": [
+        {
+            "@value": "90",
+            "is_public": true,
+            "property_id": 2336,
+            "property_label": "物的状態-角度（L6-036）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-037": [
+        {
+            "@value": "一つ折り",
+            "is_public": true,
+            "property_id": 2337,
+            "property_label": "物的状態-折（L6-037）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-038": [
+        {
+            "@value": "上半面",
+            "is_public": true,
+            "property_id": 2338,
+            "property_label": "物的状態-面（L6-038）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-050": [
+        {
+            "@value": "土田",
+            "is_public": true,
+            "property_id": 2350,
+            "property_label": "情報入力（L6-050）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-051": [
+        {
+            "@value": "土田",
+            "is_public": true,
+            "property_id": 2351,
+            "property_label": "情報分析（L6-051）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-052": [
+        {
+            "@value": "自由記述媒体",
+            "is_public": true,
+            "property_id": 2352,
+            "property_label": "形態・形式情報-資源タイプ（L6-052）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-053": [
+        {
+            "@value": "10メモ・草稿・スケッチ",
+            "is_public": true,
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "「人猿関係」などの記述のほかに, 英語での記述あり。",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-077": [
+        {
+            "@value": "ja,en",
+            "is_public": true,
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
+            "type": "literal"
+        }
+    ],
+    "ex:sort": [
+        {
+            "@value": "0005-0005-0177-0002-0001-0009",
+            "is_public": true,
+            "property_id": 2838,
+            "property_label": "sort",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:42:00+00:00"
+        "@value": "2018-06-08T06:49:41+00:00"
     },
     "o:id": 11190,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35000",
+            "o:id": 35000
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53489",
+            "o:id": 53489
         }
     ],
-    "o:media": [
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21276",
-            "o:id": 21276
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21277",
-            "o:id": 21277
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21278",
-            "o:id": 21278
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21279",
-            "o:id": 21279
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21280",
-            "o:id": 21280
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21281",
-            "o:id": 21281
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21282",
-            "o:id": 21282
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21283",
-            "o:id": 21283
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21284",
-            "o:id": 21284
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21285",
-            "o:id": 21285
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21286",
-            "o:id": 21286
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21287",
-            "o:id": 21287
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21288",
-            "o:id": 21288
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21289",
-            "o:id": 21289
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21290",
-            "o:id": 21290
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21291",
-            "o:id": 21291
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21292",
-            "o:id": 21292
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21293",
-            "o:id": 21293
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21294",
-            "o:id": 21294
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21295",
-            "o:id": 21295
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21296",
-            "o:id": 21296
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21297",
-            "o:id": 21297
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21298",
-            "o:id": 21298
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21299",
-            "o:id": 21299
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21300",
-            "o:id": 21300
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21301",
-            "o:id": 21301
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21302",
-            "o:id": 21302
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21303",
-            "o:id": 21303
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21304",
-            "o:id": 21304
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21305",
-            "o:id": 21305
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21306",
-            "o:id": 21306
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21307",
-            "o:id": 21307
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21308",
-            "o:id": 21308
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21309",
-            "o:id": 21309
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21310",
-            "o:id": 21310
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21311",
-            "o:id": 21311
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21312",
-            "o:id": 21312
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21313",
-            "o:id": 21313
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21314",
-            "o:id": 21314
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21315",
-            "o:id": 21315
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21316",
-            "o:id": 21316
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21317",
-            "o:id": 21317
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21318",
-            "o:id": 21318
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21319",
-            "o:id": 21319
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/21320",
-            "o:id": 21320
-        }
-    ],
+    "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T14:35:11+00:00"
+        "@value": "2020-11-20T01:30:40+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/84",
+        "o:id": 84
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "Ungewöhnliche Erscheinungen und Zufälle in China um die Zeiten der südlichen Sung.Pfizmaier, August.",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "(メモ)∽5_5_177_2_1-9",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/17096",
+            "display_title": "坪井正五郎関係資料05の箱",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 17096,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
 }

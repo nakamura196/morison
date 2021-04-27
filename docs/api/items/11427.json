@@ -1,262 +1,157 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11427",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/11427",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-a-705",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "03-187",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1972年9月20日",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
             "type": "literal"
         }
     ],
     "dcterms:identifier": [
         {
-            "@value": "4e1d2025-d8e9-4045-be88-a7b9d2a66185",
+            "@value": "9bedb1cb-69ac-4594-b837-261942eab132",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr2688.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
             "type": "uri"
         }
     ],
-    "dcterms:spatial": [
-        {
-            "@id": "http://dbpedia.org/resource/London",
-            "is_public": true,
-            "property_id": 40,
-            "property_label": "Spatial Coverage",
-            "type": "uri"
-        }
-    ],
     "dcterms:title": [
         {
-            "@value": "China and the War.Piggott, Sir. F[rancis] T[aylor].",
+            "@value": "発想の転換を(6)　外交　小倉武一・アジア経済研究所会長、小坂徳三郎・自民党代議士、坂本義和・東大教授、松本俊一・元駐英大使と座談会　アジアに向って（上）　農協制度の普及を　下部構造への協力めざす∽03-187",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:format": [
+    "ex:l6-019": [
         {
-            "@value": "pp. 531-559 ; 25 cm.",
+            "@value": "発想の転換を(6)　外交　小倉武一・アジア経済研究所会長、小坂徳三郎・自民党代議士、坂本義和・東大教授、松本俊一・元駐英大使と座談会　アジアに向って（上）　農協制度の普及を　下部構造への協力めざす",
             "is_public": true,
-            "property_id": 304,
-            "property_label": "形態的記述",
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
             "type": "literal"
         }
     ],
-    "ex:heading1": [
+    "ex:l6-025": [
         {
-            "@value": "Piggott, Sir. F[rancis] T[aylor].",
+            "@value": "CD-ROM非収録",
             "is_public": true,
-            "property_id": 305,
-            "property_label": "heading1",
+            "property_id": 2325,
+            "property_label": "成立年代-備考（L6-025）",
             "type": "literal"
         }
     ],
-    "ex:holding": [
+    "ex:l6-069": [
         {
-            "@value": "（記録なし）",
+            "@value": "朝日新聞（朝日新聞社）",
             "is_public": true,
-            "property_id": 306,
-            "property_label": "所蔵",
+            "property_id": 2369,
+            "property_label": "抜き取り雑誌記述-雑誌名（L6-069）",
             "type": "literal"
         }
     ],
-    "ex:publication": [
+    "ex:l6-077": [
         {
-            "@value": "London, 1915.",
+            "@value": "ja",
             "is_public": true,
-            "property_id": 303,
-            "property_label": "出版事項",
-            "type": "literal"
-        }
-    ],
-    "ex:references": [
-        {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=E&tg4=&tg5=",
-            "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
-            "type": "literal"
-        }
-    ],
-    "ex:tag2": [
-        {
-            "@value": "7. History",
-            "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
-            "type": "literal"
-        }
-    ],
-    "ex:tag3": [
-        {
-            "@value": "E. Recent history",
-            "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
-            "type": "literal"
-        }
-    ],
-    "ex:title": [
-        {
-            "@value": "China and the War.",
-            "is_public": true,
-            "property_id": 302,
-            "property_label": "タイトル責任表示",
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:42:01+00:00"
+        "@value": "2018-06-08T06:49:44+00:00"
     },
     "o:id": 11427,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/35008",
+            "o:id": 35008
         }
     ],
-    "o:media": [
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24444",
-            "o:id": 24444
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24445",
-            "o:id": 24445
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24446",
-            "o:id": 24446
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24447",
-            "o:id": 24447
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24448",
-            "o:id": 24448
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24449",
-            "o:id": 24449
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24450",
-            "o:id": 24450
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24451",
-            "o:id": 24451
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24452",
-            "o:id": 24452
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24453",
-            "o:id": 24453
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24454",
-            "o:id": 24454
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24455",
-            "o:id": 24455
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24456",
-            "o:id": 24456
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24457",
-            "o:id": 24457
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24458",
-            "o:id": 24458
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24459",
-            "o:id": 24459
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/24460",
-            "o:id": 24460
-        }
-    ],
+    "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T14:24:02+00:00"
+        "@value": "2020-11-20T01:31:14+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/124",
+        "o:id": 124
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "China and the War.Piggott, Sir. F[rancis] T[aylor].",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "発想の転換を(6)　外交　小倉武一・アジア経済研究所会長、小坂徳三郎・自民党代議士、坂本義和・東大教授、松本俊一・元駐英大使と座談会　アジアに向って（上）　農協制度の普及を　下部構造への協力めざす∽03-187",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/24287",
+            "display_title": "森恭三著作集CD-ROM版目録",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 24287,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
 }

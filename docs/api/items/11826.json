@@ -1,323 +1,332 @@
 {
-    "@context": "http://localhost:8882/d_omekas/toyo/api-context",
-    "@id": "http://localhost:8882/d_omekas/toyo/api/items/11826",
+    "@context": "https://dch.iii.u-tokyo.ac.jp/api-context",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/11826",
     "@type": [
         "o:Item",
-        "dctype:Image"
+        "archiveshub:ArchivalResource"
     ],
-    "dcndl:callNumber": [
+    "archiveshub:level": [
         {
-            "@value": "P-III-a-799",
+            "@value": "アイテム",
             "is_public": true,
-            "property_id": 259,
-            "property_label": "Call Number",
+            "property_id": 194,
+            "property_label": "Level",
+            "type": "literal"
+        }
+    ],
+    "bibo:identifier": [
+        {
+            "@value": "G-9-29-2",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1787/7/24",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
             "type": "literal"
         }
     ],
     "dcterms:identifier": [
         {
-            "@value": "45d80d67-72a7-4958-9601-17bfbf7ed8e8",
+            "@value": "ed45f3b3-0a37-480a-8701-e1c2a95dfd74",
             "is_public": true,
             "property_id": 10,
             "property_label": "Identifier",
             "type": "literal"
         }
     ],
-    "dcterms:isPartOf": [
-        {
-            "@value": "http://124.33.215.236/morisonp2015/morisonpocr3087.php",
-            "is_public": true,
-            "property_id": 33,
-            "property_label": "Is Part Of",
-            "type": "literal"
-        }
-    ],
-    "dcterms:publisher": [
-        {
-            "@value": "モリソンパンフレット画像データベース",
-            "is_public": true,
-            "property_id": 5,
-            "property_label": "Publisher",
-            "type": "literal"
-        }
-    ],
     "dcterms:rights": [
         {
-            "@id": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "@id": "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
             "is_public": true,
             "property_id": 15,
             "property_label": "Rights",
             "type": "uri"
         }
     ],
-    "dcterms:spatial": [
-        {
-            "@id": "http://dbpedia.org/resource/London",
-            "is_public": true,
-            "property_id": 40,
-            "property_label": "Spatial Coverage",
-            "type": "uri"
-        }
-    ],
     "dcterms:title": [
         {
-            "@value": "China and Japan. By Louis Ngaosiang Tchon.Chu, Hao-hsiang.",
+            "@value": "The London Chronicle. No.4793∽G-9-29-2",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
             "type": "literal"
         }
     ],
-    "ex:format": [
+    "ex:custom_00016": [
         {
-            "@value": "22 p. ; 22 cm.",
+            "@value": "完成・公刊形態",
             "is_public": true,
-            "property_id": 304,
-            "property_label": "形態的記述",
+            "property_id": 2396,
+            "property_label": "資源状態（CUSTOM_00016）",
             "type": "literal"
         }
     ],
-    "ex:heading1": [
+    "ex:custom_00017": [
         {
-            "@value": "Chu, Hao-hsiang.",
+            "@value": "単紙/単体",
             "is_public": true,
-            "property_id": 305,
-            "property_label": "heading1",
+            "property_id": 2397,
+            "property_label": "調査年月日（CUSTOM_00017）",
             "type": "literal"
         }
     ],
-    "ex:holding": [
+    "ex:l6-001": [
         {
-            "@value": "（記録なし）",
+            "@value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター",
             "is_public": true,
-            "property_id": 306,
-            "property_label": "所蔵",
+            "property_id": 2301,
+            "property_label": "来歴-所有者（L6-001）",
             "type": "literal"
         }
     ],
-    "ex:publication": [
+    "ex:l6-002": [
         {
-            "@value": "London, [1915.]",
+            "@value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。2007年以降\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。",
             "is_public": true,
-            "property_id": 303,
-            "property_label": "出版事項",
+            "property_id": 2302,
+            "property_label": "来歴-現物資料の来歴（L6-002）",
             "type": "literal"
         }
     ],
-    "ex:references": [
+    "ex:l6-013": [
         {
-            "@id": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=7&tg3=F&tg4=n&tg5=",
+            "@value": "G　",
             "is_public": true,
-            "property_id": 298,
-            "property_label": "引用元",
-            "type": "uri"
-        }
-    ],
-    "ex:tag1": [
-        {
-            "@value": "III. CHINA",
-            "is_public": true,
-            "property_id": 296,
-            "property_label": "分類1",
+            "property_id": 2313,
+            "property_label": "箱（L6-013）",
             "type": "literal"
         }
     ],
-    "ex:tag2": [
+    "ex:l6-014": [
         {
-            "@value": "7. History",
+            "@value": "9",
             "is_public": true,
-            "property_id": 300,
-            "property_label": "分類2",
+            "property_id": 2314,
+            "property_label": "群（L6-014）",
             "type": "literal"
         }
     ],
-    "ex:tag3": [
+    "ex:l6-015": [
         {
-            "@value": "F. Foreign relations",
+            "@value": "29",
             "is_public": true,
-            "property_id": 301,
-            "property_label": "分類3",
+            "property_id": 2315,
+            "property_label": "体（L6-015）",
             "type": "literal"
         }
     ],
-    "ex:tag4": [
+    "ex:l6-016": [
         {
-            "@value": "n. Japan (Including Shino-Japanese War)",
+            "@value": "2",
             "is_public": true,
-            "property_id": 299,
-            "property_label": "分類4",
+            "property_id": 2316,
+            "property_label": "部（L6-016）",
             "type": "literal"
         }
     ],
-    "ex:title": [
+    "ex:l6-019": [
         {
-            "@value": "China and Japan. By Louis Ngaosiang Tchon.",
+            "@value": "The London Chronicle. No.4793",
             "is_public": true,
-            "property_id": 302,
-            "property_label": "タイトル責任表示",
+            "property_id": 2319,
+            "property_label": "名称（L6-019）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-023": [
+        {
+            "@value": "7",
+            "is_public": true,
+            "property_id": 2323,
+            "property_label": "成立年代-月（L6-023）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-024": [
+        {
+            "@value": "24",
+            "is_public": true,
+            "property_id": 2324,
+            "property_label": "成立年代-日（L6-024）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-028": [
+        {
+            "@value": "1",
+            "is_public": true,
+            "property_id": 2328,
+            "property_label": "物的状態-量（L6-028）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-030": [
+        {
+            "@value": "285",
+            "is_public": true,
+            "property_id": 2330,
+            "property_label": "物的状態-長さ（L6-030）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-031": [
+        {
+            "@value": "213",
+            "is_public": true,
+            "property_id": 2331,
+            "property_label": "物的状態-幅（L6-031）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-050": [
+        {
+            "@value": "福  博充",
+            "is_public": true,
+            "property_id": 2350,
+            "property_label": "情報入力（L6-050）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-051": [
+        {
+            "@value": "福  博充",
+            "is_public": true,
+            "property_id": 2351,
+            "property_label": "情報分析（L6-051）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-052": [
+        {
+            "@value": "新聞or雑誌",
+            "is_public": true,
+            "property_id": 2352,
+            "property_label": "形態・形式情報-資源タイプ（L6-052）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-053": [
+        {
+            "@value": "01逐次刊行-新聞類",
+            "is_public": true,
+            "property_id": 2353,
+            "property_label": "形態・形式情報-表現形式・スタイル（L6-053）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-068": [
+        {
+            "@value": "8ページ構成",
+            "is_public": true,
+            "property_id": 2368,
+            "property_label": "内容記述（L6-068）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-069": [
+        {
+            "@value": "London Chronicle.",
+            "is_public": true,
+            "property_id": 2369,
+            "property_label": "抜き取り雑誌記述-雑誌名（L6-069）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-072": [
+        {
+            "@value": "No.4793",
+            "is_public": true,
+            "property_id": 2372,
+            "property_label": "抜き取り雑誌記述-号(No.)（L6-072）",
+            "type": "literal"
+        }
+    ],
+    "ex:l6-077": [
+        {
+            "@value": "en",
+            "is_public": true,
+            "property_id": 2377,
+            "property_label": "言語（L6-077）",
+            "type": "literal"
+        }
+    ],
+    "ex:sort": [
+        {
+            "@value": "G-0009-0029-0002",
+            "is_public": true,
+            "property_id": 2838,
+            "property_label": "sort",
             "type": "literal"
         }
     ],
     "o:created": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-08T03:42:04+00:00"
+        "@value": "2018-06-08T06:49:50+00:00"
     },
     "o:id": 11826,
     "o:is_public": true,
     "o:item_set": [
         {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/item_sets/1",
-            "o:id": 1
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/34998",
+            "o:id": 34998
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/item_sets/53473",
+            "o:id": 53473
         }
     ],
-    "o:media": [
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30439",
-            "o:id": 30439
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30440",
-            "o:id": 30440
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30441",
-            "o:id": 30441
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30442",
-            "o:id": 30442
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30443",
-            "o:id": 30443
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30444",
-            "o:id": 30444
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30445",
-            "o:id": 30445
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30446",
-            "o:id": 30446
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30447",
-            "o:id": 30447
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30448",
-            "o:id": 30448
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30449",
-            "o:id": 30449
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30450",
-            "o:id": 30450
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30451",
-            "o:id": 30451
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30452",
-            "o:id": 30452
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/30453",
-            "o:id": 30453
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31152",
-            "o:id": 31152
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31153",
-            "o:id": 31153
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31154",
-            "o:id": 31154
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31155",
-            "o:id": 31155
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31156",
-            "o:id": 31156
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31157",
-            "o:id": 31157
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31158",
-            "o:id": 31158
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31159",
-            "o:id": 31159
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31160",
-            "o:id": 31160
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31161",
-            "o:id": 31161
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31162",
-            "o:id": 31162
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31163",
-            "o:id": 31163
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31164",
-            "o:id": 31164
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31165",
-            "o:id": 31165
-        },
-        {
-            "@id": "http://localhost:8882/d_omekas/toyo/api/media/31166",
-            "o:id": 31166
-        }
-    ],
+    "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2018-05-12T13:48:59+00:00"
+        "@value": "2020-11-20T01:32:19+00:00"
     },
     "o:owner": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/users/1",
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_classes/26",
-        "o:id": 26
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_classes/110",
+        "o:id": 110
     },
     "o:resource_template": {
-        "@id": "http://localhost:8882/d_omekas/toyo/api/resource_templates/2",
-        "o:id": 2
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/resource_templates/56",
+        "o:id": 56
     },
-    "o:site": [],
-    "o:thumbnail": null,
-    "o:title": "China and Japan. By Louis Ngaosiang Tchon.Chu, Hao-hsiang.",
-    "sc:attributionLabel": [
+    "o:site": [
         {
-            "@value": "東洋文庫 / Toyo Bunko",
-            "is_public": true,
-            "property_id": 201,
-            "property_label": "attributionLabel",
-            "type": "literal"
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/4",
+            "o:id": 4
+        },
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/sites/8",
+            "o:id": 8
         }
-    ]
+    ],
+    "o:thumbnail": null,
+    "o:title": "The London Chronicle. No.4793∽G-9-29-2",
+    "ore:isAggregatedBy": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/16119",
+            "display_title": "小野秀雄研究資料Ｇ",
+            "is_public": true,
+            "property_id": 346,
+            "property_label": "Is Aggregated By",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 16119,
+            "value_resource_name": "items"
+        }
+    ],
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
 }
