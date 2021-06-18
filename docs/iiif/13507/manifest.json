@@ -1,0 +1,135 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/morison/iiif/item/13507/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東洋文庫 / Toyo Bunko",
+    "label": "The terms proposed for a preliminary contract for a Railway from Hang-chow to Canton.British Syndicate.",
+    "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "metadata": [
+        {
+            "label": "Call Number",
+            "term": "dcndl:callNumber",
+            "value": "P-III-c-226"
+        },
+        {
+            "label": "Date",
+            "term": "dcterms:date",
+            "value": "1898"
+        },
+        {
+            "label": "Identifier",
+            "term": "dcterms:identifier",
+            "value": "8c416987-d590-47af-bae1-25c45fb53382"
+        },
+        {
+            "label": "Is Part Of",
+            "term": "dcterms:isPartOf",
+            "value": "http://124.33.215.236/morisonp2015/morisonpocr4768.php"
+        },
+        {
+            "label": "Publisher",
+            "term": "dcterms:publisher",
+            "value": "モリソンパンフレット画像データベース"
+        },
+        {
+            "label": "Rights",
+            "term": "dcterms:rights",
+            "value": "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+            "label": "Title",
+            "term": "dcterms:title",
+            "value": "The terms proposed for a preliminary contract for a Railway from Hang-chow to Canton.British Syndicate."
+        },
+        {
+            "label": "形態的記述",
+            "term": "ex:format",
+            "value": "1 p. ; 34 cm."
+        },
+        {
+            "label": "heading1",
+            "term": "ex:heading1",
+            "value": "British Syndicate."
+        },
+        {
+            "label": "所蔵",
+            "term": "ex:holding",
+            "value": "（記録なし）"
+        },
+        {
+            "label": "出版事項",
+            "term": "ex:publication",
+            "value": "1898"
+        },
+        {
+            "label": "引用元",
+            "term": "ex:references",
+            "value": "http://124.33.215.236/morisonp2015/morisonpocr2016_imgdir.php?tg1=III&tg2=21&tg3=B&tg4=b&tg5="
+        },
+        {
+            "label": "分類1",
+            "term": "ex:tag1",
+            "value": "III. CHINA"
+        },
+        {
+            "label": "分類2",
+            "term": "ex:tag2",
+            "value": "21. Communication"
+        },
+        {
+            "label": "分類3",
+            "term": "ex:tag3",
+            "value": "B. Communication by Land"
+        },
+        {
+            "label": "分類4",
+            "term": "ex:tag4",
+            "value": "b. Railway"
+        },
+        {
+            "label": "タイトル責任表示",
+            "term": "ex:title",
+            "value": "The terms proposed for a preliminary contract for a Railway from Hang-chow to Canton."
+        },
+        {
+            "label": "attributionLabel",
+            "term": "sc:attributionLabel",
+            "value": "東洋文庫 / Toyo Bunko"
+        }
+    ],
+    "seeAlso": "https://nakamura196.github.io/morison/api/items/13507.json",
+    "sequences": [
+        {
+            "@id": "https://nakamura196.github.io/morison/iiif/item/13507/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://nakamura196.github.io/morison/iiif/item/13507/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/morison/iiif/item/13507/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/morison/iiif/item/13507/canvas/p1",
+                            "resource": {
+                                "@id": "http://124.33.215.236/morisonp2015/openimage_fc/P-III-c-226_001.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/morisonp2015/openimage_fc/P-III-c-226_001.jpg"
+                    },
+                    "width": 1
+                }
+            ]
+        }
+    ],
+    "thumbnail": "http://124.33.215.236/morisonp2015/openimage_fc/P-III-c-226_001.jpg"
+}
